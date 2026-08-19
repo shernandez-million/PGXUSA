@@ -1,0 +1,195 @@
+{
+  "domain": "https://www.pgxbuildersgroup.com",
+  "business": {
+    "name": "PGX Builders Group LLC",
+    "phone_display": "(786) 273-2524",
+    "phone_e164": "+17862732524",
+    "email": "pgxbuildersgroup@gmail.com",
+    "license": "CGC1539072",
+    "counties": "Miami-Dade & Broward"
+  },
+  "services": [
+    {
+      "slug": "home-remodeling",
+      "name": "Home Remodeling",
+      "slug_es": "remodelacion-de-casas",
+      "name_es": "Remodelación integral",
+      "form_option_es": "Remodelación integral",
+      "form_option": "Whole-home remodeling",
+      "image": "images/remodel.webp",
+      "img_alt_base": "Open-plan remodeled living space — architectural rendering",
+      "is_hub": true,
+      "angle": "Whole-home, full-gut renovations, layout changes, structural openings, full MEP updates, finishes, impact windows and doors."
+    },
+    {
+      "slug": "kitchen-remodeling",
+      "name": "Kitchen Remodeling",
+      "slug_es": "remodelacion-de-cocinas",
+      "name_es": "Remodelación de cocinas",
+      "form_option_es": "Cocina",
+      "form_option": "Kitchen",
+      "image": "images/kitchen.webp",
+      "img_alt_base": "Renovated kitchen with marble island and custom cabinetry — architectural rendering",
+      "is_hub": false,
+      "angle": "Custom cabinetry, stone counters, islands and layout changes, appliance relocation, lighting design."
+    },
+    {
+      "slug": "bathroom-remodeling",
+      "name": "Bathroom Remodeling",
+      "slug_es": "remodelacion-de-banos",
+      "name_es": "Remodelación de baños",
+      "form_option_es": "Baño",
+      "form_option": "Bathroom",
+      "image": "images/bath.webp",
+      "img_alt_base": "Primary bathroom with freestanding tub and marble shower — architectural rendering",
+      "is_hub": false,
+      "angle": "Primary suites, frameless showers, freestanding tubs, stone and tile, waterproofing done right."
+    },
+    {
+      "slug": "home-additions",
+      "name": "Home Additions",
+      "slug_es": "ampliaciones-de-casas",
+      "name_es": "Ampliaciones y extensiones",
+      "form_option_es": "Ampliación / extensión",
+      "form_option": "Addition / extension",
+      "image": "images/addition.webp",
+      "img_alt_base": "Modern rear addition with floor-to-ceiling glass — architectural rendering",
+      "is_hub": false,
+      "angle": "Rear extensions, second stories, garage conversions, in-law suites, tie-beam upgrades, foundation work."
+    },
+    {
+      "slug": "outdoor-living",
+      "name": "Outdoor Living & Exterior",
+      "slug_es": "exteriores-y-terrazas",
+      "name_es": "Exteriores y terrazas",
+      "form_option_es": "Exterior",
+      "form_option": "Outdoor / exterior",
+      "image": "images/outdoor.webp",
+      "img_alt_base": "Covered outdoor living with summer kitchen and pool terrace — architectural rendering",
+      "is_hub": false,
+      "angle": "Terraces, summer kitchens, pergolas, driveways, stucco and paint, re-roof coordination, impact openings."
+    }
+  ],
+  "areas": [
+    {
+      "slug": "coral-gables",
+      "name": "Coral Gables",
+      "neighbors": ["coconut-grove", "south-miami", "pinecrest", "ponce-davis", "key-biscayne", "brickell"],
+      "hints": "City of Coral Gables Development Services; Board of Architects design review; Mediterranean Revival heritage and Mediterranean design standards; strict tree/landscape protection; neighborhoods include Old Cutler, Cocoplum, Gables Estates, Gables by the Sea, Deering Bay, Riviera, Country Club Prado, Snapper Creek Lakes; 1920s George Merrick-era homes plus waterfront estates."
+    },
+    {
+      "slug": "coconut-grove",
+      "name": "Coconut Grove",
+      "neighbors": ["coral-gables", "brickell", "key-biscayne", "south-miami", "ponce-davis", "pinecrest"],
+      "hints": "City of Miami jurisdiction (Miami 21 zoning); NCD-2/NCD-3 Coconut Grove overlay with tree canopy and design rules; historic bungalows and new modern homes; neighborhoods include The Moorings, Camp Biscayne, Entrada Estates, North Grove, South Grove, Center Grove; canopy streets, waterfront along Sailboat Bay."
+    },
+    {
+      "slug": "pinecrest",
+      "name": "Pinecrest",
+      "neighbors": ["palmetto-bay", "south-miami", "coral-gables", "ponce-davis", "coconut-grove", "key-biscayne"],
+      "hints": "Village of Pinecrest Building & Planning; acre-plus lots; 1950s-70s ranch homes being remodeled or replaced; areas near Pinecrest Gardens, North Pinecrest, South Pinecrest, along Red Road and Old Cutler; strong teardown-vs-renovate market; tree protection rules."
+    },
+    {
+      "slug": "palmetto-bay",
+      "name": "Palmetto Bay",
+      "neighbors": ["pinecrest", "south-miami", "coral-gables", "coconut-grove", "ponce-davis", "key-biscayne"],
+      "hints": "Village of Palmetto Bay Building Department; neighborhoods include Old Cutler Bay estates area... actually Old Cutler Bay is in Coral Gables; use: Mangowood, Royal Harbour Yacht Club, East Palmetto Bay near Old Cutler Road, Coral Reef area; ranch homes on large lots, waterfront pockets; verify neighborhoods via research."
+    },
+    {
+      "slug": "key-biscayne",
+      "name": "Key Biscayne",
+      "neighbors": ["brickell", "coconut-grove", "coral-gables", "miami-beach", "fisher-island", "venetian-islands"],
+      "hints": "Village of Key Biscayne Building division; barrier island — FEMA flood zones, base flood elevation, seawalls, salt-air durability; mix of waterfront estates, village-core homes, and luxury condos (Key Colony, Ocean Club); hurricane exposure and HVHZ product approvals are top of mind."
+    },
+    {
+      "slug": "miami-beach",
+      "name": "Miami Beach",
+      "neighbors": ["venetian-islands", "surfside", "bal-harbour", "fisher-island", "sunny-isles-beach", "bay-harbor-islands"],
+      "hints": "City of Miami Beach Building Department; historic districts and Historic Preservation Board approvals (Flamingo Park, Palm View, etc.); flood elevation / freeboard requirements; neighborhoods include North Bay Road, Sunset Islands, Palm & Hibiscus Islands, Star Island, La Gorce, Pine Tree Drive, Mid-Beach, South of Fifth; Art Deco and MiMo architecture plus waterfront estates and luxury condos."
+    },
+    {
+      "slug": "bal-harbour",
+      "name": "Bal Harbour",
+      "neighbors": ["surfside", "bay-harbor-islands", "sunny-isles-beach", "miami-beach", "golden-beach", "aventura"],
+      "hints": "Village of Bal Harbour Building Department and Architectural Review Board; gated single-family section (Bal Harbour Village gated community) plus oceanfront condos (St. Regis, Ritz-Carlton, Oceana); one of the wealthiest zip codes in Florida; condo renovation rules and association approvals."
+    },
+    {
+      "slug": "surfside",
+      "name": "Surfside",
+      "neighbors": ["bal-harbour", "bay-harbor-islands", "miami-beach", "sunny-isles-beach", "golden-beach", "miami-shores"],
+      "hints": "Town of Surfside Building Department; post-Champlain Towers scrutiny — milestone inspections and structural reserve studies for condos; H2H (Harding to Hawthorne) single-family streets; Four Seasons Surf Club; mix of 1940s-50s homes being renovated and new construction; strict town review."
+    },
+    {
+      "slug": "bay-harbor-islands",
+      "name": "Bay Harbor Islands",
+      "neighbors": ["bal-harbour", "surfside", "sunny-isles-beach", "miami-beach", "miami-shores", "aventura"],
+      "hints": "Town of Bay Harbor Islands; two islands — East Island mostly multifamily/boutique condos, West Island single-family homes; waterfront lots with dockage; strong teardown/renovation market; A-rated Ruth K. Broad K-8 school draws families; town design review."
+    },
+    {
+      "slug": "sunny-isles-beach",
+      "name": "Sunny Isles Beach",
+      "neighbors": ["golden-beach", "aventura", "bal-harbour", "surfside", "bay-harbor-islands", "miami-beach"],
+      "hints": "City of Sunny Isles Beach Building Department; dominated by luxury oceanfront towers (Porsche Design Tower, Turnberry Ocean Club, Estates at Acqualina, Trump Towers, Jade); condo unit renovations with association approvals, service-elevator logistics, milestone/SIRS context; Golden Shores single-family pocket."
+    },
+    {
+      "slug": "golden-beach",
+      "name": "Golden Beach",
+      "neighbors": ["sunny-isles-beach", "aventura", "bal-harbour", "surfside", "bay-harbor-islands", "miami-beach"],
+      "hints": "Town of Golden Beach — exclusively single-family town (no condos, no commercial), about 350-400 homes, private beach, own police; strict Building Regulation Advisory Board review, construction hours and contractor conduct rules, construction bonds; oceanfront and Intracoastal estates; among the most expensive housing in Miami-Dade."
+    },
+    {
+      "slug": "aventura",
+      "name": "Aventura",
+      "neighbors": ["sunny-isles-beach", "golden-beach", "bal-harbour", "bay-harbor-islands", "surfside", "miami-shores"],
+      "hints": "City of Aventura Community Development/Building; condo-heavy (Porto Vita, Turnberry, Williams Island, Bellini) plus gated single-family enclaves (Country Club Estates area, Golden Point); Turnberry golf course setting; association approvals and high-rise renovation logistics; affluent international ownership."
+    },
+    {
+      "slug": "miami-shores",
+      "name": "Miami Shores",
+      "neighbors": ["upper-east-side", "miami-beach", "bay-harbor-islands", "surfside", "aventura", "brickell"],
+      "hints": "Miami Shores Village Building Department and Planning & Zoning Board review for exterior work; 1920s-40s Mediterranean Revival and ranch homes; bayfront estates east of Biscayne Blvd; strong renovation culture, historic character; village aesthetic standards."
+    },
+    {
+      "slug": "south-miami",
+      "name": "South Miami",
+      "neighbors": ["coral-gables", "pinecrest", "ponce-davis", "coconut-grove", "palmetto-bay", "key-biscayne"],
+      "hints": "City of South Miami Building Department; leafy streets near Sunset Drive, homes from 1930s-70s; adjacent to High Pines and Ponce-Davis; walkable downtown Sunset area; mix of cottages being extended and larger new homes."
+    },
+    {
+      "slug": "brickell",
+      "name": "Brickell",
+      "neighbors": ["coconut-grove", "key-biscayne", "coral-gables", "venetian-islands", "upper-east-side", "miami-beach"],
+      "hints": "City of Miami; overwhelmingly luxury condo towers (Four Seasons Residences, Echo Brickell, Una, Brickell Flatiron) plus Brickell Roads townhomes; condo unit gut renovations — association approvals, insurance certificates, elevator scheduling, noise windows; milestone inspection / SIRS era for older towers."
+    },
+    {
+      "slug": "fisher-island",
+      "name": "Fisher Island",
+      "neighbors": ["miami-beach", "key-biscayne", "venetian-islands", "brickell", "coral-gables", "coconut-grove"],
+      "hints": "Ferry-access-only private island; unincorporated Miami-Dade County — permits through Miami-Dade RER; Fisher Island Community Association rules, contractor registration, barge/ferry logistics for materials and crews; Palazzo condos and villas; wealthiest zip code in the US (33109); renovation logistics are the differentiator."
+    },
+    {
+      "slug": "venetian-islands",
+      "name": "Venetian Islands",
+      "neighbors": ["miami-beach", "brickell", "upper-east-side", "key-biscayne", "fisher-island", "miami-shores"],
+      "hints": "Chain of islands on the Venetian Causeway; San Marco and Biscayne Island are City of Miami, San Marino, Di Lido and Rivo Alto are City of Miami Beach — jurisdiction depends on the island; waterfront lots with seawalls and docks; teardown-and-rebuild plus major renovations of 1930s-50s homes; flood elevation rules."
+    },
+    {
+      "slug": "doral",
+      "name": "Doral",
+      "neighbors": ["coral-gables", "miami-shores", "brickell", "pinecrest", "south-miami", "coconut-grove"],
+      "hints": "City of Doral Building Department; gated golf communities — Doral Estates, Vintage Estates, Trump National Doral surroundings, Islands at Doral, Doral Isles; newer construction (1990s-2010s) being upgraded: kitchens, outdoor living, whole-home refreshes; HOA architectural approvals."
+    },
+    {
+      "slug": "ponce-davis",
+      "name": "Ponce-Davis & High Pines",
+      "neighbors": ["coral-gables", "south-miami", "pinecrest", "coconut-grove", "palmetto-bay", "key-biscayne"],
+      "hints": "Prestigious unincorporated Miami-Dade pocket south of Coral Gables (permits via Miami-Dade County RER) — parts of High Pines fall in South Miami, verify; large lots, estate homes, no HOA in most of Ponce-Davis; teardowns and large-scale renovations; near Ransom Everglades/Gulliver schools; quiet streets off Red Road and Ponce de Leon Blvd."
+    },
+    {
+      "slug": "upper-east-side",
+      "name": "Upper East Side & Morningside",
+      "neighbors": ["miami-shores", "venetian-islands", "brickell", "miami-beach", "bay-harbor-islands", "surfside"],
+      "hints": "City of Miami; Morningside is a historic district — exterior changes need Historic and Environmental Preservation Board (HEPB) review; Belle Meade and Bay Point (gated) nearby; MiMo Biscayne Boulevard corridor; 1920s-50s homes with strong architectural character; bayfront streets."
+    }
+  ]
+}

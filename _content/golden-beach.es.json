@@ -1,0 +1,317 @@
+{
+  "area_slug": "golden-beach",
+  "neighborhoods": [
+    "Ocean Boulevard",
+    "Golden Beach Drive",
+    "North Island",
+    "Center Island",
+    "South Island",
+    "Terracina Avenue",
+    "Massini Avenue",
+    "North Parkway",
+    "South Parkway",
+    "Tweddle Park"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral de casas en Golden Beach | PGX Builders",
+      "meta_description": "Remodelación integral en Golden Beach, FL con un contratista que domina la revisión del Town, el código HVHZ y las reglas de inundación. Llame al (786) 273-2524.",
+      "h1": "Remodelación total, del otro lado de la garita",
+      "hero_sub": "PGX Builders Group lleva las casas de Golden Beach hasta su buena estructura y las reconstruye: permisos tramitados con el Town, ingeniería para la High-Velocity Hurricane Zone y supervisión diaria bajo la licencia CGC1539072.",
+      "local_heading": "Una milla de A1A con la vara más alta",
+      "intro_paragraphs": [
+        "Golden Beach se extiende cerca de una milla a lo largo de la A1A, con el Atlántico de un lado, el Intracoastal del otro y menos de 400 casas unifamiliares en medio. No hay condominios, no hay comercio y no hay a dónde mudarse para ganar espacio sin salir del pueblo. Por eso aquí los propietarios remodelan a fondo en lugar de mudarse: las casitas de la era fundacional de los años 20, las casas estilo ranch de mediados de siglo en Golden Beach Drive y los Parkways, y las casas imponentes frente al agua en Ocean Boulevard y las islas con acceso controlado terminan, tarde o temprano, llevadas hasta la estructura y reconstruidas alrededor de cómo vive realmente la familia.",
+        "Los permisos se tramitan a través del Building Department del Town of Golden Beach, que hace las cosas a su manera: presentación en línea, registro del contratista ante el Town, una primera inspección obligatoria a pocos días de emitido el permiso, y proyectos grandes que pueden pasar por el Building Regulation Advisory Board. El horario de obra es de 8:00 am a 6:00 pm, de lunes a viernes, nunca en fin de semana. Y como el pueblo entero es una isla barrera, las elevaciones de zona inundable y las cuentas de mejora sustancial de FEMA definen cuánto puede absorber una casa con años encima, mientras que cada ventana, puerta y conjunto de techo necesita aprobaciones de producto de Miami-Dade.",
+        "Más de 150 remodelaciones y ampliaciones en más de 20 años construyendo en el sur de la Florida, y PGX Builders Group tramitó un permiso por cada una. En Golden Beach eso se traduce en un alcance fijo por escrito antes de abrir la primera pared, un supervisor en obra cada día laborable y un sitio de trabajo mantenido exactamente como el Town lo exige: cercado, con mallas, barrido y en silencio a las seis. En un pueblo así de pequeño, sus vecinos nos van a juzgar por cómo luce su entrada. Planificamos para eso."
+      ],
+      "scope_heading": "Lo que incluye una remodelación en Golden Beach",
+      "scope_intro": "Trabajo integral para casas entre el mar y el Intracoastal, de la cirugía estructural a la última mano de pintura, bajo un solo contrato y un solo constructor responsable.",
+      "scope_items": [
+        {
+          "name": "Renovación interior total",
+          "desc": "Demolición interior hasta el bloque, distribuciones repensadas y sistemas reconstruidos para casas de mediados de siglo en Golden Beach que merecen más que otro retoque cosmético."
+        },
+        {
+          "name": "Aperturas estructurales",
+          "desc": "Paredes de carga removidas para abrir vistas al mar o al Intracoastal, con vigas calculadas por un ingeniero, con permiso e inspección, en lugar de adivinadas."
+        },
+        {
+          "name": "Reemplazo total de instalaciones",
+          "desc": "Servicio eléctrico nuevo, plomería renovada por completo y aire acondicionado moderno, diseñados para el salitre, la humedad y una casa que recibe invitados en serio."
+        },
+        {
+          "name": "Ventanas y puertas de impacto",
+          "desc": "Cristalería de piso a techo con NOAs de Miami-Dade, instalada con los anclajes y botaguas que los inspectores de la HVHZ realmente revisan."
+        },
+        {
+          "name": "Acabados y carpintería fina",
+          "desc": "Piedra, pisos de tablón ancho y carpintería a medida instalados al final, protegidos a diario y repasados en la lista de detalles antes de devolverle las llaves."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Una remodelación en Golden Beach necesita aprobaciones además del permiso de construcción?",
+          "a": "Con frecuencia, sí. Además del permiso que emite el Town, los contratistas deben estar registrados ante el Town of Golden Beach, y los proyectos grandes o con cambios exteriores pueden pasar por el Building Regulation Advisory Board, la junta asesora de regulación de construcción, que sesiona según su propio calendario y no a pedido. Incorporamos esa revisión al cronograma desde el primer día, para que las fechas de la junta nunca sean la sorpresa que frena su proyecto."
+        },
+        {
+          "q": "¿Qué tan estrictas son las reglas de construcción en Golden Beach?",
+          "a": "Estrictas, y nos parece justo. Se trabaja de 8:00 am a 6:00 pm, de lunes a viernes solamente, sin obra los fines de semana ni los feriados del Town. Las obras deben cercarse con mallas cortaviento bien tensadas, los contenedores se cubren cada noche, las calles se barren y las cuadrillas estacionan fuera de la vía, porque estacionar junto a la acera está prohibido. PGX maneja cada obra con esos estándares como punto de partida, no como meta aspiracional."
+        },
+        {
+          "q": "¿Me conviene remodelar mi casa en Golden Beach o demolerla?",
+          "a": "Depende de la estructura, de la elevación y de lo que usted quiera conservar. Una remodelación profunda puede preservar la huella y el carácter existentes mientras se reemplaza todo lo que importa, y suele tener sentido cuando la estructura está sana. Cuando se acumulan problemas de elevación por inundación o de cimientos, reconstruir puede ganar la partida. Recorremos la casa, corremos los números en ambos sentidos y le decimos sin rodeos de qué lado de la línea está usted."
+        },
+        {
+          "q": "¿Cómo afecta mi remodelación la regla de mejora sustancial de FEMA?",
+          "a": "En una isla barrera como Golden Beach, importa. Si el costo de las mejoras cruza el umbral regulatorio en relación con el valor de la estructura, la casa puede quedar obligada a cumplir los estándares actuales de elevación por inundación, y eso cambia el proyecto entero. Nosotros modelamos esas cuentas durante el diseño, no después de los permisos, para que usted decida el alcance con toda la información en la mano en lugar de descubrir la regla a mitad de obra."
+        },
+        {
+          "q": "¿Cuál es un presupuesto realista para remodelar una casa en Golden Beach?",
+          "a": "No existe una respuesta honesta de una sola línea, y no vamos a fingir lo contrario. El alcance, los cambios estructurales y el nivel de acabados determinan la cifra, y los proyectos de Golden Beach tienden a carpintería a medida, piedra y cristalería de impacto completa, lo que los coloca en el extremo serio de los presupuestos de remodelación de Miami. Lo que sí prometemos: un alcance fijo por escrito, precios detallados por partida antes de demoler y cero órdenes de cambio inventadas."
+        }
+      ],
+      "cta_heading": "Rehagamos su casa en Golden Beach",
+      "cta_sub": "Muéstrenos la casa y cómo la vive realmente su familia, y volveremos con un alcance por escrito y números reales, en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Remodelación de cocinas en Golden Beach, FL | PGX Builders",
+      "meta_description": "Remodelación de cocinas a medida en Golden Beach: gabinetes, piedra y cambios de distribución, con permisos del Town y supervisión diaria. Llame al (786) 273-2524.",
+      "h1": "Cocinas a la altura de Ocean Boulevard",
+      "hero_sub": "Gabinetes a medida, topes de piedra y cambios completos de distribución para cocinas de Golden Beach, con permisos del Town, supervisión cada día laborable y la entrega de un contratista general licenciado y asegurado, Lic. CGC1539072.",
+      "local_heading": "El cuarto que recibe a un pueblo entero",
+      "intro_paragraphs": [
+        "En un pueblo sin restaurantes, sin franja comercial y con playa privada, la cocina carga más peso del habitual. En Golden Beach se recibe en casa, y a las cocinas de Ocean Boulevard, de las islas con acceso controlado y de avenidas como Terracina y Massini se les pide alimentar a una multitud de día festivo sin perder la compostura. El proyecto típico: una cocina compartimentada de los años 60 u 80 que se abre hacia la sala, se gira hacia el agua y se reconstruye alrededor de una isla con asientos para todo el que se asome.",
+        "Incluso una remodelación de cocina interior requiere permisos a través del Building Department del Town of Golden Beach en cuanto se mueve plomería, electricidad o estructura, y ese departamento pequeño trabaja a su propio ritmo, sin apuros, así que un cronograma bien llevado importa aquí más que en casi cualquier otra parte de Miami. La logística también cuenta: la A1A es la única vía que atraviesa el pueblo, estacionar junto a la acera está prohibido y las calles no pueden bloquearse, de modo que las entregas de láminas de piedra y gabinetes se coreografían, no se improvisan. Si su proyecto toca ventanas o puertas, el vidrio necesita aprobaciones de producto de Miami-Dade para la zona de huracanes.",
+        "PGX aborda una cocina de Golden Beach como lo haría un taller de ebanistería: planos de taller aprobados antes de demoler, piedra plantillada después de instalados los gabinetes, y electrodomésticos reubicados con su gas, extracción y electricidad como corresponde, no con atajos ingeniosos. El resto de su casa permanece sellado y limpio mientras trabajamos, un supervisor de PGX responde por la obra a diario y el alcance que usted firmó es el alcance que construimos. Ese es todo el secreto, y casi nadie lo cumple."
+      ],
+      "scope_heading": "El trabajo de cocina que asumimos aquí",
+      "scope_intro": "De la reconstrucción total de la cocina a mejoras precisas de gabinetes y piedra, con alcance por escrito y permisos a través del Town of Golden Beach.",
+      "scope_items": [
+        {
+          "name": "Gabinetes a medida",
+          "desc": "Paquetes de gabinetes con calidad de mueble fino en materiales estables para la costa, con interiores, herrajes y electrodomésticos panelados definidos en planos de taller antes de demoler nada."
+        },
+        {
+          "name": "Topes e islas de piedra",
+          "desc": "Láminas con vetas casadas en espejo, cantos en cascada e islas dimensionadas para sentar a toda la familia, plantilladas en sitio para que las juntas caigan donde las planeamos."
+        },
+        {
+          "name": "Cambios de distribución",
+          "desc": "Las paredes de la cocina de pasillo caen y el espacio gira hacia la piscina o el Intracoastal, con las cargas estructurales calculadas y los permisos en regla."
+        },
+        {
+          "name": "Reubicación de equipos y gas",
+          "desc": "Estufas, hornos de pared y cavas de vino reubicados a donde realmente se cocina, con extracción, líneas de gas y circuitos llevados al código vigente."
+        },
+        {
+          "name": "Diseño de iluminación",
+          "desc": "Iluminación de tarea, ambiental y de acento con atenuación de verdad, porque el cuarto que más trabaja en la casa no debería alumbrarse como una oficina."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Remodelar una cocina en Golden Beach requiere permiso?",
+          "a": "Si el proyecto mueve plomería, electricidad, gas o estructura, sí, y la mayoría de las cocinas serias mueven las cuatro cosas. Los permisos se tramitan a través del Building Department del Town of Golden Beach, que usa presentación en línea y mantiene horarios de ventanilla reducidos. Ese ritmo premia a los contratistas que planifican las inspecciones con anticipación y castiga a los que llaman esa misma mañana. Nosotros armamos el cronograma alrededor de eso desde el principio."
+        },
+        {
+          "q": "¿Cómo funcionan las entregas si no se puede estacionar en la calle?",
+          "a": "Con mucho cuidado. El Town prohíbe estacionar junto a sus aceras y no tolera vías bloqueadas, así que PGX organiza el estacionamiento de las cuadrillas fuera de la calle y programa las entregas de piedra, gabinetes y electrodomésticos en ventanas ajustadas, con la obra lista para recibirlas. Cuando un camión debe detenerse en la vía, las reglas del Town exigen un abanderado certificado o un oficial del Town, y nosotros lo coordinamos en lugar de apostar a que no llegue la multa."
+        },
+        {
+          "q": "¿Pueden abrir mi cocina hacia la vista al agua?",
+          "a": "Casi siempre, sí. La mayoría de las cocinas de Golden Beach se diseñaron hace décadas como cuartos de trabajo cerrados, y la pared entre la cocina y la sala o el comedor suele ser estructural. Un ingeniero calcula la viga, tramitamos el permiso y abrimos el espacio para que quien cocina por fin vea la piscina, el muelle o el mar en lugar de un backsplash."
+        },
+        {
+          "q": "¿Qué materiales de gabinetes aguantan tan cerca del mar?",
+          "a": "A una cuadra del Atlántico, el salitre y la humedad no dan tregua, así que especificamos construcción apta para clima marino: cajas de plywood de calidad en lugar de MDF desnudo en las zonas húmedas, acabados sellados en todas las caras y herrajes que resisten la corrosión. Las terminaciones pintadas y los laminados de alta presión se comportan bien aquí, y la madera natural funciona cuando va acabada por sus seis caras. Elegimos los materiales primero por el clima y después por el catálogo."
+        },
+        {
+          "q": "¿Cuánto debo presupuestar para remodelar una cocina en Golden Beach?",
+          "a": "Los gabinetes a medida, la piedra natural y la reubicación de electrodomésticos colocan la mayoría de nuestras cocinas de Golden Beach bien entradas en las seis cifras, y preferimos decirlo con claridad antes que atraer a nadie con un número gancho. La propuesta escrita desglosa gabinetes, piedra, electrodomésticos y construcción por separado, para que usted vea a dónde va el dinero y ajuste el alcance antes de empezar, no después."
+        }
+      ],
+      "cta_heading": "Planifique la cocina que su casa merece",
+      "cta_sub": "Tráiganos la lista de deseos y las frustraciones, y convertiremos ambas en un alcance fijo por escrito con números honestos, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Golden Beach, Miami | PGX Builders",
+      "meta_description": "Remodelación de baños en Golden Beach, FL con impermeabilización seria, trabajo en piedra y plomería con permisos del Town. Agende un recorrido al (786) 273-2524.",
+      "h1": "Baños que se ríen del salitre",
+      "hero_sub": "Suites principales, duchas sin marco y baños de piedra para casas de Golden Beach, impermeabilizados como si el mar estuviera a una cuadra, porque lo está. Con permisos, inspecciones y supervisión diaria bajo la Lic. CGC1539072.",
+      "local_heading": "Baños construidos a una cuadra del Atlántico",
+      "intro_paragraphs": [
+        "Los baños de las casas de Golden Beach rara vez están a la altura del resto de la propiedad. Una casa en North Island o en Golden Beach Drive puede tener la cocina renovada y una piscina seria mientras el baño principal sigue siendo una reliquia compartimentada de la época en que se construyó la casa, con una bañera empotrada que nadie usa. La remodelación que los dueños realmente quieren une esos cuartos pequeños en una verdadera suite: una ducha sin marco con espacio para moverse, una bañera independiente, piedra bajo los pies y luz de mañana que no salga de una lámpara.",
+        "En la mayoría de estas casas, mover las piezas sanitarias significa abrir la losa, y eso significa permisos a través del Building Department del Town of Golden Beach, con la plomería y la electricidad de obra gruesa inspeccionadas antes de cerrar nada. El Town inspecciona con método y según su propio calendario, así que secuenciar bien los oficios es la diferencia entre un baño de cinco semanas y uno de cinco meses. La humedad costera sube la apuesta en ventilación y control de vapor, y cualquier vidrio nuevo en una ducha o sobre una bañera debe ser de impacto y con aprobación de producto de Miami-Dade.",
+        "La impermeabilización es donde PGX se gana su reputación, precisamente porque es invisible en el recorrido final. Cada ducha que construimos en Golden Beach recibe un sistema completo de membrana y una prueba de inundación antes de colocar una sola pieza, y fotografiamos lo que queda enterrado para que usted tenga pruebas, no promesas. Un supervisor dirige la obra a diario, los pisos y acabados fuera de la zona de trabajo permanecen protegidos, y el alcance por escrito detalla la grifería hasta el número de modelo."
+      ],
+      "scope_heading": "Los baños que construimos en Golden Beach",
+      "scope_intro": "Suites principales y baños secundarios reconstruidos desde la losa, con los detalles de las zonas húmedas resueltos con el mismo cuidado que las partes bonitas.",
+      "scope_items": [
+        {
+          "name": "Conversión a suite principal",
+          "desc": "Baños y clósets estrechos y divididos unidos en una sola suite con circulación real, tocador doble y almacenamiento que acaba con el desorden sobre el tope."
+        },
+        {
+          "name": "Duchas de vidrio sin marco",
+          "desc": "Entradas sin bordillo, desagües lineales y mamparas pesadas sin marco sobre sistemas de membrana que probamos con inundación antes del porcelanato, siempre, sin excepciones."
+        },
+        {
+          "name": "Bañeras independientes",
+          "desc": "Bañeras esculturales ubicadas para la vista, con llenadores montados al piso y líneas de suministro redirigidas por la losa correctamente y con inspección."
+        },
+        {
+          "name": "Piedra y porcelanato",
+          "desc": "Paredes de lámina completa, mármol con vetas casadas en espejo y porcelanato de gran formato asentado plano y parejo, sellado y especificado para baños costeros húmedos."
+        },
+        {
+          "name": "Ventilación y control de humedad",
+          "desc": "Extracción silenciosa con ductos como corresponde, controles con sensor de humedad y vidrio de impacto, para que la piedra y la pintura sigan viéndose bien dentro de años."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permiso para remodelar un baño en Golden Beach?",
+          "a": "Para cualquier cosa más allá de cambiar una llave, sí. Reubicar piezas sanitarias, abrir la losa, modificar la electricidad o alterar una ventana requiere permisos a través del Building Department del Town of Golden Beach, y el Town inspecciona la obra gruesa antes de cerrar paredes. El trabajo de baño sin permisos suele salir a la luz en la reventa, en un pueblo donde los compradores hacen la tarea, así que hacerlo bien la primera vez cuesta menos que hacerlo dos veces."
+        },
+        {
+          "q": "¿Cuánto tarda aquí la remodelación de un baño principal?",
+          "a": "Una renovación total con cambios de plomería en la losa suele tomar unos meses entre la demolición y la inspección final, y la honestidad obliga a decir que el proceso minucioso de inspección del Town le añade estructura a ese calendario. El cronograma vive o muere por la secuencia: obra gruesa de plomería y electricidad, inspecciones, impermeabilización, prueba de inundación y recién entonces el porcelanato. Publicamos la secuencia en la propuesta para que usted nos la cobre semana a semana."
+        },
+        {
+          "q": "¿Cómo impermeabilizan las duchas en un clima frente al mar?",
+          "a": "Con un sistema completo de membrana que sube por las paredes, platos con pendiente y penetraciones selladas, y después una prueba de inundación antes de colocar el porcelanato. Golden Beach le suma humedad costera a la física de siempre, así que también especificamos ventilación que de verdad extrae hacia el exterior y acabados calificados para aire húmedo y salado. Los materiales son fáciles de comprar y raros de instalar correctamente, y ahí está toda la diferencia entre constructores."
+        },
+        {
+          "q": "¿Puedo tener una ventana en la ducha tan cerca del mar?",
+          "a": "Sí, y bien hecha es una de las mejores cualidades que puede tener un baño costero. El vidrio debe ser de impacto, con aprobación de producto de Miami-Dade, instalado en vanos con los sellos y botaguas correctos, y normalmente usamos vidrio esmerilado o conmutable para la privacidad. Detallamos el alféizar y el contorno como la pared exterior que es, porque una ventana de ducha que filtra hace su daño en silencio durante años."
+        },
+        {
+          "q": "¿Cuánto cuesta remodelar un baño de alta gama en Golden Beach?",
+          "a": "Menos que la cocina, más de lo que la mayoría imagina. Los cambios de plomería en losa, la piedra, el vidrio sin marco y la grifería de calidad ponen el piso, y las selecciones de acabados mueven el techo. Somos un contratista de alta gama y cotizamos en consecuencia, con un alcance detallado por escrito para que nada quede vago. Si una cifra le importa, preferimos diseñar el alcance para cumplirla antes que sorprenderlo después."
+        }
+      ],
+      "cta_heading": "Empiece por la suite principal",
+      "cta_sub": "Muéstrenos el baño que evita y descríbanos el que quiere, y le daremos un alcance honesto, en español o en inglés."
+    },
+    "home-additions": {
+      "title": "Ampliaciones de casas en Golden Beach, FL | PGX Builders",
+      "meta_description": "Ampliaciones de casas en Golden Beach, FL: extensiones traseras, segundos pisos e ingeniería que respeta el seawall. Pida su estimado al (786) 273-2524.",
+      "h1": "Más casa, la misma dirección dorada",
+      "hero_sub": "Extensiones traseras, segundos pisos y suites independientes para propiedades de Golden Beach, con ingeniería para viento costero y reglas de inundación, revisión del Town resuelta y supervisión diaria de PGX Builders Group, Lic. CGC1539072.",
+      "local_heading": "Espacio para crecer en una milla de costa",
+      "intro_paragraphs": [
+        "Nadie está haciendo más Golden Beach. El pueblo lleva décadas construido por completo, los lotes son los que son, y una familia a la que se le queda chica una distribución de mediados de siglo en Golden Beach Drive o en Center Island tiene dos opciones: dejar un pueblo que eligió por su garita, su playa privada y su calma de una milla, o ampliar. La mayoría amplía. Las extensiones traseras empujan el espacio habitable hacia la piscina o el muelle, y los segundos pisos suman habitaciones más algo que estos lotes planos no pueden ofrecer de otra manera: una vista por encima de los techos hacia el agua.",
+        "Las ampliaciones aquí responden al Building Department del Town of Golden Beach y, en los proyectos grandes, al Building Regulation Advisory Board. Los retiros y la cobertura del lote definen el volumen edificable, y las reglas costeras hacen el resto: estructuras calculadas para los vientos de la High-Velocity Hurricane Zone, las cuentas de mejora sustancial de FEMA cuando la casa existente tiene sus años y, en los lotes sobre el Intracoastal, obligaciones de seawall a elevaciones conformes en NAVD-88 que involucran a agencias del condado y del estado. Los proyectos que dan a Ocean Boulevard necesitan incluso un permiso estatal de cierre de carril cuando los camiones deben estacionarse en la A1A. Nada de esto es un problema. Todo es tarea que hay que hacer.",
+        "PGX construye las ampliaciones empezando por la estructura: cimientos evaluados antes de prometer nada, vigas de amarre y columnas reforzadas donde un segundo piso lo exige, y líneas de techo nuevas resueltas contra las viejas para que la casa terminada se lea como original. Usted recibe un alcance fijo por escrito, los números de un ingeniero y no los de un vendedor, y una obra manejada según las exigentes reglas de conducta del Town mientras su familia sigue viviendo en la casa. Un solo equipo responsable, del estimado a la garantía."
+      ],
+      "scope_heading": "Ampliaciones que calculamos y construimos",
+      "scope_intro": "Ampliaciones estructurales para un pueblo en isla barrera, de la extensión de un solo ambiente al segundo piso completo, diseñadas alrededor del viento, el agua y la vida de su familia.",
+      "scope_items": [
+        {
+          "name": "Extensiones traseras",
+          "desc": "Salas familiares y cocinas extendidas hacia la piscina o el muelle, con cimientos nuevos anclados con varillas a los existentes y transiciones de techo resueltas con limpieza."
+        },
+        {
+          "name": "Segundos pisos",
+          "desc": "Plantas altas calculadas sobre vigas de amarre y columnas reforzadas, que suman habitaciones y vistas al Intracoastal o al mar sin sacrificar patio."
+        },
+        {
+          "name": "Suites independientes y conversiones",
+          "desc": "Garajes y alas subutilizadas convertidos en suites autónomas con clima independiente, salidas reglamentarias y acabados a juego con la casa principal."
+        },
+        {
+          "name": "Refuerzo de vigas y cimientos",
+          "desc": "Estructura de mediados de siglo reforzada para cargar lo nuevo bajo el diseño de viento HVHZ, verificada por un ingeniero antes de comprometernos a nada."
+        },
+        {
+          "name": "Integración de la envolvente",
+          "desc": "Estuco, empalmes de techo y aberturas de impacto igualados con tanto cuidado que las visitas no encuentran la costura entre 1965 y hoy."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Mi ampliación tendrá que pasar por el Building Regulation Advisory Board?",
+          "a": "Los proyectos grandes en Golden Beach pueden pasar por el Building Regulation Advisory Board además del trámite de permisos estándar, y esa junta sesiona en fechas fijas, no cuando el proyecto está listo. Tratamos esa revisión como un hito de la fase de diseño y preparamos planos que respondan a la primera las preguntas previsibles, porque una primera presentación limpia es el seguro de cronograma más barato que existe."
+        },
+        {
+          "q": "¿Qué deben saber los dueños de lotes sobre el Intracoastal acerca del seawall?",
+          "a": "El Town se toma los seawalls, los muros de contención costeros, muy en serio. Los permisos en propiedades sobre el Intracoastal traen consigo la obligación del propietario de reparar o reemplazar un seawall deteriorado hasta las elevaciones conformes, medidas en NAVD-88, según el código del Town, con la participación del DERM de Miami-Dade y de agencias estatales donde aplique. Si su ampliación avanza hacia el lado del agua, evaluamos el seawall temprano para que su condición informe el presupuesto en vez de emboscarlo."
+        },
+        {
+          "q": "¿La estructura de mi casa aguanta un segundo piso?",
+          "a": "Algunas sí; muchas necesitan ayuda primero. Las casas de mediados de siglo en Golden Beach se construyeron para cargar un solo piso, bajo un código más benévolo, así que el camino honesto pasa por una evaluación estructural de los cimientos y las vigas de amarre antes de cualquier diseño del que usted se enamore. Donde el refuerzo es viable, lo cotizamos como parte del alcance real. Donde no lo es, se lo decimos y proponemos la extensión que sí funciona."
+        },
+        {
+          "q": "¿Cómo organizan la logística de una ampliación grande en Ocean Boulevard?",
+          "a": "Al pie de la letra, porque aquí la letra es específica. Ocean Boulevard es la carretera estatal A1A, así que estacionar camiones de obra allí exige un permiso de cierre de carril del FDOT, y el Town requiere un abanderado certificado o un oficial del Town cada vez que un vaciado de concreto pone vehículos en sus calles. La maquinaria pesada no puede quedarse en el sitio de un día para otro sin una excepción especial. Todo eso lo integramos al plan de construcción y lo cotizamos por adelantado."
+        },
+        {
+          "q": "¿Cuánto tarda una ampliación de casa en Golden Beach?",
+          "a": "El diseño y la ingeniería suelen tomar unos meses, la revisión del Town aporta su propio ritmo, y la construcción de una ampliación sustancial se mide en muchos meses, no en semanas, sobre todo con el horario de obra de lunes a viernes del Town. Quien le prometa un calendario dramáticamente más rápido está planeando decepcionarlo con buenos modales. Nosotros nos comprometemos por escrito a un cronograma secuenciado y le reportamos el avance cada semana."
+        }
+      ],
+      "cta_heading": "Gane espacio sin cambiar de dirección",
+      "cta_sub": "Cuéntenos qué le falta a la casa y llegaremos con ojo de ingeniero y una respuesta directa, en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y cocinas de verano en Golden Beach | PGX Builders",
+      "meta_description": "Construcción de exteriores en Golden Beach: terrazas, cocinas de verano, pérgolas y entradas en materiales a prueba de salitre, todo con permisos. (786) 273-2524.",
+      "h1": "Espacios exteriores entre el mar y el Intracoastal",
+      "hero_sub": "Terrazas, cocinas de verano, pérgolas y patios vehiculares para casas de Golden Beach, construidos con materiales que ignoran el rocío salino, con permisos del Town y terminados bajo la supervisión diaria de un contratista general licenciado, CGC1539072.",
+      "local_heading": "Vida al aire libre con playa privada",
+      "intro_paragraphs": [
+        "Golden Beach es un pueblo organizado alrededor de vivir afuera: una playa privada con un pabellón que data de 1924, muelles en las calles de las islas y patios que miran al amanecer sobre el Atlántico o al atardecer sobre el Intracoastal. Ocean Boulevard es famoso por su vida al aire libre desde que Eric Clapton puso una de sus direcciones en la portada de un álbum en 1974. Los propietarios invierten aquí en terrazas cubiertas, cocinas de verano, entornos de piscina y patios vehiculares porque en este clima el patio no es de temporada: es el cuarto más grande de la casa.",
+        "El trabajo exterior sigue requiriendo permisos a través del Building Department del Town of Golden Beach, y los estándares de construcción del Town lo siguen a uno hasta el jardín: obras cercadas y con mallas, calles barridas, piscinas en construcción con el agua tratada, y cualquier daño que un contratista cause a las aceras o calzadas del Town se repara a costa del contratista. Estructuras como pérgolas y cocinas de verano se calculan para las cargas de viento de la zona de huracanes, el trabajo de muelles y seawalls del lado del Intracoastal suma al DERM de Miami-Dade y a agencias estatales a la conversación, y los lotes frente al océano pueden activar las reglas estatales de construcción costera. Todo eso lo señalamos antes del diseño, no en plena obra.",
+        "La diferencia de PGX en exteriores es la disciplina de especificación. El rocío salino destruye las decisiones optimistas de materiales en dos veranos, así que construimos con acero inoxidable de grado marino, piedra y porcelanato sellados y acabados calificados para exposición costera, y luego coordinamos estuco, pintura, techo nuevo y aberturas de impacto para que todo el exterior se lea como una sola decisión. Un alcance fijo por escrito lo cubre todo, un supervisor de PGX revisa la obra cada día laborable y la cuadrilla se comporta como un invitado en un pueblo muy silencioso."
+      ],
+      "scope_heading": "Obra exterior que construimos",
+      "scope_intro": "Ambientes exteriores completos para la vida en una isla barrera, calculados para viento y salitre, y con permisos a través del Town of Golden Beach.",
+      "scope_items": [
+        {
+          "name": "Terrazas cubiertas y logias",
+          "desc": "Estructuras de sombra calculadas para cargas de viento costeras, con techos machihembrados, ventiladores e iluminación ubicada para veladas que se alargan."
+        },
+        {
+          "name": "Cocinas de verano",
+          "desc": "Parrillas y equipos de grado marino, topes de piedra y gas, agua y electricidad bien tendidos, con permisos e inspecciones igual que la cocina interior."
+        },
+        {
+          "name": "Pérgolas y estructuras de sombra",
+          "desc": "Estructuras ancladas y certificadas para viento, en materiales resistentes a la corrosión, diseñadas para enmarcar la piscina o el muelle en lugar de pelear con la arquitectura."
+        },
+        {
+          "name": "Entradas y patios vehiculares",
+          "desc": "Adoquines y concreto arquitectónico con drenaje planificado alrededor del derecho de vía del Town, y los bordes de acera protegidos durante cada fase de la obra."
+        },
+        {
+          "name": "Renovación de la envolvente exterior",
+          "desc": "Reparación de estuco, sistemas de pintura de calificación costera, coordinación del techo nuevo y aberturas de impacto manejados como un solo proyecto en lugar de cinco contratistas."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Los proyectos exteriores en Golden Beach necesitan permisos?",
+          "a": "Casi todos. Las cocinas de verano, pérgolas, terrazas, entradas vehiculares y cualquier cosa estructural o con instalaciones pasa por el Building Department del Town of Golden Beach, y las estructuras exteriores deben calcularse para las cargas de viento de la High-Velocity Hurricane Zone. El Town también hace cumplir sus estándares de obra al aire libre, de los contenedores cubiertos a las calles barridas. Saltarse los permisos en trabajo exterior se nota especialmente en un pueblo con policía propia y vecinos atentos."
+        },
+        {
+          "q": "¿Qué aplica para obras en lotes frente al mar?",
+          "a": "Los lotes frente al océano cargan una capa adicional: el trabajo cerca de la línea de dunas puede caer bajo las reglas estatales de construcción costera además de los permisos del Town, y estacionar vehículos de obra en Ocean Boulevard, que es la carretera estatal A1A, requiere un permiso de cierre de carril del FDOT. Nada de esto hace imposible una terraza o el entorno de una piscina. Hace valiosa la diligencia temprana, y por eso confirmamos el panorama regulatorio antes de terminar los planos."
+        },
+        {
+          "q": "¿Qué materiales de exterior sobreviven de verdad al salitre?",
+          "a": "Los que se especifican para marinas, no para patios. Usamos herrajes y equipos de acero inoxidable 316, adoquines de porcelanato denso o piedra bien sellada, aluminio con recubrimiento en polvo en lugar de metales ferrosos, y pinturas y selladores de calificación costera sobre estuco y madera. Las maderas duras tropicales y los compuestos de calidad rinden bien en decks y techos. El sobreprecio frente a los materiales estándar es real, pero modesto comparado con reconstruir una cocina de verano corroída al tercer año."
+        },
+        {
+          "q": "¿La obra va a dañar mi calle o la del vecino?",
+          "a": "En nuestras obras, no, y en Golden Beach tampoco podría: el Town responsabiliza económicamente a los contratistas por los daños a sus aceras, cunetas y calzadas, prohíbe estacionar junto a la acera y espera obras barridas al menos dos veces al día. Programamos las entregas en ventanas fijas, mantenemos a las cuadrillas estacionadas fuera de la calle y usamos un abanderado certificado cuando los camiones deben moverse por las vías del Town. Sus vecinos apenas deberían notarnos."
+        },
+        {
+          "q": "¿Pueden coordinar un techo nuevo con la renovación exterior?",
+          "a": "Sí, y secuenciarlos juntos suele ser más inteligente que hacerlos por separado. El techo, el estuco, la pintura, las aberturas de impacto y las estructuras de terraza comparten líneas de botaguas y andamios, así que combinarlos evita pagar dos veces por el acceso y previene el error clásico: una terraza nueva maltratada por el desmontaje posterior del techo. Programamos el techo primero, lo protegemos y construimos debajo en el orden correcto."
+        }
+      ],
+      "cta_heading": "El patio que su dirección se ganó",
+      "cta_sub": "Invítenos a ver el patio a la hora en que más lo usa, y diseñaremos para esa luz, en español o en inglés."
+    }
+  }
+}

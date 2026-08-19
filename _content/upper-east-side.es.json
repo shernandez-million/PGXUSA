@@ -1,0 +1,317 @@
+{
+  "area_slug": "upper-east-side",
+  "neighborhoods": [
+    "Morningside",
+    "Belle Meade",
+    "Belle Meade Island",
+    "Bay Point",
+    "Bayside",
+    "Palm Grove",
+    "Shorecrest",
+    "Magnolia Park",
+    "Legion Park",
+    "MiMo District"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral en el Upper East Side de Miami | PGX Builders",
+      "meta_description": "Remodelación integral de casas en el Upper East Side de Miami — Morningside, Belle Meade, Bay Point. Contratista licenciado, 100% con permisos. (786) 273-2524.",
+      "h1": "Remodelamos las casas originales del Upper East Side",
+      "hero_sub": "Remodelación integral, con licencia y permisos, para las casas de los años veinte a cincuenta del Upper East Side: de las aprobaciones del HEPB en Morningside a la obra estructural y de instalaciones completa, con supervisión diaria de PGX Builders Group.",
+      "local_heading": "Los vecindarios que conservaron su arquitectura",
+      "intro_paragraphs": [
+        "El Upper East Side de Miami conservó las casas que otros vecindarios demolieron. Las viviendas Mediterranean Revival y Art Deco de los años veinte en Morningside se asoman a calles anchas y arboladas; Belle Meade guarda, detrás de su única garita de acceso, casas Streamline Moderne y vernáculas de los años veinte a los cuarenta; y las propiedades de Bay Point llegan hasta la bahía. Aquí los dueños rara vez quieren demoler: quieren una remodelación completa que conserve la fachada, las proporciones y el carácter, y que reemplace casi todo lo demás — distribución, plomería, electricidad, estructura del techo, ventanas y acabados.",
+        "Los permisos los emite el City of Miami Building Department, y esa es apenas la primera puerta. Morningside fue el primer distrito histórico designado localmente por la ciudad, y Bayside y Palm Grove gozan de la misma protección: los cambios exteriores allí requieren un Certificate of Appropriateness, revisado a nivel de personal o por el Historic and Environmental Preservation Board. En las calles frente a la bahía, dentro de zonas de inundación FEMA, las reglas de mejora sustancial pueden definir hasta dónde llega una remodelación. Nosotros trazamos todo ese mapa antes de que usted firme nada, para que la ruta de aprobaciones sea parte del plan y no una sorpresa en el tercer mes.",
+        "PGX Builders Group lleva más de 20 años remodelando casas en el sur de la Florida, y es en las casas antiguas donde esa experiencia se gana el sueldo. Usted recibe un alcance fijo por escrito, un contratista general licenciado (CGC1539072) y un supervisor en la obra todos los días hábiles — alguien que sabe qué hace la mampostería de los años treinta cuando uno la abre. Protegemos los pisos y el yeso originales mientras la estructura está expuesta, coordinamos sin drama el acceso por garita en Belle Meade y Bay Point, y mantenemos un solo equipo responsable del primer estimado hasta la garantía."
+      ],
+      "scope_heading": "Toda la casa, en una sola hoja de alcance",
+      "scope_intro": "Cada remodelación se detalla partida por partida antes del contrato. Estas son las categorías que más aparecen en las casas del Upper East Side.",
+      "scope_items": [
+        {
+          "name": "Renovaciones a fondo",
+          "desc": "Hasta el bloque y la estructura, y de vuelta: distribución, instalaciones, aislamiento y acabados nuevos dentro de una envolvente de Morningside o Belle Meade que vale la pena salvar."
+        },
+        {
+          "name": "Distribución y aperturas estructurales",
+          "desc": "Eliminación con ingeniería de paredes de carga para conectar los salones formales de los años treinta, con apuntalamiento, permisos e inspecciones a cargo de nuestro equipo, no del azar."
+        },
+        {
+          "name": "Instalaciones nuevas completas",
+          "desc": "Servicio eléctrico nuevo, líneas modernas de suministro y drenaje, y aire acondicionado bien dimensionado para casas anteriores por completo a la climatización central."
+        },
+        {
+          "name": "Ventanas y puertas de impacto",
+          "desc": "Vidriería de impacto aprobada por Miami-Dade, con perfiles elegidos para pasar la revisión histórica cuando su calle queda dentro de un distrito designado."
+        },
+        {
+          "name": "Acabados y carpintería fina",
+          "desc": "Reparación de yeso, restauración de maderas, ebanistería a medida y piedra natural — el nivel de acabado que los compradores del Upper East Side esperan cuando estas casas salen al mercado."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito aprobación histórica para remodelar una casa en Morningside?",
+          "a": "Para trabajo interior, no: la designación histórica regula lo que se ve desde la vía pública. Para cambios exteriores — ventanas, puertas, ampliaciones e incluso la pintura exterior en casas contribuyentes — se necesita un Certificate of Appropriateness. Los cambios sencillos, de igual por igual, suelen aprobarse a nivel de personal; los mayores pasan al Historic and Environmental Preservation Board. Nosotros preparamos el expediente y manejamos la revisión, porque eso siempre sale mejor que reparar una orden de paralización de obra."
+        },
+        {
+          "q": "¿Cuánto tardan los permisos de la Ciudad de Miami para una remodelación integral?",
+          "a": "Depende del alcance. Una remodelación con cambios estructurales necesita planos de ingeniería y varios revisores de planos, y los proyectos en distrito histórico suman antes el paso del Certificate of Appropriateness. Siendo realistas, piense en meses y no en semanas para las aprobaciones de una renovación completa — y nosotros usamos esa ventana para los plazos de gabinetes y la selección de materiales, de modo que el cronograma se solape en lugar de apilarse. Las presentaciones y correcciones las manejamos nosotros; usted no tiene que perseguir revisores."
+        },
+        {
+          "q": "Estamos frente al agua: ¿nos afecta la regla del 50% de FEMA?",
+          "a": "Es posible, y conviene saberlo antes de enamorarse de un alcance. En zonas de inundación mapeadas, cuando el costo de las mejoras supera la mitad del valor de mercado del edificio, puede exigirse que toda la estructura cumpla los estándares actuales de elevación contra inundaciones. Las calles frente a la bahía en Morningside, Belle Meade y Shorecrest están en territorio propenso a inundarse, así que hacemos esa cuenta con usted en la etapa del estimado y ajustamos el alcance según el resultado."
+        },
+        {
+          "q": "¿Cuánto cuesta renovar una casa completa en el Upper East Side?",
+          "a": "El rango es amplio, con franqueza: la distancia entre refrescar acabados y llevar una casa de 1935 hasta su envolvente es enorme, y la obra estructural, las aprobaciones históricas y el nivel de acabado mueven la cifra más que los pies cuadrados. Somos un contratista de alta gama y rara vez la oferta más barata; a cambio recibe un alcance fijo por escrito, supervisión diaria y un número que significa algo. Después de un recorrido le damos una cifra real."
+        },
+        {
+          "q": "¿Podemos vivir en la casa durante una remodelación completa?",
+          "a": "En una remodelación integral de verdad lo desaconsejamos: estaría compartiendo la casa con la demolición, las tuberías nuevas y los techos abiertos, y los proyectos avanzan más lento y cuestan más cuando las cuadrillas trabajan alrededor de una familia. En remodelaciones por fases podemos aislar zonas con contención de polvo de verdad y mantener en servicio un baño y una cocina funcional. Antes del contrato le diremos con honestidad de qué tipo es su proyecto."
+        }
+      ],
+      "cta_heading": "Remodelémosla como se debe",
+      "cta_sub": "Recorra la casa con nosotros, cuéntenos cómo quiere vivirla y reciba un alcance por escrito — en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Remodelación de cocinas, Upper East Side de Miami | PGX Builders",
+      "meta_description": "Cocinas a medida para casas de los años 20 a 50 en el Upper East Side: gabinetes, piedra, gas e iluminación con permisos de la Ciudad de Miami. (786) 273-2524.",
+      "h1": "Cocinas a la altura de la casa",
+      "hero_sub": "Cocinas a medida para casas anteriores a la cocina moderna: gabinetes, piedra, gas e iluminación, construidas y con permisos por un contratista general licenciado de Miami, con un supervisor de PGX en la obra todos los días.",
+      "local_heading": "Las cocinas que estas casas nunca tuvieron",
+      "intro_paragraphs": [
+        "Las cocinas originales de Morningside, Palm Grove y Belle Meade se diseñaron para esconderse: cuartos pequeños y cerrados al fondo de la casa, construidos cuando nadie recibía invitados en ellos. Hoy la cocina es donde estas casas del Upper East Side realmente viven, así que los dueños las abren al comedor, agregan una isla en piedra apomazada y encargan gabinetes capaces de sostenerle la mirada a un yeso y unas maderas de noventa años. Bien hecha, una cocina nueva se siente inevitable en una casa de 1938. Mal hecha, parece un showroom incrustado a la fuerza. Nosotros construimos la primera.",
+        "Aquí una remodelación de cocina es obra con permisos de la Ciudad de Miami — construcción, electricidad, plomería y mecánica — y en estas casas suele destapar la infraestructura original: cableado con aislamiento de tela, tuberías galvanizadas de suministro, paneles que se quedaron cortos. Quitar la pared entre cocina y comedor implica ingeniería, porque casi todas estas paredes son mampostería de carga. Y si su calle está dentro del distrito histórico de Morningside, Bayside o Palm Grove, cualquier cambio exterior — una ventana nueva sobre el fregadero, una salida de ventilación reubicada — necesita un Certificate of Appropriateness antes que el permiso. Nosotros manejamos ambos, en el orden correcto.",
+        "Cada cocina de PGX comienza como un alcance fijo por escrito, con las partidas detalladas en lugar de descubiertas sobre la marcha. Nuestro supervisor está en la obra todos los días, los gabinetes se miden después de enderezar las paredes y no antes, y la plantilla de la piedra se toma una vez colocados los módulos — la secuencia que separa una cocina bien ajustada de una cara y con juntas abiertas. Con más de 150 remodelaciones y ampliaciones entregadas en el sur de la Florida, ya hicimos las paces con las casas antiguas. Todavía nos sorprenden; a nuestros presupuestos, ya no."
+      ],
+      "scope_heading": "El panorama completo de la cocina",
+      "scope_intro": "De los planos de gabinetes a la lista final de detalles, esto es lo que un contrato de cocina de PGX realmente cubre.",
+      "scope_items": [
+        {
+          "name": "Gabinetes a medida",
+          "desc": "Módulos y frentes fabricados en taller según los planos de su diseñador o los nuestros, ajustados a paredes de yeso que no están a escuadra desde 1940."
+        },
+        {
+          "name": "Cubiertas e islas de piedra",
+          "desc": "Mármol, cuarcita o granito con plantilla tomada después de instalar los gabinetes, juntas planificadas primero en papel y fabricantes a los que les confiamos las lajas."
+        },
+        {
+          "name": "Electrodomésticos y gas",
+          "desc": "Refrigeración panelable, estufas profesionales, líneas de gas nuevas y circuitos dedicados — con permisos e inspecciones, no improvisados detrás de un gabinete."
+        },
+        {
+          "name": "Aperturas estructurales",
+          "desc": "Eliminación con ingeniería de la pared de mampostería entre cocina y comedor, con vigas calculadas e inspeccionadas — la jugada que transforma estas plantas."
+        },
+        {
+          "name": "Iluminación y diseño eléctrico",
+          "desc": "Iluminación en capas sobre circuitos nuevos y un panel capaz de soportarla, reemplazando lo que décadas de dueños anteriores dejaron atrás."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permiso para remodelar la cocina en Miami?",
+          "a": "Sí. Todo lo que pase de pintar y cambiar electrodomésticos en su mismo lugar — circuitos nuevos, plomería movida, paredes eliminadas, gas reubicado — requiere permisos e inspecciones de la Ciudad de Miami. El trabajo sin permisos aparece en el peor momento posible: el avalúo, la renovación del seguro o el cierre de la venta. PGX tramita permisos en cada obra, que es exactamente lo que usted querrá poder decir cuando algún día venda una casa en este vecindario."
+        },
+        {
+          "q": "¿Las reglas del distrito histórico afectan una remodelación interior de cocina?",
+          "a": "Normalmente no: las designaciones de Morningside, Bayside y Palm Grove regulan la apariencia exterior, y una cocina que se mantiene dentro de las paredes existentes se revisa como cualquier otro permiso. Las excepciones son los cambios visibles desde afuera: una ventana nueva o ampliada, una puerta exterior reubicada, una salida de ventilación en una fachada que da a la calle. Esos requieren primero un Certificate of Appropriateness, y cuando aplica, nosotros incorporamos ese paso al cronograma."
+        },
+        {
+          "q": "¿Pueden abrir la cocina al comedor en una casa antigua de mampostería?",
+          "a": "Casi siempre, con ingeniería. La mayoría de las paredes interiores de estas casas de los años veinte a cuarenta son mampostería de carga, así que la apertura lleva una viga bien calculada, apuntalamiento durante la obra e inspecciones de la ciudad — no una sierra y mucha confianza. Es la jugada más transformadora disponible en estas plantas, y es el tipo de obra estructural que hacemos semana tras semana."
+        },
+        {
+          "q": "¿Cuánto se tarda una cocina a medida?",
+          "a": "La construcción en sí suele tomar unos meses; lo que de verdad manda en el cronograma son los plazos de entrega: los gabinetes a medida y la selección de lajas pueden tardar más que la obra, y las entregas de electrodomésticos tienen opiniones propias. Programamos los pedidos durante el trámite de permisos para que las esperas se solapen, y nunca demolemos su cocina hasta tener confirmados los artículos de plazo largo. Recibe un cronograma por escrito y un supervisor que lo hace cumplir."
+        },
+        {
+          "q": "¿Cuánto cuesta una cocina de alta gama en esta zona?",
+          "a": "Varía mucho según los gabinetes, la piedra, los electrodomésticos y cuánta estructura e infraestructura toque el proyecto — en estas casas, la actualización del panel y las tuberías nuevas suelen venir en el paquete. Preferimos detallar el alcance de su cocina real antes que citar un promedio de fantasía. Espere una inversión seria, espérela desglosada partida por partida y por escrito, y espere que el número final coincida con el contrato. Esa última parte es la que importa."
+        }
+      ],
+      "cta_heading": "Empiece por el recorrido de la cocina",
+      "cta_sub": "Muéstrenos la cocina que tiene y descríbanos la que quiere: le respondemos con un alcance por escrito, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Miami: Upper East Side | PGX Builders",
+      "meta_description": "Baños principales y remodelaciones completas en el Upper East Side de Miami, con la impermeabilización bien hecha en casas de 90 años. Llame al (786) 273-2524.",
+      "h1": "Baños hechos para casas antiguas",
+      "hero_sub": "Suites principales, duchas sin marco y baños en piedra para las casas antiguas del Upper East Side — con todos los permisos de la Ciudad de Miami, impermeabilización bien hecha y la supervisión diaria de un contratista licenciado.",
+      "local_heading": "Baños modernos en casas de noventa años",
+      "intro_paragraphs": [
+        "Los baños con que nacieron las casas del Upper East Side — en Morningside, Bayside y Shorecrest por igual — fueron una idea de último momento: uno por piso, azulejos en tonos pastel, hechos para gente con prisa. La remodelación que la mayoría de los dueños quiere hoy es una verdadera suite principal: un dormitorio o un clóset grande convertido en un baño con tina exenta, ducha sin marco, piedra con vetas espejadas e iluminación que favorece en lugar de interrogar. En una casa de los años treinta esa transformación es tanto estrategia de plomería como diseño, y premia al contratista que ya ha abierto estos pisos antes.",
+        "Cada remodelación de baño aquí se tramita con permisos ante el City of Miami Building Department, con inspecciones de plomería, electricidad y construcción incluidas. Lo que la tarjeta del permiso no muestra es lo que encontramos debajo: drenajes originales de hierro fundido al final de su vida útil, tuberías galvanizadas de suministro listas para jubilarse, estructuras que han hospedado una que otra filtración desde los tiempos de la administración Kennedy. Evaluamos con honestidad la plomería de la casa antes de cotizar, porque reemplazar una bajante corroída a mitad de proyecto es exactamente la sorpresa que un contrato fijo existe para evitar. El trabajo interior rara vez pasa por revisión histórica; cambiar ventanas exteriores en un distrito designado, sí.",
+        "La impermeabilización es donde los presupuestos de baño terminan reivindicados o en vergüenza, casi siempre años después. PGX instala sistemas completos de membrana detrás de cada ducha y prueba los platos con agua antes de colocar un solo azulejo — detalles que nadie fotografía y en los que nadie debería volver a pensar. Sume la supervisión diaria en obra, una contención de polvo que respeta el resto de una casa habitada y un alcance por escrito que nombra sus griferías y su piedra antes de que empiece la demolición, y obtiene la versión de una remodelación de baño que termina con todos todavía hablándose."
+      ],
+      "scope_heading": "Lo que construimos en cada baño",
+      "scope_intro": "Cinco cosas que su contrato de baño nombrará con precisión — porque los detalles que fallan son los que se dejan en el aire.",
+      "scope_items": [
+        {
+          "name": "Conversiones a suite principal",
+          "desc": "Dormitorios y clósets reconvertidos en suites completas — baño, vestidor y los nuevos recorridos de plomería que los alimentan, resueltos con ingeniería antes de la demolición."
+        },
+        {
+          "name": "Duchas sin marco",
+          "desc": "Sin bordillo donde la estructura lo permite, con impermeabilización de membrana, drenajes lineales y vidrios medidos después de colocar el azulejo, no antes."
+        },
+        {
+          "name": "Tinas exentas",
+          "desc": "Tinas de fundición o de piedra colocadas donde la estructura del piso las soporta, con llenadores de piso instalados con precisión desde la primera vez."
+        },
+        {
+          "name": "Piedra y azulejos",
+          "desc": "Lajas con vetas espejadas, mosaicos y piezas de gran formato asentados planos sobre sustratos bien preparados — la diferencia que se nota desde la puerta."
+        },
+        {
+          "name": "Ventilación y control de humedad",
+          "desc": "Extracción silenciosa por ductos, dimensionada para la humedad de Miami, que protege los acabados nuevos y la estructura de noventa años que los rodea."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Se puede agregar un baño principal a una casa de los años treinta en el Upper East Side?",
+          "a": "Sí — es nuestro proyecto más solicitado en Morningside y Bayside. La pregunta de diseño es por dónde puede correr la plomería: estas casas se asientan sobre losas o estructuras de piso poco profundas, así que el trazado de los drenajes se planifica antes de prometer nada. Un dormitorio o un clóset generoso suele donar el espacio. Nosotros nos encargamos de la ingeniería, de los permisos de la Ciudad de Miami y de la realidad de que no hay dos de estas casas construidas exactamente igual."
+        },
+        {
+          "q": "¿Las remodelaciones de baño necesitan permisos en la Ciudad de Miami?",
+          "a": "Sí: mover aparatos sanitarios, alterar la plomería o la electricidad, o modificar paredes requiere permisos e inspecciones. Un refrescamiento de azulejos y vanidad con todo en su mismo lugar es más liviano, pero la mayoría de las remodelaciones que valen la pena aquí van más allá. La obra con permisos lo protege al revender y mantiene contenta a su aseguradora. Nosotros sacamos cada permiso y recibimos a cada inspector; está en el contrato, no es un extra."
+        },
+        {
+          "q": "La casa está sobre losa: ¿se puede mover la ducha o el drenaje?",
+          "a": "Sí. Cortamos la losa con sierra, reubicamos los drenajes y volvemos a vaciar el concreto — trabajo de rutina cuando se planifica, y un suplicio cuando se improvisa. En casas de esta edad aprovechamos la losa abierta para evaluar las líneas existentes de hierro fundido, porque ese es el momento más barato que usted tendrá jamás para reemplazarlas. Agrega una línea al alcance y resta una emergencia futura."
+        },
+        {
+          "q": "¿Al distrito histórico le importa mi remodelación de baño?",
+          "a": "El trabajo interior de baño no pasa por revisión histórica, ni siquiera en Morningside o Palm Grove. Solo entra en escena si el proyecto cambia el exterior — ampliar una ventana para la nueva pared de la ducha, por ejemplo, o agregar una salida de ventilación visible desde la calle. Si su diseño toca la fachada, preparamos el expediente del Certificate of Appropriateness; si no la toca, el distrito no lo va a frenar en absoluto."
+        },
+        {
+          "q": "¿Por qué es tan importante la impermeabilización en los baños de Miami?",
+          "a": "Por la humedad, el uso intenso y — en este vecindario — estructuras antiguas que ya sobrevivieron una era de filtraciones. Detrás de nuestras duchas va un sistema completo de membrana, con pendiente y probado con agua antes del azulejo; alrededor del cuarto va una ventilación dimensionada para la humedad real del sur de la Florida. Nada de eso sale en las fotos, y todo eso decide si el baño sigue viéndose nuevo dentro de una década. Para nosotros, ese es el punto."
+        }
+      ],
+      "cta_heading": "Su suite principal, primero en papel",
+      "cta_sub": "Agende un recorrido y reciba un estimado honesto por escrito para su baño — en español o en inglés, a su conveniencia."
+    },
+    "home-additions": {
+      "title": "Ampliaciones de casas en Morningside y el Upper East Side, Miami",
+      "meta_description": "Ampliaciones de casas en el Upper East Side de Miami: extensiones traseras, segundos pisos y revisión del HEPB resuelta. Permisos incluidos. (786) 273-2524.",
+      "h1": "Más casa, el mismo carácter",
+      "hero_sub": "Extensiones traseras, segundos pisos y alas de suite principal para las casas del Upper East Side — con ingeniería, permisos de la Ciudad de Miami, revisión histórica resuelta donde aplica y construcción bajo supervisión diaria.",
+      "local_heading": "Ampliar sin traicionar la casa",
+      "intro_paragraphs": [
+        "El Upper East Side tiene lotes generosos y casas que, para los estándares de hoy, se quedaron modestas. Una casa de Morningside de los años treinta suele ofrecer menos espacio del que su lote podría cargar con gracia — por eso las extensiones traseras, las alas de suite principal y los segundos pisos bien medidos son la manera en que las familias se quedan en Belle Meade, Palm Grove y Bayside en lugar de irse. Las mejores ampliaciones aquí se leen como si el arquitecto original hubiera regresado con más presupuesto: las mismas proporciones, los mismos materiales, más casa. Ese estándar es el trabajo.",
+        "Una ampliación es donde el reglamento de esta zona se gana el respeto. Dentro de los distritos históricos de Morningside, Bayside y Palm Grove, la construcción nueva necesita un Certificate of Appropriateness del Historic and Environmental Preservation Board de la Ciudad de Miami — y las ampliaciones hacia el fondo, que respetan la elevación original hacia la calle, tienen el camino más suave. En todo el vecindario, los permisos e inspecciones corren por el City of Miami Building Department bajo la zonificación de Miami 21. Y en lotes frente a la bahía dentro de zonas de inundación FEMA, hacemos temprano la cuenta de mejora sustancial, porque puede decidir qué tan ambicioso debe ser el proyecto.",
+        "En lo estructural, las ampliaciones de este vecindario son matrimonios entre la mampostería de los años treinta y el Florida Building Code vigente: cimientos nuevos amarrados a zapatas viejas, vigas de amarre y flejes antihuracán que los constructores originales jamás imaginaron, perfiles de estuco igualados hasta que la costura desaparece. PGX ha entregado más de 150 remodelaciones y ampliaciones en el sur de la Florida, todas con permisos e inspecciones. Usted recibe un contrato, un equipo responsable, un supervisor en la obra todos los días y — en Belle Meade y Bay Point — cuadrillas que tratan la garita, a los vecinos y el cronograma con el mismo cuidado."
+      ],
+      "scope_heading": "Tipos de ampliación que construimos aquí",
+      "scope_intro": "Cada casa pide una huella distinta. Estas son las ampliaciones que los lotes del Upper East Side cargan con más gracia.",
+      "scope_items": [
+        {
+          "name": "Extensiones traseras",
+          "desc": "Salas familiares y cocinas extendidas hacia el patio mientras la elevación histórica hacia la calle queda intacta — la forma que la revisión histórica prefiere."
+        },
+        {
+          "name": "Segundos pisos",
+          "desc": "Evaluación estructural completa, vigas de amarre nuevas e ingeniería que le permite a una casa de los años treinta cargar con seguridad un piso superior moderno."
+        },
+        {
+          "name": "Alas de suite principal",
+          "desc": "Un dormitorio, baño y vestidor nuevos añadidos donde el lote lo permite, integrados con limpieza a las líneas del techo original."
+        },
+        {
+          "name": "Conversión de garajes y porches",
+          "desc": "Pies cuadrados desaprovechados incorporados legalmente al espacio climatizado — con permisos, aislamiento y acabados que igualan el resto de la casa."
+        },
+        {
+          "name": "Cimientos y vigas de amarre",
+          "desc": "Zapatas nuevas ancladas a las viejas, vigas de amarre y flejes según el código vigente — la estructura que los inspectores revisan y los huracanes ponen a prueba."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Puedo agregar un segundo piso en el distrito histórico de Morningside?",
+          "a": "A veces — depende de la casa y del diseño. El Historic and Environmental Preservation Board revisa que las ampliaciones sean compatibles, y los segundos pisos que aplastan la presencia de una casa contribuyente hacia la calle reciben objeciones. Los pisos superiores retranqueados y los volúmenes hacia el fondo tienen mucho mejor historial. Le decimos temprano y con franqueza si su concepto tiene probabilidades de pasar la revisión, porque diseñar alrededor de la respuesta sale más barato que discutirla."
+        },
+        {
+          "q": "¿Cómo afecta la regla de mejora sustancial de FEMA a las ampliaciones aquí?",
+          "a": "En lotes dentro de zonas de inundación mapeadas — buena parte del frente de bahía de este vecindario —, si el valor de la obra cruza la mitad del valor de mercado del edificio, los requisitos actuales de elevación contra inundaciones pueden aplicar a toda la estructura. Eso puede redefinir un proyecto o, en ocasiones, sugerir otro distinto. Hacemos este análisis durante el estimado, por escrito, para que la decisión se tome en la mesa de la cocina y no en la revisión de planos."
+        },
+        {
+          "q": "¿Es complicado construir dentro de la garita de Belle Meade?",
+          "a": "Menos de lo que la gente teme. Los permisos siguen siendo de la Ciudad de Miami — la garita cambia la logística, no la jurisdicción. Programamos las entregas con precisión, mantenemos la calle limpia y nos aseguramos de que las cuadrillas que entran y salen estén anunciadas, porque la reputación de un contratista dentro de un vecindario cerrado se construye un día de trabajo a la vez. En estas calles los vecinos conversan. Preferimos que conversen sobre lo silenciosa que fue la obra."
+        },
+        {
+          "q": "¿Cuánto tarda una ampliación, del diseño a la entrega?",
+          "a": "Cuente con un cronograma de verdad: primero diseño e ingeniería, luego la revisión histórica donde aplica, después los permisos de la Ciudad de Miami y por último la construcción — varios meses como mínimo, y más para segundos pisos o lotes frente a la bahía. Lo que nosotros controlamos es la honestidad sobre el cronograma y la supervisión diaria una vez que estamos construyendo. Lo que mata los tiempos de una ampliación suele ser el vacío entre fases, así que las manejamos todas bajo un mismo techo."
+        },
+        {
+          "q": "¿La ampliación va a combinar con la casa original?",
+          "a": "Ese es el oficio. Igualamos texturas de estuco, pendientes de techo, detalles de aleros y proporciones de ventana para que la ampliación se lea como de la familia, no como una visita. En los distritos históricos, los estándares de revisión piden de hecho que lo nuevo se distinga sutilmente de lo viejo — compatible, no una imitación — y un buen diseño logra ambas cosas. En cualquier caso, la meta es que en cinco años nadie recuerde dónde terminaba la casa."
+        }
+      ],
+      "cta_heading": "Espacio para crecer, bien hecho",
+      "cta_sub": "Cuéntenos qué le falta a la casa. Recorremos el lote, hablamos de viabilidad con franqueza y le damos seguimiento por escrito — en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Espacios exteriores en el Upper East Side, Miami FL | PGX Builders",
+      "meta_description": "Terrazas, cocinas de verano, entradas de auto y aberturas de impacto para casas del Upper East Side, cerca de Biscayne Bay. Contratista licenciado: (786) 273-2524.",
+      "h1": "Salas al aire libre sobre Biscayne Bay",
+      "hero_sub": "Terrazas, cocinas de verano, pérgolas, entradas de auto y aberturas de impacto para las casas del Upper East Side — construidas para el aire salino, con ingeniería para la zona de vientos, permisos de la Ciudad de Miami y supervisión diaria.",
+      "local_heading": "Entre el Boulevard y la bahía",
+      "intro_paragraphs": [
+        "Al este de Biscayne Boulevard, los patios terminan en el agua — Belle Meade Island, las calles orientales de Morningside, el borde costero de Shorecrest — y hasta las cuadras interiores viven bajo un dosel de árboles que hace de los espacios exteriores el punto entero del vecindario. Los dueños del Upper East Side invierten en terrazas techadas, cocinas de verano con gas y ventilación de verdad, pérgolas construidas con ingeniería y no con optimismo, y entradas de auto y fachadas que por fin están a la altura de lo que pasó adentro de la casa. El clima de Miami es generoso; el aire salino, no. Nosotros diseñamos para ambos.",
+        "La obra exterior aquí se tramita con permisos de la Ciudad de Miami, y todo lo visible desde la calle dentro de los distritos históricos de Morningside, Bayside o Palm Grove — cercas, entradas de auto, terrazas frontales, incluso la pintura exterior en casas contribuyentes — pasa primero por un Certificate of Appropriateness. Las ventanas, puertas y techos de impacto deben llevar aprobaciones de producto de Miami-Dade para la High-Velocity Hurricane Zone. Y como partes de este vecindario conocen en persona las inundaciones de calle, tratamos el drenaje como alcance y no como ocurrencia tardía: nivelación, drenajes y pavimentos que alejan el agua de la casa en lugar de acercarla.",
+        "PGX construye exteriores con los materiales que este clima exige — herrajes de grado marino, tornillería de acero inoxidable, sistemas de piedra y estuco especificados para la exposición al salitre — y ordena la obra para que los oficios no se deshagan entre sí: el techo nuevo antes del cielo de la terraza, las aberturas de impacto antes del estuco y la pintura finales. Un solo contratista licenciado y asegurado (CGC1539072) carga todo el alcance por escrito, un supervisor camina la obra a diario y las cuadrillas dejan las calles con garita tal como las encontraron. Es obra exterior manejada como obra interior, algo más raro de lo que debería."
+      ],
+      "scope_heading": "El alcance exterior que asumimos",
+      "scope_intro": "Un solo contrato puede cargar todo el exterior. Estas son las piezas que más construimos y coordinamos.",
+      "scope_items": [
+        {
+          "name": "Terrazas techadas",
+          "desc": "Techos de concreto o de estructura liviana calculados para la zona de vientos, con cielos, ventiladores e iluminación que hacen usable la brisa de la bahía todo el año."
+        },
+        {
+          "name": "Cocinas de verano",
+          "desc": "Gas, agua, drenaje y ventilación hechos según el código — una cocina exterior de verdad, no una parrilla con delirios de grandeza."
+        },
+        {
+          "name": "Pérgolas y estructuras de sombra",
+          "desc": "Ancladas, calculadas y con permisos para aguantar en zona de huracanes, en maderas duras o aluminio a los que el aire salino no les hace mella."
+        },
+        {
+          "name": "Entradas de auto y pavimentos",
+          "desc": "Adoquines, concreto y drenaje nivelados para alejar el agua de la casa — con las aprobaciones del distrito histórico resueltas cuando la calle las exige."
+        },
+        {
+          "name": "Aberturas de impacto y techos",
+          "desc": "Ventanas, puertas y techos aprobados por Miami-Dade, coordinados en el orden correcto para que garantías e inspecciones cierren limpias."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permiso para una pérgola o una cocina de verano en Miami?",
+          "a": "Casi siempre. Todo lo que lleve zapatas, techo, gas, agua o electricidad es obra con permiso en la Ciudad de Miami, y en una High-Velocity Hurricane Zone la estructura necesita ingeniería y productos aprobados sin importar el tamaño. Una cocina de verano suma a la lista las inspecciones de gas y plomería. Es papeleo que hacemos constantemente, y es lo que separa un activo de un pasivo cuando la casa se vende."
+        },
+        {
+          "q": "¿Puedo cambiar la entrada de auto o la cerca en el distrito histórico?",
+          "a": "Sí, con un Certificate of Appropriateness: en Morningside, Bayside y Palm Grove, la obra visible desde la calle pasa por la revisión de preservación histórica de la Ciudad de Miami antes del permiso. Los materiales y el diseño importan, porque la revisión favorece las opciones acordes con el carácter del distrito. Nosotros preparamos la solicitud y manejamos el proceso; la mayoría de las propuestas bien diseñadas de entradas y cercas avanzan sin drama."
+        },
+        {
+          "q": "¿Qué materiales exteriores sobreviven de verdad tan cerca de la bahía?",
+          "a": "El aire salino es paciente e invicto, así que especificamos pensando en él: herrajes inoxidables o de grado marino, aluminio con recubrimiento en polvo o maderas duras de verdadero uso exterior, piedra sellada para la exposición, estuco detallado para evacuar el agua. La tornillería barata es donde las pérgolas frente a la bahía van a morir. La lista de materiales correcta cuesta más el primer día y muchísimo menos al quinto año — ese intercambio es toda la filosofía de la obra exterior aquí."
+        },
+        {
+          "q": "Nuestra calle se inunda cuando llueve fuerte: ¿la obra exterior puede ayudar?",
+          "a": "Puede ayudar a su lote, que es la parte que usted controla. Sectores del Upper East Side, Shorecrest en especial, ven inundaciones de calle durante las mareas reales y las tormentas fuertes, así que nivelamos terrazas y entradas de auto para alejar el agua de la estructura y agregamos drenajes donde se ganan su lugar. No vamos a prometer arreglar la calle — nadie honesto lo hará —, pero su losa y sus acabados no tienen por qué pagar el calendario de drenaje pluvial de la ciudad."
+        },
+        {
+          "q": "¿Pueden coordinar el techo nuevo con el resto de la obra exterior?",
+          "a": "Sí, y le conviene que esté coordinado: primero el techo, luego los cielos de terraza y la pintura, con las aberturas de impacto ordenadas para que los remates y el estuco empalmen correctamente. Cada producto se instala con aprobaciones de Miami-Dade y sus inspecciones correspondientes. Un solo contrato y un solo supervisor significa que no hay grietas entre oficios donde las garantías se escondan. Esa coordinación es la mayor parte de lo que uno realmente le compra a un contratista general."
+        }
+      ],
+      "cta_heading": "Construyamos la sala al aire libre",
+      "cta_sub": "Invítenos a ver el patio, el techo y el plan que tiene en mente — estimados en español o en inglés."
+    }
+  }
+}

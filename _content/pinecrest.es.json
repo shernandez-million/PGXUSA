@@ -1,0 +1,318 @@
+{
+  "area_slug": "pinecrest",
+  "neighborhoods": [
+    "North Pinecrest",
+    "South Pinecrest",
+    "Pinecrest Gardens",
+    "Devonwood",
+    "Kendall Park Estates",
+    "Suniland",
+    "Pinecrest by the Sea",
+    "Red Road",
+    "Old Cutler Road",
+    "Killian Drive",
+    "Ludlam Road"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral de casas en Pinecrest, FL | PGX Builders",
+      "meta_description": "Remodelación integral en Pinecrest, FL. PGX convierte casas ranch en lotes de un acre en residencias modernas — permisos del Village y supervisión diaria. (786) 273-2524.",
+      "h1": "Casas de Pinecrest, renovadas para este siglo",
+      "hero_sub": "Remodelación integral para las residencias de Pinecrest en lotes de un acre: cambios de distribución, aperturas estructurales, renovación completa de electricidad y plomería, ventanas de impacto. Con licencia (CGC1539072), 100% con permisos del Village y supervisión en obra todos los días.",
+      "local_heading": "Lotes de un acre, estructura sólida, mejores planes",
+      "intro_paragraphs": [
+        "Pinecrest se desarrolló en los años 50 y 60 como casas estilo ranch en lotes de un acre, y ese ADN todavía se siente desde North Pinecrest hasta Devonwood. Las cuadrillas de demolición llevan años ocupadas por aquí, pero muchos propietarios miran un ranch sólido de bloque (CBS) bajo robles maduros y deciden que la estructura vale la pena. Ahí entramos nosotros: remodelaciones a fondo que abren esas plantas bajas y compactas, suben el nivel de acabados a la altura de la calle y conservan los árboles por los que usted compró el lote. En Kendall Park Estates y a lo largo de Old Cutler Road, esa cuenta muchas veces le gana a la construcción nueva.",
+        "Los permisos se tramitan ante el Building and Planning Department del Village of Pinecrest, que revisa construcción, zonificación y protección de árboles bajo un mismo techo. Aquí no hay una junta de arquitectos al estilo Coral Gables, pero no lo confunda con mano blanda: la ordenanza de árboles del village protege el dosel, los árboles ejemplares (specimen trees) requieren revisión de un arborista antes de mover nada, y cada ventana, puerta y sistema de techo debe llevar aprobaciones de producto de Miami-Dade para la High-Velocity Hurricane Zone. Preparamos expedientes digitales completos, coordinamos la revisión de árboles y zonificación en paralelo con el permiso de construcción, y nos presentamos a cada inspección.",
+        "Una remodelación integral en Pinecrest es una relación larga: meses de oficios trabajando en una calle tranquila. Nosotros la manejamos como profesionales: un alcance fijo por escrito antes de arrancar la demolición, un supervisor en obra todos los días, pisos y acabados protegidos, y vecinos que apenas nos notan más allá del contenedor. Un solo equipo responde desde el primer estimado hasta el recorrido final, con el respaldo de más de 20 años construyendo en el sur de la Florida y más de 150 remodelaciones y ampliaciones entregadas."
+      ],
+      "scope_heading": "Qué incluye una remodelación integral en Pinecrest",
+      "scope_intro": "Renovaciones a fondo de casas de la era ranch, entregadas bajo un solo juego de permisos, un solo cronograma y un solo contrato responsable.",
+      "scope_items": [
+        {
+          "name": "Distribución y aperturas estructurales",
+          "desc": "Eliminamos muros de carga y ampliamos ambientes con vigas calculadas por ingeniería, para que un ranch de los años 60 por fin viva como una planta abierta y moderna."
+        },
+        {
+          "name": "Reemplazo completo de instalaciones",
+          "desc": "Servicio eléctrico y paneles nuevos, plomería renovada por completo y aire acondicionado por ductos bien dimensionado: sistemas que la casa original nunca contempló."
+        },
+        {
+          "name": "Ventanas y puertas de impacto",
+          "desc": "Cristales de piso a techo y aberturas certificadas con aprobaciones de producto de Miami-Dade, calculadas para la High-Velocity Hurricane Zone."
+        },
+        {
+          "name": "Acabados y carpintería fina",
+          "desc": "Piedra natural, pisos de tablón ancho y carpintería a medida instalados bajo supervisión diaria, con protección de acabados desde el día de la entrega hasta la lista final de detalles."
+        },
+        {
+          "name": "Permisos e inspecciones",
+          "desc": "Expedientes completos ante el Village of Pinecrest, coordinación de la protección de árboles, y cada inspección programada y atendida por nuestro equipo."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Me conviene remodelar mi ranch en Pinecrest o demolerlo y construir de nuevo?",
+          "a": "Depende de la estructura, la distribución y cuánto de la casa realmente le gusta. Un ranch sólido de bloque con buena línea de techo puede absorber una remodelación dramática por bastante menos que una construcción nueva, y conserva árboles maduros que una demolición suele sacrificar. Si la huella de la casa sencillamente no funciona para su forma de vivir, la construcción nueva puede ganar. La recorremos con usted y le damos una respuesta directa en cualquiera de los dos casos."
+        },
+        {
+          "q": "¿Cuánto tarda el permiso de una remodelación integral en Pinecrest?",
+          "a": "El Village of Pinecrest revisa los planos en formato digital, y los tiempos dependen del alcance: cambios estructurales, trabajo de árboles y rondas de revisión suman tiempo. No le vamos a inventar un número, pero sí le decimos esto: un expediente completo y bien preparado avanza notablemente más rápido que uno optimista. Coordinamos la ingeniería, los permisos de árboles y la solicitud de construcción para que las revisiones corran en paralelo donde el village lo permita."
+        },
+        {
+          "q": "¿Se pueden subir los techos en una casa ranch de los años 60?",
+          "a": "Muchas veces, sí. Muchas casas de esa época esconden altura aprovechable sobre el cielo raso plano, y abrir hasta la línea del techo puede transformar los espacios principales. Es trabajo estructural — ingeniería, permisos, inspecciones — no un proyecto de drywall de fin de semana. Donde la estructura del techo no lo permite, logramos un efecto parecido con aperturas más amplias, puertas más altas y cristal, y le diremos cuál de las dos casas tiene usted antes de comprometerse."
+        },
+        {
+          "q": "¿La ordenanza de árboles de Pinecrest afecta mi remodelación?",
+          "a": "Si el trabajo toca el patio, probablemente sí. Pinecrest exige permisos para remover o reubicar árboles, y los ejemplares pasan por la revisión del arborista del village, con siembra de reemplazo obligatoria cuando se aprueba una remoción. En remodelaciones interiores esto rara vez importa, pero las ampliaciones, las entradas de autos y la ubicación de equipos interactúan con las zonas de raíces. Diseñamos alrededor del dosel desde el principio, porque en Pinecrest los árboles son la mitad del valor de la propiedad."
+        },
+        {
+          "q": "¿Cuánto cuesta una remodelación integral de alto nivel en Pinecrest?",
+          "a": "Menos que una construcción nueva comparable, más que una mano de pintura, y depende mucho del alcance estructural y del nivel de acabados. Remodelar a fondo una casa en un lote de un acre es un proyecto de construcción serio, y lo cotizamos línea por línea en un alcance fijo por escrito, no con una partida vaga que después crece. No somos la oferta más barata de Miami-Dade, y lo decimos sin problema."
+        }
+      ],
+      "cta_heading": "Recorrámosla juntos",
+      "cta_sub": "Cuéntenos en qué debería convertirse su casa de Pinecrest. La recorremos con usted, hablamos del alcance con franqueza y ponemos un número real por escrito — en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Remodelación de cocinas en Pinecrest, Miami FL | PGX Builders",
+      "meta_description": "Cocinas a medida en Pinecrest, Miami: gabinetes, piedra, islas y permisos a cargo de un contratista general de alto nivel. Llame a PGX al (786) 273-2524.",
+      "h1": "Cocinas hechas para recibir en Pinecrest",
+      "hero_sub": "Remodelación de cocinas a medida para casas de Pinecrest: gabinetes fabricados al milímetro, topes de piedra, islas de verdad, y los permisos y oficios con licencia (Lic. CGC1539072) que le permiten mover paredes y líneas de gas legalmente.",
+      "local_heading": "De cocina de pasillo a sala de encuentro",
+      "intro_paragraphs": [
+        "La cocina original de Pinecrest era un pasillo escondido detrás del carport, pensada para una sola persona cocinando y un teléfono de pared. Así ya no vive nadie en North Pinecrest ni en Suniland. Las cocinas que construimos aquí anclan toda la casa: una isla de diez pies, gabinetes corridos hasta el techo y líneas de vista que cruzan el family room y llegan a la piscina. Sea la suya un ranch original cerca de Killian Drive o una reconstrucción de los años 90 que ya se siente vieja, la cocina suele ser el ambiente donde la remodelación se paga sola.",
+        "Mover un fregadero, una estufa o una pared requiere un permiso del Building and Planning Department del Village of Pinecrest, que revisa los planos en formato digital e inspecciona por separado el trabajo eléctrico, de plomería y mecánico. Muchas cocinas de Pinecrest también necesitan una mejora del panel eléctrico: un servicio de los años 60 nunca se dimensionó para hornos dobles, una estufa de inducción y una cava de vinos funcionando a la vez. Nos encargamos de los cálculos de carga, los oficios con licencia y las inspecciones, para que el papeleo respalde la cocina en lugar de perseguirlo a usted en una venta futura.",
+        "En las cocinas el alto nivel se nota — o se nota que no está. Construimos con un alcance fijo por escrito, con planos de taller de los gabinetes aprobados antes de ordenar nada, láminas de piedra que usted vio y marcó personalmente, y un supervisor de obra revisando juntas y alineaciones a diario. El control de polvo mantiene habitable el resto de la casa, las entregas se programan para que su entrada no se convierta en bodega, y un solo equipo de PGX responde desde el estimado hasta la garantía."
+      ],
+      "scope_heading": "Lo que construimos en una cocina de Pinecrest",
+      "scope_intro": "Cada cocina se diseña y se cotiza línea por línea: gabinetes, piedra, electrodomésticos, iluminación y el trabajo estructural que los conecta.",
+      "scope_items": [
+        {
+          "name": "Gabinetes a medida",
+          "desc": "Gabinetes hasta el techo con planos de taller, con interiores organizados según sus ollas, su despensa y su rutina de las mañanas — no un módulo de catálogo."
+        },
+        {
+          "name": "Topes de piedra e islas",
+          "desc": "Cuarcita, mármol y granito plantillados en sitio, con islas calculadas para asientos, almacenamiento y algún proyecto de ciencias del colegio de vez en cuando."
+        },
+        {
+          "name": "Cambios de distribución y paredes",
+          "desc": "Abrimos la cocina hacia el family room y el comedor con vigas calculadas por ingeniería, con permisos del Village e inspecciones en cada etapa."
+        },
+        {
+          "name": "Reubicación de equipos y gas",
+          "desc": "Nuevas posiciones para estufas, hornos y refrigeración, con el servicio eléctrico, las líneas de gas y la ventilación reubicados legalmente para acompañarlas."
+        },
+        {
+          "name": "Diseño de iluminación",
+          "desc": "Iluminación de tarea, ambiental y de acento en capas, con atenuación bien resuelta — porque una cocina en un lote de un acre merece más que una lámpara de techo."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Cuánto cuesta remodelar una cocina a medida en Pinecrest?",
+          "a": "Los gabinetes y la piedra pesan más en el número que los pies cuadrados. Una cocina totalmente a medida, con cambios de distribución, electricidad nueva y topes de lámina, es una inversión importante, y en este mercado suele ser el ambiente de mayor impacto de la casa. Cotizamos cada línea — gabinetes, piedra, electrodomésticos, oficios — en un alcance fijo por escrito, para que usted decida con números reales y no con partidas abiertas."
+        },
+        {
+          "q": "¿Necesito permiso para remodelar mi cocina en Pinecrest?",
+          "a": "Si el proyecto mueve plomería, electricidad, gas o paredes — y casi toda remodelación de cocina de verdad lo hace — sí, a través del Building and Planning Department del Village of Pinecrest. Un simple cambio de gabinetes y topes puede no requerirlo, pero rara vez es ese el proyecto por el que nos llaman. La obra con permisos protege su posición ante el seguro y su historia de reventa, y las inspecciones detectan los problemas cuando todavía cuestan poco."
+        },
+        {
+          "q": "¿Pueden quitar la pared entre la cocina y la sala?",
+          "a": "Por lo general, sí. En las casas de la era ranch de Pinecrest esa pared suele ser de carga, lo que implica una viga calculada por ingeniería, un permiso e inspecciones — todo rutina para nosotros. El resultado es esa línea de vista abierta cocina-sala-piscina para la que estas casas estaban hechas sin saberlo. Confirmamos qué función cumple la pared antes de empezar el diseño, para que el plano que lo enamore sea uno que de verdad se pueda construir."
+        },
+        {
+          "q": "Mi casa todavía tiene el panel eléctrico original. ¿Es un problema para una cocina nueva?",
+          "a": "Muy probablemente. Un servicio de los años 60 se dimensionó para un horno y una cafetera de filtro, no para cocina de inducción, refrigeración doble y una cava de vinos. Hacemos el cálculo de carga desde el principio; si el panel o el servicio necesita mejorarse, va en el alcance por escrito desde el inicio. Si encontramos cableado de aluminio, común en casas de esa época, se lo diremos con claridad y cotizaremos la corrección con honestidad."
+        },
+        {
+          "q": "¿Cuánto tiempo estaré sin cocina?",
+          "a": "Para una cocina completamente a medida, cuente con varias semanas desde que arranca la demolición, más el tiempo de fabricación de los gabinetes antes de eso — los muebles a medida se fabrican, no se compran de un estante. Acortamos el período sin cocina dejando confirmados gabinetes, piedra y electrodomésticos antes de abrir una sola pared, y podemos montarle una cocina provisional funcional para que la casa siga andando."
+        }
+      ],
+      "cta_heading": "Su cocina, dibujada y cotizada",
+      "cta_sub": "Muéstrenos la cocina que tiene y cuéntenos la que quiere. Llegamos con opciones y un precio directo — en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños — Pinecrest, FL | PGX Builders Group",
+      "meta_description": "Remodelación de baños en Pinecrest, FL: suites principales, duchas sin marco e impermeabilización según especificación. Con licencia y seguro — (786) 273-2524.",
+      "h1": "Baños principales que valen sus pies cuadrados",
+      "hero_sub": "Remodelación de baños para casas de Pinecrest: suites principales, cristal sin marco, tinas independientes e impermeabilización hecha según especificación. Con licencia y seguro (CGC1539072), permisos del Village y supervisión todos los días que importan.",
+      "local_heading": "Baños de hace sesenta años, estándares de hoy",
+      "intro_paragraphs": [
+        "Una casa de la era ranch en Pinecrest solía venir con baños generosos para 1965 y cómicos hoy: una tina de cinco pies, un solo lavamanos y azulejos color aguacate. Los propietarios de South Pinecrest y Kendall Park Estates los están reconstruyendo como verdaderas suites principales: wet rooms con tinas independientes, duchas sin marco revestidas en láminas de piedra de verdad, vanities dobles con almacenamiento real. Muchas veces la jugada más inteligente es tomar espacio de un clóset o un pasillo sobredimensionado, y en un lote de un acre casi siempre hay de dónde sacar los pies cuadrados.",
+        "Los proyectos de baño aquí se tramitan ante el Building and Planning Department del Village of Pinecrest, con inspecciones separadas de plomería, electricidad y construcción a lo largo del proceso. Dos realidades locales importan. Primera: muchas casas originales de Pinecrest todavía funcionan con desagües de hierro fundido que se acercan al final de su vida útil — nosotros los inspeccionamos con cámara en lugar de enchapar encima de un problema. Segunda: una buena cantidad de propiedades del village sigue en sistema séptico, así que reubicar piezas sanitarias o agregar un baño amerita una verificación de capacidad antes de dibujar los planos.",
+        "La impermeabilización es donde una remodelación de baño se gana o se pierde, y ya es invisible cuando todos están admirando el mármol. Dejamos el sistema completo por escrito — membranas, pendientes, pruebas de agua, juntas de movimiento — y un supervisor de PGX verifica cada paso antes de colocar el primer azulejo. Alcance fijo, supervisión diaria, pisos protegidos entre la puerta de entrada y la zona de trabajo, y un solo equipo responsable desde la primera medición hasta la llamada de garantía que probablemente no necesitará."
+      ],
+      "scope_heading": "Lo que reconstruimos detrás del azulejo",
+      "scope_intro": "Construcción completa de baños, de la demolición a la última línea de sellador — con ingeniería, permisos e inspecciones para que lo bonito dure.",
+      "scope_items": [
+        {
+          "name": "Conversión a suite principal",
+          "desc": "Unimos dormitorios, clósets y baños originales en una verdadera suite, con los cambios estructurales y mecánicos dibujados en planos y con sus permisos."
+        },
+        {
+          "name": "Duchas sin marco",
+          "desc": "Duchas a ras de piso construidas sobre sistemas totalmente impermeabilizados con desagües lineales, y el cristal plantillado solo cuando el azulejo está terminado."
+        },
+        {
+          "name": "Tinas independientes",
+          "desc": "Tinas esculturales con llenadores de piso instalados con precisión exacta, porque mover un desagüe en una losa de concreto es un plan, no una improvisación."
+        },
+        {
+          "name": "Piedra y azulejo",
+          "desc": "Láminas book-match, porcelanato de gran formato y mosaicos colocados planos y alineados — revisados a diario por un supervisor con un nivel en la mano y opiniones firmes."
+        },
+        {
+          "name": "Plomería y desagües",
+          "desc": "Inspección con cámara de las líneas originales de hierro fundido, renovación de tuberías donde haga falta y ventilación que de verdad saque el vapor de un baño interior."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Cuánto tarda la remodelación de un baño principal en Pinecrest?",
+          "a": "Una reconstrucción de verdad — distribución nueva, impermeabilización, piedra, cristal — suele tomar unos meses del permiso a la inspección final, con la revisión de planos del village antes de eso. Los retoques cosméticos van más rápido, pero no es para eso que normalmente nos contratan. Le entregamos un cronograma amarrado al alcance por escrito, y un supervisor que mantiene los oficios en secuencia en lugar de amontonados."
+        },
+        {
+          "q": "¿Debería reemplazar los desagües de hierro fundido durante la remodelación?",
+          "a": "Si su casa de Pinecrest es anterior a mediados de los años 70 y conserva el hierro fundido original, casi con seguridad sí. Inspeccionamos las líneas con cámara antes de cerrar el contrato; si están fallando, reemplazarlas con el piso ya abierto cuesta una fracción de hacerlo después de instalar el mármol nuevo. A nadie le gusta pagar por tubería, pero es la línea menos opcional de un baño con años encima."
+        },
+        {
+          "q": "¿Las remodelaciones de baño en Pinecrest requieren permisos?",
+          "a": "Sí, siempre que cambie la plomería, la electricidad o la estructura — lo que cubre prácticamente cualquier remodelación más allá de cambiar una llave. Los planos pasan por el Building and Planning Department del Village of Pinecrest y la obra se inspecciona por etapas. Ese expediente además lo protege en el avalúo y en la venta, cuando el trabajo de baño sin permisos tiene la costumbre de salir a la luz en el peor momento posible."
+        },
+        {
+          "q": "¿Puedo agregar un baño si mi casa está en sistema séptico?",
+          "a": "Muchas veces sí, pero la capacidad del sistema séptico tiene que soportarlo, y eso se evalúa antes de emitir los permisos — el número de dormitorios y de piezas sanitarias cuenta para la revisión sanitaria. Bastantes lotes de Pinecrest siguen funcionando con séptico, así que el tema surge con frecuencia. Lo verificamos en la primera visita; si el sistema necesita atención, usted lo sabrá antes de gastar en diseño, no después."
+        },
+        {
+          "q": "¿Cuánto cuesta una remodelación de baño de alto nivel?",
+          "a": "El rango es amplio porque las decisiones lo son. La selección de piedra, el cristal, la grifería y cuánto se mueve la plomería pesan más en el número que el tamaño del baño. Una renovación a fondo de un baño principal es un proyecto de cinco cifras como mínimo en este mercado, y con frecuencia bastante más cuando hay láminas de piedra y cristal a medida. Dejamos cada selección en un precio fijo por escrito antes de la demolición."
+        }
+      ],
+      "cta_heading": "Empiece por el baño que más usa",
+      "cta_sub": "Muéstrenos el baño que lo fastidia todos los días. Nosotros diseñamos el que no lo hará — con precio por escrito, en español o en inglés."
+    },
+    "home-additions": {
+      "title": "Ampliaciones de casa y segundos pisos en Pinecrest | PGX Builders",
+      "meta_description": "Ampliaciones en Pinecrest, FL: extensiones traseras, segundos pisos y suites para familiares con ingeniería para lotes de un acre. PGX Builders, (786) 273-2524.",
+      "h1": "Espacio para crecer en un acre",
+      "hero_sub": "Ampliaciones en todo Pinecrest: extensiones traseras, segundos pisos y suites para familiares integradas con ingeniería a casas de la era ranch. 100% con permisos del Village y construidas por un contratista general con licencia (CGC1539072) y supervisión diaria en obra.",
+      "local_heading": "Por qué Pinecrest nació para las ampliaciones",
+      "intro_paragraphs": [
+        "Un lote de un acre perdona mucha ambición. Mientras en los lotes pequeños de Miami se pelea por cada pulgada de retiro, las familias de North Pinecrest, Devonwood y a lo largo de Ludlam Road tienen espacio para una verdadera extensión trasera, un estudio independiente o un segundo piso completo — muchas veces sin acercarse a la piscina ni a los robles. La zonificación de tipo estate del village mantiene los lotes grandes y a los vecinos lejos, y justo por eso una ampliación bien diseñada en Pinecrest puede sumar espacio habitable en serio sin que la casa se sienta jamás como un añadido.",
+        "Las ampliaciones las revisa el Building and Planning Department del Village of Pinecrest, y dos temas del sitio suelen definir el diseño antes que la estética. Primero, la protección de árboles: el village exige permiso para cada remoción significativa y se toma en serio sus árboles ejemplares, así que ubicamos las ampliaciones alrededor del dosel protegido, no a través de él. Segundo, el séptico: muchos lotes de Pinecrest todavía dependen de sistemas sépticos, y una ampliación que agrega dormitorios activa una revisión de capacidad. Los dos temas los señalamos en la primera semana, no en la revisión de planos.",
+        "En lo estructural, ampliar un ranch de los años 60 es ingeniería de verdad: cimientos existentes verificados, vigas de amarre reforzadas, obra nueva anclada con dovelas y amarrada a la vieja hasta que la unión desaparece. Ese es nuestro terreno. PGX lleva más de 20 años construyendo en el sur de la Florida, cada ampliación se entrega con todos sus permisos e inspecciones, y hay un supervisor en su obra todos los días mientras su familia sigue viviendo en la casa. Un solo alcance por escrito, un solo equipo responsable, del primer boceto a la última inspección."
+      ],
+      "scope_heading": "Ampliaciones que construimos en Pinecrest",
+      "scope_intro": "De extensiones de un solo ambiente a segundos pisos completos — con ingeniería, permisos y un amarre correcto a la estructura original.",
+      "scope_items": [
+        {
+          "name": "Extensiones traseras",
+          "desc": "Family rooms, suites principales y espacios con paredes de cristal extendidos hacia el patio, empatados con la línea de techo existente o contrastados a propósito."
+        },
+        {
+          "name": "Segundos pisos",
+          "desc": "Plantas altas completas sobre casas ranch, con cimientos verificados, vigas de amarre reforzadas y estructura calculada antes de que alguien hable de colores de pintura."
+        },
+        {
+          "name": "Suites para familiares y huéspedes",
+          "desc": "Suites anexas o independientes con baño y entrada propios, planificadas según la zonificación, la capacidad del séptico y cómo lo visita su familia en realidad."
+        },
+        {
+          "name": "Conversión de garajes",
+          "desc": "Convertimos garajes subutilizados en oficinas, gimnasios o suites — con el aislamiento, la parte mecánica y la legalización que la mayoría de los flips se salta."
+        },
+        {
+          "name": "Estructura y cimentación",
+          "desc": "Zapatas nuevas, conexiones con dovelas y mampostería reforzada, construidas según los requisitos de la High-Velocity Hurricane Zone del Florida Building Code."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito aprobación del Village para una ampliación en Pinecrest?",
+          "a": "Sí. Las ampliaciones pasan por el Building and Planning Department del Village of Pinecrest para revisión de zonificación, construcción y árboles: retiros, cobertura del lote y dosel protegido se verifican contra los planos. Es un proceso minucioso pero razonable, y un expediente completo con ingeniería de verdad lo atraviesa mucho mejor que unos bocetos ilusionados. Nosotros preparamos el paquete completo y asistimos a cada inspección."
+        },
+        {
+          "q": "¿Las reglas de árboles van a decidir dónde puede ir mi ampliación?",
+          "a": "Van a tener voz y voto. Pinecrest exige permiso para cada remoción de árbol y somete los ejemplares al escrutinio de un arborista, con siembra de reemplazo obligatoria cuando se aprueban remociones. En la práctica tratamos los robles grandes como puntos fijos y diseñamos la ampliación alrededor de ellos — lo que casi siempre produce un mejor patio interior, una mejor terraza o una mejor ventana de todos modos. Pelear contra el dosel en Pinecrest es una estrategia perdedora; diseñar con él, no."
+        },
+        {
+          "q": "¿Conviene más un segundo piso que mudarse a una casa más grande?",
+          "a": "Con frecuencia, sí — si la estructura existente lo aguanta. Verificamos los cimientos y reforzamos las vigas de amarre donde haga falta, y la ingeniería queda resuelta antes de que nadie se comprometa. Usted conserva el acre, los árboles, la zona escolar y los vecinos que le caen bien, y gana un piso completo. Cuando la estructura o el presupuesto dicen lo contrario, se lo diremos y evaluaremos una extensión a nivel de suelo."
+        },
+        {
+          "q": "¿Qué pasa con mi sistema séptico si agregamos dormitorios?",
+          "a": "Agregar dormitorios activa una revisión de la capacidad del séptico, porque el dimensionamiento del sistema está atado al número de habitaciones. Muchas propiedades de Pinecrest todavía operan con séptico, así que esto es parte normal de planificar una ampliación aquí, no una sorpresa desagradable. A veces el sistema existente pasa; a veces necesita modificaciones. Identificamos en cuál caso está usted durante la primera evaluación del sitio, antes de que los planos se pongan caros."
+        },
+        {
+          "q": "¿Puede mi familia vivir en la casa durante la ampliación?",
+          "a": "Por lo general, sí — una de las ventajas silenciosas de un lote de un acre. Normalmente podemos aislar la zona de trabajo, mantener la casa existente sellada contra la intemperie hasta que se abre la conexión, y programar las fases ruidosas y polvorientas pensando en su familia. En toda ampliación hay unos pocos días en los que va a querer cenar afuera. Le diremos cuáles son."
+        }
+      ],
+      "cta_heading": "Su acre tiene espacio — aprovechémoslo",
+      "cta_sub": "Invítenos a su casa, en español o en inglés. Miramos el lote, los árboles y la estructura, y le decimos qué implica de verdad su ampliación."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y exteriores en Pinecrest, FL | PGX Builders Group",
+      "meta_description": "Construcción exterior en Pinecrest: terrazas techadas, cocinas de verano y pérgolas diseñadas alrededor del dosel de robles, todo con permisos. (786) 273-2524.",
+      "h1": "Patios que se ganan el acre",
+      "hero_sub": "Construcción de espacios exteriores para casas de Pinecrest: terrazas techadas, cocinas de verano, pérgolas y entradas de autos, con permisos del Village y construidos por un contratista con licencia (CGC1539072) bajo estándares de zona de huracanes, con supervisión diaria en obra.",
+      "local_heading": "Un acre de patio es un encargo de diseño",
+      "intro_paragraphs": [
+        "Los patios de Pinecrest son el punto. El village creció alrededor de Pinecrest Gardens y su dosel de robles y banianos, y las mejores propiedades de South Pinecrest y de Old Cutler Road tratan el exterior como un ala más de la casa: una terraza techada con cocina de verano, una pérgola sobre el comedor, una entrada de autos que llega con presencia en lugar de solo estacionar. En un acre, el espacio exterior no es decoración — es construcción, con zapatas, gas, drenaje y electricidad que deben ir con permisos y construirse como la casa misma.",
+        "El trabajo exterior aquí se tramita ante el Building and Planning Department del Village of Pinecrest, y el dosel va primero: la protección de árboles está escrita en el código del village, así que las terrazas, entradas de autos y pérgolas se diseñan alrededor de las zonas de raíces y los ejemplares protegidos, no encima de ellos. Todo lo estructural o techado también debe cumplir los requisitos de la High-Velocity Hurricane Zone: zapatas y conexiones calculadas por ingeniería, más productos aprobados por Miami-Dade para cualquier abertura nueva. Nosotros manejamos los permisos, la coordinación con el arborista y las inspecciones como un solo paquete.",
+        "Los proyectos exteriores atraen cuadrillas sin licencia como las piscinas atraen hojas; Pinecrest merece algo mejor. PGX construye el trabajo exterior con un alcance fijo por escrito y planos de verdad, supervisa la obra a diario y coordina cada oficio que toca su casa — estuco, pintura, coordinación del cambio de techo, aberturas de impacto — para que el exterior se lea como un solo diseño y no como cinco subcontratos. Protegemos el paisajismo y los pisos exteriores mientras trabajamos, y dejamos el sitio tan limpio que la única evidencia es la terraza."
+      ],
+      "scope_heading": "Trabajo exterior que asumimos",
+      "scope_intro": "Espacios exteriores con calidad de construcción — con ingeniería, permisos y acabados al mismo estándar que sus interiores.",
+      "scope_items": [
+        {
+          "name": "Terrazas techadas",
+          "desc": "Ambientes exteriores con techo, ventiladores, iluminación y cielos machihembrados, amarrados a la estructura y calculados para las cargas de viento de la zona de huracanes."
+        },
+        {
+          "name": "Cocinas de verano",
+          "desc": "Parrillas empotradas, refrigeración y topes de piedra con el gas, la electricidad y la ventilación con permisos e inspecciones — no simplemente ensamblados."
+        },
+        {
+          "name": "Pérgolas y estructuras de sombra",
+          "desc": "Pérgolas y celosías a medida con zapatas y anclajes correctos, ubicadas alrededor de los árboles protegidos de Pinecrest, no contra ellos."
+        },
+        {
+          "name": "Entradas y pisos exteriores",
+          "desc": "Adoquines, concreto y piedra natural para las largas entradas de los lotes de un acre y los bordes de piscina, nivelados para que el agua de lluvia vaya a donde debe."
+        },
+        {
+          "name": "Renovación de fachada",
+          "desc": "Reparación de estuco, repintado completo, ventanas y puertas de impacto y coordinación del cambio de techo, para que un exterior de los años 70 se vea actual."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permiso para una cocina de verano o una pérgola en Pinecrest?",
+          "a": "Casi siempre. Estructuras, techos, zapatas, líneas de gas y electricidad requieren permisos a través del Building and Planning Department del Village of Pinecrest, y todo lo techado o cerrado debe cumplir los requisitos de la High-Velocity Hurricane Zone. Las estructuras de patio sin permisos son un problema clásico a la hora de vender en este village. Nosotros diseñamos, tramitamos e inspeccionamos el trabajo exterior con exactamente el mismo rigor que la casa principal."
+        },
+        {
+          "q": "¿Pueden construir una terraza cerca de los robles grandes sin dañarlos?",
+          "a": "Ese es el encargo en la mayoría de los lotes de Pinecrest. Las zonas de raíces limitan dónde pueden ir las zapatas y los cambios de nivel, y las reglas de protección de árboles del village lo respaldan con permisos y revisión de arborista. Planificamos las estructuras alrededor de la proyección de las copas, usamos distribuciones de zapatas que respetan las raíces y tratamos el dosel como el techo del ambiente exterior. Los robles llegaron primero; el buen diseño lo reconoce."
+        },
+        {
+          "q": "¿Una terraza techada aguanta un huracán?",
+          "a": "Bien construida, sí — para eso existe la ingeniería de la High-Velocity Hurricane Zone. Zapatas, columnas, conexiones y techos se calculan para las cargas de viento de Miami-Dade, y los productos para aberturas llevan aprobaciones de Miami-Dade. Las estructuras exteriores que fallan en las tormentas son, en su inmensa mayoría, las que se construyeron sin ingeniería ni permisos. Las nuestras se inspeccionan en cada etapa, que es precisamente el punto."
+        },
+        {
+          "q": "¿También construyen piscinas?",
+          "a": "Construimos todo lo que rodea la piscina — terrazas, cocinas de verano, pérgolas, drenaje, iluminación — y coordinamos con contratistas de piscinas con licencia cuando una piscina es parte del proyecto, para que la secuencia y los niveles de verdad coincidan. Lo que no vamos a hacer es fingir que un solo oficio lo cubre todo. Un equipo responsable dirige el proyecto; los especialistas hacen aquello para lo que tienen licencia."
+        },
+        {
+          "q": "¿Cuánto debería presupuestar para un proyecto exterior?",
+          "a": "Escala con la estructura. Una pérgola es una conversación; una terraza techada con cocina de verano completa, gas y electricidad es construcción en serio y se cotiza como tal. En los lotes de un acre de Pinecrest la tentación es hacerlo todo por fases sueltas — nosotros solemos recomendar un solo plan maestro, construido por etapas si hace falta, para que la entrada, la terraza y el drenaje se pongan de acuerdo entre sí."
+        }
+      ],
+      "cta_heading": "Un solo plan para todo el patio",
+      "cta_sub": "Recorra el patio con nosotros — en español o en inglés — y le trazamos cómo se ve en su lote un proyecto exterior con permisos y hecho para durar."
+    }
+  }
+}

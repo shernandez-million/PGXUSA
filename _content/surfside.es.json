@@ -1,0 +1,319 @@
+{
+  "area_slug": "surfside",
+  "neighborhoods": [
+    "Biscaya Island",
+    "Abbott Avenue",
+    "Byron Avenue",
+    "Carlyle Avenue",
+    "Dickens Avenue",
+    "Hawthorne Avenue",
+    "Harding Avenue",
+    "Collins Avenue",
+    "The Surf Club Four Seasons Residences",
+    "Fendi Château Residences",
+    "Arte Surfside",
+    "Azure Surfside"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Contratista de remodelación de casas en Surfside | PGX Builders",
+      "meta_description": "Remodelación integral de casas en Surfside, FL: renovamos casas de playa de los años 40, con permisos y revisión de diseño del pueblo incluidos. (786) 273-2524.",
+      "h1": "Casas de Surfside, rehechas desde la estructura",
+      "hero_sub": "Contratista general con licencia (CGC1539072) que remodela de punta a punta las casas de posguerra de Surfside: permisos, revisión de diseño, estructura, instalaciones y acabados, con un supervisor presente cada día que la obra avanza.",
+      "local_heading": "Conocemos Surfside calle por calle",
+      "intro_paragraphs": [
+        "Las cuadras residenciales de Surfside, de Abbott y Byron a Carlyle, Dickens y Hawthorne, se construyeron en su mayoría en los años 40 y 50, cuando una casa de playa significaba cuartos compactos, un solo baño y un carport. Hoy esas mismas casas ocupan uno de los suelos más codiciados entre Miami Beach y Bal Harbour, y sus dueños enfrentan una disyuntiva conocida: demoler o remodelar en serio. Una remodelación integral bien hecha conserva la escala y el carácter de la calle, y a la vez entrega espacios abiertos, instalaciones nuevas, aberturas de impacto y acabados a la altura de lo que la propiedad llegó a ser.",
+        "Todo proyecto de remodelación aquí pasa por el Building Department del Town of Surfside, y este no es un pueblo que apruebe las cosas por inercia. Las renovaciones sustanciales y los cambios exteriores van ante el Planning and Zoning Board, que funge además como junta de revisión de diseño del pueblo; los planos completos deben entregarse semanas antes de la fecha de sesión, y antes de eso viene una reunión previa con el Town Planner, el planificador municipal. Sume las aprobaciones de producto de la High-Velocity Hurricane Zone (HVHZ) de Miami-Dade y las reglas de inundación de FEMA en una isla barrera, donde el umbral de mejora sustancial puede cambiar las cuentas en una casa de losa baja, y ordenar la secuencia de aprobaciones se convierte en la mitad del trabajo.",
+        "Detrás de PGX Builders Group hay más de veinte años construyendo en el sur de la Florida y más de 150 remodelaciones y ampliaciones, todas con permisos e inspecciones. Ponemos el alcance completo por escrito antes de demoler, mantenemos un supervisor en obra a diario y coordinamos todos los oficios bajo una sola licencia, CGC1539072. En calles tan tranquilas como estas, esa disciplina se nota: pisos protegidos, una obra limpia a las cinco de la tarde y vecinos que saben exactamente a quién saludar."
+      ],
+      "scope_heading": "El alcance de la casa completa",
+      "scope_intro": "Un solo contrato de la demolición a la inspección final: distribución, estructura, instalaciones y acabados, definidos por escrito antes de abrir la primera pared.",
+      "scope_items": [
+        {
+          "name": "Renovación interior completa",
+          "desc": "Demolición interior total y reconstrucción de casas de posguerra en Surfside, con distribuciones nuevas, aislamiento y acabados que respetan la escala original de la calle."
+        },
+        {
+          "name": "Aperturas estructurales",
+          "desc": "Vigas y columnas calculadas por ingeniería que convierten los planos fragmentados de los años 40 en espacios abiertos, con memorias de cálculo listas para los revisores del pueblo."
+        },
+        {
+          "name": "Reemplazo total de instalaciones",
+          "desc": "Cableado, plomería y ductos nuevos, dimensionados para cargas modernas: los sistemas que a una casa de playa de 1948 nunca se le pidió soportar."
+        },
+        {
+          "name": "Ventanas y puertas de impacto",
+          "desc": "Cristalería con aprobación de Miami-Dade en toda la casa, reemplazando corredizas fatigadas y ventanas de celosía por aberturas certificadas para la High-Velocity Hurricane Zone."
+        },
+        {
+          "name": "Acabados bajo supervisión",
+          "desc": "Carpintería a medida, piedra y pisos instalados con supervisión diaria, y cada ambiente terminado queda protegido mientras la obra continúa en el resto de la casa."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito revisión de diseño para remodelar una casa en Surfside?",
+          "a": "El trabajo puramente interior suele requerir permisos de construcción, pero no una audiencia ante la junta. Los cambios exteriores y las renovaciones sustanciales sí van ante el Planning and Zoning Board, que maneja la revisión de diseño del pueblo, y antes de someter los planos es obligatoria una reunión previa con el Town Planner. Nosotros preparamos los planos, asistimos a las reuniones e incorporamos el calendario de la junta a su cronograma, para que nunca sea una sorpresa."
+        },
+        {
+          "q": "¿Cuánto demoran los permisos con el Town of Surfside?",
+          "a": "Más de lo que los dueños esperan y menos que las historias de terror, siempre que la solicitud vaya bien armada. Los alcances interiores sencillos avanzan en semanas; todo lo que requiere revisión de la junta depende de las fechas de sesión, y los planos completos deben entregarse con bastante antelación. Nuestra política es someter paquetes completos y referenciados al código desde la primera vez. La mayoría de las demoras de permisos en este pueblo son, en el fondo, demoras de reenvío disfrazadas."
+        },
+        {
+          "q": "¿Nos conviene remodelar la casa en Surfside o demolerla?",
+          "a": "Depende de la estructura, de la elevación y de lo que usted quiera que la casa sea. Las reglas de mejora sustancial de FEMA pueden limitar cuánto invertir en una casa que está por debajo de la elevación de inundación actual, y eso a veces inclina la balanza. Muchas casas de Surfside merecen conservarse: buena estructura, carácter de verdad, calles consolidadas. La recorremos con usted y le damos una respuesta directa, incluso cuando esa respuesta no es una remodelación."
+        },
+        {
+          "q": "¿Cuánto cuesta remodelar una casa completa en Surfside?",
+          "a": "No existe una cifra única y honesta, porque el alcance, la estructura y el nivel de acabados la determinan. Lo que sí podemos prometer: trabajamos en el segmento alto del mercado, cotizamos a partir de un alcance fijo por escrito y no de un cálculo inflado con partidas abiertas, y la cifra que usted firma es la cifra que defendemos. Si hay que tener una conversación dura de presupuesto, preferimos tenerla antes de la demolición y no después."
+        },
+        {
+          "q": "¿Podemos vivir en la casa durante la remodelación?",
+          "a": "En una renovación total de interiores, no, y tampoco querría hacerlo. En obras por fases podemos organizar la casa para que una parte siga habitable, con barreras contra el polvo, pasillos protegidos y un cronograma que mantiene las molestias dentro de lo previsible. En el primer recorrido le diremos con franqueza qué tipo de proyecto es el suyo, para que pueda planificar el año en consecuencia."
+        }
+      ],
+      "cta_heading": "Su casa, nuestra libreta de obra",
+      "cta_sub": "Cuéntenos en qué debe convertirse la casa. La recorremos con usted y ponemos un número real por escrito, en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Remodelación de cocinas y gabinetes en Surfside | PGX Builders",
+      "meta_description": "Remodelación de cocinas en Surfside: de casas de los años 40 en Byron Avenue a residencias en Collins. Gabinetes a medida, piedra y permisos resueltos. (786) 273-2524.",
+      "h1": "Cocinas que dan ganas de llegar a casa",
+      "hero_sub": "Remodelación de cocinas a medida para casas y residencias de condominio en Surfside: gabinetes, piedra, iluminación y cambios de distribución, todo con permisos y construido bajo supervisión diaria por un contratista general licenciado en Miami, CGC1539072.",
+      "local_heading": "De Abbott Avenue al Surf Club",
+      "intro_paragraphs": [
+        "La típica casa de los años 40 en Surfside casi siempre esconde su cocina: angosta, cerrada y al fondo, pensada para un solo cocinero y para otro siglo. En Abbott, Byron y Carlyle Avenue, la remodelación moderna abre ese cuarto hacia la sala, lo ancla con una isla de piedra y lo remata con gabinetes a medida hasta el techo. Sobre Collins Avenue, los propietarios de residencias como el Surf Club o el Fendi Château encargan cocinas del mismo nivel, adaptadas a estructuras de concreto y a reglamentos de asociación en lugar de paredes de madera.",
+        "En las casas, los permisos de cocina se tramitan a través del Building Department del Town of Surfside, y mover gas, desagües o paneles eléctricos exige planos de verdad e inspecciones de verdad, no un apretón de manos. En los condominios, primero viene la revisión de la asociación: certificados de seguro, aprobación del contratista, reserva del elevador de servicio y horarios de trabajo por escrito. Desde que en la Florida rigen las inspecciones estructurales milestone, las juntas de Surfside examinan con lupa todo lo que toque losas, tuberías principales o impermeabilización, y un contratista que llega con los documentos completos mantiene el proyecto fuera de la agenda equivocada.",
+        "La cocina es donde el trabajo de alta gama se mide en milímetros, y actuamos en consecuencia. PGX construye a partir de planos de taller, plantilla la piedra después de instalados los gabinetes y asigna un supervisor diario a su proyecto desde la demolición hasta la lista final de detalles. El alcance queda fijado por escrito, con gabinetes, topes, electrodomésticos e iluminación incluidos, antes de abrir una sola pared. Más de veinte años en el sur de la Florida nos han enseñado que una cocina sin sobresaltos es una cocina bien planificada."
+      ],
+      "scope_heading": "Lo que el contrato de cocina detalla",
+      "scope_intro": "De la distribución a la iluminación, un solo equipo responsable: cada oficio coordinado, cada partida con nombre y cada acabado protegido mientras la obra avanza.",
+      "scope_items": [
+        {
+          "name": "Gabinetes a medida",
+          "desc": "Gabinetes fabricados por encargo, instalados a nivel y ajustados al milímetro, con frentes panelables para electrodomésticos e interiores organizados según cómo cocina realmente su familia."
+        },
+        {
+          "name": "Topes e islas de piedra",
+          "desc": "Láminas de mármol, cuarcita y porcelanato plantilladas en sitio, con vetas casadas en espejo y cantos a inglete en islas hechas para anclar el ambiente."
+        },
+        {
+          "name": "Distribución y reubicación de equipos",
+          "desc": "Paredes abiertas, gas y electricidad reencaminados y extracción con ductos como corresponde: la diferencia entre una cocina nueva y una vieja con maquillaje."
+        },
+        {
+          "name": "Diseño de iluminación",
+          "desc": "Iluminación de tarea, ambiental y de acento en circuitos separados, planificada junto con los gabinetes para que nada quede donde bate una puerta."
+        },
+        {
+          "name": "Cocinas en condominios",
+          "desc": "Reconstrucción completa de cocinas en residencias de Surfside, gestionada alrededor de las reglas de la asociación, los horarios del elevador y vecinos que esperan no escucharlo."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Pueden remodelar una cocina en un edificio de condominios en Surfside?",
+          "a": "Sí, y es buena parte de lo que hacemos en el pueblo. Nos encargamos del paquete de la asociación: certificados de licencia y seguro, depósitos de renovación donde se exigen, reservas de elevador y horarios de trabajo aprobados. Cada edificio sobre Collins Avenue tiene su propio reglamento, y desde que las inspecciones milestone son ley, las juntas revisan de cerca las penetraciones de losa y los cambios de plomería. Ese tiempo de revisión lo incorporamos al cronograma desde el primer día."
+        },
+        {
+          "q": "¿Una remodelación de cocina en Surfside necesita permiso?",
+          "a": "Si el proyecto mueve plomería, gas o electricidad, y una remodelación de cocina de verdad casi siempre lo hace, entonces sí: permisos a través del Building Department del Town of Surfside, con inspecciones en el camino. Un simple cambio de gabinetes y topes puede ser más ligero, pero preferimos tramitar el permiso antes que explicar su ausencia cuando usted venda. El trabajo de cocina sin permisos tiene la costumbre de salir a la luz en el cierre."
+        },
+        {
+          "q": "¿Cuánto tarda realmente una cocina a medida?",
+          "a": "Piense en meses y no en semanas una vez que entran en juego los plazos de fabricación de los gabinetes, porque las cajas a medida y los electrodomésticos especiales marcan el ritmo más que la construcción misma. Nuestro cronograma corre las compras y los permisos en paralelo, de modo que la demolición empieza cuando los materiales están cerca, no antes. Una cocina vacía esperando gabinetes es el único fracaso de cronograma que nos negamos a programar."
+        },
+        {
+          "q": "¿En cuánto sale una remodelación de cocina de alta gama en esta zona?",
+          "a": "Los rangos son amplios, y la gente honesta lo dice. Los gabinetes a medida, la piedra natural y el paquete de electrodomésticos explican la mayor parte de la diferencia, y los propietarios de Surfside suelen construir al nivel que la casa o el edificio exige. Cotizamos a partir de una especificación escrita, línea por línea, para que usted decida a dónde va el dinero antes de que vaya a ninguna parte."
+        },
+        {
+          "q": "¿Podemos seguir usando la casa durante la remodelación de la cocina?",
+          "a": "Por lo general, sí. Aislamos la cocina detrás de barreras selladas contra el polvo, protegemos los pisos en cada ruta que usan nuestras cuadrillas y, si lo desea, montamos un rincón de cocina provisional. En los edificios de condominio la contención es más estricta: pasillos y elevadores se protegen a diario, porque el edificio está mirando aunque usted no."
+        }
+      ],
+      "cta_heading": "Empiece por la conversación de la cocina",
+      "cta_sub": "Traiga los planos de su arquitecto o solo sus ideas. Recorremos el espacio con usted y le damos un estimado directo, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Surfside, FL | PGX Builders Group",
+      "meta_description": "Remodelación de baños en Surfside, FL: suites principales, duchas de vidrio sin marco e impermeabilización bien hecha, en casas de playa y condominios. (786) 273-2524.",
+      "h1": "Primero impermeable, después impecable",
+      "hero_sub": "PGX remodela baños en Surfside desde el desagüe hasta la piedra: suites principales, baños de visita y renovaciones en condominios, cada uno con permisos, inspecciones y la supervisión diaria de un contratista general licenciado.",
+      "local_heading": "Conocimiento local, hasta en los desagües",
+      "intro_paragraphs": [
+        "La casa clásica de Surfside vino con una cantidad de baños que tenía sentido en 1948 y hoy no lo tiene. Por eso los dueños en Carlyle, Dickens y Hawthorne tallan suites principales de verdad, con duchas de vidrio sin marco, tinas independientes y dobles lavamanos en piedra, mientras los desagües originales de hierro fundido, oxidándose en silencio desde los tiempos de Truman, por fin se reemplazan. En las residencias de condominio sobre Collins Avenue, la remodelación de baños recibe el mismo tratamiento dentro de estructuras de concreto, donde la impermeabilización sobre el techo del vecino no es un detalle que nadie pueda tomarse a la ligera.",
+        "Los baños de casa pasan por permisos e inspecciones del Building Department del Town of Surfside, con pruebas de inundación del plato de ducha e inspecciones de instalaciones en bruto en el camino, y esos controles los tratamos como una ventaja, no como una fricción. Los baños de condominio suman la capa de la asociación: solicitudes de renovación, certificados de seguro, reglas para áreas húmedas y escrutinio de cualquier penetración de losa, algo que las reformas de inspecciones milestone de la Florida no han hecho más que agudizar. En una isla barrera, además, especificamos pensando en el propio entorno: elegimos griferías, herrajes y acabados sabiendo que el salitre es paciente y la ferretería barata no.",
+        "Nuestro trabajo de baños se apoya en la parte que usted nunca verá: membranas de impermeabilización de cobertura total, platos de ducha probados con agua, bordes con la pendiente correcta y penetraciones selladas, todo documentado antes de que el azulejo lo esconda. La parte visible, la piedra, el vidrio y el bronce, la instalan oficios de acabado que trabajan en el segmento alto todas las semanas, bajo un supervisor que revisa la obra a diario. Alcance fijo por escrito y una sola licencia responsable, CGC1539072. Un cuarto pequeño es justo donde tomar atajos resulta más tentador y menos perdonable."
+      ],
+      "scope_heading": "Todo lo que el baño necesita, en orden",
+      "scope_intro": "Demolición, impermeabilización, plomería, azulejo, vidrio y griferías, en la secuencia correcta y con inspecciones honestas, sea un medio baño o la suite principal completa.",
+      "scope_items": [
+        {
+          "name": "Conversión a suite principal",
+          "desc": "Unimos dormitorios y clósets de posguerra en verdaderas suites principales, con duchas amplias a ras de piso, tinas independientes y almacenamiento que un plano de los años 40 jamás imaginó."
+        },
+        {
+          "name": "Duchas sin marco",
+          "desc": "Duchas de umbral bajo sobre platos probados con agua, desagües con pendiente de verdad y vidrio de gran espesor que se ordena solo cuando el azulejo ya está puesto."
+        },
+        {
+          "name": "Sistemas de impermeabilización",
+          "desc": "Membranas, platos de ducha y penetraciones selladas, instalados según la especificación del fabricante y documentados con fotos antes de que un solo azulejo los cubra."
+        },
+        {
+          "name": "Reemplazo de plomería",
+          "desc": "Líneas nuevas de suministro y desagüe que sustituyen el hierro galvanizado y fundido original, para que el cuarto más bonito de la casa no esconda las tuberías más viejas."
+        },
+        {
+          "name": "Baños en condominios",
+          "desc": "Remodelación de áreas húmedas en edificios de Surfside, coordinada con los requisitos de la asociación y con la cautela ante losas y tuberías verticales que este pueblo, más que otros, se toma en serio."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Las asociaciones de condominio en Surfside permiten renovar baños?",
+          "a": "Sí, con condiciones, y las condiciones son el proyecto. Espere una solicitud de renovación, comprobantes de licencia y seguro, reglas de impermeabilización para áreas húmedas y atención minuciosa a todo lo que toque la losa o las tuberías comunes. En la era de las inspecciones milestone, las juntas de Surfside son cuidadosas con razón. Armamos el paquete, cumplimos los requisitos del edificio al pie de la letra y programamos según sus horarios, para que la aprobación sea un paso y no una pelea."
+        },
+        {
+          "q": "¿Necesito permiso para remodelar un baño en Surfside?",
+          "a": "Si la plomería o la electricidad se mueven, y en una remodelación seria se mueven, entonces sí: a través del Building Department del Town of Surfside, con inspecciones que incluyen la prueba de agua que demuestra que su ducha no filtra antes de colocar el azulejo. Es exactamente el tipo de obra pequeña que la gente se tienta a hacer por lo bajo, y exactamente donde empiezan las filtraciones, el moho y los problemas de reventa."
+        },
+        {
+          "q": "¿Cuánto tarda la remodelación de un baño?",
+          "a": "Un baño principal completo suele tomar unos pocos meses de puerta a puerta. La demolición y las instalaciones en bruto avanzan rápido, pero la fabricación de la piedra, el vidrio a medida y la programación de inspecciones marcan el ritmo real. Ordenamos los materiales de plazo largo antes de demoler y secuenciamos los oficios para que el cuarto nunca esté esperando una decisión. El cronograma cotizado incluye las partes aburridas, y por eso lo cumplimos."
+        },
+        {
+          "q": "¿Cuánto cuesta aquí un baño de alta gama?",
+          "a": "Menos que la cocina, más de lo que la gente espera. La piedra, el vidrio y las griferías abarcan un rango enorme, y la mano de obra de una impermeabilización bien hecha no es donde economizamos. Redactamos un alcance fijo y detallado por partidas para que usted vea qué mueve el número y lo ajuste antes de empezar. En las casas y edificios de Surfside por igual, hacerlo una sola vez es la versión económica."
+        },
+        {
+          "q": "¿Pueden arreglar una ducha que ya filtra?",
+          "a": "Casi siempre la solución honesta es reconstruir el área húmeda, no parcharla. Cuando el agua ya está detrás del azulejo, la membrana falló, y la silicona superficial no la va a resucitar. Abrimos el conjunto, medimos hasta dónde llegó el daño y reconstruimos con un plato probado e impermeabilización completa. Es un trabajo poco glamoroso que respaldamos con gusto, que es más de lo que puede decirse de la silicona."
+        }
+      ],
+      "cta_heading": "Planifique el baño antes de la demolición",
+      "cta_sub": "Un recorrido, un alcance por escrito y un cronograma que puede exigirnos, en español o en inglés, como usted prefiera."
+    },
+    "home-additions": {
+      "title": "Ampliaciones y segundos pisos en Surfside, FL | PGX Builders",
+      "meta_description": "Ampliaciones de casas en Surfside: segundos pisos, extensiones traseras y conversiones de garaje en lotes compactos, con ingeniería y permisos completos. (786) 273-2524.",
+      "h1": "Más casa, la misma calle de siempre",
+      "hero_sub": "De la extensión trasera al segundo piso completo, PGX diseña la ingeniería, tramita los permisos y construye ampliaciones en Surfside bajo un solo contrato: una licencia, CGC1539072, un alcance por escrito y un supervisor que conoce su obra por nombre y apellido.",
+      "local_heading": "Espacio para crecer entre el mar y la bahía",
+      "intro_paragraphs": [
+        "Las familias que llegan a Surfside tienden a quedarse, ancladas por la playa, el centro caminable sobre Harding Avenue y la lista corta de lugares que se le parecen. Lo primero que se queda corto es la casa: una huella de los años 40 con tres dormitorios modestos y sin oficina. En lotes compactos entre el mar y la bahía de Biscayne, la respuesta suele ser construir en lugar de desparramarse: una extensión trasera hacia el patio, un garaje convertido como corresponde o un segundo piso que encuentra la luz y la brisa que el arquitecto original nunca salió a buscar.",
+        "Las ampliaciones reciben la atención completa del pueblo. Los planos pasan por el Building Department del Town of Surfside y ante el Planning and Zoning Board para la revisión de diseño, con retiros y cobertura de lote verificados con cuidado en calles así de compactas. La obra estructural debe cumplir los estándares de la High-Velocity Hurricane Zone de Miami-Dade, lo que significa cimentaciones nuevas, conexiones de vigas de amarre y empalmes de techo con ingeniería e inspección, y en casas antiguas de losa baja el cálculo de mejora sustancial de FEMA puede definir cómo se organiza el proyecto por fases. Nada de esto debería asustarlo; debería convencerlo de dejar la secuencia resuelta antes de vaciar el primer concreto.",
+        "PGX ha entregado más de 150 remodelaciones y ampliaciones en el sur de la Florida a lo largo de más de veinte años, y las ampliaciones son donde esa experiencia paga doble: una vez en ingeniería y otra en logística. Empalmamos la estructura nueva con la vieja sin dejar cicatriz, protegemos la mitad habitada de la casa mientras construimos la otra mitad y mantenemos un supervisor en obra a diario. El alcance queda fijo por escrito hasta el drywall, los acabados y la inspección final, para que la ampliación termine como empezó: a propósito."
+      ],
+      "scope_heading": "Maneras de ganar espacio en Surfside",
+      "scope_intro": "Cinco caminos probados hacia una casa más grande en un lote de pueblo costero, cada uno con ingeniería, permisos y una construcción que hace juego con la casa original.",
+      "scope_items": [
+        {
+          "name": "Segundos pisos",
+          "desc": "Plantas altas completas sobre estructura de posguerra reforzada, que suman dormitorios y terrazas que atrapan la brisa donde antes había un techo bajo."
+        },
+        {
+          "name": "Extensiones traseras",
+          "desc": "Salas familiares, estudios y cocinas ampliadas que se extienden hacia el patio sobre cimentaciones nuevas, empalmadas correctamente a la losa y el techo existentes."
+        },
+        {
+          "name": "Conversiones de garaje",
+          "desc": "Carports y garajes reconstruidos como espacio habitable climatizado: aislados, con permisos y terminados de modo que nada en el cuarto diga garaje."
+        },
+        {
+          "name": "Suites para familiares",
+          "desc": "Habitaciones de huéspedes independientes con baño y cocineta, hechas para las visitas familiares largas que los hogares del sur de la Florida realmente reciben."
+        },
+        {
+          "name": "Refuerzos estructurales",
+          "desc": "Vigas de amarre, columnas y trabajo de cimentación con ingeniería para la High-Velocity Hurricane Zone, porque la estructura nueva vale lo que valen sus conexiones."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Una ampliación en Surfside requiere revisión de diseño?",
+          "a": "Sí. Las ampliaciones cambian el exterior, y eso es exactamente lo que revisa el Planning and Zoning Board. Primero viene una reunión previa con el Town Planner, y los planos completos deben someterse con bastante antelación a la fecha de sesión de la junta. Preparamos planos que responden las preguntas de la junta antes de que las hagan, que es la diferencia silenciosa entre una audiencia y tres."
+        },
+        {
+          "q": "¿Puedo agregar un segundo piso a una casa de los años 40 en Surfside?",
+          "a": "Muchas veces sí, una vez que un ingeniero confirma que la cimentación y las paredes pueden cargarlo, o especifica el refuerzo que lo hará posible. Las casas de posguerra aquí varían más de lo que sugieren sus fachadas parecidas, así que empezamos con una evaluación estructural y no con una promesa. Cuando hace falta reforzar, se diseña dentro del proyecto desde el principio, en lugar de descubrirse como una orden de cambio en el tercer mes."
+        },
+        {
+          "q": "¿La regla del 50 por ciento de FEMA limitará nuestra ampliación?",
+          "a": "En zonas de inundación mapeadas, las mejoras valoradas por encima de cierta proporción del valor de la estructura pueden obligar a llevar todo el edificio a los estándares actuales de elevación contra inundaciones. En una casa antigua de losa baja en Surfside, ese cálculo de verdad moldea el diseño y las fases. Corremos los números con el pueblo temprano, antes de terminar el diseño, porque es mucho más barato planificar alrededor del umbral que chocar contra él."
+        },
+        {
+          "q": "¿Cuánto tarda una ampliación de casa en Surfside?",
+          "a": "Del primer boceto a la inspección final, piense en temporadas, no en semanas. El diseño, la ingeniería, la revisión de la junta y los permisos vienen antes que la construcción, y el tiempo de obra depende del alcance: un segundo piso toma más que una extensión trasera. Le entregamos un cronograma que muestra las fases de aprobación con honestidad, porque un calendario que omite los permisos es ficción con fecha de inicio."
+        },
+        {
+          "q": "¿Podemos quedarnos en la casa mientras construyen?",
+          "a": "Por lo general sí, y la mayoría de las familias lo hace. Separamos la zona de obra con barreras selladas, mantenemos los servicios activos en las áreas habitadas y programamos el trabajo ruidoso pensando en su hogar. Suele haber un solo tramo realmente incómodo, cuando la estructura nueva se empalma con la vieja, y le avisamos cuándo será para que pueda organizarse."
+        }
+      ],
+      "cta_heading": "Descubra hasta dónde da su lote",
+      "cta_sub": "Medimos, revisamos la zonificación y le decimos con honestidad qué ampliación es posible aquí, en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y espacios exteriores en Surfside, Miami | PGX Builders",
+      "meta_description": "Construcción de espacios exteriores en Surfside: terrazas, cocinas de verano y pérgolas para el salitre y el código de huracanes, con permisos incluidos. (786) 273-2524.",
+      "h1": "Un patio que se gana su lugar",
+      "hero_sub": "Terrazas, cocinas de verano, pérgolas y mejoras exteriores para casas de Surfside, con ingeniería para cargas de viento costeras, permisos tramitados con el pueblo y la supervisión diaria de un contratista general licenciado.",
+      "local_heading": "Vida al aire libre en un pueblo para caminar",
+      "intro_paragraphs": [
+        "Surfside es un pueblo que se vive a pie, caminando a la playa, a Harding Avenue, al centro comunitario, y sus patios se están poniendo a la altura de esa vida al aire libre. Detrás de las casas de los años 40 en Byron y Dickens, y frente a la bahía en Biscaya Island, los propietarios construyen terrazas techadas, cocinas de verano y pérgolas que convierten un patio modesto en el cuarto más usado de la casa. La obra que dura se construye como lo exige la costa: materiales densos, herrajes de grado marino y una sombra bajo la que uno de verdad se pueda sentar en agosto.",
+        "Nada recibe una mirada más atenta de Surfside que la obra exterior. Las estructuras, las entradas de auto y los cambios visibles pasan por el Building Department del Town of Surfside, con el Planning and Zoning Board opinando sobre el diseño cuando corresponde, y todo lo que deba resistir viento, de una pérgola a nuevas aberturas de impacto, necesita ingeniería y aprobaciones de producto de Miami-Dade detrás. El drenaje también cuenta. En calles costeras de poca elevación, una entrada o una terraza nueva debe mover el agua con intención, no descubrir la gravedad por accidente.",
+        "PGX aborda los proyectos exteriores igual que los interiores, con alcance fijo por escrito, ingeniería de verdad y supervisión diaria, porque la obra exterior improvisada falla de maneras más lentas y más caras. Cuando nos lo piden, coordinamos la envolvente completa: estuco y pintura, el cambio de techo programado con el techero, ventanas y puertas de impacto y la terraza misma, en una secuencia donde los oficios se ayudan en lugar de deshacerse el trabajo unos a otros. Más de veinte años de clima del sur de la Florida son nuestro revisor de diseño de última instancia, y tiene opiniones firmes."
+      ],
+      "scope_heading": "Hecho para sal, sol y escrutinio",
+      "scope_intro": "De la calle al fondo del patio que mira a la bahía: estructuras exteriores y mejoras de la envolvente, con ingeniería para el clima costero y construidas para aguantarlo.",
+      "scope_items": [
+        {
+          "name": "Terrazas techadas",
+          "desc": "Ambientes exteriores bajo techo con abanicos, iluminación y drenaje planificados desde el inicio, con ingeniería para el viento costero y no solo para la foto."
+        },
+        {
+          "name": "Cocinas de verano",
+          "desc": "Cocinas exteriores en piedra y acero inoxidable con gas, agua y electricidad instalados como corresponde, hechas para el salitre, que no perdona nada comprado barato."
+        },
+        {
+          "name": "Pérgolas y estructuras de sombra",
+          "desc": "Pérgolas y celosías ancladas y calculadas que cumplen los requisitos de carga de viento y aun así parecen diseñadas, no calculadas."
+        },
+        {
+          "name": "Entradas de auto y pavimentos",
+          "desc": "Adoquines, concreto y senderos con drenaje diseñado para calles de poca elevación, para que la primera marea alta extrema no sea una inspección sorpresa."
+        },
+        {
+          "name": "Mejoras de la envolvente",
+          "desc": "Reparación de estuco y pintura, ventanas y puertas de impacto y coordinación del cambio de techo: el exterior manejado como un solo proyecto y no como cinco llamadas."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Las estructuras exteriores necesitan permisos en Surfside?",
+          "a": "Casi todo lo que tenga estructura, zapatas, gas o electricidad los necesita, incluidas pérgolas, cocinas de verano, terrazas techadas y entradas de auto. Los cambios exteriores son además donde puede aplicar el proceso de revisión de diseño del pueblo, porque a Surfside le importa abiertamente cómo se ven sus calles. Incorporamos los permisos y cualquier paso ante la junta al plan del proyecto desde el principio, para que las aprobaciones lleguen antes que la cuadrilla."
+        },
+        {
+          "q": "¿Qué materiales sobreviven mejor tan cerca del mar?",
+          "a": "La verdad sin glamur: herrajes de acero inoxidable 316, luminarias y abanicos de grado marino, maderas densas o compuestos de calidad, aluminio con pintura en polvo, y piedra o porcelanato por encima de cualquier cosa que se oxide, se hinche o se destiña. El salitre es una suscripción, no un evento; cobra todos los meses. Especificamos para una década de exposición y le diremos sin rodeos qué opciones bonitas del catálogo no aguantan aquí ni un verano."
+        },
+        {
+          "q": "¿Pueden construir una cocina de verano en una casa frente a la bahía en Biscaya Island?",
+          "a": "Sí. Las terrazas y cocinas de verano frente a la bahía son proyectos naturales para esos lotes, con gas, agua y electricidad instalados y con sus permisos en regla. El entorno frente al agua suma exposición al viento y, en algunos puntos, reglas de zona de inundación que definen qué se construye y a qué altura. Diseñamos para esa exposición, manejamos el proceso del pueblo y respetamos la tranquilidad de una calle cerrada mientras trabajamos."
+        },
+        {
+          "q": "¿Las pérgolas de verdad necesitan ingeniería aquí?",
+          "a": "Sí; Surfside está en la High-Velocity Hurricane Zone de Miami-Dade. Una estructura de sombra es una vela con postes, y los estándares de viento del condado le aplican igual que a su techo. El anclaje calculado y los componentes aprobados son lo que mantiene a una pérgola siendo pérgola en octubre. Las nuestras van calculadas, con permiso e inspección, y aun así parecen mobiliario y no infraestructura."
+        },
+        {
+          "q": "¿Pueden encargarse del estuco, la pintura y el techo junto con la obra exterior?",
+          "a": "Así es exactamente como lo preferimos. La secuencia importa: techo antes que pintura, estuco antes que ambos, aberturas antes que acabados. Un solo plan coordinado le ahorra tres rondas de andamios y una pared repintada. Traemos al techero licenciado, llevamos el cronograma y le entregamos un exterior terminado, en lugar de una serie de proyectos sueltos que casi coinciden."
+        }
+      ],
+      "cta_heading": "Ponga el patio a trabajar",
+      "cta_sub": "Recorra el patio con nosotros, cuéntenos la lista de deseos y volvemos con un estimado medido, en español o en inglés."
+    }
+  }
+}

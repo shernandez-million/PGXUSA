@@ -1,0 +1,319 @@
+{
+  "area_slug": "bay-harbor-islands",
+  "neighborhoods": [
+    "West Island",
+    "East Island",
+    "Kane Concourse",
+    "West Broadview Drive",
+    "Bay Harbor Terrace",
+    "East Bay Harbor Drive",
+    "West Bay Harbor Drive",
+    "Broad Causeway",
+    "La Baia",
+    "Alana Bay Harbor",
+    "Pearl House",
+    "The Well Bay Harbor Islands"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Bay Harbor Islands, FL Home Remodeling | PGX Builders",
+      "meta_description": "Whole-home remodeling in Bay Harbor Islands, FL. PGX rebuilds mid-century West Island houses: permitted, engineered, supervised daily. Call (786) 273-2524.",
+      "h1": "Whole-Home Remodeling for an Island Town",
+      "hero_sub": "PGX Builders Group takes late-1940s and 1950s Bay Harbor Islands houses down to the structure and builds them back, permitted through the town, engineered for the hurricane zone, and supervised on site every single day.",
+      "local_heading": "Two Islands, One Standard of Work",
+      "intro_paragraphs": [
+        "The West Island of Bay Harbor Islands is a compact grid of single-family homes, most built between the late 1940s and the 1960s, with a healthy share of them on the water. Some owners tear down and start over. Plenty of others look at a solid mid-century house on West Broadview Drive or Bay Harbor Terrace and see a second act: an opened-up plan, new mechanicals, impact glass, and finishes that hold their own next to the new construction rising around them. That second group calls us.",
+        "Every project here runs through the Town of Bay Harbor Islands Building & Zoning Department, which processes permits on its Citizenserve portal and requires separate permits for windows, doors, roofing, electrical, and plumbing. Exterior renovations, additions, and new construction go before the town's Design Review Board. This is also a barrier island in Miami-Dade's High-Velocity Hurricane Zone, so every opening needs a Miami-Dade product approval, and on older homes FEMA's substantial-improvement rules can decide how far a renovation should reasonably go. We map all of it before you sign anything.",
+        "Remodeling South Florida homes has been PGX Builders Group's whole business for more than 20 years — 150-plus remodels and additions, every one permitted and inspected. You get a fixed written scope before demolition begins, a supervisor on site daily, and one accountable team from first estimate through warranty. We protect the terrazzo you want to keep, contain the dust, and put every change in writing. High-end work is mostly discipline, and we brought ours — licensed and insured, CGC1539072."
+      ],
+      "scope_heading": "One Remodel, Every Trade Accounted For",
+      "scope_intro": "One contract from demolition through final inspection: structure, systems, openings, and finishes for mid-century island homes, sequenced by a team that has done this for two decades.",
+      "scope_items": [
+        {
+          "name": "Full-gut renovations",
+          "desc": "Down-to-the-block interior renovations of 1950s West Island houses: new layouts, new systems, new finishes, with the original footprint kept where it still earns its place."
+        },
+        {
+          "name": "Structural openings",
+          "desc": "Bearing walls removed and beams engineered so closed mid-century plans become the open, water-facing living space the lot promised all along."
+        },
+        {
+          "name": "Full MEP replacement",
+          "desc": "New electrical service, supply and drain lines, and right-sized HVAC — the unglamorous systems that keep a remodeled island house dry, cool, and insurable."
+        },
+        {
+          "name": "Impact windows and doors",
+          "desc": "Miami-Dade approved glazing throughout, installed with flashing and waterproofing details matched to how sideways this town's rain actually arrives."
+        },
+        {
+          "name": "Finishes and millwork",
+          "desc": "Custom carpentry, stone, and tile executed to the standard the island's new construction has set, installed under daily supervision rather than dropped off."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do I need Design Review Board approval to remodel a home in Bay Harbor Islands?",
+          "a": "If the work changes the exterior — new openings, additions, significant facade work — plans go before the town's Design Review Board, which reviews new construction, exterior renovations, and additions. Interior-only remodels generally proceed on building and trade permits without a board hearing. We design with the board's review in mind from day one, prepare the submittal package, and present the project so approval is a step, not a stall."
+        },
+        {
+          "q": "Should I remodel my West Island house or tear it down and rebuild?",
+          "a": "It comes down to three things: the structure's condition, the floor elevation, and FEMA's substantial-improvement math. A sound mid-century house below today's flood elevations can often absorb a major remodel if the improvement value stays under the threshold; cross it, and elevation requirements may push you toward rebuilding. We walk the house, run the numbers honestly, and tell you which side of the line you are on, even when the answer means a smaller project for us."
+        },
+        {
+          "q": "How long does permitting take through the Town of Bay Harbor Islands?",
+          "a": "The town runs permits through its Citizenserve online portal, and as a small municipality it is more accessible than a big-city counter, but timelines still depend on scope. Straightforward interior remodels move faster; projects needing Design Review Board hearings, structural review, or flood-zone documentation take longer, usually measured in months from first submittal for a whole-home job. We build the permitting phase into the schedule you see, so nobody is surprised."
+        },
+        {
+          "q": "What do whole-home remodels run on Bay Harbor Islands?",
+          "a": "There is no honest one-number answer: a whole-home remodel here spans a wide range depending on structural changes, window and door packages, and finish level, and the waterfront premium shows up in expectations as much as square footage. Nobody hires us for the lowest number, and we do not chase it. What we offer instead is a fixed written scope priced line by line, so you compare real numbers instead of allowances that balloon later."
+        },
+        {
+          "q": "Who handles permits, inspections, and the paperwork?",
+          "a": "We do — that is a large part of what you are hiring. PGX prepares drawings with our engineers, files through the town's portal, schedules every inspection, and closes every permit before final payment. Every project we deliver is 100 percent permitted and inspected; unpermitted work on an island this closely reviewed is a liability that surfaces at resale, and we want no part of it."
+        }
+      ],
+      "cta_heading": "Your Island House, Remade",
+      "cta_sub": "Walk us through the house and tell us how you actually live. We come back with a fixed scope and a real number, in English o en español."
+    },
+    "kitchen-remodeling": {
+      "title": "Kitchen Remodeling | Bay Harbor Islands, FL | PGX Builders",
+      "meta_description": "Custom kitchen remodeling in Bay Harbor Islands: opened-up 1950s layouts, condo build-outs, custom cabinetry and stone. Licensed GC. Call (786) 273-2524.",
+      "h1": "Kitchens Built for Bay Harbor Islands",
+      "hero_sub": "Custom kitchen remodeling across both islands: opened-up mid-century layouts, designer-ready condo build-outs, custom cabinetry and stone, all designed, permitted, and built by one licensed team with a supervisor present daily.",
+      "local_heading": "From Closed Galley to Open Island",
+      "intro_paragraphs": [
+        "Bay Harbor Islands kitchens come in two flavors. On the West Island, late-1940s and 1950s houses were drawn with the kitchen walled off in back — fine for 1952, less fine when the water view is on the other side of that wall. On the East Island, new buildings like Alana, Pearl House, and The Well deliver residences designer-ready, which is a polite way of saying the kitchen is yours to build from the slab up. Either way, the owners who call us want custom cabinetry, real stone, and a layout that finally makes sense.",
+        "Even an all-interior kitchen remodel needs permits from the Town of Bay Harbor Islands Building & Zoning Department once plumbing, electrical, or mechanical work moves, and taking a load-bearing wall out of a 1950s house needs engineering the town will want to see. In East Island condos, add the association layer: renovation approvals, contractor insurance certificates, elevator reservations, and workday hour limits. We prepare the drawings, file through Citizenserve, and keep the board and the building manager equally unbothered.",
+        "A kitchen is where high-end either shows or does not. PGX builds them the disciplined way: a fixed written scope with allowances spelled out, cabinetry measured after the walls are actually where the drawings say, stone templated in person, and a site supervisor present every working day. Floors get protected, dust gets contained, and the rest of the home stays livable while we work. One licensed, insured team (CGC1539072) carries it from estimate to warranty, backed by 20-plus years in South Florida."
+      ],
+      "scope_heading": "What We Build Into an Island Kitchen",
+      "scope_intro": "Cabinetry, stone, structure, and light — the full kitchen scope, handled by one licensed team from drawings to the last drawer pull.",
+      "scope_items": [
+        {
+          "name": "Custom cabinetry",
+          "desc": "Fully custom cabinet boxes and fronts, field-measured after walls are set, with interiors organized around how your household actually cooks and stores."
+        },
+        {
+          "name": "Stone counters and islands",
+          "desc": "Natural stone and premium quartz, templated in person and seamed thoughtfully, including the oversized island that becomes the most used room in the house."
+        },
+        {
+          "name": "Layout and structural changes",
+          "desc": "Galley walls opened with engineered beams, doorways relocated, and sight lines aimed at the water instead of at 1955."
+        },
+        {
+          "name": "Appliance and utility relocation",
+          "desc": "Gas, electrical, and plumbing moved to serve the new plan, permitted through the town and inspected before anything closes up."
+        },
+        {
+          "name": "Lighting design",
+          "desc": "A lighting plan in layers — task at the counters, ambient overhead, accents on the millwork — dimmable throughout and designed with the stone in mind."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Will my Bay Harbor Islands kitchen remodel require permits?",
+          "a": "Almost always. The moment plumbing, electrical, or mechanical work moves — and in a real kitchen remodel it moves — the Town of Bay Harbor Islands requires building and trade permits, filed through its Citizenserve portal. Removing a wall adds structural review. Purely cosmetic swaps can skate by, but that is rarely what our clients are doing. We pull every permit and schedule every inspection as part of the contract."
+        },
+        {
+          "q": "Can you finish a designer-ready kitchen in a new East Island condo?",
+          "a": "Yes — that is exactly what designer-ready means: the building hands you a shell and the kitchen is yours to create. We handle the full build-out — cabinetry, stone, appliances, lighting — plus the association side: approvals, insurance certificates, elevator reservations, and the building's working hours. New buildings protect their common areas fiercely, and we protect them harder, which keeps management friendly for the whole project."
+        },
+        {
+          "q": "Can you open my 1950s kitchen to the living room and the water view?",
+          "a": "Usually, yes. Most walls between a mid-century kitchen and living space can come out once an engineer designs the beam that replaces them, and that structural work is well within what the town permits routinely. The rewarding part is what follows: an island where the wall stood, sight lines to the water, and a kitchen that finally participates in the house. We handle engineering, permits, and the rebuild as one scope."
+        },
+        {
+          "q": "What is the realistic timeline for a full kitchen renovation?",
+          "a": "Plan in months, not weeks, and cabinetry drives the calendar. Fully custom cabinetry carries real lead times, so we sequence the project around it: measure, order early, then demolition, rough-in, inspections, and finishes timed so the boxes arrive when the room is ready for them. Condo projects add association approval windows up front. We give you a schedule at contract and a supervisor who keeps it honest."
+        },
+        {
+          "q": "What does a high-end kitchen cost in this market?",
+          "a": "A genuinely custom kitchen — full-height cabinetry, natural stone, appliance relocation, layered lighting — is a significant investment, and the range is wide because the choices are. Imported slabs and paneled appliances live at one end; excellent domestic cabinetry and quartz at the other. Rather than quote a fantasy number, we price your actual selections in a fixed written scope, with allowances stated plainly so the budget conversation happens once, at the start."
+        }
+      ],
+      "cta_heading": "Bring Us Your Kitchen Wish List",
+      "cta_sub": "Bring your ideas, your saved photos, or just the wall you want gone. We do a walk-through and a straight estimate, in English o en español."
+    },
+    "bathroom-remodeling": {
+      "title": "Bathroom Remodeling, Bay Harbor Islands FL | PGX Builders",
+      "meta_description": "Bathroom remodeling in Bay Harbor Islands, FL: primary suites, frameless showers, waterproofing that holds. Permitted and supervised. Call (786) 273-2524.",
+      "h1": "Bathrooms Done Right, Down to the Membrane",
+      "hero_sub": "Bathroom remodeling in Bay Harbor Islands with the priorities in the right order: waterproofing first, then the stone, the glass, and the tub — fully permitted through the town, licensed, and supervised every working day.",
+      "local_heading": "Waterproofing Matters More on an Island",
+      "intro_paragraphs": [
+        "Mid-century houses on the West Island of Bay Harbor Islands were generous with waterfront footage and stingy with bathrooms: small, compartmented rooms that never met a double vanity. Owners here routinely combine two of them into one real primary suite, with a curbless shower behind frameless glass, a freestanding tub, and stone that runs floor to ceiling. On the East Island, condo owners are renovating older units and finishing newer ones to the same standard. Different buildings, same request: a bathroom that feels inevitable, not remodeled.",
+        "Bathroom work in this town means permits: the Town of Bay Harbor Islands Building & Zoning Department issues separate plumbing and electrical permits, filed through its Citizenserve portal, and inspectors look at what is behind the tile before it becomes tile. In a condo, your shower pan sits over somebody's ceiling, so associations require licensed, insured contractors and approve the scope first — and in the milestone-inspection era, boards pay real attention to anyone touching plumbing stacks and penetrations. We treat that scrutiny as a feature, not an obstacle.",
+        "Waterproofing is the part of a bathroom nobody sees and everybody eventually regrets skipping, so we refuse to skip it. Membranes run past where the code minimum stops, pans get flood-tested before tile, and niches get built in, not carved out later. PGX gives you a fixed written scope, a daily on-site supervisor, and clean containment so the rest of the home stays yours during the work. More than 150 remodels and additions across South Florida, all permitted and inspected. Licensed and insured, Lic. CGC1539072."
+      ],
+      "scope_heading": "The Full Bathroom Scope",
+      "scope_intro": "From demolition to the final bead of silicone, every layer is ours, and the layers you never see get the most attention.",
+      "scope_items": [
+        {
+          "name": "Primary suite conversions",
+          "desc": "Two cramped mid-century bathrooms combined into one generous suite, with plumbing rerouted, walls reworked, and storage designed in from the start."
+        },
+        {
+          "name": "Frameless showers",
+          "desc": "Curbless entries, linear drains, and full membrane waterproofing, flood-tested before tile — the details that decide whether glass this minimal stays trouble-free."
+        },
+        {
+          "name": "Freestanding tubs and stone",
+          "desc": "Sculptural tubs set against floor-to-ceiling stone or large-format porcelain, over substrate prep flat enough to deserve the material."
+        },
+        {
+          "name": "Condo bathroom renovations",
+          "desc": "East Island units renovated with association approvals, protected corridors, scheduled elevators, and stack work documented so the board sleeps well."
+        },
+        {
+          "name": "Plumbing and ventilation",
+          "desc": "New supply and drain lines where the old ones have earned retirement, plus exhaust sized for a climate that never quite dries out."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do bathroom remodels require permits in Bay Harbor Islands?",
+          "a": "Yes. Moving or adding plumbing and electrical requires trade permits from the Town of Bay Harbor Islands Building & Zoning Department, and inspectors check the rough-in before anything is covered. That inspection is your friend: it documents that the expensive part, the part behind the tile, was done correctly. We file through the town's online portal, meet every inspection, and close the permits out at the end."
+        },
+        {
+          "q": "Can you renovate a bathroom in an older East Island condo?",
+          "a": "Yes, and we do it with the association fully in the loop: scope approval, certificates of insurance, elevator scheduling, and the building's work-hour rules. In older buildings, many now in Florida's milestone-inspection cycle, boards are rightly careful about anyone touching plumbing stacks, so our drawings show exactly what we touch and what we do not. Corridors get protected, debris leaves daily, and the neighbors have no story to tell."
+        },
+        {
+          "q": "What goes into your waterproofing, exactly?",
+          "a": "A full membrane system, not just a pan: waterproofing carried up the walls and across benches and niches, sealed penetrations, and a flood test on the shower pan before a single tile is set. On an island where humidity never takes a day off, we also size ventilation properly so the room dries between uses. None of this is visible in the finished bathroom, which is precisely why we document it in photos as we go."
+        },
+        {
+          "q": "How long will my bathroom be out of service?",
+          "a": "For a full gut of a primary bath, think several weeks to a few months depending on scope, stone lead times, and inspection scheduling — not the miracle week some television shows suggest. In an occupied house we sequence one bathroom at a time so you are never without a working one, contain dust at the door, and finish completely before moving on. A written schedule comes with the contract."
+        },
+        {
+          "q": "What does a primary suite remodel cost here?",
+          "a": "The range is wide, and honesty matters more than a number: combining two mid-century bathrooms into a stone-clad primary suite involves plumbing relocation, waterproofing, glass, and finishes that vary enormously by selection. We position ourselves as the contractor you hire when the work has to be right the first time, not the lowest bid. A fixed, itemized scope after a walk-through tells you the real figure."
+        }
+      ],
+      "cta_heading": "Start With a Walk-Through",
+      "cta_sub": "Show us the bathroom that has to go. We measure, listen, and return with an itemized proposal, in English o en español, whichever suits you."
+    },
+    "home-additions": {
+      "title": "Home Additions on Bay Harbor Islands, FL | PGX Builders Group",
+      "meta_description": "Home additions on Bay Harbor Islands: second stories, rear extensions, design review handled, flood math run first. Walk-throughs at (786) 273-2524.",
+      "h1": "Room to Grow on a Small Island",
+      "hero_sub": "Second stories, rear extensions, and guest suites for West Island homes, engineered properly, cleared through town review, permitted, and built under daily supervision by a licensed South Florida general contractor.",
+      "local_heading": "Room to Grow on a Finite Island",
+      "intro_paragraphs": [
+        "Families move to Bay Harbor Islands for the town itself — quiet streets, the walk to Ruth K. Broad Bay Harbor K-8, water at the end of the block — and then discover their 1950s West Island house has two bedrooms and one opinion about closet space. The addition is how you stay. A second story over the original footprint, a rear extension toward the canal, a garage turned guest suite: on a small island where single-family land is finite, building up or back usually beats moving out.",
+        "Additions here get looked at properly. Plans go through the Town of Bay Harbor Islands Building & Zoning Department, and additions and exterior changes are reviewed by the town's Design Review Board before permits issue. On a barrier island, FEMA's substantial-improvement rule matters too: when the value of the work approaches half the value of the house, flood-elevation requirements can reshape the whole project, so it is far better to run that math in design than to discover it in review. Add hurricane engineering for the new structure, and you want a contractor fluent in all three conversations.",
+        "PGX has been building additions in South Florida for over 20 years under license CGC1539072, and the ones that succeed are engineered before they are pretty: tie-beam upgrades, new footings where a second story lands, connections detailed so the old house and the new one behave as one structure. You get a fixed written scope, a schedule built around your family actually living there, and a supervisor on site every day watching the tie-in — the seam where additions are won or lost."
+      ],
+      "scope_heading": "Ways to Add On Here",
+      "scope_intro": "Five proven paths to more room on the West Island, each engineered, town-reviewed, and built to read as original.",
+      "scope_items": [
+        {
+          "name": "Second-story additions",
+          "desc": "A full upper floor over the original footprint, with tie-beam upgrades, reinforced footings, and stairs placed where the plan wants them."
+        },
+        {
+          "name": "Rear extensions",
+          "desc": "Living space extended toward the canal or bay with engineered structure and setbacks respected — the view finally invited inside."
+        },
+        {
+          "name": "Guest and in-law suites",
+          "desc": "Garage conversions and attached suites with their own baths, built for parents, long-stay guests, or the year both arrive at once."
+        },
+        {
+          "name": "Foundation and structural work",
+          "desc": "Footings, columns, and connections engineered so old structure and new addition carry load as one building, not two acquaintances."
+        },
+        {
+          "name": "Invisible tie-ins",
+          "desc": "Rooflines, stucco textures, and floor levels matched carefully enough that visitors cannot find where the original house ends."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does a home addition need Design Review Board approval in Bay Harbor Islands?",
+          "a": "Yes — additions are among the projects the town's Design Review Board reviews, along with new construction and exterior renovations. The board looks at how the addition fits the house and the street, so we design for that audience from the first sketch and prepare a complete submittal. It is an extra step compared to some municipalities, and it is also part of why the West Island still looks the way it does."
+        },
+        {
+          "q": "What is the FEMA substantial-improvement rule and will it affect my addition?",
+          "a": "On a barrier island, when the cost of improvements approaches half of the structure's value, federal flood rules can require bringing the home toward current flood elevations, which changes the project fundamentally. Whether your addition triggers it depends on the home's structure value and the true scope of work. We run this math during design, in the open, because discovering it during permitting is how additions die."
+        },
+        {
+          "q": "Can my 1950s house support a second story?",
+          "a": "Many can, with engineering: tie-beam upgrades, reinforced or new footings where the loads land, and a structural path designed from roof to ground. Some houses make it easy, some make it expensive, and a structural evaluation up front tells you which one you own. When a second story is not the sensible answer, a rear extension often is, and we will say so plainly."
+        },
+        {
+          "q": "How long does an addition take from idea to done?",
+          "a": "Realistically, months of design, engineering, board review, and permitting before construction begins, then months of building; a year is a fair planning horizon for a substantial addition here, sometimes less for simpler scopes. Island logistics and inspection scheduling add friction that a good schedule absorbs. We give you the full timeline at contract, including the approval phases, not just the part with hammers."
+        },
+        {
+          "q": "Can we live in the house while you build the addition?",
+          "a": "Often, yes. Second stories and rear extensions can frequently be built with the existing home sealed off behind dust barriers and temporary weather protection, with utilities interrupted only at planned, announced moments. The tie-in weeks are the loud ones, and we schedule them with you. Some full-structure projects do justify moving out for a stretch; if yours is one, we will tell you before you sign, not after."
+        }
+      ],
+      "cta_heading": "Let's Plan the Addition",
+      "cta_sub": "Tell us what the house is missing. We assess the structure, run the flood math, and give you an honest path forward, in English o en español."
+    },
+    "outdoor-living": {
+      "title": "Outdoor Living in Bay Harbor Islands, Miami | PGX Builders",
+      "meta_description": "Terraces, summer kitchens and pergolas for Bay Harbor Islands homes, built for salt air and hurricane wind. Licensed, permitted. Call PGX (786) 273-2524.",
+      "h1": "Outdoor Living, Built for Salt Air",
+      "hero_sub": "Terraces, summer kitchens, pergolas, and driveways for a town surrounded by water: specified for salt air, engineered for hurricane wind, permitted through Bay Harbor Islands' Building & Zoning Department, and supervised daily.",
+      "local_heading": "Between Biscayne Bay and Indian Creek",
+      "intro_paragraphs": [
+        "Outdoor space is the whole argument for Bay Harbor Islands: canal frontage between the two islands, open bay to the north and west, Indian Creek across the way. West Island owners are building covered terraces, summer kitchens, and pool surrounds that turn a back yard into the room the house was missing. The catch is chemistry. Salt air is patient and thorough, and it finds cheap hinges, mystery-metal fasteners, and bargain fixtures within a season or two. Out here, material selection is not a detail; it is the design.",
+        "Exterior work in this town is genuinely regulated. The Town of Bay Harbor Islands Building & Zoning Department requires separate permits for driveways, fences, windows, doors, and roofing, and exterior renovations fall under the Design Review Board's purview. Anything anchored against the sky — pergolas, summer kitchen structures, covered terraces — gets engineered for High-Velocity Hurricane Zone wind loads, with Miami-Dade approved products at every opening. Work at the seawall or dock brings county environmental permitting into the picture. We sequence all of it so approvals arrive before the crew does.",
+        "Lots here are close-set and the neighbors are near, so PGX runs tidy sites: staged deliveries over the Broad Causeway, daily cleanup, and crews that treat the street like part of the job. Your outdoor living project gets a fixed written scope covering structure, drainage, and the waterproofing where terrace meets house — the connection everyone forgets until the first summer storm remembers it for them. Stucco, paint, and re-roof coordination fold into one schedule under one supervisor. Twenty-plus years in South Florida, licensed and insured, Lic. CGC1539072."
+      ],
+      "scope_heading": "What We Build Outside the House",
+      "scope_intro": "Structures, surfaces, and openings for island exteriors, specified for salt and wind, permitted properly, and built to be enjoyed rather than maintained.",
+      "scope_items": [
+        {
+          "name": "Covered terraces and pergolas",
+          "desc": "Shade structures engineered for hurricane wind loads, anchored into real structure, and wired for fans, sound, and evening light."
+        },
+        {
+          "name": "Summer kitchens",
+          "desc": "Outdoor kitchens with coastal-rated appliances, stone counters, and permitted gas and electrical, built for grilling over the water rather than beside a garage."
+        },
+        {
+          "name": "Driveways and entries",
+          "desc": "Pavers, drainage, and approach details that handle island rain events, permitted through the town and finished to match the architecture."
+        },
+        {
+          "name": "Stucco, paint, and re-roofs",
+          "desc": "Envelope work run as one schedule: stucco repair, coastal-grade coatings, and re-roof coordination sequenced sensibly with any new impact openings."
+        },
+        {
+          "name": "Impact sliders and doors",
+          "desc": "Wide Miami-Dade approved openings that erase the line between living room and terrace without inviting the weather to follow."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do pergolas and summer kitchens need permits in Bay Harbor Islands?",
+          "a": "Yes. Anchored structures need building permits from the town, a summer kitchen's gas and electrical need trade permits, and exterior work of consequence falls under Design Review Board review. Everything anchored outdoors here is also engineered for High-Velocity Hurricane Zone wind loads, because an unengineered pergola in a named storm becomes a projectile with a paper trail. We handle the engineering and the filings together."
+        },
+        {
+          "q": "What outdoor materials actually survive this close to the water?",
+          "a": "Marine-grade stainless hardware, powder-coated or anodized aluminum, dense stone and porcelain pavers, and appliances rated for coastal outdoor duty. Standard steel, bargain fixtures, and untreated fasteners corrode visibly within a couple of seasons this close to salt water. We specify for the environment and tell you honestly where spending more up front is cheaper than replacing twice, and where it genuinely is not necessary."
+        },
+        {
+          "q": "Can you build a terrace near my seawall or dock?",
+          "a": "We build terraces, decks, and summer kitchens up to the upland side of the seawall, and we detail the drainage so hardscape sheds water without undermining anything. Work on the seawall or dock itself involves county environmental permitting and marine contractors; we coordinate that interface so your terrace project and any marine work land in the right order instead of fighting each other."
+        },
+        {
+          "q": "How disruptive is exterior construction on these small lots?",
+          "a": "Less than you fear, if it is managed. Lots here sit close together, so we stage deliveries tightly, keep materials off neighboring property, clean the street daily, and keep working hours inside the town's rules. Your neighbors are a few yards away and will remember this project; our job is to make sure what they remember is that they barely noticed it."
+        },
+        {
+          "q": "What does a full outdoor living project cost?",
+          "a": "It depends on how much of it is structure: a covered terrace with a summer kitchen, engineered for wind and finished in stone, is a construction project, not a landscaping line item. Ranges vary widely with size, appliances, and materials. We price it the same way we price interiors, with a fixed written scope and selections itemized, so you decide with real numbers rather than a courtesy guess."
+        }
+      ],
+      "cta_heading": "Build the Outdoor Room Next",
+      "cta_sub": "Invite us over, show us the yard, and describe the evenings you want out there. Estimates are straightforward and bilingual: English o en español."
+    }
+  }
+}
