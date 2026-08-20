@@ -21,10 +21,9 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
 <link rel="icon" type="image/png" href="favicon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="preload" as="image" href="images/hero.webp">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Marcellus&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="images/hero.webp" imagesrcset="images/r/hero-640.webp 640w, images/r/hero-960.webp 960w, images/r/hero-1280.webp 1280w, images/r/hero-1800.webp 1800w" imagesizes="100vw" fetchpriority="high">
+<link rel="preload" as="font" type="font/woff2" href="fonts/marcellus-400-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="fonts/inter-400-latin.woff2" crossorigin>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -40,6 +39,14 @@
 }
 </script>
 <style>
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/inter-400-latinext.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF}
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/inter-400-latin.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+@font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/inter-500-latinext.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF}
+@font-face{font-family:'Inter';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/inter-500-latin.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/inter-600-latinext.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/inter-600-latin.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
+@font-face{font-family:'Marcellus';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/marcellus-400-latinext.woff2) format('woff2');unicode-range:U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF}
+@font-face{font-family:'Marcellus';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/marcellus-400-latin.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD}
 :root{
   --bg:#F2F1EE;
   --bg-soft:#E8E4DA;
@@ -271,7 +278,7 @@ a{color:inherit}
           mask:url(images/pgx-wordmark.svg) center/contain no-repeat;
 }
 .ft-brand .s{font-size:13.5px;color:var(--d-ink-2);margin-top:6px;line-height:1.55}
-.ft-col h4{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--d-ink-2);margin-bottom:16px}
+.ft-col .ft-h{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--d-ink-2);margin-bottom:16px}
 .ft-col ul{list-style:none;display:grid;gap:11px}
 .ft-col a{font-size:14.5px;text-decoration:none;color:var(--d-ink);transition:color .25s}
 .ft-col a:hover{color:var(--d-brass)}
@@ -446,7 +453,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
 
 <!-- HERO -->
 <section class="hero hero-media">
-  <div class="hero-bg"><img src="images/hero.webp" fetchpriority="high" decoding="async" alt="Casa costera moderna de dos pisos con palmas reales — render arquitectónico" width="1320" height="880"></div>
+  <div class="hero-bg"><img src="images/hero.webp" width="1800" height="1013" srcset="images/r/hero-640.webp 640w, images/r/hero-960.webp 960w, images/r/hero-1280.webp 1280w, images/r/hero-1800.webp 1800w" sizes="100vw" fetchpriority="high" decoding="async" alt="Casa costera moderna de dos pisos con palmas reales — render arquitectónico" ></div>
   <div class="wrap hero-in">
     <div class="hero-top">
       <p class="eyebrow rv">Contratista general · Miami, FL</p>
@@ -492,7 +499,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
                 <span>Cambios de distribución</span><span>Aperturas estructurales</span><span>Actualización completa de MEP</span><span>Pisos y acabados</span><span>Ventanas y puertas de impacto</span>
               </div>
             </div>
-            <figure class="svc-fig"><img src="images/remodel.webp" loading="lazy" decoding="async" alt="Espacio social remodelado de planta abierta con planos, muestras de acabados y un casco PGX — render arquitectónico" width="920" height="613"></figure>
+            <figure class="svc-fig"><img src="images/remodel.webp" srcset="images/r/remodel-420.webp 420w, images/r/remodel-640.webp 640w, images/r/remodel-900.webp 900w, images/r/remodel-1280.webp 1280w" sizes="(max-width:760px) 92vw, 380px" loading="lazy" decoding="async" alt="Espacio social remodelado de planta abierta con planos, muestras de acabados y un casco PGX — render arquitectónico" width="920" height="613"></figure>
           </div>
         </div>
       </div>
@@ -511,7 +518,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
                 <span>Segundos pisos</span><span>Extensiones traseras</span><span>Conversiones de garaje</span><span>Refuerzo de vigas de amarre</span><span>Trabajos de cimentación</span>
               </div>
             </div>
-            <figure class="svc-fig"><img src="images/addition.webp" loading="lazy" decoding="async" alt="Ampliación trasera moderna con vidrio de piso a techo unida a una casa existente de dos pisos — render arquitectónico" width="920" height="613"></figure>
+            <figure class="svc-fig"><img src="images/addition.webp" srcset="images/r/addition-420.webp 420w, images/r/addition-640.webp 640w, images/r/addition-900.webp 900w, images/r/addition-1280.webp 1280w" sizes="(max-width:760px) 92vw, 380px" loading="lazy" decoding="async" alt="Ampliación trasera moderna con vidrio de piso a techo unida a una casa existente de dos pisos — render arquitectónico" width="920" height="613"></figure>
           </div>
         </div>
       </div>
@@ -530,7 +537,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
                 <span>Gabinetes a medida</span><span>Encimeras de piedra</span><span>Islas y distribución</span><span>Reubicación de electrodomésticos</span><span>Diseño de iluminación</span>
               </div>
             </div>
-            <figure class="svc-fig"><img src="images/kitchen.webp" loading="lazy" decoding="async" alt="Cocina renovada con isla de mármol, lámparas colgantes de latón y gabinetes a medida — render arquitectónico" width="920" height="613"></figure>
+            <figure class="svc-fig"><img src="images/kitchen.webp" srcset="images/r/kitchen-420.webp 420w, images/r/kitchen-640.webp 640w, images/r/kitchen-900.webp 900w, images/r/kitchen-1280.webp 1280w" sizes="(max-width:760px) 92vw, 380px" loading="lazy" decoding="async" alt="Cocina renovada con isla de mármol, lámparas colgantes de latón y gabinetes a medida — render arquitectónico" width="920" height="613"></figure>
           </div>
         </div>
       </div>
@@ -549,7 +556,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
                 <span>Suites principales</span><span>Duchas sin marco</span><span>Tinas independientes</span><span>Piedra y azulejo</span><span>Impermeabilización</span>
               </div>
             </div>
-            <figure class="svc-fig"><img src="images/bath.webp" loading="lazy" decoding="async" alt="Baño principal con tina independiente, ducha de mármol y grifería de latón — render arquitectónico" width="920" height="613"></figure>
+            <figure class="svc-fig"><img src="images/bath.webp" srcset="images/r/bath-420.webp 420w, images/r/bath-640.webp 640w, images/r/bath-900.webp 900w, images/r/bath-1280.webp 1280w" sizes="(max-width:760px) 92vw, 380px" loading="lazy" decoding="async" alt="Baño principal con tina independiente, ducha de mármol y grifería de latón — render arquitectónico" width="920" height="613"></figure>
           </div>
         </div>
       </div>
@@ -568,7 +575,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
                 <span>Terrazas y patios</span><span>Cocinas de verano</span><span>Pérgolas</span><span>Entradas de autos</span><span>Estuco y pintura</span><span>Coordinación de re-techado</span>
               </div>
             </div>
-            <figure class="svc-fig"><img src="images/outdoor.webp" loading="lazy" decoding="async" alt="Área exterior techada con cocina de verano, comedor y piscina — render arquitectónico" width="920" height="613"></figure>
+            <figure class="svc-fig"><img src="images/outdoor.webp" srcset="images/r/outdoor-420.webp 420w, images/r/outdoor-640.webp 640w, images/r/outdoor-900.webp 900w, images/r/outdoor-1280.webp 1280w" sizes="(max-width:760px) 92vw, 380px" loading="lazy" decoding="async" alt="Área exterior techada con cocina de verano, comedor y piscina — render arquitectónico" width="920" height="613"></figure>
           </div>
         </div>
       </div>
@@ -757,7 +764,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
       </div>
     </div>
     <div class="ft-col">
-      <h4>Servicios</h4>
+      <p class="ft-h">Servicios</p>
       <ul>
         <li><a href="#services">Remodelación integral</a></li>
         <li><a href="#services">Ampliaciones y extensiones</a></li>
@@ -768,7 +775,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
       </ul>
     </div>
     <div class="ft-col">
-      <h4>Zonas</h4>
+      <p class="ft-h">Zonas</p>
       <ul>
         <li><a href="/remodelacion-de-casas-coral-gables">Coral Gables</a></li>
         <li><a href="/remodelacion-de-casas-coconut-grove">Coconut Grove</a></li>
@@ -779,7 +786,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
       </ul>
     </div>
     <div class="ft-col">
-      <h4>Contacto</h4>
+      <p class="ft-h">Contacto</p>
       <ul>
         <li><a href="tel:+17862732524">(786) 273-2524</a></li>
         <li><a href="mailto:pgxbuildersgroup@gmail.com">pgxbuildersgroup@gmail.com</a></li>

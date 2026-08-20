@@ -274,6 +274,8 @@ def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
     alt_url = (url_for(s_slug, a_slug, "es" if lang == "en" else "en")
                if has_pair else home_url("es" if lang == "en" else "en"))
 
+    stem = Path(svc["image"]).stem
+    hero_srcset = ", ".join(f"images/r/{stem}-{w}.webp {w}w" for w in (420, 640, 900, 1280))
     alt_base = (ALT_BASE_ES[s_slug] if lang == "es"
                 else svc["img_alt_base"].split(" — ")[0])
     img_alt = ALT_TMPL[lang].format(base=alt_base, service=name.lower(), area=area["name"])
@@ -305,6 +307,7 @@ def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
         "{{H1}}": esc(pg["h1"].rstrip(".")),
         "{{HERO_SUB}}": esc(pg["hero_sub"]),
         "{{HERO_IMAGE}}": svc["image"],
+        "{{HERO_SRCSET}}": hero_srcset,
         "{{HERO_IMG_ALT}}": esc(img_alt),
         "{{AREA_NAME}}": esc(area["name"]),
         "{{COUNTY}}": esc(county_name(area, lang)),
@@ -410,6 +413,8 @@ def render_areas_index(data, lang):
 </section>
 </main>'''
     out = main_re.sub(lambda m: listing, tpl, count=1)
+    # AREAS_INDEX_NO_HERO: this page has no hero photograph, so drop its LCP preload
+    out = re.sub(r'<link rel="preload" as="image" href="\{\{HERO_IMAGE\}\}"[^>]*>\n', '', out, count=1)
     jsonld = json.dumps({"@context": "https://schema.org", "@type": "CollectionPage",
                          "name": c["collection_name"], "inLanguage": lang,
                          "url": DOMAIN + areas_url(lang)}, indent=2, ensure_ascii=False)
