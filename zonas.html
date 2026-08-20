@@ -285,10 +285,11 @@ a{color:inherit}
 .ft-col a{font-size:14.5px;text-decoration:none;color:var(--d-ink);transition:color .25s}
 .ft-col a:hover{color:var(--d-brass)}
 .ft-mark{
-  font-family:var(--serif);font-weight:400;letter-spacing:.02em;
-  font-size:clamp(120px,24vw,340px);line-height:.78;text-align:center;
-  color:transparent;-webkit-text-stroke:1px rgba(244,244,241,.16);user-select:none;pointer-events:none;
-  margin-bottom:-.1em;
+  width:min(86%,1120px);margin:0 auto -.045em;aspect-ratio:918.75/330;
+  font-size:0;line-height:0;user-select:none;pointer-events:none;
+  background-color:rgba(242,241,238,.20);
+  -webkit-mask:url(images/pgx-wordmark-outline.svg) center/contain no-repeat;
+          mask:url(images/pgx-wordmark-outline.svg) center/contain no-repeat;
 }
 .ft-bar{position:relative;background:var(--d-bg);border-top:1px solid var(--d-line);padding:22px 0;display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px 24px;font-size:12.5px;color:var(--d-ink-2)}
 .dock{display:none}
@@ -352,9 +353,9 @@ a{color:inherit}
 .hero-media .hero-bg::after{
   content:"";position:absolute;inset:0;
   background:
-    linear-gradient(180deg,rgba(0,0,0,.34) 0%,rgba(0,0,0,.08) 18%,rgba(0,0,0,0) 30%),
-    linear-gradient(90deg,rgba(0,0,0,.72) 0%,rgba(0,0,0,.56) 24%,rgba(0,0,0,.24) 45%,rgba(0,0,0,.04) 63%,rgba(0,0,0,0) 74%),
-    linear-gradient(0deg,rgba(0,0,0,.46) 0%,rgba(0,0,0,.14) 14%,rgba(0,0,0,0) 26%);
+    linear-gradient(180deg,rgba(0,0,0,.28) 0%,rgba(0,0,0,.07) 18%,rgba(0,0,0,0) 30%),
+    linear-gradient(90deg,rgba(0,0,0,.58) 0%,rgba(0,0,0,.42) 24%,rgba(0,0,0,.18) 45%,rgba(0,0,0,.03) 63%,rgba(0,0,0,0) 74%),
+    linear-gradient(0deg,rgba(0,0,0,.38) 0%,rgba(0,0,0,.11) 14%,rgba(0,0,0,0) 26%);
 }
 .hero-media .h1,.hero-media .hero-sub,.hero-media .eyebrow,
 .hero-media .hero-meta,.hero-media .crumbs{
@@ -386,7 +387,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
 @media(max-width:760px){
   .hero-media{min-height:clamp(430px,62svh,580px);padding-top:calc(72px + 34px)}
   .hero-media .hero-bg::after{
-    background:linear-gradient(180deg,rgba(0,0,0,.58) 0%,rgba(0,0,0,.46) 30%,rgba(0,0,0,.44) 58%,rgba(0,0,0,.66) 100%);
+    background:linear-gradient(180deg,rgba(0,0,0,.48) 0%,rgba(0,0,0,.36) 30%,rgba(0,0,0,.34) 58%,rgba(0,0,0,.56) 100%);
   }
   .hero-media .hero-sub{max-width:38ch}
 }
