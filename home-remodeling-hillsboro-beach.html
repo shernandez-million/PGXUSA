@@ -854,7 +854,8 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     document.querySelectorAll('.rv').forEach(function(el){el.classList.add('in')});
   }
 
-  document.getElementById('estimateForm').addEventListener('submit',function(e){
+  var _ef=document.getElementById('estimateForm');
+  if(_ef)_ef.addEventListener('submit',function(e){
     e.preventDefault();
     var g=function(id){return document.getElementById(id).value.trim()};
     var name=g('fName'),phone=g('fPhone'),email=g('fEmail'),type=g('fType'),msg=g('fMsg');

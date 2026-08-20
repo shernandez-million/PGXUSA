@@ -360,6 +360,8 @@ AREAS_PAGE_COPY = {
         "sub": "Every remodeling, addition, kitchen, bath, and outdoor-living service PGX Builders Group offers, in every Miami-Dade community we serve. Pick your neighborhood.",
         "note": "Don't see your neighborhood? If it's in Miami-Dade or Broward, call (786) 273-2524 — we probably build there.",
         "collection_name": "PGX Builders Group — Service Areas",
+        "cta_heading": "Tell us where you are building",
+        "cta_sub": "Wherever you are on this list, the process is the same: a walk-through, a written scope and a real number \u2014 in English o en espa\u00f1ol.",
     },
     "es": {
         "title": "Zonas de servicio — Contratista en Miami-Dade | PGX Builders",
@@ -370,6 +372,8 @@ AREAS_PAGE_COPY = {
         "sub": "Cada servicio de remodelación, ampliación, cocinas, baños y exteriores que ofrece PGX Builders Group, en cada comunidad de Miami-Dade que atendemos. Elija su zona.",
         "note": "¿No ve su zona? Si está en Miami-Dade o Broward, llame al (786) 273-2524 — probablemente construimos ahí.",
         "collection_name": "PGX Builders Group — Zonas de servicio",
+        "cta_heading": "D\u00edganos d\u00f3nde va a construir",
+        "cta_sub": "Est\u00e9 donde est\u00e9 en esta lista, el proceso es el mismo: un recorrido, un alcance por escrito y un n\u00famero real \u2014 en espa\u00f1ol o en ingl\u00e9s.",
     },
 }
 
@@ -427,6 +431,11 @@ def render_areas_index(data, lang):
   </div>
 </section>
 </main>'''
+    # keep the contact section: without it the index pages have no conversion path,
+    # the nav/dock #contact anchors dangle, and the form script throws on a null node
+    cm = re.search(r'<!-- CONTACT -->.*?</section>', tpl, re.S)
+    if cm:
+        listing = listing.replace('</main>', cm.group(0) + '\n</main>')
     out = main_re.sub(lambda m: listing, tpl, count=1)
     # AREAS_INDEX_NO_HERO: this page has no hero photograph, so drop its LCP preload
     out = re.sub(r'<link rel="preload" as="image" href="\{\{HERO_IMAGE\}\}"[^>]*>\n', '', out, count=1)
@@ -461,6 +470,8 @@ def render_areas_index(data, lang):
                                       "url": DOMAIN + areas_url(lang)}, indent=2),
         "{{AREA_NAME}}": "Miami-Dade",
         "{{SERVICE_NAME}}": "Service areas" if lang == "en" else "Zonas de servicio",
+        "{{CTA_HEADING}}": esc(c["cta_heading"]),
+        "{{CTA_SUB}}": esc(c["cta_sub"]),
     }
     for k, v in repl.items():
         out = out.replace(k, v)

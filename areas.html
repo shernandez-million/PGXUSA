@@ -923,6 +923,50 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     <p class="area-note rv">Don't see your neighborhood? If it's in Miami-Dade or Broward, call (786) 273-2524 — we probably build there.</p>
   </div>
 </section>
+<!-- CONTACT -->
+<section class="sec contact" id="contact">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow rv">Contact</p>
+      <h2 class="disp h2 rv rv-d1">Tell us where you are building</h2>
+      <p class="sec-intro rv rv-d2">Wherever you are on this list, the process is the same: a walk-through, a written scope and a real number — in English o en español.</p>
+    </div>
+    <div class="ct-grid">
+      <div class="ct-info rv">
+        <div class="ct-row"><div class="k">Phone</div><div class="v"><a href="tel:+17862732524">(786) 273-2524</a></div></div>
+        <div class="ct-row"><div class="k">WhatsApp</div><div class="v"><a href="https://wa.me/17862732524">+1 (786) 273-2524</a></div></div>
+        <div class="ct-row"><div class="k">Email</div><div class="v"><a href="mailto:pgxbuildersgroup@gmail.com">pgxbuildersgroup@gmail.com</a></div></div>
+        <div class="ct-row"><div class="k">Office</div><div class="v">Miami, FL</div></div>
+        <div class="ct-row"><div class="k">Hours</div><div class="v">Mon–Fri, 8:00–18:00</div></div>
+      </div>
+      <div class="form-card rv rv-d1">
+        <form id="estimateForm" novalidate>
+          <div class="f-grid">
+            <div class="f-field"><label for="fName">Name</label><input id="fName" name="name" type="text" autocomplete="name" required></div>
+            <div class="f-field"><label for="fPhone">Phone</label><input id="fPhone" name="phone" type="tel" autocomplete="tel" required></div>
+            <div class="f-field full"><label for="fEmail">Email</label><input id="fEmail" name="email" type="email" autocomplete="email" required></div>
+            <div class="f-field full"><label for="fType">Project type</label>
+              <select id="fType" name="type">
+                <option>Whole-home remodeling</option>
+                <option>Kitchen</option>
+                <option>Bathroom</option>
+                <option>Addition / extension</option>
+                <option>Outdoor / exterior</option>
+                <option>Permitting / compliance</option>
+                <option>Something else</option>
+              </select>
+            </div>
+            <div class="f-field full"><label for="fMsg">Tell us about the project</label><textarea id="fMsg" name="message" placeholder="Address in Miami-Dade, what you want to change, rough timeline…"></textarea></div>
+          </div>
+          <div class="f-foot">
+            <button type="submit" class="btn btn-ink">Send request <span class="arr">→</span></button>
+            <span class="f-note">Opens your email app — nothing is stored on this site.</span>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
 </main>
 
 <!-- FOOTER -->
@@ -997,7 +1041,8 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     document.querySelectorAll('.rv').forEach(function(el){el.classList.add('in')});
   }
 
-  document.getElementById('estimateForm').addEventListener('submit',function(e){
+  var _ef=document.getElementById('estimateForm');
+  if(_ef)_ef.addEventListener('submit',function(e){
     e.preventDefault();
     var g=function(id){return document.getElementById(id).value.trim()};
     var name=g('fName'),phone=g('fPhone'),email=g('fEmail'),type=g('fType'),msg=g('fMsg');
