@@ -418,12 +418,15 @@ a{color:inherit}
   content:"";position:absolute;inset:0;
   background:
     linear-gradient(180deg,rgba(0,0,0,.28) 0%,rgba(0,0,0,.07) 18%,rgba(0,0,0,0) 30%),
-    linear-gradient(90deg,rgba(0,0,0,.58) 0%,rgba(0,0,0,.42) 24%,rgba(0,0,0,.18) 45%,rgba(0,0,0,.03) 63%,rgba(0,0,0,0) 74%),
-    linear-gradient(0deg,rgba(0,0,0,.38) 0%,rgba(0,0,0,.11) 14%,rgba(0,0,0,0) 26%);
+    linear-gradient(90deg,rgba(0,0,0,.52) 0%,rgba(0,0,0,.37) 24%,rgba(0,0,0,.16) 45%,rgba(0,0,0,.03) 63%,rgba(0,0,0,0) 74%),
+    linear-gradient(0deg,rgba(0,0,0,.34) 0%,rgba(0,0,0,.10) 14%,rgba(0,0,0,0) 26%);
 }
 .hero-media .h1,.hero-media .hero-sub,.hero-media .eyebrow,
 .hero-media .hero-meta,.hero-media .crumbs{
   text-shadow:0 1px 3px rgba(0,0,0,.55),0 2px 26px rgba(0,0,0,.45);
+}
+.hero-media .eyebrow,.hero-media .hero-meta{
+  text-shadow:0 1px 2px rgba(0,0,0,.85),0 1px 10px rgba(0,0,0,.7),0 2px 26px rgba(0,0,0,.5);
 }
 .hero-media .hero-in{position:relative;z-index:1;width:100%}
 .hero-media .h1{color:var(--d-ink)}
@@ -451,7 +454,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
 @media(max-width:760px){
   .hero-media{min-height:clamp(430px,62svh,580px);padding-top:calc(72px + 34px)}
   .hero-media .hero-bg::after{
-    background:linear-gradient(180deg,rgba(0,0,0,.48) 0%,rgba(0,0,0,.36) 30%,rgba(0,0,0,.34) 58%,rgba(0,0,0,.56) 100%);
+    background:linear-gradient(180deg,rgba(0,0,0,.42) 0%,rgba(0,0,0,.31) 30%,rgba(0,0,0,.29) 58%,rgba(0,0,0,.50) 100%);
   }
   .hero-media .hero-sub{max-width:38ch}
 }
