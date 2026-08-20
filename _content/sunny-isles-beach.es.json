@@ -18,7 +18,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación integral en Sunny Isles Beach, FL | PGX Builders",
-      "meta_description": "Remodelación integral de casas y unidades en Sunny Isles Beach, de Golden Shores a las torres de Collins Avenue. Licencia, permisos y supervisión. (786) 273-2524.",
+      "meta_description": "Remodelación integral de casas y unidades en Sunny Isles Beach, de Golden Shores a las torres de Collins Avenue. Con permisos. (786) 273-2524.",
       "h1": "Su hogar en Sunny Isles, reconstruido como debe ser",
       "hero_sub": "PGX Builders Group ejecuta remodelaciones integrales de casas y renovaciones completas de unidades de condominio en todo Sunny Isles Beach — con permisos de la ciudad, supervisión diaria y construcción al código de la Zona de Huracanes de Alta Velocidad, a cargo de un contratista general licenciado, CGC1539072.",
       "local_heading": "Dos tipos de hogar, un mismo estándar",
@@ -31,23 +31,23 @@
       "scope_intro": "Renovaciones de vaciado total para casas de Golden Shores y residencias de Collins Avenue — con ingeniería, permisos y acabados pensados para la vida en una isla barrera.",
       "scope_items": [
         {
-          "name": "Vaciado total y reconstrucción",
+          "name": "Vaciado total, en torre o casa",
           "desc": "La unidad o la casa llevada hasta la losa y la estructura, y reconstruida con nueva distribución, instalaciones y acabados bajo un solo paquete de permisos coordinado con la ciudad."
         },
         {
-          "name": "Cambios de distribución y estructura",
+          "name": "Plantas de casa y de torre",
           "desc": "Abrimos las plantas compartimentadas de los años sesenta en Golden Shores, o reconfiguramos residencias en torre con ingeniería y revisión estructural de la asociación cuando el edificio lo exige."
         },
         {
-          "name": "Renovación completa de instalaciones",
+          "name": "Cargas de hoy, montantes de ayer",
           "desc": "Electricidad, plomería y ductos nuevos, dimensionados para las cargas de hoy — esenciales en casas cableadas hace décadas y en unidades alimentadas por montantes ya envejecidos del edificio."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Cristal de impacto frente al mar",
           "desc": "Aberturas con aprobación de Miami-Dade para la exposición frente al mar: reemplazo completo en casas unifamiliares, coordinado con la asociación cuando la envolvente pertenece a la torre."
         },
         {
-          "name": "Acabados y carpintería fina",
+          "name": "Piedra, carpintería y pisos silenciosos",
           "desc": "Piedra, pisos de tablón ancho sobre membrana acústica certificada, carpintería a la medida e iluminación, instalados bajo supervisión diaria y protegidos hasta el día de entregar las llaves."
         }
       ],
@@ -78,7 +78,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Sunny Isles Beach | PGX Builders",
-      "meta_description": "Cocinas a la medida para condominios de Sunny Isles Beach y casas de Golden Shores. Gabinetes, piedra y permisos con un solo contratista licenciado. (786) 273-2524.",
+      "meta_description": "Cocinas a la medida para condominios de Sunny Isles Beach y casas de Golden Shores. Gabinetes, piedra y permisos con licencia. (786) 273-2524.",
       "h1": "Cocinas que merecen la vista al mar",
       "hero_sub": "Gabinetes a la medida, cubiertas de piedra y distribuciones reconstruidas para residencias de Sunny Isles Beach — con permisos de la ciudad, el visto bueno de su asociación donde la hay, y la supervisión diaria de PGX Builders Group, Lic. CGC1539072.",
       "local_heading": "Cocinas para torres y casas frente al canal",
@@ -91,11 +91,11 @@
       "scope_intro": "Construcción completa de cocinas — gabinetes, piedra, instalaciones e iluminación — con alcance por escrito y permiso de la ciudad antes de descolgar un solo gabinete.",
       "scope_items": [
         {
-          "name": "Gabinetes a la medida",
+          "name": "Gabinetes instalados a nivel perfecto",
           "desc": "Carpintería totalmente a la medida o líneas europeas premium, fabricadas a partir de planos de taller e instaladas perfectamente a nivel en edificios donde casi nada más lo está."
         },
         {
-          "name": "Cubiertas de piedra e islas",
+          "name": "Losas que suben por el ascensor",
           "desc": "Losas de piedra natural, cuarcita y porcelanato — plantilladas en sitio, con las juntas planeadas de antemano y subidas por el ascensor de servicio sin drama."
         },
         {
@@ -103,11 +103,11 @@
           "desc": "Paredes abiertas entre cocina y sala en casas de Golden Shores; islas y muros de electrodomésticos reconfigurados dentro de las restricciones de los montantes de la torre."
         },
         {
-          "name": "Reubicación de electrodomésticos y gas",
+          "name": "Electrodomésticos donde usted cocina",
           "desc": "Refrigeración panelable, cavas de vino y estufas de inducción o gas movidas adonde la distribución las pide, con la electricidad y la ventilación tramitadas con permisos a juego."
         },
         {
-          "name": "Diseño de iluminación",
+          "name": "Luz de tarea, indirecta y decorativa",
           "desc": "Iluminación de tarea, indirecta y decorativa en capas, con atenuación bien resuelta y dirigida para que la piedra se vea tan bien de noche como al mediodía."
         }
       ],
@@ -138,7 +138,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños en Sunny Isles Beach — Condos y casas",
-      "meta_description": "Baños principales en Sunny Isles Beach con piedra, vidrio sin marco e impermeabilización bien hecha. Contratista licenciado CGC1539072. Llame al (786) 273-2524.",
+      "meta_description": "Baños principales en Sunny Isles Beach con piedra, vidrio sin marco e impermeabilización bien hecha. Lic. CGC1539072. (786) 273-2524.",
       "h1": "Primero la impermeabilización, después el mármol",
       "hero_sub": "Baños principales para residencias de Sunny Isles Beach: piedra, vidrio sin marco y tinas independientes sobre una impermeabilización que de verdad aguanta — con permisos de la ciudad y la supervisión diaria de un contratista licenciado, CGC1539072.",
       "local_heading": "Donde una filtración nunca es solo suya",
@@ -151,19 +151,19 @@
       "scope_intro": "Suites principales, baños de visita y medios baños, llevados de la demolición al vidrio — con permisos de la ciudad y prueba de agua antes del azulejo.",
       "scope_items": [
         {
-          "name": "Duchas sin marco",
+          "name": "El plato debajo del vidrio",
           "desc": "Entradas sin bordillo y mamparas de vidrio grueso sobre platos con pendiente, membrana y prueba de inundación — la parte que nadie fotografía y de la que todos dependen."
         },
         {
-          "name": "Tinas independientes",
+          "name": "Tinas que la losa sí aguanta",
           "desc": "Tinas escultóricas con llenadores de piso, montadas sobre estructura debidamente reforzada y con las condiciones de la losa de la torre verificadas antes de que alguien se enamore."
         },
         {
-          "name": "Piedra y gran formato",
+          "name": "Losas book-match, presentadas en seco",
           "desc": "Losas book-match y porcelanato de gran formato, presentados en seco y aprobados de antemano para que la veta caiga exactamente donde cae la mirada."
         },
         {
-          "name": "Griferías y plomería",
+          "name": "Regaderas de lluvia y válvulas termostáticas",
           "desc": "Válvulas termostáticas, regaderas de lluvia y desagües reubicados donde los montantes del edificio lo permiten, coordinados con las reglas de plomería de la asociación en las torres."
         },
         {
@@ -198,7 +198,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones y extensiones en Sunny Isles Beach | PGX Builders",
-      "meta_description": "Extensiones traseras, segundos pisos y suites para huéspedes en casas de Golden Shores y Atlantic Isle, en Sunny Isles Beach. Ingeniería, permisos y obra. (786) 273-2524.",
+      "meta_description": "Extensiones traseras, segundos pisos y suites de huéspedes en Golden Shores y Atlantic Isle, en Sunny Isles Beach. Con permisos. (786) 273-2524.",
       "h1": "Los pies cuadrados que le faltan",
       "hero_sub": "PGX diseña y construye ampliaciones para las calles unifamiliares de Sunny Isles Beach — con ingeniería para la Zona de Huracanes de Alta Velocidad, permisos de la ciudad y la supervisión de un contratista general licenciado, CGC1539072, todos los días hábiles.",
       "local_heading": "Espacio para crecer al oeste de Collins",
@@ -211,23 +211,23 @@
       "scope_intro": "Extensiones y conversiones para propiedades de Golden Shores y Atlantic Isle, con ingeniería a los estándares actuales de viento e inundación desde los cimientos.",
       "scope_items": [
         {
-          "name": "Extensiones traseras",
+          "name": "Muros de vidrio hacia la bahía",
           "desc": "Salas familiares, suites principales y espacios con muros de vidrio extendidos hacia el canal o la bahía, amarrados estructuralmente a la casa existente."
         },
         {
-          "name": "Segundos pisos completos",
+          "name": "Segundo piso si la cimentación aguanta",
           "desc": "Un piso superior completo donde la cimentación lo permite — primero el análisis estructural, después vigas de amarre nuevas, escaleras y un techo construido al código de zona de huracanes."
         },
         {
-          "name": "Conversión de garajes",
+          "name": "Garajes convertidos en cuartos de verdad",
           "desc": "Garajes convertidos en suites de huéspedes, oficinas o gimnasios con aislamiento de verdad, aire acondicionado y salida de emergencia legal — con permisos, no improvisados."
         },
         {
-          "name": "Suites para suegros y huéspedes",
+          "name": "Suites con entrada independiente",
           "desc": "Suites con entrada independiente para familia de estadía larga, una inversión sensata en un vecindario donde los parientes llegan en enero y se despiden en abril."
         },
         {
-          "name": "Cimentación y vigas de amarre",
+          "name": "Zapatas para viento y arena",
           "desc": "Zapatas, muros de arranque y vigas de amarre reforzadas, calculadas para las cargas de viento costeras y el suelo arenoso sobre el que se asienta esta isla barrera."
         }
       ],
@@ -258,7 +258,7 @@
     },
     "outdoor-living": {
       "title": "Terrazas y cocinas de verano en Sunny Isles Beach | PGX",
-      "meta_description": "Cocinas de verano, terrazas, pérgolas y renovación exterior para casas de Sunny Isles Beach. Ingeniería HVHZ y permisos de la ciudad con PGX Builders. (786) 273-2524.",
+      "meta_description": "Cocinas de verano, terrazas, pérgolas y renovación exterior en Sunny Isles Beach. Ingeniería HVHZ y permisos de la ciudad. (786) 273-2524.",
       "h1": "Exteriores hechos para el aire salado",
       "hero_sub": "Terrazas, cocinas de verano, pérgolas y renovaciones exteriores para propiedades de Sunny Isles Beach — con ingeniería para el viento costero, permisos de la ciudad y la supervisión diaria de PGX Builders Group, Lic. CGC1539072.",
       "local_heading": "Usted está aquí por lo que hay afuera",
@@ -271,15 +271,15 @@
       "scope_intro": "De la terraza de la piscina a la línea del techo: construcción exterior con alcance por escrito, ingeniería para la exposición costera e inspecciones como todo lo demás que construimos.",
       "scope_items": [
         {
-          "name": "Cocinas de verano",
+          "name": "Cocinas de verano de grado marino",
           "desc": "Gas, refrigeración y gabinetes con cubierta de piedra aptos para el aire marino — con plomería, electricidad y permisos, como el pequeño edificio que en realidad es."
         },
         {
-          "name": "Terrazas cubiertas y pérgolas",
+          "name": "Terrazas con ingeniería, no improvisadas",
           "desc": "Estructuras de sombra calculadas para las cargas de viento de la zona de huracanes y ancladas en zapatas de verdad, porque aquí una pérgola es un cálculo de viento con muebles."
         },
         {
-          "name": "Terrazas de piscina y entradas",
+          "name": "Terrazas de piscina que drenan",
           "desc": "Travertino, piedra coralina y adoquines colocados sobre una base correcta, con drenaje planificado para que los aguaceros de verano se vayan tan rápido como llegan."
         },
         {
@@ -287,7 +287,7 @@
           "desc": "Restauración de la envolvente — reparación de grietas, recubrimientos elastoméricos y selladores elegidos para la exposición a la sal, no para el pasillo de pinturas."
         },
         {
-          "name": "Aberturas de impacto y techos",
+          "name": "Aberturas de impacto y techo nuevo",
           "desc": "Ventanas, puertas y techos con aprobación de Miami-Dade, secuenciados juntos para que la casa nunca quede abierta al clima más tiempo del necesario."
         }
       ],

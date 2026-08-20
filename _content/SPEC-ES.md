@@ -40,8 +40,10 @@ same fields, now in Spanish:
 - **title** — 45–68 chars. Rewritten for Spanish SEARCH QUERIES, not translated: e.g.
   "Remodelación de cocinas en Coral Gables | PGX Builders". Include the Spanish service keyword +
   area. Vary the pattern across the 5 pages.
-- **meta_description** — 130–170 chars, Spanish, with area + a concrete hook + call to action or the
-  phone number.
+- **meta_description** — 130–158 chars, Spanish, with area + a concrete hook + call to action or the
+  phone number. This ceiling is strict: Google truncates around 160 characters and the phone number
+  sits at the end, so an over-long description loses exactly the call to action. Spanish runs roughly
+  15% longer than English, so tighten rather than translate loosely.
 - **h1** — 4–10 words, punchy display headline in Spanish, no trailing period, not identical to title.
 - **hero_sub**, **local_heading**, **scope_heading**, **scope_intro**, **cta_heading**, **cta_sub** —
   same length disciplines as the English equivalents.

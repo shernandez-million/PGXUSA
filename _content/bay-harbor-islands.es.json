@@ -17,7 +17,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación de casas en Bay Harbor Islands, FL | PGX Builders",
-      "meta_description": "Remodelación integral de casas en Bay Harbor Islands, FL. PGX reconstruye casas de los años 50 del West Island: permisos, ingeniería y supervisión diaria. (786) 273-2524.",
+      "meta_description": "Remodelación integral en Bay Harbor Islands, FL. Reconstruimos casas de los años 50 del West Island: permisos y supervisión diaria. (786) 273-2524.",
       "h1": "Remodelación integral en un pueblo de dos islas",
       "hero_sub": "PGX Builders Group lleva las casas de finales de los años 40 y de los 50 de Bay Harbor Islands hasta la estructura y las vuelve a construir: con permisos del pueblo, ingeniería para la zona de huracanes y supervisión en obra todos los días, sin excepción.",
       "local_heading": "Dos islas, un mismo estándar de obra",
@@ -30,23 +30,23 @@
       "scope_intro": "Un solo contrato de la demolición a la inspección final: estructura, instalaciones, aberturas y acabados para casas de mediados de siglo, en manos de un equipo que lleva dos décadas haciendo esto.",
       "scope_items": [
         {
-          "name": "Renovaciones de fondo",
-          "desc": "Renovaciones interiores hasta el bloque en casas de los años 50 del West Island: distribuciones nuevas, instalaciones nuevas y acabados nuevos, conservando la huella original donde todavía se gana su lugar."
+          "name": "Vaciado total en el West Island",
+          "desc": "Renovaciones interiores hasta el bloque en casas de los años 50: distribuciones nuevas, instalaciones nuevas y acabados nuevos, conservando la huella original donde todavía se gana su lugar."
         },
         {
-          "name": "Aperturas estructurales",
+          "name": "Abrir la planta cerrada",
           "desc": "Paredes de carga retiradas y vigas calculadas por ingeniería, para que las plantas cerradas de mediados de siglo se conviertan en el espacio abierto frente al agua que el lote siempre prometió."
         },
         {
-          "name": "Instalaciones nuevas completas",
+          "name": "Instalaciones que la hacen asegurable",
           "desc": "Acometida eléctrica nueva, líneas de suministro y desagüe y aire acondicionado bien dimensionado: los sistemas sin glamour que mantienen una casa de isla seca, fresca y asegurable."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Cristales con aprobación de Miami-Dade",
           "desc": "Cristalería aprobada por Miami-Dade en toda la casa, instalada con detalles de sellado e impermeabilización a la medida de la lluvia de costado que de verdad cae en este pueblo."
         },
         {
-          "name": "Acabados y carpintería",
+          "name": "Acabados al nivel de la isla",
           "desc": "Carpintería a medida, piedra y porcelanato ejecutados al nivel que marcó la construcción nueva de la isla, instalados bajo supervisión diaria y no simplemente entregados en la puerta."
         }
       ],
@@ -77,7 +77,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas | Bay Harbor Islands, FL | PGX Builders",
-      "meta_description": "Remodelación de cocinas a medida en Bay Harbor Islands: plantas de los años 50 abiertas, cocinas en condominios nuevos, gabinetes y piedra. Llame al (786) 273-2524.",
+      "meta_description": "Cocinas a medida en Bay Harbor Islands: plantas de los años 50 abiertas, cocinas en condominios nuevos, gabinetes y piedra. (786) 273-2524.",
       "h1": "Cocinas hechas para Bay Harbor Islands",
       "hero_sub": "Remodelación de cocinas a medida en las dos islas: distribuciones de mediados de siglo abiertas, cocinas construidas desde la losa en condominios nuevos, gabinetes a medida y piedra, todo diseñado, tramitado y construido por un solo equipo con licencia y un supervisor presente cada día.",
       "local_heading": "De cocina de pasillo a isla abierta",
@@ -90,23 +90,23 @@
       "scope_intro": "Gabinetes, piedra, estructura y luz: el alcance completo de la cocina, en manos de un solo equipo con licencia, de los planos al último tirador.",
       "scope_items": [
         {
-          "name": "Gabinetes a medida",
+          "name": "Gabinetes medidos en obra",
           "desc": "Cajas y frentes totalmente a medida, medidos en obra cuando las paredes ya están fijas, con interiores organizados según cómo cocina y guarda realmente su familia."
         },
         {
-          "name": "Topes e islas de piedra",
+          "name": "Islas de piedra, plantilladas en persona",
           "desc": "Piedra natural y cuarzo premium, plantillados en persona y con uniones pensadas, incluida la isla de gran formato que termina siendo el cuarto más usado de la casa."
         },
         {
-          "name": "Cambios de distribución y estructura",
-          "desc": "Paredes de cocina de pasillo abiertas con vigas calculadas por ingeniería, puertas reubicadas y líneas de vista apuntadas al agua en lugar de a 1955."
+          "name": "Abrir la cocina de pasillo",
+          "desc": "Paredes abiertas con vigas calculadas por ingeniería, puertas reubicadas y líneas de vista apuntadas al agua en lugar de a 1955."
         },
         {
           "name": "Reubicación de equipos e instalaciones",
           "desc": "Gas, electricidad y plomería trasladados para servir a la nueva distribución, con permisos del pueblo e inspecciones antes de cerrar una sola pared."
         },
         {
-          "name": "Diseño de iluminación",
+          "name": "Iluminación pensada para la piedra",
           "desc": "Un plan de iluminación por capas: de tarea sobre los topes, ambiental en el techo, de acento sobre la carpintería, todo regulable y diseñado con la piedra en mente."
         }
       ],
@@ -137,7 +137,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños, Bay Harbor Islands FL | PGX Builders",
-      "meta_description": "Remodelación de baños en Bay Harbor Islands, FL: suites principales, duchas sin marco e impermeabilización que aguanta. Con permisos y supervisión. (786) 273-2524.",
+      "meta_description": "Remodelación de baños en Bay Harbor Islands, FL: suites principales, duchas sin marco e impermeabilización que aguanta. (786) 273-2524.",
       "h1": "Baños bien hechos, hasta la membrana",
       "hero_sub": "Remodelación de baños en Bay Harbor Islands con las prioridades en orden: primero la impermeabilización, después la piedra, el cristal y la bañera — todo con permisos del pueblo, con licencia y con supervisión cada día de trabajo.",
       "local_heading": "En una isla, impermeabilizar importa más",
@@ -150,20 +150,20 @@
       "scope_intro": "De la demolición al último cordón de silicona, cada capa es nuestra, y las capas que usted nunca ve son las que más atención reciben.",
       "scope_items": [
         {
-          "name": "Conversiones a suite principal",
+          "name": "Dos baños convertidos en uno",
           "desc": "Dos baños estrechos de mediados de siglo unidos en una suite generosa, con plomería redirigida, paredes reconfiguradas y almacenamiento diseñado desde el arranque."
         },
         {
-          "name": "Duchas sin marco",
+          "name": "Duchas a ras, cristal sin marco",
           "desc": "Entradas a ras de piso, desagües lineales e impermeabilización completa de membrana, probada con agua antes del azulejo: los detalles que deciden si un cristal tan minimalista vive sin problemas."
         },
         {
-          "name": "Bañeras y piedra",
+          "name": "Bañeras contra piedra hasta el techo",
           "desc": "Bañeras esculturales contra piedra del piso al techo o porcelanato de gran formato, sobre una preparación de superficie lo bastante plana para merecer el material."
         },
         {
-          "name": "Baños en condominios",
-          "desc": "Unidades del East Island renovadas con aprobaciones de la asociación, pasillos protegidos, elevadores reservados y el trabajo en bajantes documentado para que la junta duerma tranquila."
+          "name": "Baños en condominios del East Island",
+          "desc": "Unidades renovadas con aprobaciones de la asociación, pasillos protegidos, elevadores reservados y el trabajo en bajantes documentado para que la junta duerma tranquila."
         },
         {
           "name": "Plomería y ventilación",
@@ -197,7 +197,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones de casas en Bay Harbor Islands, FL | PGX Builders",
-      "meta_description": "Ampliaciones en Bay Harbor Islands: segundos pisos, extensiones traseras, revisión de diseño resuelta y las cuentas de FEMA hechas primero. Llame al (786) 273-2524.",
+      "meta_description": "Ampliaciones en Bay Harbor Islands: segundos pisos, extensiones traseras, revisión de diseño y las cuentas de FEMA primero. (786) 273-2524.",
       "h1": "Espacio para crecer en una isla pequeña",
       "hero_sub": "Segundos pisos, extensiones traseras y suites de huéspedes para casas del West Island: calculados por ingeniería, aprobados en la revisión del pueblo, con permisos y construidos bajo supervisión diaria por un contratista general licenciado del sur de la Florida.",
       "local_heading": "Crecer en una isla que no crece",
@@ -210,11 +210,11 @@
       "scope_intro": "Cinco caminos probados hacia más espacio en el West Island, cada uno con ingeniería, revisión del pueblo y una construcción que se lee como original.",
       "scope_items": [
         {
-          "name": "Segundos pisos",
+          "name": "Crecer sobre la huella original",
           "desc": "Un piso superior completo sobre la huella original, con vigas de amarre reforzadas, zapatas robustecidas y la escalera puesta donde la planta la pide."
         },
         {
-          "name": "Extensiones traseras",
+          "name": "Extenderse hacia el canal",
           "desc": "Espacio habitable extendido hacia el canal o la bahía, con estructura calculada y retiros respetados — la vista, por fin invitada a entrar."
         },
         {
@@ -257,7 +257,7 @@
     },
     "outdoor-living": {
       "title": "Terrazas y exteriores en Bay Harbor Islands | PGX Builders",
-      "meta_description": "Terrazas, cocinas de verano y pérgolas para casas de Bay Harbor Islands, hechas para el salitre y el viento de huracán. Con licencia y permisos. (786) 273-2524.",
+      "meta_description": "Terrazas, cocinas de verano y pérgolas en Bay Harbor Islands, hechas para el salitre y el viento de huracán. Con permisos. (786) 273-2524.",
       "h1": "Vida al aire libre, a prueba de salitre",
       "hero_sub": "Terrazas, cocinas de verano, pérgolas y entradas de auto para un pueblo rodeado de agua: especificadas para el salitre, calculadas para viento de huracán, con permisos del Building & Zoning Department de Bay Harbor Islands y supervisión diaria.",
       "local_heading": "Entre Biscayne Bay e Indian Creek",
@@ -270,15 +270,15 @@
       "scope_intro": "Estructuras, superficies y aberturas para exteriores de isla: especificadas para sal y viento, con permisos en regla y construidas para disfrutarse, no para mantenerse.",
       "scope_items": [
         {
-          "name": "Terrazas techadas y pérgolas",
+          "name": "Pérgolas ancladas a estructura real",
           "desc": "Estructuras de sombra calculadas para cargas de viento de huracán, ancladas a estructura de verdad y cableadas para ventiladores, sonido y luz de noche."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocina de verano frente al agua",
           "desc": "Cocinas exteriores con equipos de grado costero, topes de piedra y gas y electricidad con permisos, hechas para asar frente al agua y no junto a un garaje."
         },
         {
-          "name": "Entradas y accesos",
+          "name": "Entradas que aguantan el aguacero",
           "desc": "Adoquines, drenaje y detalles de acceso que aguantan los aguaceros de isla, con permisos del pueblo y un acabado a juego con la arquitectura."
         },
         {

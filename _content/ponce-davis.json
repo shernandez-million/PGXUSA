@@ -35,7 +35,7 @@
           "desc": "New electrical service, plumbing, and ductwork sized for how the house will actually run, because sixty-year-old systems should not power a brand-new renovation."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glass, county inspected",
           "desc": "Floor-to-ceiling glass and new entries carrying Miami-Dade product approvals, engineered for the High-Velocity Hurricane Zone and installed under county inspection."
         },
         {
@@ -43,7 +43,7 @@
           "desc": "Custom millwork, wide-plank flooring, and natural stone installed by trades accustomed to working inside occupied high-end homes without wrecking them."
         },
         {
-          "name": "Permits and inspections",
+          "name": "County RER filings and inspections",
           "desc": "We prepare, file, and walk every permit through Miami-Dade RER ourselves, with plan review, revisions, and inspections built into the schedule rather than bolted on."
         }
       ],
@@ -87,23 +87,23 @@
       "scope_intro": "From full tear-outs to layout changes, we build kitchens end to end here: cabinetry, stone, appliances, lighting, and the county paperwork underneath.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry for the way you cook",
           "desc": "Made-to-order cabinet packages with interiors planned around how your household actually cooks, built and installed by carpenters we have trusted for years."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Stone counters and a long island",
           "desc": "Marble, quartzite, and granite templated in place and finished with clean, planned seams, including islands scaled for acre-lot entertaining."
         },
         {
-          "name": "Appliance and gas relocation",
+          "name": "Range, oven, and gas relocations",
           "desc": "Moving ranges, ovens, and refrigeration where the new layout wants them, with the electrical and gas trade permits filed through Miami-Dade County."
         },
         {
-          "name": "Layout reconfiguration",
+          "name": "Kitchens opened to the family room",
           "desc": "Opening closed 1950s kitchens into dining and family rooms, with structural review and approved drawings when a wall turns out to be holding the roof."
         },
         {
-          "name": "Lighting design",
+          "name": "Lighting planned for the cook",
           "desc": "Layered task, ambient, and accent lighting wired on new circuits with dimming, permitted, inspected, and placed where cooks actually need it."
         }
       ],
@@ -147,7 +147,7 @@
       "scope_intro": "Primary suites, guest baths, and powder rooms across Ponce-Davis and High Pines, from demolition through the final caulk line, permitted and inspected.",
       "scope_items": [
         {
-          "name": "Primary suite conversions",
+          "name": "Fifties baths made into suites",
           "desc": "Combining cramped baths and closets into a true primary suite, with layout changes, plumbing relocation, and structural work engineered and permitted."
         },
         {
@@ -155,11 +155,11 @@
           "desc": "Curbless entries, linear drains, and heavy glass over full waterproofing membranes that are flood-tested before a single tile is set."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Freestanding tubs that get used",
           "desc": "Set on properly prepared slabs with floor-mounted fillers roughed in precisely, the kind of plumbing move you only want to pay for once."
         },
         {
-          "name": "Stone and tile work",
+          "name": "Bookmatched marble and porcelain slabs",
           "desc": "Bookmatched marble, porcelain slabs, and mosaic floors installed flat, level, and lined through by installers who earn their rate."
         },
         {
@@ -207,19 +207,19 @@
       "scope_intro": "From single-room bump-outs to full second stories, every addition we build is engineered, permitted through Miami-Dade County, and finished to match the original home.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "New wings on acre lots",
           "desc": "Family rooms, kitchens, and primary wings extended into deep back yards, with new foundations doweled into the existing slab and roof lines carried through cleanly."
         },
         {
-          "name": "Second-story additions",
+          "name": "Second floors over 1950s ranches",
           "desc": "Full upper floors built over strengthened tie beams and columns: engineering first, county-approved plans second, then a house with twice the room."
         },
         {
-          "name": "In-law and guest suites",
+          "name": "In-law quarters, legally habitable",
           "desc": "Attached or detached quarters with proper baths and kitchenettes, designed and permitted as legal habitable space rather than wink-wink storage."
         },
         {
-          "name": "Garage conversions",
+          "name": "Garages turned into gyms and offices",
           "desc": "Garages reborn as gyms, studios, and offices with insulation, conditioned air, and legal egress, plus an honest plan for where the cars go."
         },
         {
@@ -267,7 +267,7 @@
       "scope_intro": "Terraces to driveways, we build the outdoor rooms these lots were meant for, permitted, engineered, and finished to interior standards.",
       "scope_items": [
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchens under the loggia",
           "desc": "Built-in grills, refrigeration, and stone counters under cover, with gas and electrical runs permitted through the county and flashed against Miami weather."
         },
         {
@@ -275,15 +275,15 @@
           "desc": "Travertine, marble, and shellstone laid over proper substrates with drainage planned first, so the terrace still sits flat a decade from now."
         },
         {
-          "name": "Pergolas and shade structures",
+          "name": "Pergolas on real footings",
           "desc": "Engineered for South Florida wind loads with real footings and a real permit, not a kit bolted hopefully to pavers."
         },
         {
-          "name": "Driveways and entries",
+          "name": "Driveways with room to turn",
           "desc": "Pavers, concrete, and entry sequences regraded so stormwater drains on your lot, with room to turn a car without a spotter."
         },
         {
-          "name": "Exterior envelope work",
+          "name": "Stucco, paint, and impact openings",
           "desc": "Stucco repair, full repaints, impact window and door openings, and re-roof coordination timed to finish with the rest of the project."
         }
       ],

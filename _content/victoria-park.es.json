@@ -1,0 +1,320 @@
+{
+  "area_slug": "victoria-park",
+  "neighborhoods": [
+    "North Victoria Park Road",
+    "South Victoria Park Road",
+    "Victoria Courts",
+    "Victoria Highlands",
+    "Lake Stranahan",
+    "Holiday Park",
+    "Karen Canal",
+    "NE 6th Street",
+    "NE 7th Street",
+    "NE 8th Street",
+    "NE 12th Avenue",
+    "NE 15th Avenue",
+    "NE 16th Avenue"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral en Victoria Park, FL | PGX Builders",
+      "meta_description": "Cottages de los años veinte y ranches de mediados de siglo en Victoria Park, Fort Lauderdale, renovados a fondo y con permisos. (786) 273-2524.",
+      "h1": "Conserve el cottage, renueve todo lo demás",
+      "hero_sub": "Renovaciones a fondo y remodelaciones integrales para los cottages de los años veinte, las mediterráneas y los ranches de mediados de siglo de Victoria Park. Con permisos de Fort Lauderdale Development Services, inspecciones bajo el código de construcción de Broward y la dirección diaria de un contratista general licenciado, Lic. CGC1539072.",
+      "local_heading": "Aquí se renueva, no se demuele",
+      "intro_paragraphs": [
+        "Victoria Park se trazó en 1925 y se fue llenando durante las tres décadas siguientes, y por eso una sola cuadra puede tener un cottage estilo Mission, un bungalow Craftsman, una pequeña casa Mediterranean Revival y un ranch bajito de mediados de siglo. Los lotes son modestos, las calles hacen curva y la bóveda de robles es la razón por la que la gente paga lo que paga. Casi nadie tumba estas casas. Lo que hace es vaciarlas: la fachada se queda, las paredes interiores salen, los techos se abren y un plano de 1938 por fin consigue un gran salón, closets de verdad y una suite principal.",
+        "La revisión de planos y los permisos se tramitan ante el Development Services Department de la Ciudad de Fort Lauderdale, en línea a través de LauderBuild. Detrás de la ciudad hay una capa que en Miami-Dade no existe: el Broward County Board of Rules and Appeals, que administra las enmiendas del condado al Florida Building Code, certifica a los funcionarios de construcción e inspectores, y emite interpretaciones formales del código. Broward además queda dentro de la High-Velocity Hurricane Zone (HVHZ), así que cada ventana de impacto, cada puerta y cada sistema de techo necesita aprobación de producto para HVHZ. Victoria Park no es uno de los tres distritos históricos de la ciudad, pero una propiedad designada individualmente como landmark sí necesita un Certificate of Appropriateness del Historic Preservation Board.",
+        "Nuestra gente lleva más de 20 años construyendo en el sur de la Florida, con más de 150 remodelaciones y ampliaciones entregadas, todas con permisos e inspecciones. En una calle tan angosta, ese historial pesa menos que la conducta: un solo contenedor donde debe estar, entregas que no bloquean la entrada del vecino y cuadrillas que respetan el horario de obra que fija la ciudad. Usted recibe un alcance fijo por escrito antes de la demolición, un supervisor en obra cada día laborable, pisos y ebanistería protegidos, y un solo equipo responsable desde el primer estimado hasta la inspección final y la garantía."
+      ],
+      "scope_heading": "Qué tocamos al vaciar un cottage",
+      "scope_intro": "Aquí nada se cotiza a ojo. Esto es lo que suele incluir una remodelación integral en Victoria Park una vez que recorrimos la casa y leímos los planos originales.",
+      "scope_items": [
+        {
+          "name": "Tumbar las paredes",
+          "desc": "Eliminar las divisiones entre cocina, comedor y sala, con vigas de acero o de ingeniería dimensionadas por un ingeniero y con permiso emitido antes de que baje nada estructural."
+        },
+        {
+          "name": "Detrás del yeso",
+          "desc": "Servicio eléctrico y panel nuevos, cobre o PEX en lugar del galvanizado, drenajes de hierro fundido reemplazados y ductos diseñados para una casa que en su día no tuvo ninguno."
+        },
+        {
+          "name": "Aberturas de impacto HVHZ",
+          "desc": "Ventanas y puertas de impacto con aprobaciones HVHZ aceptadas en Broward, detalladas en perfiles y vistas que le sientan bien a una fachada de los años treinta en vez de aplanarla."
+        },
+        {
+          "name": "Estructura, comején y podredumbre",
+          "desc": "Los cottages de estructura de madera se abren, se inspeccionan y se reparan como corresponde: viguetas hermanadas, entablado reemplazado, madera tratada y anclajes puestos al día según el código vigente."
+        },
+        {
+          "name": "Ebanistería y acabados",
+          "desc": "Gabinetes a medida, marcos y zócalos a la escala de los techos originales, más piedra, loseta y pintura secuenciados para que nada se instale dos veces."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Victoria Park es distrito histórico? ¿Necesito una aprobación especial para remodelar?",
+          "a": "No, el vecindario no es uno de los distritos históricos designados de Fort Lauderdale, así que no hay una junta de diseño revisando la fachada de todo el barrio. La excepción son las propiedades designadas individualmente como landmark: esas necesitan un Certificate of Appropriateness del Historic Preservation Board de la ciudad antes de cualquier trabajo exterior. La mayoría de las remodelaciones en Victoria Park va directo a Development Services para revisión de planos. Nosotros verificamos el estatus de su propiedad la primera semana, no la semana antes de la demolición."
+        },
+        {
+          "q": "Broward tiene un Board of Rules and Appeals. ¿En qué me afecta a mí?",
+          "a": "De forma indirecta y constante. Broward mantiene una capa de código a nivel de condado que Miami-Dade maneja de otra manera. El Board of Rules and Appeals adopta las enmiendas administrativas del condado al Florida Building Code, fija los estándares de certificación que deben cumplir el funcionario de construcción y los inspectores, y resuelve apelaciones e interpretaciones formales cuando una sección del código se presta a discusión. Usted nunca va a radicar nada ante ellos. Su contratista sí debe conocerse las enmiendas de Broward de memoria, porque los inspectores de Fort Lauderdale las hacen cumplir."
+        },
+        {
+          "q": "¿La Victoria Park Civic Association tiene que aprobar mi remodelación?",
+          "a": "No. La VPCA es una asociación cívica voluntaria, no una asociación de propietarios, y no tiene poder de revisión arquitectónica sobre su permiso. Lo que sí tiene es un largo historial de presentarse en el City Hall cuando se discuten temas de zonificación y desarrollo, y una membresía que nota una obra el mismo día en que empieza. Eso es razón para llevar un proyecto limpio, callado y bien señalizado, no para temerle. Los buenos vecinos salen más baratos que las llamadas de queja."
+        },
+        {
+          "q": "¿Cuánto tarda una remodelación integral por aquí?",
+          "a": "Primero van el diseño y los permisos, y en una casa antigua de Fort Lauderdale eso se mide en meses y no en semanas, una vez sumadas la ingeniería, el levantamiento y los comentarios de revisión de planos. La construcción de una renovación total en un cottage de dos a tres mil pies cuadrados suele llevarse buena parte de un año. Los cambios estructurales, el trabajo en un segundo piso y la ebanistería de fabricación larga lo estiran. Le entregamos un cronograma por escrito junto con el estimado y después lo defendemos con supervisión diaria."
+        },
+        {
+          "q": "¿Cuánto debería costar una remodelación integral en Victoria Park?",
+          "a": "Depende por completo de qué tan a fondo vaya, y quien le dé un precio por pie cuadrado por teléfono está adivinando. Un refrescamiento cosmético y una renovación total con electricidad, plomería, aire acondicionado, vidrio de impacto y aperturas estructurales nuevas son proyectos distintos con presupuestos distintos. Definimos el alcance por escrito, con partidas atadas a selecciones reales, para que el número que usted firma sea el número que se sostiene. PGX construye en la gama alta y cobra en consecuencia, y preferimos decirlo de entrada antes que descubrirlo juntos más adelante."
+        }
+      ],
+      "cta_heading": "El cottage, cuarto por cuarto",
+      "cta_sub": "Traiga los planos, la lista de deseos o simplemente la frustración. Se va con un alcance fijo y un cronograma para el cottage, en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Cocinas a medida en Victoria Park, Fort Lauderdale FL",
+      "meta_description": "Remodelación de cocinas en Victoria Park, Fort Lauderdale: la vieja cocina de servicio se vuelve un espacio de verdad. (786) 273-2524.",
+      "h1": "Cocine donde antes estaba la despensa",
+      "hero_sub": "Gabinetes a medida, topes de piedra y cambios reales de distribución para las cocinas de Victoria Park, con permisos de la Ciudad de Fort Lauderdale, inspecciones en cada etapa y un contratista general licenciado supervisando en obra.",
+      "local_heading": "Donde estaba la cocina de servicio",
+      "intro_paragraphs": [
+        "Las cocinas de las casas antiguas de Victoria Park están casi todas en el lugar equivocado. Un cottage de los años treinta cerca de North Victoria Park Road puso la cocina en la esquina trasera, detrás de una puerta de vaivén, con una ventana sobre el fregadero y espacio apenas para dos personas. Los ranches de mediados de siglo, más cerca de Holiday Park, lo hicieron mejor y aun así terminaron en una cocina tipo pasillo. Por eso el verdadero proyecto de cocina en estas cuadras es espacial: anexar el desayunador o el viejo porche de servicio, tumbar la pared del comedor y poner una isla donde estaba la despensa.",
+        "Los permisos de cocina pasan por Fort Lauderdale Building Services, se radican en LauderBuild y traen inspecciones separadas de plomería, electricidad y mecánica, a cargo de inspectores certificados bajo el Broward County Board of Rules and Appeals. Dos realidades de Victoria Park aparecen temprano. Muchas de estas casas todavía cargan un servicio eléctrico insuficiente, incapaz de mover al mismo tiempo una estufa de inducción, un horno de pared y una cava de vinos. Y la ciudad ha venido reemplazando las tuberías principales originales de dos pulgadas del vecindario por otras de seis y ocho pulgadas, dato que conviene tener antes de culpar a una grifería nueva por la falta de presión.",
+        "Ordenamos los gabinetes antes de la demolición y plantillamos la piedra después de instalar las cajas, lo cual suena obvio hasta que a uno le toca vivir la secuencia al revés. Su cocina recibe un alcance fijo por escrito, un supervisor aquí cada día laborable y barreras contra el polvo que mantienen el polvillo de drywall fuera del resto de una casa que usted ya terminó. Las entregas se escalonan para que nadie en la calle pierda su puesto de estacionamiento durante un mes. Más de 20 años en el sur de la Florida, más de 150 remodelaciones y ampliaciones, todas con permisos e inspecciones. Lic. CGC1539072."
+      ],
+      "scope_heading": "Rehacer una cocina de Victoria Park",
+      "scope_intro": "Selecciones y estructura quedan por escrito antes de ordenar el primer gabinete. Estos cinco puntos se llevan la mayor parte del presupuesto en estas cuadras.",
+      "scope_items": [
+        {
+          "name": "Gabinetes hechos a la medida",
+          "desc": "Paquetes de gabinetería construidos a sus dimensiones y acabados para la humedad costera, con interiores planificados según cómo guarda usted las cosas y no según una lista estándar."
+        },
+        {
+          "name": "La pared que se va",
+          "desc": "Vigas y columnas de ingeniería donde estaba la pared de la cocina, con los cálculos de carga sellados, tramitados e inspeccionados antes de que el drywall cierre todo."
+        },
+        {
+          "name": "Islas y piedra",
+          "desc": "Losas de cuarcita, mármol o porcelanato plantilladas sobre los gabinetes ya instalados, con voladizos soportados en acero y juntas colocadas donde usted no las va a estar mirando."
+        },
+        {
+          "name": "Electrodomésticos que se mudan",
+          "desc": "Reubicar estufa, refrigeración y lavaplatos adonde los quiere el nuevo plano, con circuitos dedicados, líneas de agua y campanas ventiladas al exterior, todo incluido en el permiso del trabajo."
+        },
+        {
+          "name": "Servicio, panel e iluminación",
+          "desc": "Mejora del servicio eléctrico y del panel cuando el viejo ya no da, más iluminación por capas en controles separados en vez de una sola lámpara en el centro del techo."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permiso para remodelar la cocina en Fort Lauderdale?",
+          "a": "Para una cocina de verdad, sí. Mover plomería, agregar circuitos, cambiar la ventilación o tocar la estructura exige permisos radicados en LauderBuild, más inspecciones en rústico y final. Pintar o meter un lavaplatos en las conexiones existentes, no. El trabajo de cocina sin permisos en Victoria Park tiene la costumbre de aparecer en el cierre de la venta, cuando el inspector del comprador cuenta tomacorrientes que nunca figuraron en una tarjeta. Legalizarlo después cuesta más y se ve peor."
+        },
+        {
+          "q": "¿Puedo tener gas para la estufa en Victoria Park?",
+          "a": "No en todas partes, así que averígüelo antes de enamorarse de una estufa en particular. El servicio de gas natural no llega a todas estas cuadras, y nosotros confirmamos qué hay realmente en la línea de propiedad en lugar de suponerlo. Donde no llega la red de gas, un tanque de propano con permiso suele ser la ruta práctica, y muchos clientes simplemente se pasan a la inducción y no miran atrás. Cualquiera de los dos caminos lleva su propio permiso y su propia inspección."
+        },
+        {
+          "q": "¿Mi casa antigua aguanta un paquete moderno de electrodomésticos?",
+          "a": "Muchas veces no, sin ayuda. Las casas que se construyeron aquí en los años treinta y cuarenta se cablearon para una nevera, una bombilla y un radio, y muchas siguen con un servicio anterior al aire acondicionado central. Antes de especificar cualquier cosa hacemos un cálculo de carga, revisamos el panel y cotizamos con honestidad la mejora del servicio dentro del mismo juego de permisos. No es glamoroso, pero es la diferencia entre una cocina que funciona y una que bota el breaker."
+        },
+        {
+          "q": "¿Cuánto tiempo vamos a estar sin cocina?",
+          "a": "Cuente con un par de meses de obra para una distribución sencilla, y más cuando se cae una pared o el plano cambia de cuarto. La ebanistería a medida marca el ritmo y se ordena con meses de anticipación, para que su casa no quede abierta esperando un camión de entrega. Casi siempre montamos una cocina provisional en algún lugar sensato, muchas veces el comedor o el garaje, y le damos la fecha honesta en lugar de la optimista."
+        },
+        {
+          "q": "¿Cuánto cuesta una cocina de alta gama por aquí?",
+          "a": "Sus selecciones pesan más que el tamaño del cuarto. Gabinetes, piedra y electrodomésticos fijan el rango, y una cocina de Victoria Park que además necesita una apertura estructural, una mejora del servicio eléctrico y plomería reubicada carga un costo de construcción serio debajo de la parte bonita. Cotizamos contra una especificación escrita, para que usted compare peras con peras. Somos un constructor de alta gama, no la más baja de tres ofertas, y preferimos dejarlo claro desde la visita."
+        }
+      ],
+      "cta_heading": "Hablemos de cocinas",
+      "cta_sub": "Mándenos fotos o ábranos la puerta. En cualquiera de los dos casos recibe una especificación, un cronograma y un precio fijo, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Victoria Park, Fort Lauderdale",
+      "meta_description": "Baños en Victoria Park, Fort Lauderdale: cambiamos la plomería de los años treinta antes de que llegue el mármol. Con permisos. (786) 273-2524.",
+      "h1": "Baños hechos para durar más que las tuberías",
+      "hero_sub": "Suites principales, mamparas sin marco y tinas independientes para casas de Victoria Park, con la impermeabilización probada antes de colocar una sola loseta y cada oficio tramitado e inspeccionado ante Fort Lauderdale Building Services. Licenciados y asegurados, Lic. CGC1539072.",
+      "local_heading": "Mármol nuevo sobre plomería de noventa años",
+      "intro_paragraphs": [
+        "Cuente los baños de un cottage original de Victoria Park y casi siempre llegará a uno. Las casas de las cuadras más antiguas, cerca de Victoria Courts y NE 7th Street, se construyeron cuando un solo baño de loseta servía a toda la familia, y los ranches de los años cincuenta agregaron un segundo que todavía mide cuatro pies de ancho. La solución casi siempre es anexar: pedirle prestado el espacio a un cuarto pequeño, a un closet de pasillo o a un porche con malla, y convertir el resultado en un baño principal con dos lavamanos, una ducha de verdad y algún lugar donde poner la toalla.",
+        "Los permisos de baño los emite la Ciudad de Fort Lauderdale a través de Development Services, con inspecciones de plomería, electricidad y mecánica en el camino, todas bajo las enmiendas del condado de Broward al Florida Building Code que administra el Board of Rules and Appeals. Las complicaciones locales, eso sí, son más viejas que el código. Los drenajes de hierro fundido y las líneas de suministro galvanizadas abundan en estas casas, unas se apoyan sobre losa y otras cargan pisos de madera elevados, y abrir una ventana exterior para ganar luz significa una unidad de impacto aprobada para HVHZ y no la que mejor combine.",
+        "Cuarto pequeño, cero margen de error. Los platos de ducha se prueban con agua antes de la loseta, las membranas se inspeccionan en vez de fotografiarse, las pendientes se verifican con nivel y la extracción se conduce hacia afuera y no hacia un ático donde arruinaría la estructura en silencio. Cada baño que construimos en Victoria Park corre sobre un alcance fijo por escrito, supervisión diaria y pasillos protegidos desde su puerta de entrada hasta la zona de trabajo. Licenciados, asegurados y con permisos en cada obra, con más de 20 años de trabajo en el sur de la Florida detrás."
+      ],
+      "scope_heading": "Por dentro de un baño de Victoria Park",
+      "scope_intro": "La impermeabilización y la plomería deciden si el mármol valió la pena. Esto es lo que dejamos por escrito antes de ordenar una sola loseta.",
+      "scope_items": [
+        {
+          "name": "Un cuarto menos, una suite",
+          "desc": "Reconfigurar cuartos, closets y pasillos en una suite principal de verdad, con la estructura, la plomería en bruto y los planos de permiso manejados como un solo paquete."
+        },
+        {
+          "name": "Platos que aguantan agua",
+          "desc": "Platos con pendiente, drenajes lineales o centrales y membranas probadas con agua y firmadas por el inspector antes de la loseta, porque la única filtración barata es la que nunca ocurre."
+        },
+        {
+          "name": "Cambiar lo que está detrás",
+          "desc": "Los tramos de hierro fundido y galvanizado se reemplazan por drenaje y suministro modernos mientras las paredes están abiertas, algo que nunca será más fácil ni más barato que ahora."
+        },
+        {
+          "name": "Piedra, vidrio y calor",
+          "desc": "Losas y loseta de gran formato sobre sustratos bien preparados, vidrio pesado sin marco anclado en refuerzos puestos ahí a propósito, y piso radiante donde la altura del piso lo permita."
+        },
+        {
+          "name": "Aire que de verdad circula",
+          "desc": "Las casas antiguas ventilan mal, así que el extractor se dimensiona y se conduce correctamente al exterior, y la luz se reparte entre espejo, ducha y cuarto."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Puedo poner una ducha a ras de piso en una casa de los años treinta en Victoria Park?",
+          "a": "Eso lo decide el piso, no la loseta. Sobre losa hundimos el plato cortando concreto y reencaminando líneas de drenaje, que es trabajo real y se cotiza como tal. Sobre un piso de madera elevado bajamos la estructura para hundir el plato. Cuando ninguna de las dos tiene sentido, un bordillo de perfil bajo con la pendiente bien lograda le da casi el mismo aspecto y el mismo pasillo seco. Le decimos cuál soporta su casa antes de que usted se comprometa con una foto."
+        },
+        {
+          "q": "La presión del agua en mi ducha es pésima. ¿Una remodelación la arregla?",
+          "a": "En parte, y el resto no está de su lado del medidor. Las líneas de suministro galvanizadas se corroen por dentro y ahogan el caudal, así que reemplazarlas con las paredes abiertas hace una diferencia real. Por otro lado, la ciudad ha venido cambiando las tuberías principales originales de dos pulgadas de Victoria Park por líneas más grandes y conexiones de servicio nuevas, lo que mejora la presión desde la calle. Revisamos las dos cosas y le decimos cuál es el problema."
+        },
+        {
+          "q": "¿Necesito permiso solo para cambiarle la loseta al baño?",
+          "a": "Reemplazar loseta y piezas sanitarias en los mismos lugares, de forma puramente cosmética, es más liviano de lo que la gente supone. En el momento en que mueve un drenaje, agrega un circuito, cambia la ventilación o abre una pared, ya está en territorio de permisos con Fort Lauderdale Building Services, con inspecciones antes de tapar nada. Sacamos los permisos siempre que el alcance lo amerite, porque el expediente de inspecciones es lo que lo protege a usted en la reventa."
+        },
+        {
+          "q": "¿Podemos quedarnos en la casa durante la remodelación del baño?",
+          "a": "Si tiene otro baño funcionando, sí, y la mayoría de nuestros clientes en Victoria Park hace exactamente eso. Levantamos una barrera contra el polvo, dejamos pasillos protegidos, entregamos la obra ordenada al final de cada día y trabajamos dentro del horario que permite la ordenanza de ruido de la ciudad. Si el proyecto es su único baño, se lo diremos sin rodeos y lo ayudaremos a planificar alrededor de eso, en vez de fingir que seis semanas de campamento no son nada."
+        },
+        {
+          "q": "¿Cuánto cuesta un baño principal de este nivel?",
+          "a": "La mitad visible es piedra, vidrio y grifería, y no es la mitad que sorprende a nadie. Drenaje y suministro nuevos, impermeabilización, reparaciones de estructura y ventilación van debajo, y en una casa de los años treinta ese trabajo rara vez es pequeño. Recorremos el espacio, abrimos lo que haya que abrir y le entregamos un número fijo por escrito, en vez de un rango que se ensancha calladito. Trabajo de alta gama cotizado con honestidad le gana a una oferta baja que se encuentra con su plomería en la tercera semana."
+        }
+      ],
+      "cta_heading": "Los baños, uno por uno",
+      "cta_sub": "Muéstrenos el baño que más le molesta. Lo definimos como se debe, lo cotizamos con honestidad y le respondemos en español o en inglés."
+    },
+    "home-additions": {
+      "title": "Ampliaciones de casas en Victoria Park, FL | PGX Builders",
+      "meta_description": "Ampliaciones en Victoria Park, Fort Lauderdale: extensiones traseras, segundos pisos y suites para familiares. Con ingeniería. (786) 273-2524.",
+      "h1": "Más espacio sin dejar su calle",
+      "hero_sub": "Extensiones traseras, segundos pisos, conversiones de garaje y suites para familiares en los lotes ajustados de Victoria Park. Con ingeniería, revisión de zonificación, permisos de la ciudad y la supervisión diaria de un contratista general licenciado del sur de la Florida.",
+      "local_heading": "Hacer crecer una casa en un lote de 1925",
+      "intro_paragraphs": [
+        "Alfred Kuhn trazó Victoria Park en 1925 con calles curvas y diagonales, y de ahí salieron cuadras hermosas y una buena cantidad de lotes incómodos. Los dueños de aquí casi nunca se van. Están a minutos de Las Olas y a una caminata corta de Holiday Park, así que en vez de mudarse amplían: un family room y una suite principal detrás de un cottage en NE 8th Street, un segundo piso sobre un ranch de los años cincuenta, un garaje convertido en una suite de huéspedes de verdad, o un ala para los papás que ya decidieron que Fort Lauderdale le gana al invierno.",
+        "Las reglas de Fort Lauderdale se ponen específicas en cuanto usted suma pies cuadrados, y el Development Services Department de la ciudad las aplica todas a la vez. La revisión de zonificación bajo las Unified Land Development Regulations de la ciudad gobierna los retiros, la cobertura del lote y el límite de treinta y cinco pies de altura que rige en los distritos unifamiliares que cubren casi todo Victoria Park. Los planos estructurales necesitan un ingeniero, las aberturas nuevas necesitan aprobaciones de producto para HVHZ, y el trabajo en una zona de inundación mapeada suma un certificado de elevación al expediente. Si su propiedad cae en un área especial de riesgo de inundación, la regla federal del cincuenta por ciento de mejora sustancial puede reconfigurar el proyecto, así que corremos esa cuenta antes de que alguien dibuje.",
+        "Cimientos nuevos junto a otros de noventa años, vigas de amarre vaciadas en paredes que jamás se diseñaron para recibirlas, empates de techo donde el estuco tiene que igualar una textura que ya nadie fabrica: esa es la parte de una ampliación que no se ve y que no se puede saltar. PGX ha entregado más de 150 remodelaciones y ampliaciones en el sur de la Florida en más de 20 años, todas con permisos e inspecciones. Usted recibe un alcance fijo por escrito, supervisión diaria, la mitad ocupada de la casa habitable durante toda la obra, y un solo equipo responsable desde la factibilidad hasta la garantía."
+      ],
+      "scope_heading": "Ampliar sobre un lote de 1925",
+      "scope_intro": "Toda ampliación empieza con un levantamiento, una lectura de zonificación y un ingeniero. Estas son las cinco formas que suelen tomar los proyectos en Victoria Park.",
+      "scope_items": [
+        {
+          "name": "Extensiones hacia atrás",
+          "desc": "Empujar el fondo de la casa hacia el patio para un family room, una cocina más grande o una suite principal, con la estructura y el empate de techo calculados en conjunto."
+        },
+        {
+          "name": "Subir un piso",
+          "desc": "Segundos pisos en casas que nunca se pensaron para cargar uno, empezando por el veredicto del ingeniero sobre las paredes existentes, las zapatas y el sistema lateral."
+        },
+        {
+          "name": "El garaje, convertido",
+          "desc": "Convertir garajes y carports en habitaciones climatizadas, con aislamiento, aberturas de impacto y extensiones mecánicas legales y tramitadas, para que el espacio cuente como pies cuadrados en papel."
+        },
+        {
+          "name": "Una suite para estadías largas",
+          "desc": "Baño, kitchenette y entrada privada para los papás o los hijos grandes que se quedan un buen tiempo, dimensionada a lo que el lote y la zonificación realmente permiten."
+        },
+        {
+          "name": "Cimientos que no se ven",
+          "desc": "Zapatas nuevas amarradas a las viejas, recalces donde el suelo lo exige, mejoras de vigas de amarre y el trabajo de elevación en zona inundable que Fort Lauderdale revisa antes de aprobar área nueva."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿De qué tamaño puede ser la ampliación que permite mi lote en Victoria Park?",
+          "a": "Esa es una pregunta de zonificación antes que de diseño. Las Unified Land Development Regulations de la ciudad fijan los retiros, la cobertura máxima del lote y un límite de treinta y cinco pies de altura en los distritos unifamiliares, y el trazado curvo de 1925 hace que muchos lotes de aquí no sean rectángulos sencillos. Empezamos con un levantamiento actualizado, leemos la zonificación contra él y le decimos cuál es el volumen real permitido antes de que usted le pague a un arquitecto por dibujar algo que no cabe."
+        },
+        {
+          "q": "¿Me aplica la regla del cincuenta por ciento de FEMA?",
+          "a": "Solo si la propiedad está en un área especial de riesgo de inundación mapeada, y en Fort Lauderdale eso cambia de cuadra en cuadra. Donde aplica, la regla compara el costo de su proyecto contra el valor de mercado de la estructura antes de la mejora; si cruza el umbral, el edificio entero tiene que cumplir los requisitos vigentes de zona inundable. La ciudad va a pedir un certificado de elevación que establezca dónde queda realmente su piso terminado. Nada de esto es fatal, pero se resuelve antes del diseño y no en revisión de planos."
+        },
+        {
+          "q": "¿Un cottage de los años treinta aguanta un segundo piso?",
+          "a": "Eso solo lo puede contestar un ingeniero estructural, y la respuesta depende de con qué están hechas las paredes. Los cottages de estructura de madera y el bloque hueco de arcilla se comportan de manera muy distinta al bloque de concreto de los ranches de los años cincuenta, así que el primer gasto es una evaluación de las paredes y las zapatas existentes. A veces la recomendación honesta es una extensión trasera, porque cuesta menos y lo deja seguir viviendo en la casa. Le traemos las dos opciones con números."
+        },
+        {
+          "q": "Hay un roble grande justo donde quiero la ampliación. ¿Se puede quitar?",
+          "a": "Quizá, y no a la ligera. Tumbar un árbol en Fort Lauderdale requiere permiso de la ciudad, y si viene acompañado de siembra de reposición depende de la especie, el tamaño y el lote. En un vecindario donde la arboleda es la mitad de su valor, la jugada inteligente suele ser diseñar alrededor del árbol: correr la huella, ajustar la línea del techo, flotar un deck libre de las raíces. Revisamos el árbol antes de revisar el presupuesto."
+        },
+        {
+          "q": "¿Cuánto pasa desde la primera conversación hasta el cuarto terminado?",
+          "a": "Casi toda la espera ocurre antes de construir. El levantamiento, el diseño, la ingeniería estructural, la revisión de zonificación y el permiso a través de LauderBuild se toman meses de rutina antes de que se mueva una pala, y construir una ampliación sustancial suma varios más después de eso. Un año desde la primera reunión hasta los muebles es un marco realista, y los segundos pisos van más largo. Cada fase entra en un cronograma por escrito al momento del estimado, para que no haya meses misteriosos en los que aparentemente no pasa nada."
+        }
+      ],
+      "cta_heading": "Hablemos de esa ampliación",
+      "cta_sub": "Cuéntenos qué le falta a la casa. Leemos el lote, el código y el presupuesto en voz alta, en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y cocinas de verano en Victoria Park, FL | PGX Builders",
+      "meta_description": "Terrazas, cocinas de verano y entradas de auto en Victoria Park, Fort Lauderdale. Permisos de swale y derecho de vía incluidos. (786) 273-2524.",
+      "h1": "Patios a la altura de los robles",
+      "hero_sub": "Terrazas techadas, cocinas de verano, pérgolas y entradas de auto para Victoria Park, construidas con estándares HVHZ, con los permisos de construcción y de derecho de vía tramitados, las inspecciones agendadas y un supervisor en obra cada día laborable.",
+      "local_heading": "Robles, swales y el agua que viene detrás",
+      "intro_paragraphs": [
+        "La bóveda de robles sobre North y South Victoria Park Road es el mejor activo del vecindario y también su restricción de diseño más fastidiosa, y por eso vivir al aire libre aquí se ve distinto a un patio de lote pelado. Los lotes son compactos, así que el trabajo es milimétrico: una terraza techada metida detrás de un cottage estilo Mission, una cocina de verano a lo largo del patio lateral, una pérgola sobre una piscina pequeña, una entrada de auto rehecha que por fin drena. Las casas sobre Lake Stranahan y el Karen Canal suman terrazas junto al muelle, y con ellas las preguntas de seawall.",
+        "Un proyecto exterior en Victoria Park toca más de una ventanilla en Fort Lauderdale. Las estructuras necesitan permiso de construcción por Development Services; las cocinas de verano llevan sus propios permisos de plomería, gas y electricidad; y cualquier cosa que toque el swale —la franja verde de drenaje frente a su casa—, el apron o la acera exige un permiso de derecho de vía de ingeniería, con el swale reperfilado y el césped repuesto según el estándar de la ciudad. Las pérgolas y los cerramientos de malla se calculan para las cargas de viento de la HVHZ. En los lotes sobre canal, el trabajo de seawall y muelle agrega la revisión marina de la ciudad y una licencia del Aquatic and Wetland Resources Program del condado de Broward.",
+        "Abril de 2023 le enseñó a este vecindario lo que el agua estancada le hace a una casa, y desde entonces la ciudad ha estado rehaciendo las tuberías principales de agua y el sistema de aguas pluviales de Victoria Park. Nosotros diseñamos terrazas y entradas de auto para llevar el agua lejos del edificio y no hacia la puerta principal, y coordinamos con lo que sea que la ciudad tenga abierto en su calle ese mes. Alcance fijo por escrito, permisos sacados antes de empezar, un supervisor en obra a diario y cuadrillas que saben mantener limpio un lote pequeño. Construimos bajo la Lic. CGC1539072, licenciados y asegurados."
+      ],
+      "scope_heading": "Lo que construimos afuera",
+      "scope_intro": "Terrazas, cocinas, entradas de auto y fachadas son un solo proyecto, no cinco oficios tropezándose entre sí. Esto es lo que construimos y tramitamos bajo un mismo alcance.",
+      "scope_items": [
+        {
+          "name": "Techo sobre la terraza",
+          "desc": "Terrazas techadas y pérgolas con zapatas, conexiones contra levantamiento y estructura calculadas para las cargas de viento de Broward, dibujadas para acomodarse con naturalidad bajo la línea de techo existente."
+        },
+        {
+          "name": "La cocina de verano",
+          "desc": "Gas, agua y electricidad tendidos y tramitados como es debido, y después gabinetes, topes y equipos escogidos porque sobreviven un agosto a la intemperie, no porque fotografían bien."
+        },
+        {
+          "name": "Entradas, aprons y swales",
+          "desc": "Adoquines y concreto acabado colocados para drenar, con el permiso de derecho de vía de ingeniería tramitado y el swale reperfilado y engramado según el detalle estándar de la ciudad."
+        },
+        {
+          "name": "Fachadas y acabados",
+          "desc": "Restauración exterior en cottages antiguos: estuco agrietado picado y resanado igualando la textura, molduras de madera reparadas o reemplazadas, y después un sistema de recubrimiento que dura."
+        },
+        {
+          "name": "Puertas de impacto y techo",
+          "desc": "Puertas y ventanas de terraza aprobadas para HVHZ instaladas en la secuencia correcta con el trabajo de techo, para que los tapajuntas, los empates y las garantías queden alineados."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permiso para rehacer la entrada de auto en Victoria Park?",
+          "a": "Sí, y probablemente dos. La entrada en sí lleva permiso de construcción, y el apron que cruza el swale hasta la calle está en el derecho de vía de la ciudad, lo que significa un permiso de ingeniería y la restauración del swale según el detalle estándar de Fort Lauderdale. El swale no es decoración: es parte del sistema de drenaje, y a la ciudad le importa su nivel. Radicamos los dos permisos y los agendamos para que el trabajo no se quede a medias."
+        },
+        {
+          "q": "La ciudad tiene mi calle rota. ¿Debo esperar para empezar?",
+          "a": "No necesariamente, pero lo planificamos. Victoria Park ha tenido reemplazo de tuberías principales de agua, encamisado de alcantarillado y obras de aguas pluviales avanzando por fases, y eso afecta el acopio, las entregas, dónde va el contenedor y a veces el servicio de agua por un día. Revisamos el mapa de proyectos activos de la ciudad para su cuadra antes de fijar la fecha de inicio, y coordinamos con quien esté en la calle en vez de encontrárnoslo un lunes por la mañana."
+        },
+        {
+          "q": "Mi patio se inunda. ¿Un proyecto de terraza arregla el drenaje?",
+          "a": "Puede ayudar bastante, y es de las primeras cosas que miramos. La nivelación, la pendiente en contra de la losa, las superficies permeables, los drenajes franceses y las bocas de tormenta bien dimensionadas pertenecen al diseño; no se agregan después como disculpa. Lo que una terraza privada no puede hacer es resolver un problema de escala de vecindario, que es justamente para lo que existe la obra de aguas pluviales de la ciudad. Le diremos cuál de los dos problemas tiene."
+        },
+        {
+          "q": "Tengo frente de canal. ¿Qué implica reemplazar el seawall?",
+          "a": "Más agencias de las que quisiera. Fort Lauderdale revisa el trabajo de seawall y muelle bajo sus propias reglas de vías acuáticas y hoy exige una elevación mínima de cinco pies NAVD 88 en la corona de los seawalls nuevos o sustancialmente mejorados, alineada con el estándar del condado de Broward. El Aquatic and Wetland Resources Program del condado licencia el trabajo en, sobre o bajo aguas superficiales, y según la ubicación y el alcance puede sumarse revisión estatal o federal. Coordinamos al contratista marino y las aprobaciones para que la terraza y el seawall sean un solo cronograma y no dos discusiones."
+        },
+        {
+          "q": "¿Qué presupuesto debo tener para una terraza techada con cocina de verano?",
+          "a": "Lo marcan la estructura y los servicios. Una terraza de adoquines con iluminación es un número; un cuarto exterior techado con gas, agua, electricidad, equipos y topes de piedra es otro orden de proyecto, porque debajo de los equipos hay ingeniería y permisos. Después las selecciones lo mueven todavía más. Lo definimos por escrito tras recorrer el patio, para que lo que usted compare sea una especificación y un cronograma, y no un número esperanzado por pie cuadrado."
+        }
+      ],
+      "cta_heading": "Tráiganos el patio",
+      "cta_sub": "Encuéntrenos en el patio con un café y una idea. Recibe factibilidad, la realidad de los permisos y un alcance por escrito, en español o en inglés."
+    }
+  }
+}

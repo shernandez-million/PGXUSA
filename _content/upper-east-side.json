@@ -28,23 +28,23 @@
       "scope_intro": "Every remodel is scoped line by line before contract. These are the categories that come up most in Upper East Side houses.",
       "scope_items": [
         {
-          "name": "Full-gut renovations",
+          "name": "Gut renovations inside a kept shell",
           "desc": "Down to block and framing, then back: new layout, systems, insulation, and finishes inside a Morningside or Belle Meade shell worth saving."
         },
         {
-          "name": "Layout and structural openings",
+          "name": "Opening up formal 1930s rooms",
           "desc": "Engineered removal of load-bearing walls to connect formal 1930s rooms, with shoring, permits, and inspections handled by our team, not left to chance."
         },
         {
-          "name": "Complete MEP replacement",
+          "name": "New wiring, pipes, and cooling",
           "desc": "New electrical service, modern supply and drain lines, and right-sized air conditioning for houses that predate central cooling entirely."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glass for historic districts",
           "desc": "Miami-Dade approved impact glazing, with profiles selected to pass historic review when your street sits inside a designated district."
         },
         {
-          "name": "Finish and millwork packages",
+          "name": "Plaster, hardwood, and millwork",
           "desc": "Plaster repair, hardwood restoration, custom millwork, and stone — the finish level Upper East Side buyers expect when these houses trade."
         }
       ],
@@ -88,23 +88,23 @@
       "scope_intro": "From cabinetry drawings to the final punch list, this is the work a PGX kitchen contract actually covers.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry that holds its own",
           "desc": "Shop-built boxes and fronts to your designer's or our drawings, scribed to plaster walls that have not been square since 1940."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Honed stone islands and counters",
           "desc": "Marble, quartzite, or granite templated after cabinet set, with seams planned on paper first and fabricators we trust with the slabs."
         },
         {
-          "name": "Appliance and gas relocation",
+          "name": "Pro ranges and new gas runs",
           "desc": "Panel-ready refrigeration, pro ranges, new gas runs and dedicated circuits — permitted and inspected rather than improvised behind a cabinet."
         },
         {
-          "name": "Structural openings",
+          "name": "Opening the load-bearing masonry",
           "desc": "Engineered removal of the masonry wall between kitchen and dining room, with beams sized and inspected — the move that transforms these floor plans."
         },
         {
-          "name": "Lighting and electrical design",
+          "name": "New panel, layered lighting",
           "desc": "Layered lighting on new circuits and a panel that can handle it, replacing whatever decades of prior owners left behind."
         }
       ],
@@ -148,23 +148,23 @@
       "scope_intro": "Five things your bathroom contract will name specifically — because the details that fail are the ones left vague.",
       "scope_items": [
         {
-          "name": "Primary suite conversions",
+          "name": "A suite where a bedroom was",
           "desc": "Bedrooms and closets reworked into full suites — bath, dressing area, and the new plumbing runs to serve them, engineered before demolition."
         },
         {
-          "name": "Frameless showers",
+          "name": "Frameless showers, curbless where possible",
           "desc": "Curbless where the structure allows, with membrane waterproofing, linear drains, and glass measured after the tile is set, not before."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Heavy tubs, floors checked first",
           "desc": "Cast or stone tubs placed where the floor structure supports them, with floor-mounted fillers roughed in exactly once."
         },
         {
-          "name": "Stone and tile work",
+          "name": "Slab stone and mosaic floors",
           "desc": "Book-matched slabs, mosaics, and large-format tile set flat on properly prepared substrates — the difference you can see from the doorway."
         },
         {
-          "name": "Ventilation and moisture control",
+          "name": "Exhaust that protects old framing",
           "desc": "Quiet, ducted exhaust sized for Miami humidity, protecting the new finishes and the ninety-year-old structure around them."
         }
       ],
@@ -208,11 +208,11 @@
       "scope_intro": "Different houses call for different footprints. These are the additions Upper East Side lots carry most gracefully.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Extensions the street never sees",
           "desc": "Family rooms and kitchens extended toward the yard while the historic street elevation stays untouched — the shape historic review favors."
         },
         {
-          "name": "Second stories",
+          "name": "Upper floors on 1930s masonry",
           "desc": "Full structural evaluation, new tie beams, and engineering that lets a 1930s house carry a modern upper floor safely."
         },
         {
@@ -272,11 +272,11 @@
           "desc": "Concrete or framed roofs engineered for the wind zone, with ceilings, fans, and lighting that make the bay breeze usable year-round."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchens plumbed and vented",
           "desc": "Gas, water, drainage, and ventilation done to code — a real outdoor kitchen, not a grill with delusions."
         },
         {
-          "name": "Pergolas and shade structures",
+          "name": "Pergolas built for salt air",
           "desc": "Anchored, engineered, and permitted to hold up in a hurricane zone, in hardwoods or aluminum that shrug off salt air."
         },
         {
@@ -284,7 +284,7 @@
           "desc": "Pavers, concrete, and drainage graded to move water away from the house — with historic-district approvals handled when the street requires them."
         },
         {
-          "name": "Impact openings and re-roofs",
+          "name": "Roof first, then impact openings",
           "desc": "Miami-Dade approved windows, doors, and roofing coordinated in the right order, so warranties and inspections all land cleanly."
         }
       ],

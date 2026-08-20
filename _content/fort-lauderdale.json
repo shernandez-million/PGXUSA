@@ -1,0 +1,321 @@
+{
+  "area_slug": "fort-lauderdale",
+  "neighborhoods": [
+    "Las Olas Isles",
+    "Seven Isles",
+    "Nurmi Isles",
+    "Sunrise Key",
+    "Idlewyld",
+    "Rio Vista",
+    "Colee Hammock",
+    "Victoria Park",
+    "Coral Ridge",
+    "Bay Colony",
+    "Harbor Beach",
+    "Sailboat Bend",
+    "Poinsettia Heights",
+    "Lake Ridge"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Home Remodeling Fort Lauderdale FL | PGX Builders Group",
+      "meta_description": "Whole-home remodeling in Fort Lauderdale, from Victoria Park bungalows to the Las Olas isles. Permitted, inspected, built to Broward code. Call (786) 273-2524.",
+      "h1": "One house, one crew, one permit set",
+      "hero_sub": "Full-gut remodels for Fort Lauderdale houses from Victoria Park to the Las Olas isles: structural openings, new mechanicals, HVHZ impact glass. Permitted through city Building Services, supervised daily, built by a licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "Building in the Venice of America",
+      "intro_paragraphs": [
+        "Fort Lauderdale's high-end housing stock arrived in three waves, and a whole-home remodel here depends on which one you own. The 1920s and 1930s cottages and Mediterranean houses of Victoria Park, Colee Hammock and Rio Vista were built before air conditioning and sized for smaller lives. The mid-century ranches that filled Coral Ridge, Poinsettia Heights and Lake Ridge came with carports and dark galley kitchens. Then there is the waterfront, from Las Olas Isles and Seven Isles to Sunrise Key and Harbor Beach, where the lot is usually worth more than the house standing on it.",
+        "Permits run through the City of Fort Lauderdale Development Services Department, with Building Services handling plan review and inspections and applications filed digitally through LauderBuild. Broward also runs its own code administration layer: the county's Board of Rules and Appeals administers the Florida Building Code across Broward, publishes the county amendments, certifies building officials and inspectors, and hears code appeals and formal interpretations. Broward sits inside the High-Velocity Hurricane Zone, so every impact window, door and roof assembly needs HVHZ product approval. Houses in the Sailboat Bend historic district need a Certificate of Appropriateness before exterior work.",
+        "PGX Builders Group has been building in South Florida for more than 20 years, with 150-plus remodels and additions delivered, every one permitted and inspected. On a Fort Lauderdale whole-home remodel that means a fixed written scope agreed before demolition, a supervisor on site daily, protected floors and stair treads, and crews who know how to work behind a Harbor Beach gate without making themselves memorable. One team owns the project from first estimate through final inspection and warranty. You call one number, and someone who has walked your house answers it."
+      ],
+      "scope_heading": "What a full-gut remodel covers",
+      "scope_intro": "Nothing starts until the scope is written down and priced. These are the pieces that show up in most Fort Lauderdale whole-home projects.",
+      "scope_items": [
+        {
+          "name": "Demolition to finish, coordinated",
+          "desc": "One permit package covering structural, electrical, plumbing and mechanical, so the trades and their inspections land in the order the building actually needs."
+        },
+        {
+          "name": "Walls out, steel in",
+          "desc": "Opening up concrete block ranches with engineered beams and columns, sealed by a Florida engineer and inspected before anything gets covered."
+        },
+        {
+          "name": "Impact openings for the HVHZ",
+          "desc": "Whole-house window and door replacement using HVHZ-approved units, with new bucks and the flashing details that decide whether a wall leaks later."
+        },
+        {
+          "name": "New service and systems",
+          "desc": "Upgraded electrical service and panel, replaced supply and drain lines, and HVAC resized for a house that now has far more glass in it."
+        },
+        {
+          "name": "Millwork, stone and doors",
+          "desc": "Custom cabinetry, natural stone, interior doors and trim scaled to your real ceiling heights, installed only after the building envelope is dry and stable."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Who actually issues my building permit in Fort Lauderdale?",
+          "a": "The City of Fort Lauderdale Development Services Department does, through its Building Services division, and applications are submitted digitally on LauderBuild rather than over a counter. Plan review, permit issuance and inspections all sit there. Behind the city, the Broward County Board of Rules and Appeals sets how the Florida Building Code is administered countywide and certifies the officials and inspectors doing the reviewing. We pull the permits and manage the inspection calendar as part of the job."
+        },
+        {
+          "q": "What is BORA and does it change anything for my remodel?",
+          "a": "The Broward County Board of Rules and Appeals is a county board that administers the Florida Building Code throughout Broward. It publishes the Broward amendments layered on top of the state code, certifies building officials, inspectors and plans examiners, hears appeals of code official decisions, and issues formal code interpretations. Practically, it means your contractor cannot assume a Miami-Dade habit transfers north. Details, product documentation and inspection expectations here follow the Broward amendments."
+        },
+        {
+          "q": "My house is in Sailboat Bend. How much harder is this?",
+          "a": "Interiors are largely yours. Sailboat Bend is a designated local historic district, so work that changes the exterior appearance, including additions, window changes and demolition, requires a Certificate of Appropriateness reviewed by the city's Historic Preservation Board before the building permit advances. Some minor in-kind work can be handled administratively. It adds a defined step and real calendar time, not an obstacle, and we build that step into the schedule from the beginning."
+        },
+        {
+          "q": "Do people stay in the house during a full gut?",
+          "a": "Rarely, and we will say so early rather than let you discover it. Once ceilings are open, there is no working kitchen and the air handler is out, camping in the house stops being romantic within a week. Phased work can keep one wing livable when the scope allows, with hard dust barriers and protected pathways. Most Fort Lauderdale clients relocate for the demolition and rough-in phases and move back in during finishes."
+        },
+        {
+          "q": "Where does the money actually go in a whole-home remodel?",
+          "a": "Not where people expect. The visible finishes are a smaller share than the invisible work: structural steel, new electrical service, repiping, HVAC, impact openings, waterproofing and permitting. Those items set the floor of any honest number. Above that floor, your selections drive the range widely. PGX is a high-end contractor, so we are rarely the lowest bid, and we would rather hand you a fixed written scope than a low opening number that grows through change orders."
+        }
+      ],
+      "cta_heading": "Walk the house with us",
+      "cta_sub": "Bring the plans, the wish list, and the parts of the house you have stopped defending. You get a written scope, in English o en español."
+    },
+    "kitchen-remodeling": {
+      "title": "Custom Kitchen Remodeling in Fort Lauderdale | PGX Builders",
+      "meta_description": "Fort Lauderdale kitchen remodeling that turns a closed galley toward the water. Structural openings, cabinetry, permits. Call (786) 273-2524.",
+      "h1": "Cook facing the water, not a wall",
+      "hero_sub": "Custom cabinetry, stone counters and the structural openings that turn a closed Fort Lauderdale galley into a room facing the water. Permitted, inspected, and run daily by a licensed general contractor rather than a scheduler in another county.",
+      "local_heading": "Old galleys, new sightlines",
+      "intro_paragraphs": [
+        "In Fort Lauderdale the kitchen is usually the room fighting the view. Mid-century ranches in Coral Ridge and Poinsettia Heights put the kitchen at the back of the house behind a wall, facing the canal through one window over the sink. The 1920s houses in Victoria Park and Colee Hammock did worse: a service galley off the dining room with a pantry nobody uses. So high-end kitchen remodeling here is nearly always a layout problem first. Take out the wall, turn the room toward the water or the pool, and put an island where the cook can see both.",
+        "A real kitchen remodel touches structure, plumbing, gas, electrical and mechanical, so it gets permitted and inspected through Fort Lauderdale Building Services, with the application filed on LauderBuild. Inspectors here are certified by the Broward County Board of Rules and Appeals, and the county amendments to the Florida Building Code apply on top of the state edition. Older Fort Lauderdale houses frequently need an electrical service upgrade before a modern appliance package will run, and that work belongs in the same permit rather than in a surprise call three weeks in. Condo kitchens along Las Olas and the beach add association approval and elevator scheduling.",
+        "PGX sequences kitchens the way they should be sequenced. Cabinetry is ordered early because custom boxes take months. Stone gets templated after the cabinets are set, not off a drawing. Appliances are confirmed by model number before rough-in so nothing gets framed an inch wrong. The scope is fixed in writing, a supervisor is on site daily, and the rest of your house gets covered and taped like it matters. Licensed and insured, Lic. CGC1539072, with 20-plus years of South Florida work behind the estimate."
+      ],
+      "scope_heading": "What goes into the kitchen",
+      "scope_intro": "Line by line, priced before demolition. These are the elements Fort Lauderdale kitchens ask for most often.",
+      "scope_items": [
+        {
+          "name": "Cabinetry built to the room",
+          "desc": "Made-to-order cabinet packages finished for Florida humidity and sized to your actual ceilings, instead of stock boxes plus a filler strip and an apology."
+        },
+        {
+          "name": "Islands that hold real stone",
+          "desc": "Marble, quartzite or granite templated in place, on island framing engineered for the weight and for seating overhangs that are supported rather than hoped for."
+        },
+        {
+          "name": "The wall facing the canal",
+          "desc": "Load calculations, engineered headers and permits for opening the kitchen to the family room and the water view it was built to ignore."
+        },
+        {
+          "name": "Appliances moved, properly",
+          "desc": "Relocating ranges, ovens and refrigeration where the plan wants them, with new gas lines, dedicated circuits and exterior venting permitted and inspected."
+        },
+        {
+          "name": "Service upgrades and lighting",
+          "desc": "Panel and service capacity for induction, wine storage and a real hood, plus layered lighting so the counters are lit and the room is not glaring."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Is a permit really necessary just to redo a kitchen?",
+          "a": "For anything past paint and swapped appliances, yes. Moving plumbing, adding circuits, running gas, changing venting or removing a wall all require permits through Fort Lauderdale Building Services with inspections along the way. Unpermitted kitchen work tends to surface during a sale or an insurance inspection, and permitting it after the fact costs far more than doing it correctly the first time. We file, schedule and close out the permit as part of the contract."
+        },
+        {
+          "q": "Can that back wall come out in a 1950s block ranch?",
+          "a": "Usually, with engineering. Most Coral Ridge and Lake Ridge era houses are concrete block with a tie-beam carrying the roof, so removing a section means a properly sized beam and columns designed and sealed by a Florida engineer, then inspected before it is concealed. Occasionally the answer is a wide cased opening instead of a full removal, because that is what the structure honestly supports. We get the engineer involved before you fall in love with a rendering."
+        },
+        {
+          "q": "We are in a condo on the Intracoastal. What is different?",
+          "a": "The building becomes a second authority. Expect association architectural approval, a contractor certificate of insurance naming the association, defined work hours, service elevator reservations and protection requirements for common corridors. Wet-over-dry restrictions can limit moving plumbing. Buildings in the milestone inspection cycle sometimes restrict work touching structure. We handle the association package alongside the city permit so both approvals move at once rather than in sequence."
+        },
+        {
+          "q": "How long before we can cook in it again?",
+          "a": "Custom cabinetry is the honest schedule driver, and quality packages take months to fabricate. We order early and hold demolition until delivery is realistic, so your house is not open while you wait on a truck. On-site construction typically runs a couple of months for a straightforward kitchen and longer when a structural opening, a service upgrade or condo elevator logistics are involved. You get a written schedule with the estimate."
+        },
+        {
+          "q": "What drives the price of a high-end kitchen here?",
+          "a": "Three things, in order: cabinetry, stone and appliances. After that, structural work and any electrical service upgrade the house needs. Two kitchens with identical footprints can differ enormously based on selections alone, which is why a per-square-foot quote tells you almost nothing. We scope from a real specification and give a fixed written number. If the deciding factor is the lowest bid, we will tell you that early and part on good terms."
+        }
+      ],
+      "cta_heading": "Let's fix the kitchen",
+      "cta_sub": "Book a walk-through and we will come back with a fixed-scope kitchen estimate you can actually compare. We work in English o en español."
+    },
+    "bathroom-remodeling": {
+      "title": "Fort Lauderdale, FL Bathroom Remodeling | PGX Builders",
+      "meta_description": "Bathroom remodels for Fort Lauderdale canal homes, with membranes flood-tested before a single tile goes down. Permits pulled. (786) 273-2524.",
+      "h1": "Marble above, waterproofing below",
+      "hero_sub": "Primary suites, frameless showers and freestanding tubs for Fort Lauderdale homes and condos, with waterproofing flood-tested before tile. Fully permitted through city Building Services, inspected at every rough-in, supervised daily. Lic. CGC1539072.",
+      "local_heading": "What sits behind the tile",
+      "intro_paragraphs": [
+        "Primary suites are the thing Fort Lauderdale's older houses simply do not have. A 1958 ranch in Coral Ridge or Lake Ridge came with a five-by-eight hall bath, a steel tub and a medicine cabinet. A 1930s house in Rio Vista or Colee Hammock may still wear its original pink tile, which is charming right up until the day the shower pan lets go. Owners here respond by annexing a closet or a small bedroom, building a proper double vanity, a freestanding tub and a walk-in shower, and finally putting a window where the light is.",
+        "Bathroom work in Fort Lauderdale is permitted through the city's Building Services division, with separate plumbing, electrical and mechanical inspections before anything gets closed up. That sequence is not bureaucracy; it is the only proof that rough plumbing and waterproofing were right before tile hid them. Broward County amendments administered by the Board of Rules and Appeals apply alongside the Florida Building Code. In the beachfront and Intracoastal towers, unit renovations also need association sign-off, insurance certificates and elevator windows, and buildings now in the milestone inspection cycle can carry their own limits on structural work.",
+        "We treat a bathroom as a small waterproof building with no tolerance for optimism. Pans get flood-tested before tile. Slopes get verified with a level. Heavy glass hangs on real blocking rather than on anchors and confidence. Niches get waterproofed as carefully as the floor, because that is exactly where cheap jobs fail. You get a fixed written scope, daily supervision, and covered pathways from the front door to the work zone. Insured and licensed, Lic. CGC1539072, permitted and inspected every time, because a bathroom that leaks is just expensive damage on a delay."
+      ],
+      "scope_heading": "How we build a bath",
+      "scope_intro": "From a powder room to a full primary suite, the scope is settled and priced before the first tile is ordered.",
+      "scope_items": [
+        {
+          "name": "Bedroom absorbed into suite",
+          "desc": "Reworking a small bedroom, closet or hall bath into one primary suite, with layout, plumbing rough-ins and permits handled as a single package."
+        },
+        {
+          "name": "Flood-tested shower pans",
+          "desc": "Waterproofing membranes installed to spec and water-tested before tile, with linear drains and slopes verified rather than assumed to be close enough."
+        },
+        {
+          "name": "Curbless entries where possible",
+          "desc": "Recessed pans cut into slab-on-grade construction when the structure genuinely cooperates, and an honest low-curb alternative when it does not."
+        },
+        {
+          "name": "Old pipes replaced while open",
+          "desc": "Swapping deteriorated galvanized supply and aging cast iron drains for modern lines during demolition, the cheapest access you will ever have."
+        },
+        {
+          "name": "Ventilation that actually moves air",
+          "desc": "Quiet exhaust ducted properly to the exterior, moisture-rated fixtures, and lighting layered for grooming instead of one glaring can in the ceiling."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does a bathroom remodel need permits and inspections?",
+          "a": "Anything beyond cosmetic finishes does. Relocating or replacing plumbing, altering circuits and changing ventilation all require permits from Fort Lauderdale Building Services, with rough-in inspections before walls close. Treat those inspections as free insurance: an inspector confirming the drain slope and the shower pan is a second set of eyes on the work that matters most. We pull the permits, schedule inspections and hand you a closed-out record for resale."
+        },
+        {
+          "q": "Our 1960s canal house still has cast iron drains. Replace them?",
+          "a": "If the floor and walls are already open, almost always yes. Cast iron from that era is at or past the end of its service life, and a new stone bathroom draining into a failing stack is a bad trade. We camera the lines early so the decision is made from evidence rather than instinct. Replacing while access is free costs a fraction of doing it after the marble is down."
+        },
+        {
+          "q": "How do renovations work in a Fort Lauderdale condo tower?",
+          "a": "Slower on the front end, tidier on site. The association reviews plans, requires insurance naming the building, sets work hours and quiet windows, and controls service elevator time and corridor protection. Many buildings limit or prohibit moving plumbing across a wet-over-dry line. Towers in the milestone inspection cycle may restrict anything touching structure. We submit the association package and the city permit together so neither one waits on the other."
+        },
+        {
+          "q": "Can we get a curbless shower on a slab?",
+          "a": "Often, but the floor decides, not the photo. On slab-on-grade construction, recessing a pan means careful cutting and sometimes rerouted drain lines, and on a framed second floor it means adjusting joists or building up the surrounding floor. When the structure will not cooperate, a low-profile curb with a correctly sloped pan is the honest answer. We tell you which one your house supports before selections are locked."
+        },
+        {
+          "q": "Why do two bathroom quotes differ so much?",
+          "a": "Usually because one of them priced the part you cannot see. Stone, glass and fixtures are visible and easy to compare. Waterproofing systems, blocking, new supply and drain lines, ventilation, and proper substrate preparation are where quotes quietly diverge. We scope the concealed work explicitly and put it in the written contract. As a high-end contractor we compete on finish quality and certainty, not on being the cheapest of three numbers."
+        }
+      ],
+      "cta_heading": "Start with the worst bathroom",
+      "cta_sub": "Show us the room that has been bothering you since you moved in, and we will scope it honestly, in English o en español."
+    },
+    "home-additions": {
+      "title": "Home Additions & Extensions in Fort Lauderdale, FL",
+      "meta_description": "Home additions in Fort Lauderdale: rear extensions, second stories, in-law suites. Engineered, permitted, supervised daily. Call (786) 273-2524.",
+      "h1": "More square feet, same address",
+      "hero_sub": "Second stories, rear extensions, garage conversions and in-law suites across Fort Lauderdale, engineered for Broward code and permitted through Development Services. One licensed general contractor supervising the site daily from footing to final inspection.",
+      "local_heading": "Growing a house on a finger isle",
+      "intro_paragraphs": [
+        "Fort Lauderdale lots east of Federal Highway are finite and the good ones are spoken for, which is why so many owners here add rather than move. On the finger isles off Las Olas the usual project is going up: a second story over a low 1950s waterfront ranch, keeping the dock and the ocean access that made the address worth buying in the first place. Inland, in Victoria Park, Poinsettia Heights and Rio Vista, it is a rear extension for a family room and primary suite, or a garage turned into conditioned space for a returning parent.",
+        "Additions run through Fort Lauderdale Development Services for zoning review as well as building permits, measured against the Unified Land Development Regulations for setbacks, lot coverage, height and neighborhood compatibility. Structural engineering is not optional: second stories over concrete block need footings, columns and tie-beams evaluated by an engineer, and the Broward County Board of Rules and Appeals governs how that code is administered locally. On waterfront and flood-zone lots the federal substantial improvement rule matters enormously, because crossing fifty percent of the structure's value forces the entire building into current flood elevation compliance. Additions in Sailboat Bend need Historic Preservation Board approval as well.",
+        "Additions are where a contractor's experience either shows or does not. Tying a new foundation to a sixty-year-old one, matching stucco texture and roof tile so the seam disappears, and keeping half a house livable while the other half is open to the sky are all learned skills. PGX has more than two decades of South Florida construction behind it and 150-plus remodels and additions delivered, all permitted and inspected. Scope fixed in writing before the first footing, daily supervision, and one accountable team from the feasibility conversation through warranty."
+      ],
+      "scope_heading": "Ways a Fort Lauderdale house grows",
+      "scope_intro": "Every addition begins with engineering and an honest read of the zoning and flood rules attached to your lot. These five come up most.",
+      "scope_items": [
+        {
+          "name": "Second stories over block",
+          "desc": "Existing footings, walls and tie-beams evaluated first, then a full upper floor designed to carry the load and the wind pressures Broward requires."
+        },
+        {
+          "name": "Rear extensions toward the water",
+          "desc": "Family rooms and primary suites pushed into the yard, with foundations, tie-beams and roof tie-ins engineered and permitted as one coordinated package."
+        },
+        {
+          "name": "Garages made into rooms",
+          "desc": "Converting garages and covered space into conditioned living area with insulation, impact openings and permitted mechanical work, so the square footage counts at resale."
+        },
+        {
+          "name": "In-law and guest suites",
+          "desc": "Independent suites with a bath and kitchenette for long-stay family, built to code and scaled to the house rather than bolted onto the back."
+        },
+        {
+          "name": "Flood elevation strategy",
+          "desc": "Mapping base flood elevation and the substantial improvement threshold before design, so the addition you want does not quietly trigger raising the whole house."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Can my waterfront ranch take a second story?",
+          "a": "Many can and some need reinforcement, and only a structural engineer settles it. Existing footings, block walls and the tie-beam get evaluated first, then new columns, thickened footings or an upgraded tie-beam are designed where required. On soft or filled canal-front soils, a geotechnical report sometimes joins the conversation. Occasionally the honest recommendation is a rear extension instead of going up. You get options with real numbers, not one take-it-or-leave-it drawing."
+        },
+        {
+          "q": "How does the FEMA fifty percent rule affect my addition?",
+          "a": "It can reshape the entire project. On lots in a special flood hazard area, which covers a great deal of eastern Fort Lauderdale, if the cost of improvement exceeds half the structure's market value, the whole building must be brought into current flood compliance, including elevation. That is not automatically bad news, but it has to be understood before drawings, not discovered at plan review. We run that analysis at the feasibility stage."
+        },
+        {
+          "q": "What limits how big I can build on my lot?",
+          "a": "Zoning does, through the city's Unified Land Development Regulations. Setbacks, lot coverage, height limits and neighborhood compatibility requirements all apply, and on waterfront parcels the setback lines extend into the waterway and affect what you can moor. Corner lots and the narrower isle lots get constrained fast. Before anyone designs anything, we pull the zoning and the survey and tell you the buildable envelope you are actually working inside."
+        },
+        {
+          "q": "How long does an addition take from first meeting to move-in?",
+          "a": "Plan for real time on the front end. Design, structural engineering, zoning and permit review commonly take several months before ground breaks, and historic or flood-related review extends that. Construction itself typically runs several more months, longer for a second story that opens the roof. A year from first conversation to finished space is a realistic frame for a substantial addition. The full timeline goes in writing with the estimate."
+        },
+        {
+          "q": "Is adding on smarter than buying a bigger house here?",
+          "a": "Frequently, if the location is the reason you bought. Waterfront addresses with good dockage and ocean access are the scarce commodity in Fort Lauderdale, and an addition buys space without giving that up or paying transfer costs twice. It is still major construction with months of disruption, so it rewards owners planning to stay. We give a candid feasibility read before you spend money on design."
+        }
+      ],
+      "cta_heading": "Find out if it fits",
+      "cta_sub": "Send us the survey and the idea. We will give you a candid feasibility read before anyone pays for drawings, in English o en español."
+    },
+    "outdoor-living": {
+      "title": "Outdoor Living & Summer Kitchens, Fort Lauderdale FL",
+      "meta_description": "Summer kitchens, terraces, pergolas and dock-side decks for Fort Lauderdale waterfront homes. Licensed, insured, fully permitted. (786) 273-2524",
+      "h1": "Life happens between the house and the dock",
+      "hero_sub": "Summer kitchens, covered terraces, pergolas, driveways and impact openings for Fort Lauderdale waterfront and inland homes. Permitted through the city, engineered for HVHZ wind loads, and supervised daily by a licensed, insured general contractor.",
+      "local_heading": "Outdoor rooms for a boating city",
+      "intro_paragraphs": [
+        "Fort Lauderdale has roughly 165 miles of navigable waterway inside the city limits, which is why the back of the house matters more here than the front. On Sunrise Key, Nurmi Isles and Seven Isles the sequence runs house, terrace, summer kitchen, dock, yacht, and every piece of it has to survive salt air and August sun. In Coral Ridge and Bay Colony it is a pool terrace and a covered outdoor room where the family actually eats. Inland in Victoria Park and Lake Ridge, the project is usually a shaded loggia, a rebuilt driveway and a facade that stopped looking loved around 2009.",
+        "Exterior work on a Fort Lauderdale waterfront lot pulls in more than one desk. Structures, utilities and paving are permitted through city Building Services. Docks, davits and mooring structures are governed by the Unified Land Development Regulations, which limit how far a vessel may project past your extended side setback lines. Seawalls are their own subject: the city's tidal barrier standard now sets a five-foot NAVD88 minimum top elevation, and substantially repairing or replacing a wall generally means bringing the whole thing up to that standard. Marine work also needs an environmental resource license from Broward County under the county's pollution control code.",
+        "PGX applies the same discipline outdoors that we apply inside the house, which is not the industry norm. Summer kitchen gas, water and power are permitted and inspected, not run by whoever was cheapest that week. Pergola and loggia footings are engineered for HVHZ wind loads. Terraces are pitched to shed water away from the house, and anything on the water gets specified for salt: marine-grade stainless, sealed dense stone, coated fasteners. Fixed written scope, daily supervision, and crews who understand that a job site visible from the Intracoastal is also a neighborhood statement. Lic. CGC1539072, licensed and insured, 20-plus years of South Florida work."
+      ],
+      "scope_heading": "Exterior work we take on",
+      "scope_intro": "One terrace or a whole rebuilt backyard, designed, permitted and constructed as a single coordinated project rather than four separate trades.",
+      "scope_items": [
+        {
+          "name": "Summer kitchens with real utilities",
+          "desc": "Outdoor kitchens with permitted gas, water and power, plus cabinetry, counters and appliances specified for coastal exposure instead of merely priced like they were."
+        },
+        {
+          "name": "Covered terraces and pergolas",
+          "desc": "Loggias, trellises and shade structures with engineered footings and connections detailed for High-Velocity Hurricane Zone wind loads, and rooflines matched to the house."
+        },
+        {
+          "name": "Dock-side decks and stairs",
+          "desc": "Deck surfaces, stairs and rails at the seawall, coordinated with dock and mooring rules and built from materials that tolerate constant sun and spray."
+        },
+        {
+          "name": "Driveways, walks and drainage",
+          "desc": "Pavers, finished concrete and walkways graded so a Fort Lauderdale downpour leaves the property instead of pooling at your front door."
+        },
+        {
+          "name": "Stucco, paint and impact openings",
+          "desc": "Exterior restoration with stucco repair, recoating, and terrace doors replaced with HVHZ-approved impact units that protect the house without flattening the elevation."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Do I need a permit for a summer kitchen or pergola?",
+          "a": "Yes, on both. The structure needs a building permit, and the gas, water and electrical runs need their own trade permits with inspections. Shade structures need engineered footings and connections because Broward sits in the High-Velocity Hurricane Zone and an unattached pergola is a wind event waiting to happen. It is more process than a grill island seems to deserve, and it is also why properly built ones are still standing after a storm."
+        },
+        {
+          "q": "My seawall is failing. What triggers a full replacement?",
+          "a": "The rule of thumb is scale of repair. Fort Lauderdale's tidal barrier standard sets a five-foot NAVD88 minimum top elevation, and new construction or a substantial repair generally means the whole structure has to meet that elevation. Walls low enough to flood neighbors or the right-of-way also draw attention. Broward County's regional standard runs on a longer schedule, with four feet NAVD88 permitted for a time if the wall is built to reach five later. Marine contractors handle the wall; we coordinate the terrace, deck and drainage above it."
+        },
+        {
+          "q": "Will an outdoor kitchen survive on a canal lot?",
+          "a": "It survives if it is specified for the environment, and corrodes fast if it is not. On the isles and along the Intracoastal we use marine-grade stainless, coated or naturally inert hardware, dense stone sealed properly, and cabinetry rated for exterior use. Big-box outdoor cabinets and unrated fasteners rust visibly within a couple of seasons in that salt air. Specify it correctly once and the terrace ages with the house."
+        },
+        {
+          "q": "How close to the seawall can I build a covered structure?",
+          "a": "Closer than people expect on some lots and much less than they hope on others, depending on zoning setbacks and any waterway or easement lines running along your rear property. The city's Unified Land Development Regulations govern accessory structures and mooring, including how far a moored vessel may extend past the side setback lines projected into the water. We pull the survey and confirm the buildable area before design starts, not after."
+        },
+        {
+          "q": "What should we expect to invest in a backyard project?",
+          "a": "It scales with structure and utilities more than with square footage. A paver terrace is one budget. A covered outdoor room with a full summer kitchen, gas, water, power and coastal-grade materials is genuinely another. Appliance and stone selections can move the number as much as the footprint does. We scope after a site walk so you are comparing an actual specification instead of a per-foot guess that ignores what is under the slab."
+        }
+      ],
+      "cta_heading": "Reclaim the back of the house",
+      "cta_sub": "Meet us in the yard, tell us how you want to use it, and a fixed written scope follows. English o en español, your call."
+    }
+  }
+}

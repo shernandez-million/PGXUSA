@@ -74,122 +74,582 @@
     {
       "slug": "coral-gables",
       "name": "Coral Gables",
-      "neighbors": ["coconut-grove", "south-miami", "pinecrest", "ponce-davis", "key-biscayne", "brickell"],
-      "hints": "City of Coral Gables Development Services; Board of Architects design review; Mediterranean Revival heritage and Mediterranean design standards; strict tree/landscape protection; neighborhoods include Old Cutler, Cocoplum, Gables Estates, Gables by the Sea, Deering Bay, Riviera, Country Club Prado, Snapper Creek Lakes; 1920s George Merrick-era homes plus waterfront estates."
+      "neighbors": [
+        "coconut-grove",
+        "south-miami",
+        "pinecrest",
+        "ponce-davis",
+        "key-biscayne",
+        "brickell"
+      ],
+      "hints": "City of Coral Gables Development Services; Board of Architects design review; Mediterranean Revival heritage and Mediterranean design standards; strict tree/landscape protection; neighborhoods include Old Cutler, Cocoplum, Gables Estates, Gables by the Sea, Deering Bay, Riviera, Country Club Prado, Snapper Creek Lakes; 1920s George Merrick-era homes plus waterfront estates.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "coconut-grove",
       "name": "Coconut Grove",
-      "neighbors": ["coral-gables", "brickell", "key-biscayne", "south-miami", "ponce-davis", "pinecrest"],
-      "hints": "City of Miami jurisdiction (Miami 21 zoning); NCD-2/NCD-3 Coconut Grove overlay with tree canopy and design rules; historic bungalows and new modern homes; neighborhoods include The Moorings, Camp Biscayne, Entrada Estates, North Grove, South Grove, Center Grove; canopy streets, waterfront along Sailboat Bay."
+      "neighbors": [
+        "coral-gables",
+        "brickell",
+        "key-biscayne",
+        "south-miami",
+        "ponce-davis",
+        "pinecrest"
+      ],
+      "hints": "City of Miami jurisdiction (Miami 21 zoning); NCD-2/NCD-3 Coconut Grove overlay with tree canopy and design rules; historic bungalows and new modern homes; neighborhoods include The Moorings, Camp Biscayne, Entrada Estates, North Grove, South Grove, Center Grove; canopy streets, waterfront along Sailboat Bay.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "pinecrest",
       "name": "Pinecrest",
-      "neighbors": ["palmetto-bay", "south-miami", "coral-gables", "ponce-davis", "coconut-grove", "key-biscayne"],
-      "hints": "Village of Pinecrest Building & Planning; acre-plus lots; 1950s-70s ranch homes being remodeled or replaced; areas near Pinecrest Gardens, North Pinecrest, South Pinecrest, along Red Road and Old Cutler; strong teardown-vs-renovate market; tree protection rules."
+      "neighbors": [
+        "palmetto-bay",
+        "south-miami",
+        "coral-gables",
+        "ponce-davis",
+        "coconut-grove",
+        "key-biscayne"
+      ],
+      "hints": "Village of Pinecrest Building & Planning; acre-plus lots; 1950s-70s ranch homes being remodeled or replaced; areas near Pinecrest Gardens, North Pinecrest, South Pinecrest, along Red Road and Old Cutler; strong teardown-vs-renovate market; tree protection rules.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "palmetto-bay",
       "name": "Palmetto Bay",
-      "neighbors": ["pinecrest", "south-miami", "coral-gables", "coconut-grove", "ponce-davis", "key-biscayne"],
-      "hints": "Village of Palmetto Bay Building Department; neighborhoods include Old Cutler Bay estates area... actually Old Cutler Bay is in Coral Gables; use: Mangowood, Royal Harbour Yacht Club, East Palmetto Bay near Old Cutler Road, Coral Reef area; ranch homes on large lots, waterfront pockets; verify neighborhoods via research."
+      "neighbors": [
+        "pinecrest",
+        "south-miami",
+        "coral-gables",
+        "coconut-grove",
+        "ponce-davis",
+        "key-biscayne"
+      ],
+      "hints": "Village of Palmetto Bay Building Department; neighborhoods include Old Cutler Bay estates area... actually Old Cutler Bay is in Coral Gables; use: Mangowood, Royal Harbour Yacht Club, East Palmetto Bay near Old Cutler Road, Coral Reef area; ranch homes on large lots, waterfront pockets; verify neighborhoods via research.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "key-biscayne",
       "name": "Key Biscayne",
-      "neighbors": ["brickell", "coconut-grove", "coral-gables", "miami-beach", "fisher-island", "venetian-islands"],
-      "hints": "Village of Key Biscayne Building division; barrier island — FEMA flood zones, base flood elevation, seawalls, salt-air durability; mix of waterfront estates, village-core homes, and luxury condos (Key Colony, Ocean Club); hurricane exposure and HVHZ product approvals are top of mind."
+      "neighbors": [
+        "brickell",
+        "coconut-grove",
+        "coral-gables",
+        "miami-beach",
+        "fisher-island",
+        "venetian-islands"
+      ],
+      "hints": "Village of Key Biscayne Building division; barrier island — FEMA flood zones, base flood elevation, seawalls, salt-air durability; mix of waterfront estates, village-core homes, and luxury condos (Key Colony, Ocean Club); hurricane exposure and HVHZ product approvals are top of mind.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "miami-beach",
       "name": "Miami Beach",
-      "neighbors": ["venetian-islands", "surfside", "bal-harbour", "fisher-island", "sunny-isles-beach", "bay-harbor-islands"],
-      "hints": "City of Miami Beach Building Department; historic districts and Historic Preservation Board approvals (Flamingo Park, Palm View, etc.); flood elevation / freeboard requirements; neighborhoods include North Bay Road, Sunset Islands, Palm & Hibiscus Islands, Star Island, La Gorce, Pine Tree Drive, Mid-Beach, South of Fifth; Art Deco and MiMo architecture plus waterfront estates and luxury condos."
+      "neighbors": [
+        "venetian-islands",
+        "surfside",
+        "bal-harbour",
+        "fisher-island",
+        "sunny-isles-beach",
+        "bay-harbor-islands"
+      ],
+      "hints": "City of Miami Beach Building Department; historic districts and Historic Preservation Board approvals (Flamingo Park, Palm View, etc.); flood elevation / freeboard requirements; neighborhoods include North Bay Road, Sunset Islands, Palm & Hibiscus Islands, Star Island, La Gorce, Pine Tree Drive, Mid-Beach, South of Fifth; Art Deco and MiMo architecture plus waterfront estates and luxury condos.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "bal-harbour",
       "name": "Bal Harbour",
-      "neighbors": ["surfside", "bay-harbor-islands", "sunny-isles-beach", "miami-beach", "golden-beach", "aventura"],
-      "hints": "Village of Bal Harbour Building Department and Architectural Review Board; gated single-family section (Bal Harbour Village gated community) plus oceanfront condos (St. Regis, Ritz-Carlton, Oceana); one of the wealthiest zip codes in Florida; condo renovation rules and association approvals."
+      "neighbors": [
+        "surfside",
+        "bay-harbor-islands",
+        "sunny-isles-beach",
+        "miami-beach",
+        "golden-beach",
+        "aventura"
+      ],
+      "hints": "Village of Bal Harbour Building Department and Architectural Review Board; gated single-family section (Bal Harbour Village gated community) plus oceanfront condos (St. Regis, Ritz-Carlton, Oceana); one of the wealthiest zip codes in Florida; condo renovation rules and association approvals.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "surfside",
       "name": "Surfside",
-      "neighbors": ["bal-harbour", "bay-harbor-islands", "miami-beach", "sunny-isles-beach", "golden-beach", "miami-shores"],
-      "hints": "Town of Surfside Building Department; post-Champlain Towers scrutiny — milestone inspections and structural reserve studies for condos; H2H (Harding to Hawthorne) single-family streets; Four Seasons Surf Club; mix of 1940s-50s homes being renovated and new construction; strict town review."
+      "neighbors": [
+        "bal-harbour",
+        "bay-harbor-islands",
+        "miami-beach",
+        "sunny-isles-beach",
+        "golden-beach",
+        "miami-shores"
+      ],
+      "hints": "Town of Surfside Building Department; post-Champlain Towers scrutiny — milestone inspections and structural reserve studies for condos; H2H (Harding to Hawthorne) single-family streets; Four Seasons Surf Club; mix of 1940s-50s homes being renovated and new construction; strict town review.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "bay-harbor-islands",
       "name": "Bay Harbor Islands",
-      "neighbors": ["bal-harbour", "surfside", "sunny-isles-beach", "miami-beach", "miami-shores", "aventura"],
-      "hints": "Town of Bay Harbor Islands; two islands — East Island mostly multifamily/boutique condos, West Island single-family homes; waterfront lots with dockage; strong teardown/renovation market; A-rated Ruth K. Broad K-8 school draws families; town design review."
+      "neighbors": [
+        "bal-harbour",
+        "surfside",
+        "sunny-isles-beach",
+        "miami-beach",
+        "miami-shores",
+        "aventura"
+      ],
+      "hints": "Town of Bay Harbor Islands; two islands — East Island mostly multifamily/boutique condos, West Island single-family homes; waterfront lots with dockage; strong teardown/renovation market; A-rated Ruth K. Broad K-8 school draws families; town design review.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "sunny-isles-beach",
       "name": "Sunny Isles Beach",
-      "neighbors": ["golden-beach", "aventura", "bal-harbour", "surfside", "bay-harbor-islands", "miami-beach"],
-      "hints": "City of Sunny Isles Beach Building Department; dominated by luxury oceanfront towers (Porsche Design Tower, Turnberry Ocean Club, Estates at Acqualina, Trump Towers, Jade); condo unit renovations with association approvals, service-elevator logistics, milestone/SIRS context; Golden Shores single-family pocket."
+      "neighbors": [
+        "golden-beach",
+        "aventura",
+        "bal-harbour",
+        "surfside",
+        "bay-harbor-islands",
+        "miami-beach"
+      ],
+      "hints": "City of Sunny Isles Beach Building Department; dominated by luxury oceanfront towers (Porsche Design Tower, Turnberry Ocean Club, Estates at Acqualina, Trump Towers, Jade); condo unit renovations with association approvals, service-elevator logistics, milestone/SIRS context; Golden Shores single-family pocket.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "golden-beach",
       "name": "Golden Beach",
-      "neighbors": ["sunny-isles-beach", "aventura", "bal-harbour", "surfside", "bay-harbor-islands", "miami-beach"],
-      "hints": "Town of Golden Beach — exclusively single-family town (no condos, no commercial), about 350-400 homes, private beach, own police; strict Building Regulation Advisory Board review, construction hours and contractor conduct rules, construction bonds; oceanfront and Intracoastal estates; among the most expensive housing in Miami-Dade."
+      "neighbors": [
+        "sunny-isles-beach",
+        "aventura",
+        "bal-harbour",
+        "surfside",
+        "bay-harbor-islands",
+        "miami-beach"
+      ],
+      "hints": "Town of Golden Beach — exclusively single-family town (no condos, no commercial), about 350-400 homes, private beach, own police; strict Building Regulation Advisory Board review, construction hours and contractor conduct rules, construction bonds; oceanfront and Intracoastal estates; among the most expensive housing in Miami-Dade.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "aventura",
       "name": "Aventura",
-      "neighbors": ["sunny-isles-beach", "golden-beach", "bal-harbour", "bay-harbor-islands", "surfside", "miami-shores"],
-      "hints": "City of Aventura Community Development/Building; condo-heavy (Porto Vita, Turnberry, Williams Island, Bellini) plus gated single-family enclaves (Country Club Estates area, Golden Point); Turnberry golf course setting; association approvals and high-rise renovation logistics; affluent international ownership."
+      "neighbors": [
+        "sunny-isles-beach",
+        "golden-beach",
+        "bal-harbour",
+        "bay-harbor-islands",
+        "surfside",
+        "miami-shores"
+      ],
+      "hints": "City of Aventura Community Development/Building; condo-heavy (Porto Vita, Turnberry, Williams Island, Bellini) plus gated single-family enclaves (Country Club Estates area, Golden Point); Turnberry golf course setting; association approvals and high-rise renovation logistics; affluent international ownership.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "miami-shores",
       "name": "Miami Shores",
-      "neighbors": ["upper-east-side", "miami-beach", "bay-harbor-islands", "surfside", "aventura", "brickell"],
-      "hints": "Miami Shores Village Building Department and Planning & Zoning Board review for exterior work; 1920s-40s Mediterranean Revival and ranch homes; bayfront estates east of Biscayne Blvd; strong renovation culture, historic character; village aesthetic standards."
+      "neighbors": [
+        "upper-east-side",
+        "miami-beach",
+        "bay-harbor-islands",
+        "surfside",
+        "aventura",
+        "brickell"
+      ],
+      "hints": "Miami Shores Village Building Department and Planning & Zoning Board review for exterior work; 1920s-40s Mediterranean Revival and ranch homes; bayfront estates east of Biscayne Blvd; strong renovation culture, historic character; village aesthetic standards.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "south-miami",
       "name": "South Miami",
-      "neighbors": ["coral-gables", "pinecrest", "ponce-davis", "coconut-grove", "palmetto-bay", "key-biscayne"],
-      "hints": "City of South Miami Building Department; leafy streets near Sunset Drive, homes from 1930s-70s; adjacent to High Pines and Ponce-Davis; walkable downtown Sunset area; mix of cottages being extended and larger new homes."
+      "neighbors": [
+        "coral-gables",
+        "pinecrest",
+        "ponce-davis",
+        "coconut-grove",
+        "palmetto-bay",
+        "key-biscayne"
+      ],
+      "hints": "City of South Miami Building Department; leafy streets near Sunset Drive, homes from 1930s-70s; adjacent to High Pines and Ponce-Davis; walkable downtown Sunset area; mix of cottages being extended and larger new homes.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "brickell",
       "name": "Brickell",
-      "neighbors": ["coconut-grove", "key-biscayne", "coral-gables", "venetian-islands", "upper-east-side", "miami-beach"],
-      "hints": "City of Miami; overwhelmingly luxury condo towers (Four Seasons Residences, Echo Brickell, Una, Brickell Flatiron) plus Brickell Roads townhomes; condo unit gut renovations — association approvals, insurance certificates, elevator scheduling, noise windows; milestone inspection / SIRS era for older towers."
+      "neighbors": [
+        "coconut-grove",
+        "key-biscayne",
+        "coral-gables",
+        "venetian-islands",
+        "upper-east-side",
+        "miami-beach"
+      ],
+      "hints": "City of Miami; overwhelmingly luxury condo towers (Four Seasons Residences, Echo Brickell, Una, Brickell Flatiron) plus Brickell Roads townhomes; condo unit gut renovations — association approvals, insurance certificates, elevator scheduling, noise windows; milestone inspection / SIRS era for older towers.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "fisher-island",
       "name": "Fisher Island",
-      "neighbors": ["miami-beach", "key-biscayne", "venetian-islands", "brickell", "coral-gables", "coconut-grove"],
-      "hints": "Ferry-access-only private island; unincorporated Miami-Dade County — permits through Miami-Dade RER; Fisher Island Community Association rules, contractor registration, barge/ferry logistics for materials and crews; Palazzo condos and villas; wealthiest zip code in the US (33109); renovation logistics are the differentiator."
+      "neighbors": [
+        "miami-beach",
+        "key-biscayne",
+        "venetian-islands",
+        "brickell",
+        "coral-gables",
+        "coconut-grove"
+      ],
+      "hints": "Ferry-access-only private island; unincorporated Miami-Dade County — permits through Miami-Dade RER; Fisher Island Community Association rules, contractor registration, barge/ferry logistics for materials and crews; Palazzo condos and villas; wealthiest zip code in the US (33109); renovation logistics are the differentiator.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "venetian-islands",
       "name": "Venetian Islands",
-      "neighbors": ["miami-beach", "brickell", "upper-east-side", "key-biscayne", "fisher-island", "miami-shores"],
-      "hints": "Chain of islands on the Venetian Causeway; San Marco and Biscayne Island are City of Miami, San Marino, Di Lido and Rivo Alto are City of Miami Beach — jurisdiction depends on the island; waterfront lots with seawalls and docks; teardown-and-rebuild plus major renovations of 1930s-50s homes; flood elevation rules."
+      "neighbors": [
+        "miami-beach",
+        "brickell",
+        "upper-east-side",
+        "key-biscayne",
+        "fisher-island",
+        "miami-shores"
+      ],
+      "hints": "Chain of islands on the Venetian Causeway; San Marco and Biscayne Island are City of Miami, San Marino, Di Lido and Rivo Alto are City of Miami Beach — jurisdiction depends on the island; waterfront lots with seawalls and docks; teardown-and-rebuild plus major renovations of 1930s-50s homes; flood elevation rules.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "doral",
       "name": "Doral",
-      "neighbors": ["coral-gables", "miami-shores", "brickell", "pinecrest", "south-miami", "coconut-grove"],
-      "hints": "City of Doral Building Department; gated golf communities — Doral Estates, Vintage Estates, Trump National Doral surroundings, Islands at Doral, Doral Isles; newer construction (1990s-2010s) being upgraded: kitchens, outdoor living, whole-home refreshes; HOA architectural approvals."
+      "neighbors": [
+        "coral-gables",
+        "miami-shores",
+        "brickell",
+        "pinecrest",
+        "south-miami",
+        "coconut-grove"
+      ],
+      "hints": "City of Doral Building Department; gated golf communities — Doral Estates, Vintage Estates, Trump National Doral surroundings, Islands at Doral, Doral Isles; newer construction (1990s-2010s) being upgraded: kitchens, outdoor living, whole-home refreshes; HOA architectural approvals.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "ponce-davis",
       "name": "Ponce-Davis & High Pines",
-      "neighbors": ["coral-gables", "south-miami", "pinecrest", "coconut-grove", "palmetto-bay", "key-biscayne"],
-      "hints": "Prestigious unincorporated Miami-Dade pocket south of Coral Gables (permits via Miami-Dade County RER) — parts of High Pines fall in South Miami, verify; large lots, estate homes, no HOA in most of Ponce-Davis; teardowns and large-scale renovations; near Ransom Everglades/Gulliver schools; quiet streets off Red Road and Ponce de Leon Blvd."
+      "neighbors": [
+        "coral-gables",
+        "south-miami",
+        "pinecrest",
+        "coconut-grove",
+        "palmetto-bay",
+        "key-biscayne"
+      ],
+      "hints": "Prestigious unincorporated Miami-Dade pocket south of Coral Gables (permits via Miami-Dade County RER) — parts of High Pines fall in South Miami, verify; large lots, estate homes, no HOA in most of Ponce-Davis; teardowns and large-scale renovations; near Ransom Everglades/Gulliver schools; quiet streets off Red Road and Ponce de Leon Blvd.",
+      "county": "Miami-Dade"
     },
     {
       "slug": "upper-east-side",
       "name": "Upper East Side & Morningside",
-      "neighbors": ["miami-shores", "venetian-islands", "brickell", "miami-beach", "bay-harbor-islands", "surfside"],
-      "hints": "City of Miami; Morningside is a historic district — exterior changes need Historic and Environmental Preservation Board (HEPB) review; Belle Meade and Bay Point (gated) nearby; MiMo Biscayne Boulevard corridor; 1920s-50s homes with strong architectural character; bayfront streets."
+      "neighbors": [
+        "miami-shores",
+        "venetian-islands",
+        "brickell",
+        "miami-beach",
+        "bay-harbor-islands",
+        "surfside"
+      ],
+      "hints": "City of Miami; Morningside is a historic district — exterior changes need Historic and Environmental Preservation Board (HEPB) review; Belle Meade and Bay Point (gated) nearby; MiMo Biscayne Boulevard corridor; 1920s-50s homes with strong architectural character; bayfront streets.",
+      "county": "Miami-Dade"
+    },
+    {
+      "slug": "fort-lauderdale",
+      "name": "Fort Lauderdale",
+      "neighbors": [
+        "las-olas-isles",
+        "rio-vista",
+        "victoria-park",
+        "coral-ridge",
+        "harbor-beach",
+        "wilton-manors"
+      ],
+      "hints": "City of Fort Lauderdale Development Services / Building Services; Sailboat Bend and Beverly Heights historic districts with Historic Preservation Board review; the city's finger-isle canal system with seawall and dock permitting; Broward County Board of Rules and Appeals (BORA) oversees building code administration county-wide; HVHZ product approvals apply in Broward; neighborhoods include Las Olas Isles, Rio Vista, Colee Hammock, Victoria Park, Coral Ridge, Harbor Beach, Sunrise Key, Idlewyld, Seven Isles, Nurmi Isles, Lake Ridge, Poinsettia Heights; mix of 1920s-50s homes, mid-century ranches, and new waterfront construction.",
+      "county": "Broward"
+    },
+    {
+      "slug": "las-olas-isles",
+      "name": "Las Olas Isles",
+      "neighbors": [
+        "fort-lauderdale",
+        "rio-vista",
+        "harbor-beach",
+        "victoria-park",
+        "coral-ridge"
+      ],
+      "hints": "City of Fort Lauderdale jurisdiction; the finger islands off Las Olas Boulevard — Nurmi Isles, Seven Isles, Sunrise Key, Royal Palm, Hendricks and Venice Isles; deep-water dockage with no fixed bridges to the ocean, seawall height requirements and dock permitting through the city plus Broward County environmental review; teardown-and-rebuild market plus major renovations of 1950s-70s waterfront homes; yacht-scale docks drive a lot of exterior work.",
+      "county": "Broward"
+    },
+    {
+      "slug": "harbor-beach",
+      "name": "Harbor Beach",
+      "neighbors": [
+        "fort-lauderdale",
+        "las-olas-isles",
+        "rio-vista",
+        "victoria-park",
+        "coral-ridge"
+      ],
+      "hints": "Private gated waterfront enclave in Fort Lauderdale with its own beach club and deep-water dockage; City of Fort Lauderdale permitting; Harbor Beach Property Owners Association architectural review; among the most expensive residential addresses in Broward; large lots, 1960s-80s estates being gutted or replaced, ocean-access canals.",
+      "county": "Broward"
+    },
+    {
+      "slug": "rio-vista",
+      "name": "Rio Vista",
+      "neighbors": [
+        "fort-lauderdale",
+        "las-olas-isles",
+        "harbor-beach",
+        "victoria-park",
+        "coral-ridge"
+      ],
+      "hints": "Historic Fort Lauderdale neighborhood just south of Las Olas along the New River; City of Fort Lauderdale permitting; 1920s-40s Mediterranean and mid-century homes on wide lots with mature oaks; waterfront streets with dockage; strong renovate-vs-replace market; Rio Vista Isles and Ponce Park area.",
+      "county": "Broward"
+    },
+    {
+      "slug": "victoria-park",
+      "name": "Victoria Park",
+      "neighbors": [
+        "fort-lauderdale",
+        "rio-vista",
+        "las-olas-isles",
+        "wilton-manors",
+        "coral-ridge",
+        "harbor-beach"
+      ],
+      "hints": "Fort Lauderdale neighborhood north of Las Olas; City of Fort Lauderdale permitting; 1920s-50s cottages, bungalows and mid-century homes on tree-lined streets being restored and expanded; walkable to downtown and Las Olas; active civic association with neighborhood design interests; a renovation-heavy rather than teardown market.",
+      "county": "Broward"
+    },
+    {
+      "slug": "coral-ridge",
+      "name": "Coral Ridge",
+      "neighbors": [
+        "fort-lauderdale",
+        "victoria-park",
+        "lauderdale-by-the-sea",
+        "wilton-manors",
+        "las-olas-isles",
+        "rio-vista"
+      ],
+      "hints": "Fort Lauderdale's northeast waterfront neighborhoods around Coral Ridge Country Club and the Bay Colony gated community; City of Fort Lauderdale permitting; 1950s-60s ranch homes on ocean-access canals being remodeled or replaced; Bay Colony has a guard gate and association review; Coral Ridge Isles and Imperial Point nearby.",
+      "county": "Broward"
+    },
+    {
+      "slug": "lighthouse-point",
+      "name": "Lighthouse Point",
+      "neighbors": [
+        "hillsboro-beach",
+        "pompano-beach",
+        "sea-ranch-lakes",
+        "lauderdale-by-the-sea",
+        "coral-ridge",
+        "fort-lauderdale"
+      ],
+      "hints": "City of Lighthouse Point Building Department; a boating city — nearly every home on an ocean-access canal with dockage, minutes to the Hillsboro Inlet; 1950s-70s ranch homes on wide canal lots, heavy renovation and rebuild activity; seawall and dock work involves city plus Broward County environmental review; Venetian Isles and Coral Key areas.",
+      "county": "Broward"
+    },
+    {
+      "slug": "hillsboro-beach",
+      "name": "Hillsboro Beach",
+      "neighbors": [
+        "lighthouse-point",
+        "pompano-beach",
+        "sea-ranch-lakes",
+        "lauderdale-by-the-sea",
+        "deerfield-beach",
+        "coral-ridge"
+      ],
+      "hints": "Town of Hillsboro Beach — a narrow barrier strip known as the Millionaire's Mile, ocean on one side and the Intracoastal on the other; Town of Hillsboro Beach Building Department; oceanfront estates with Intracoastal dockage plus low-rise oceanfront condos; salt-air exposure, coastal construction control line considerations, sea turtle lighting rules; very limited lot supply.",
+      "county": "Broward"
+    },
+    {
+      "slug": "sea-ranch-lakes",
+      "name": "Sea Ranch Lakes",
+      "neighbors": [
+        "lauderdale-by-the-sea",
+        "lighthouse-point",
+        "hillsboro-beach",
+        "pompano-beach",
+        "coral-ridge",
+        "fort-lauderdale"
+      ],
+      "hints": "Village of Sea Ranch Lakes — a small gated village of roughly 200 homes with a private beach club, surrounded by Lauderdale-by-the-Sea; village building department and architectural review, gated access with contractor check-in; mid-century homes on lake and interior lots being modernized; very low turnover, discretion matters.",
+      "county": "Broward"
+    },
+    {
+      "slug": "lauderdale-by-the-sea",
+      "name": "Lauderdale-by-the-Sea",
+      "neighbors": [
+        "sea-ranch-lakes",
+        "pompano-beach",
+        "coral-ridge",
+        "lighthouse-point",
+        "hillsboro-beach",
+        "fort-lauderdale"
+      ],
+      "hints": "Town of Lauderdale-by-the-Sea Building Department; low-rise beach town with a strict height character, single-family homes plus boutique oceanfront condos; Terra Mar island section with canal dockage; coastal exposure, flood elevation and sea turtle lighting; renovation-driven market with many 1950s-60s properties.",
+      "county": "Broward"
+    },
+    {
+      "slug": "pompano-beach",
+      "name": "Pompano Beach",
+      "neighbors": [
+        "lighthouse-point",
+        "hillsboro-beach",
+        "lauderdale-by-the-sea",
+        "sea-ranch-lakes",
+        "deerfield-beach",
+        "coral-ridge"
+      ],
+      "hints": "City of Pompano Beach Building Department; high-end pockets rather than uniformly luxury — Hillsboro Shores, Harbor Village, Old Pompano beachfront, Cypress Harbor and the Intracoastal estates; new oceanfront towers along Briny and Atlantic; canal homes with ocean access via the Hillsboro Inlet; strong redevelopment activity.",
+      "county": "Broward"
+    },
+    {
+      "slug": "deerfield-beach",
+      "name": "Deerfield Beach",
+      "neighbors": [
+        "hillsboro-beach",
+        "pompano-beach",
+        "lighthouse-point",
+        "sea-ranch-lakes",
+        "lauderdale-by-the-sea",
+        "parkland"
+      ],
+      "hints": "City of Deerfield Beach Building Department; luxury concentrated in The Cove waterfront neighborhood with ocean-access canals and dockage, plus Deerfield Beach oceanfront condos and the Hillsboro boulevard corridor; 1960s-70s canal homes being gutted and raised; seawall and dock permitting through the city and Broward County.",
+      "county": "Broward"
+    },
+    {
+      "slug": "wilton-manors",
+      "name": "Wilton Manors",
+      "neighbors": [
+        "fort-lauderdale",
+        "victoria-park",
+        "coral-ridge",
+        "las-olas-isles",
+        "rio-vista"
+      ],
+      "hints": "City of Wilton Manors Building Department; a small island city bounded by the Middle River with waterfront homes and dockage; 1950s mid-century modern and ranch housing stock in a strong renovation market; Wilton Manors East and the Middle River waterfront streets; walkable Wilton Drive district.",
+      "county": "Broward"
+    },
+    {
+      "slug": "hollywood-lakes",
+      "name": "Hollywood Lakes",
+      "neighbors": [
+        "harbor-islands",
+        "hallandale-beach",
+        "fort-lauderdale",
+        "rio-vista",
+        "las-olas-isles"
+      ],
+      "hints": "City of Hollywood Building Division; the Hollywood Lakes historic district east of Young Circle with 1920s Mediterranean Revival and mid-century homes, tree-lined streets and Intracoastal frontage; Hollywood Historic Preservation Board review for designated properties; North and South Lake, Harrison and Hollywood Boulevard estate streets; dockage on the Intracoastal.",
+      "county": "Broward"
+    },
+    {
+      "slug": "harbor-islands",
+      "name": "Harbor Islands",
+      "neighbors": [
+        "hollywood-lakes",
+        "hallandale-beach",
+        "fort-lauderdale",
+        "aventura",
+        "golden-beach"
+      ],
+      "hints": "Gated island community in Hollywood on the Intracoastal, developed largely from the 1990s onward; City of Hollywood permitting plus the Harbor Islands master association architectural review and guard-gate contractor access; a mix of custom waterfront estates and luxury condos with deep-water dockage; newer construction being upgraded rather than gutted.",
+      "county": "Broward"
+    },
+    {
+      "slug": "hallandale-beach",
+      "name": "Hallandale Beach",
+      "neighbors": [
+        "harbor-islands",
+        "hollywood-lakes",
+        "aventura",
+        "golden-beach",
+        "sunny-isles-beach"
+      ],
+      "hints": "City of Hallandale Beach Building Department; dominated by luxury oceanfront and Intracoastal towers — the Beach Club, 2000 Ocean, Duo, Ocean Marine Yacht Club — plus the Golden Isles waterfront neighborhood with dockage; condo unit renovations with association approvals, service-elevator scheduling and milestone-inspection context; Three Islands and Golden Isles.",
+      "county": "Broward"
+    },
+    {
+      "slug": "weston",
+      "name": "Weston",
+      "neighbors": [
+        "southwest-ranches",
+        "plantation-acres",
+        "davie",
+        "parkland",
+        "fort-lauderdale",
+        "coral-ridge"
+      ],
+      "hints": "City of Weston — a master-planned city built largely from the late 1980s through the 2000s; City of Weston building services (permitting historically administered under contract, verify current arrangement); gated country-club communities including Windmill Ranch Estates, Weston Hills Country Club, The Ridges, Savanna and Isles of Weston; strict HOA architectural review; newer homes getting kitchen, bath, outdoor-living and whole-home updates rather than structural rescue.",
+      "county": "Broward"
+    },
+    {
+      "slug": "parkland",
+      "name": "Parkland",
+      "neighbors": [
+        "coral-springs",
+        "weston",
+        "southwest-ranches",
+        "deerfield-beach",
+        "plantation-acres",
+        "davie"
+      ],
+      "hints": "City of Parkland Building Department; large-lot and gated country-club living — Parkland Golf & Country Club, Heron Bay, Parkland Isles, Cypress Head, MiraLago and the older Ranches acreage section with equestrian zoning; strong HOA architectural review; a mix of 2000s-era production homes being upgraded and acreage estates being expanded.",
+      "county": "Broward"
+    },
+    {
+      "slug": "coral-springs",
+      "name": "Coral Springs",
+      "neighbors": [
+        "parkland",
+        "weston",
+        "southwest-ranches",
+        "plantation-acres",
+        "deerfield-beach",
+        "davie"
+      ],
+      "hints": "City of Coral Springs Building Division; a master-planned city with notably strict community appearance and sign standards enforced through city review; upper-tier neighborhoods include Eagle Trace, Heron Bay, The Reserve, Whispering Woods and Wyndham Lakes; 1980s-2000s homes in a steady remodeling cycle — kitchens, baths, impact windows, outdoor living.",
+      "county": "Broward"
+    },
+    {
+      "slug": "southwest-ranches",
+      "name": "Southwest Ranches",
+      "neighbors": [
+        "davie",
+        "plantation-acres",
+        "weston",
+        "parkland",
+        "coral-springs",
+        "fort-lauderdale"
+      ],
+      "hints": "Town of Southwest Ranches — a deliberately rural, low-density town of one-acre-plus estate and equestrian properties with no traffic lights and a strong anti-density character; town building department with Broward County code administration; septic systems and well water are common, which shapes additions and kitchen/bath expansions; horse facilities, guest houses and large outdoor living projects; Sunshine Ranches, Green Meadows, Rolling Oaks.",
+      "county": "Broward"
+    },
+    {
+      "slug": "plantation-acres",
+      "name": "Plantation Acres",
+      "neighbors": [
+        "davie",
+        "southwest-ranches",
+        "weston",
+        "fort-lauderdale",
+        "coral-springs"
+      ],
+      "hints": "City of Plantation Building Department; Plantation Acres is the western estate section with large lots, many an acre or more, horse-friendly zoning in parts, and canal frontage on the C-42 system; older ranch and custom homes on big lots being expanded or rebuilt; septic prevalence in parts of the section affects addition planning; Plantation Isles and Hawks Landing nearby.",
+      "county": "Broward"
+    },
+    {
+      "slug": "davie",
+      "name": "Davie",
+      "neighbors": [
+        "southwest-ranches",
+        "plantation-acres",
+        "weston",
+        "fort-lauderdale",
+        "coral-springs",
+        "parkland"
+      ],
+      "hints": "Town of Davie Building Division; a Western-themed town that protects equestrian character and rural zoning alongside newer gated communities; high-end enclaves include Long Lake Ranches, Forest Ridge, Harmony Lakes, Stonebrook Estates and the Griffin Road acreage corridor; large lots, guest houses, barns and pool/outdoor projects; septic and well service in the acreage areas.",
+      "county": "Broward"
     }
   ]
 }

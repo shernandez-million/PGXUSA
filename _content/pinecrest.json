@@ -33,15 +33,15 @@
           "desc": "Removing bearing walls and widening rooms with engineered headers, so a 1960s ranch finally lives like an open modern plan."
         },
         {
-          "name": "Full MEP replacement",
+          "name": "New panel, new pipes, new ducts",
           "desc": "New electrical service and panels, repiped plumbing, and properly sized ducted air conditioning — systems the original house never planned for."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glass facing the oaks",
           "desc": "Floor-to-ceiling glass and impact-rated openings carrying Miami-Dade product approvals, engineered for the High-Velocity Hurricane Zone."
         },
         {
-          "name": "Finishes and millwork",
+          "name": "Finishes that match the street",
           "desc": "Stone, wide-plank flooring, and custom millwork installed under daily supervision, with finish protection from delivery day through punch list."
         },
         {
@@ -89,11 +89,11 @@
       "scope_intro": "Every kitchen is designed and priced line by line — cabinetry, stone, appliances, lighting, and the structural work connecting them.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry drawn before it's ordered",
           "desc": "Shop-drawn, ceiling-height cabinetry with interiors fitted to your actual pots, pantry, and morning routine — not a catalog module."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Slab counters, ten-foot island",
           "desc": "Quartzite, marble, and granite templated on site, with islands engineered for seating, storage, and the occasional school science project."
         },
         {
@@ -101,11 +101,11 @@
           "desc": "Opening the kitchen to family and dining rooms with engineered beams, permitted through the Village and inspected at every stage."
         },
         {
-          "name": "Appliance and gas relocation",
+          "name": "Moving the range and the gas",
           "desc": "New positions for ranges, ovens, and refrigeration, with the electrical service, gas lines, and ventilation moved legally to match."
         },
         {
-          "name": "Lighting design",
+          "name": "Lighting across the open plan",
           "desc": "Layered task, ambient, and accent lighting on proper dimming — because an acre-lot kitchen deserves better than one ceiling fixture."
         }
       ],
@@ -149,19 +149,19 @@
       "scope_intro": "Complete bathroom construction, demolition to final caulk line — engineered, permitted, and inspected so the pretty parts last.",
       "scope_items": [
         {
-          "name": "Primary suite conversions",
+          "name": "Suites built from borrowed space",
           "desc": "Combining bedrooms, closets, and original baths into a true suite, with the structural and mechanical changes drawn and permitted."
         },
         {
-          "name": "Frameless showers",
+          "name": "Frameless glass, templated last",
           "desc": "Walk-in showers built on fully waterproofed assemblies with linear drains, the glass templated only once tile is finished."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Freestanding tubs on a slab",
           "desc": "Sculptural tubs with floor-mounted fillers roughed in exactly, because moving a drain in a concrete slab is a plan, not an improvisation."
         },
         {
-          "name": "Stone and tile work",
+          "name": "Stone and tile, checked daily",
           "desc": "Book-matched slabs, large-format porcelain, and mosaics set flat and aligned — checked daily by a supervisor with a level and opinions."
         },
         {
@@ -209,23 +209,23 @@
       "scope_intro": "From single-room extensions to full second stories — engineered, permitted, and tied into the original structure properly.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Rear extensions around the oaks",
           "desc": "Family rooms, primary suites, and glass-walled living space extended into the yard, matched to the existing roofline or deliberately contrasted."
         },
         {
-          "name": "Second-story additions",
+          "name": "A full floor over the ranch",
           "desc": "Full upper floors over ranch homes, with foundations verified, tie beams upgraded, and structure engineered before anyone discusses paint colors."
         },
         {
-          "name": "In-law and guest suites",
+          "name": "In-law suites, septic verified",
           "desc": "Attached or detached suites with their own baths and entries, planned around zoning, septic capacity, and how your family actually visits."
         },
         {
-          "name": "Garage conversions",
+          "name": "Garages into offices and gyms",
           "desc": "Turning underused garages into offices, gyms, or suites — with the insulation, mechanical, and legal conversion work most flips skip."
         },
         {
-          "name": "Structural and foundation work",
+          "name": "Tying new work into old",
           "desc": "New footings, doweled connections, and reinforced masonry, built to the Florida Building Code's High-Velocity Hurricane Zone requirements."
         }
       ],
@@ -269,19 +269,19 @@
       "scope_intro": "Construction-grade outdoor living — engineered, permitted, and finished to the same standard as your interiors.",
       "scope_items": [
         {
-          "name": "Covered terraces",
+          "name": "Covered terraces under the canopy",
           "desc": "Roofed outdoor rooms with fans, lighting, and tongue-and-groove ceilings, tied into the structure and engineered for hurricane-zone wind loads."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchens, permitted and piped",
           "desc": "Built-in grills, refrigeration, and stone counters with the gas, electrical, and ventilation permitted and inspected — not merely assembled."
         },
         {
-          "name": "Pergolas and shade structures",
+          "name": "Pergolas clear of the root zones",
           "desc": "Custom pergolas and trellises with proper footings and fastening, sited around Pinecrest's protected trees instead of against them."
         },
         {
-          "name": "Driveways and hardscape",
+          "name": "Acre-lot driveways and pool decks",
           "desc": "Pavers, concrete, and natural stone for long acre-lot driveways and pool surrounds, graded so storm water goes where it should."
         },
         {

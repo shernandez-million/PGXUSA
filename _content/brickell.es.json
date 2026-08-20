@@ -19,7 +19,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación de apartamentos en Brickell, Miami | PGX Builders",
-      "meta_description": "Renovaciones totales de condominios y townhouses en Brickell. Permisos de la Ciudad de Miami, paquete listo para la asociación, supervisión diaria. (786) 273-2524.",
+      "meta_description": "Renovaciones totales de condominios y townhouses en Brickell. Permisos de la Ciudad de Miami, paquete para la asociación. (786) 273-2524.",
       "h1": "Remodelaciones en Brickell, hasta la losa",
       "hero_sub": "Renovaciones totales de unidades completas y remodelación de townhouses en todo Brickell, con permisos de la Ciudad de Miami, la aprobación de su asociación y la supervisión diaria de un contratista general licenciado. Lic. CGC1539072, con licencia y seguro.",
       "local_heading": "Hechos para torres, no solo para casas",
@@ -36,7 +36,7 @@
           "desc": "Hasta la losa desnuda y de regreso: distribuciones, puertas, carpintería y acabados nuevos, organizados alrededor de las reservas de elevador y los horarios de trabajo de su edificio."
         },
         {
-          "name": "Distribución y cambios de paredes",
+          "name": "Derribo de paredes, con ingeniero",
           "desc": "Abrir cocinas encerradas, replantear el ala de las habitaciones y confirmar con un ingeniero cuáles paredes son divisiones y cuáles están sosteniendo a sus vecinos."
         },
         {
@@ -44,7 +44,7 @@
           "desc": "Paneles eléctricos nuevos, ramales de plomería y aire acondicionado tipo fan-coil o por ductos, conectados con limpieza a los risers del edificio e inspeccionados por la Ciudad de Miami."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Ventanas de impacto, estándar del edificio",
           "desc": "Vidrio de impacto con aprobación de Miami-Dade donde su asociación permita el reemplazo, igualado al estándar del edificio y documentado para cumplir con la HVHZ."
         },
         {
@@ -96,11 +96,11 @@
           "desc": "Eliminamos el encierro de la cocina, con ingeniería y vigas donde una pared carga peso, para que quien cocina por fin tenga también la vista a la bahía."
         },
         {
-          "name": "Gabinetes a medida",
+          "name": "Gabinetes medidos dos veces",
           "desc": "Fabricados con medidas de campo tomadas después de la demolición, con electrodomésticos panelables e interiores organizados según cómo cocina usted, no como lo imaginó una hoja de especificaciones."
         },
         {
-          "name": "Topes e islas de piedra",
+          "name": "Piedra a la medida del elevador",
           "desc": "Lajas seleccionadas en el depósito, plantilladas en sitio y cortadas pensando en las dimensiones del elevador, porque una laja partida enseña una lección costosa."
         },
         {
@@ -139,7 +139,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños en torres de Brickell | PGX Builders",
-      "meta_description": "Suites principales, duchas sin marco y baños de piedra para condominios de Brickell, con impermeabilización pensada para vivir en altura. PGX Builders, (786) 273-2524.",
+      "meta_description": "Suites principales, duchas sin marco y baños de piedra en condominios de Brickell, con impermeabilización para vivir en altura. (786) 273-2524.",
       "h1": "Su piso es el techo de alguien",
       "hero_sub": "Renovaciones de baños principales para torres y townhouses de Brickell: duchas de vidrio sin marco, tinas independientes, piedra y una impermeabilización tratada como protagonista. Con permisos de la Ciudad de Miami y supervisión diaria. Lic. CGC1539072.",
       "local_heading": "La impermeabilización es el lujo que nadie ve",
@@ -156,11 +156,11 @@
           "desc": "Unimos las distribuciones compartimentadas de los ochenta en una sola suite abierta, con la tina, la ducha y el doble lavamanos organizados alrededor de la luz y la vista."
         },
         {
-          "name": "Duchas sin marco",
+          "name": "Duchas a ras donde se pueda",
           "desc": "Vidrio de piso a techo, drenajes lineales y bancas sobre bases probadas por inundación, a ras de piso donde la losa permite el rebaje y de perfil bajo donde no."
         },
         {
-          "name": "Tinas independientes y piedra",
+          "name": "Tinas, mármol y juntas de movimiento",
           "desc": "Tinas escultóricas, paredes de laja y mármol en book-match instalados sobre sustratos correctos, con juntas de movimiento donde la humedad del sur de la Florida las exige."
         },
         {
@@ -199,7 +199,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones y combinación de unidades en Brickell | PGX Builders",
-      "meta_description": "En Brickell, ampliar significa combinar apartamentos o extender un townhouse. Con ingeniería, permisos y la construcción de PGX Builders. Llame al (786) 273-2524.",
+      "meta_description": "En Brickell, ampliar significa combinar apartamentos o extender un townhouse. Ingeniería, permisos y obra de PGX Builders. (786) 273-2524.",
       "h1": "En Brickell se amplía hacia el lado",
       "hero_sub": "Combinación de unidades, ampliaciones de townhouses y conversiones estructurales en todo Brickell, con la ingeniería bien hecha, permisos de la Ciudad de Miami, la aprobación de su asociación y la supervisión diaria del contratista licenciado PGX Builders Group, CGC1539072.",
       "local_heading": "Más espacio sin salir del edificio",
@@ -212,7 +212,7 @@
       "scope_intro": "Cinco tipos de expansión que construimos aquí, cada uno con ingeniería, permisos y precio por escrito antes de que empiece la demolición.",
       "scope_items": [
         {
-          "name": "Combinación de unidades",
+          "name": "Combinar con la unidad vecina",
           "desc": "Vanos estructurales a través de paredes medianeras para unir condominios contiguos, con ingeniería, aprobación de la asociación y un acabado que hace indetectable la costura."
         },
         {
@@ -259,7 +259,7 @@
     },
     "outdoor-living": {
       "title": "Terrazas y espacios exteriores en Brickell, Miami | PGX Builders",
-      "meta_description": "Renovación de terrazas, cocinas de verano y mejoras de balcones para condominios y townhouses de Brickell, hechas para salitre y viento. Llame al (786) 273-2524.",
+      "meta_description": "Renovación de terrazas, cocinas de verano y balcones en condominios y townhouses de Brickell, para salitre y viento. (786) 273-2524.",
       "h1": "Salas al aire libre, a cuarenta pisos",
       "hero_sub": "Renovación de terrazas, cocinas de verano y mejoras exteriores para las torres y townhouses de Brickell, con ingeniería para cargas de viento de huracán, permisos de la Ciudad de Miami y la supervisión diaria de PGX Builders Group, Lic. CGC1539072.",
       "local_heading": "Aquí la terraza es el patio",
@@ -276,7 +276,7 @@
           "desc": "Porcelanato sobre pedestales, correcciones de drenaje, iluminación y jardineras, instalados sobre membranas protegidas, porque una terraza que filtra es en realidad un techo que falla."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocinas de verano, torre o townhouse",
           "desc": "Cocinas exteriores donde su edificio o su lote las permite: eléctricas en terrazas de torre, con gas en patios de townhouse, y con permisos en ambos casos."
         },
         {

@@ -30,23 +30,23 @@
       "scope_intro": "Whole-home work, from structure to finishes, sequenced so the house is opened once and closed correctly.",
       "scope_items": [
         {
-          "name": "Full-gut renovations",
+          "name": "Gut the inside, keep the shell",
           "desc": "Complete interior demolition and rebuild of older Grove houses, keeping the shell and its character while replacing everything behind the walls."
         },
         {
-          "name": "Structural openings",
+          "name": "Bearing walls come out",
           "desc": "Engineered removal of bearing walls to open 1920s and mid-century floor plans, with permits, calculations, and inspections in the right order."
         },
         {
-          "name": "Complete MEP replacement",
+          "name": "Replacing what humidity ruined",
           "desc": "New electrical service, plumbing, and ductwork sized for modern loads — the systems that Grove humidity and decades of patchwork usually ruined first."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact openings, HVHZ approved",
           "desc": "Miami-Dade approved impact openings that satisfy HVHZ code and still suit the proportions of a Mediterranean facade or an old bungalow."
         },
         {
-          "name": "Finish carpentry and millwork",
+          "name": "Trim and built-ins, not shelf stock",
           "desc": "Custom trim, doors, and built-ins executed to the standard the rest of the renovation sets, not bought off a shelf."
         }
       ],
@@ -90,23 +90,23 @@
       "scope_intro": "Everything between the first sketch and the last inspection, built around how your household actually cooks and gathers.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinets scribed to crooked walls",
           "desc": "Made-to-order cabinet packages fitted to out-of-square older walls — full height, properly scribed, with interiors organized for real use."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Slabs chosen at the yard",
           "desc": "Marble, quartzite, and granite selected at the slab yard, templated on site, and installed with seams where you will never look."
         },
         {
-          "name": "Layout and wall changes",
+          "name": "Kitchen and living room, joined",
           "desc": "Engineered openings between kitchen and living areas that turn a compartmentalized Grove floor plan into one continuous space."
         },
         {
-          "name": "Appliance relocation",
+          "name": "Appliances follow the new layout",
           "desc": "Moving ranges, refrigeration, and ventilation where the new layout wants them, with the gas, electrical, and duct work permitted properly."
         },
         {
-          "name": "Lighting design",
+          "name": "Light for a shaded kitchen",
           "desc": "Layered task, ambient, and accent lighting planned into the ceiling before drywall, because canopy shade makes Grove kitchens darker than owners expect."
         }
       ],
@@ -154,19 +154,19 @@
           "desc": "Full reconfigurations that borrow closet or bedroom space to create the suite the original Grove floor plan never imagined."
         },
         {
-          "name": "Frameless glass showers",
+          "name": "Glass measured after the tile",
           "desc": "Curbless and low-curb showers with sloped pans, linear drains, and glass measured after the tile is set — never before."
         },
         {
-          "name": "Waterproofing systems",
+          "name": "Membranes, flood-tested first",
           "desc": "Membrane systems flood-tested before tile goes down, because a leak found early costs an afternoon and one found late costs a ceiling."
         },
         {
-          "name": "Freestanding tubs and stone",
+          "name": "Tubs and the drain they need",
           "desc": "Tub placement planned with the drain relocation it actually requires, wrapped in book-matched stone or large-format tile."
         },
         {
-          "name": "Plumbing replacement",
+          "name": "New piping back to the stack",
           "desc": "Cast-iron and galvanized lines swapped for modern piping back to the stack while the walls are already open — the cheap moment to do it."
         }
       ],
@@ -210,11 +210,11 @@
       "scope_intro": "Extensions and conversions that add real square footage while keeping the lot, the trees, and the original house intact.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Extending around protected roots",
           "desc": "Ground-floor additions toward the garden — family rooms, larger kitchens, primary suites — with foundations planned around protected root zones."
         },
         {
-          "name": "Second-story additions",
+          "name": "Growing up, not out",
           "desc": "Full upper floors over the existing footprint, the Grove's answer when the lot and its trees leave nowhere to grow but up."
         },
         {
@@ -222,11 +222,11 @@
           "desc": "Garages and outbuildings converted into legal living space — guest suites, offices, studios — with the permits and insulation done right."
         },
         {
-          "name": "In-law suites",
+          "name": "Suites with their own entry",
           "desc": "Independent suites with their own bath and entry, built for parents, guests, or the long-stay visitors Miami reliably produces."
         },
         {
-          "name": "Structural and foundation work",
+          "name": "Tie-beams for HVHZ wind loads",
           "desc": "Tie-beam upgrades, new footings, and connections engineered for HVHZ wind loads and inspected at every structural stage."
         }
       ],
@@ -270,23 +270,23 @@
       "scope_intro": "From a single terrace to a full exterior renovation — hardscape, structures, and finishes built for shade, salt air, and hurricane season.",
       "scope_items": [
         {
-          "name": "Terraces and pool decks",
+          "name": "Terraces that drain under canopy",
           "desc": "Stone and paver terraces graded to drain properly under heavy canopy, where standing water and leaf litter punish flat work."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchen under a real roof",
           "desc": "Built-in grills, refrigeration, and counters under engineered roofs, with the gas and electrical runs permitted rather than improvised."
         },
         {
-          "name": "Pergolas and shade structures",
+          "name": "Pergolas anchored for hurricanes",
           "desc": "Structures anchored and engineered to HVHZ wind loads, sized to complement the trees instead of competing with them."
         },
         {
-          "name": "Driveways and entries",
+          "name": "Driveways planned around root zones",
           "desc": "New driveways, walkways, and entry sequences planned around root zones, with materials that survive shade, moisture, and daily use."
         },
         {
-          "name": "Stucco, paint, and openings",
+          "name": "Envelope work, scaffolded once",
           "desc": "Exterior envelope work — stucco repair, full repaint, impact windows and doors — coordinated with re-roofing so the house is scaffolded once."
         }
       ],

@@ -30,23 +30,23 @@
       "scope_intro": "Every Fisher Island remodel starts as a written, fixed scope — county permits, association packages, logistics, and finishes accounted for before demolition day.",
       "scope_items": [
         {
-          "name": "Full-gut renovations",
+          "name": "Gut work in an occupied building",
           "desc": "Taking late-1980s residences back to the shell, with dust containment, corridor protection, and daily cleanup your building's management will actually endorse."
         },
         {
-          "name": "Layout and structural changes",
+          "name": "Partitions out, openings engineered",
           "desc": "Removing partitions and engineering new openings where structure allows, with signed calculations and Miami-Dade permits instead of optimistic guesswork."
         },
         {
-          "name": "Complete MEP replacement",
+          "name": "Replacing 1980s plumbing and wiring",
           "desc": "New plumbing, electrical, and air conditioning replacing systems that have run since the first residents stepped off the ferry."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glazing with county approvals",
           "desc": "High-Velocity Hurricane Zone glazing with Miami-Dade product approvals, coordinated with your association's exterior standards and closed out with documented inspections."
         },
         {
-          "name": "Finishes and millwork",
+          "name": "Finishes that cross by barge",
           "desc": "Stone, wide-plank flooring, and custom millwork specified early, barged across on schedule, and installed under a supervisor who is there every day."
         }
       ],
@@ -90,15 +90,15 @@
       "scope_intro": "Five things we build most often in Fisher Island kitchens — each priced and specified before demolition, never discovered along the way.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry finished for salt air",
           "desc": "Ceiling-height cabinetry built to measure, finished for salt-air humidity, delivered across the water in protected sequence, and installed plumb the first time."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Stone inspected before it crosses",
           "desc": "Marble, quartzite, and porcelain slabs templated on site, fabricated on the mainland, and inspected before they earn a spot on the barge."
         },
         {
-          "name": "Appliance relocation",
+          "name": "Appliances moved with county permits",
           "desc": "Moving ranges, refrigeration, and ventilation with the county-permitted electrical and plumbing work that relocation actually requires in a condominium."
         },
         {
@@ -106,7 +106,7 @@
           "desc": "Opening the kitchen to living and dining areas where structure and association rules allow, engineered and documented rather than assumed."
         },
         {
-          "name": "Lighting design",
+          "name": "Lighting for dinner and breakfast",
           "desc": "Layered task, ambient, and accent lighting on updated circuits, planned so the island glows for dinner and works for breakfast."
         }
       ],
@@ -154,19 +154,19 @@
           "desc": "Complete gut and rebuild of the primary bath — layout, plumbing, lighting, stone, and storage rebuilt around how you actually start the day."
         },
         {
-          "name": "Frameless showers",
+          "name": "Showers that read effortless",
           "desc": "Heavy glass, linear drains, and level thresholds built over flood-tested membranes, so the shower reads effortless and never reports to the unit below."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Freestanding tubs, floor reinforced",
           "desc": "Sculptural tubs positioned for the view, with floor-mounted fillers and the reinforced, waterproofed floor assembly they quietly require."
         },
         {
-          "name": "Stone and tile work",
+          "name": "Stone set for unforgiving light",
           "desc": "Book-matched marble, large-format porcelain, and mosaic accents set level and aligned, because on this island the light off the water forgives nothing."
         },
         {
-          "name": "Waterproofing and testing",
+          "name": "Nothing tiled until it's tested",
           "desc": "Membranes, pans, and penetrations sealed to spec, flood tested, documented with photos, and inspected before tile — your downstairs neighbor never learns your renovation happened."
         }
       ],
@@ -214,7 +214,7 @@
           "desc": "Joining adjacent residences into one — engineered openings, merged mechanical systems, unified flooring and finishes, and every approval the combination requires."
         },
         {
-          "name": "Structural openings",
+          "name": "Shored, signed, and inspected",
           "desc": "Cutting and reinforcing demising and interior bearing walls with signed engineering, shoring plans, and county inspections — never a saw and a hunch."
         },
         {
@@ -274,7 +274,7 @@
           "desc": "New stone or porcelain decking over sound waterproofing, with drainage that respects the neighbor below and finishes your association will approve."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Outdoor kitchens, rules permitting",
           "desc": "Weatherproof cabinetry, grills, and refrigeration where building rules permit them, with the permitted electrical and plumbing runs done properly the first time."
         },
         {

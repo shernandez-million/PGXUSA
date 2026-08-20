@@ -14,7 +14,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación integral de casas en Palmetto Bay, FL | PGX Builders",
-      "meta_description": "Remodelación integral de casas en Palmetto Bay, FL: renovaciones completas de casas ranch, con permisos del Village y supervisión diaria. Llame al (786) 273-2524.",
+      "meta_description": "Remodelación integral en Palmetto Bay, FL: renovaciones completas de casas ranch, con permisos del Village y supervisión. (786) 273-2524.",
       "h1": "Su casa ranch de Palmetto Bay, reinventada",
       "hero_sub": "Remodelación integral para las casas ranch y los enclaves privados de Palmetto Bay: aperturas estructurales, sistemas nuevos, vidrio de impacto y acabados a la altura del lote. Licencia CGC1539072, permisos del Village y supervisión todos los días.",
       "local_heading": "Construimos para el Village of Parks",
@@ -27,23 +27,23 @@
       "scope_intro": "Cada remodelación se define por escrito antes de abrir una sola pared. Estas son las piezas que más combinamos en las casas de Palmetto Bay.",
       "scope_items": [
         {
-          "name": "Renovaciones completas",
+          "name": "Casas ranch llevadas hasta el bloque",
           "desc": "Todo el interior llevado hasta el bloque y reconstruido: nueva distribución, sistemas y acabados, con una secuencia pensada para que las inspecciones nunca frenen el cronograma."
         },
         {
-          "name": "Aperturas estructurales",
+          "name": "Muros de carga, resueltos con ingeniería",
           "desc": "Eliminación de muros de carga en casas ranch de bloque, con vigas calculadas por un ingeniero y con permiso, para que una planta de 1965 por fin se conecte."
         },
         {
-          "name": "Reemplazo total de sistemas",
+          "name": "Cableado, tuberías y aire acondicionado nuevos",
           "desc": "Servicio eléctrico nuevo, plomería reemplazada y aire acondicionado bien dimensionado con ductos correctos, porque unos sistemas de sesenta años no tienen nada que hacer detrás de piedra nueva."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Vidrio de impacto, sin más shutters",
           "desc": "Vidrio de impacto aprobado por Miami-Dade en toda la casa, instalado según los requisitos de la High-Velocity Hurricane Zone e inspeccionado, para retirar esos shutters con los que no volverá a forcejear."
         },
         {
-          "name": "Acabados y carpintería",
+          "name": "Acabados elegidos una vez, y bien",
           "desc": "Piedra, pisos de tablón ancho, puertas a la medida y muebles empotrados, manejados bajo un solo cronograma y protegidos hasta el día en que le entregamos la casa."
         }
       ],
@@ -74,7 +74,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Palmetto Bay, FL | PGX Builders",
-      "meta_description": "Remodelación de cocinas a la medida en Palmetto Bay: islas, piedra natural y gabinetes que por fin abren esas plantas de los años 60. Estimados: (786) 273-2524.",
+      "meta_description": "Cocinas a la medida en Palmetto Bay: islas, piedra natural y gabinetes que por fin abren esas plantas de los años 60. (786) 273-2524.",
       "h1": "La cocina que su ranch nunca tuvo",
       "hero_sub": "Remodelación de cocinas para casas de Palmetto Bay, desde demoler la cocina de pasillo hasta gabinetes a la medida e islas de piedra, con permisos completos del Village y la supervisión diaria de un contratista general licenciado.",
       "local_heading": "Por qué se reconstruyen las cocinas de Palmetto Bay",
@@ -91,19 +91,19 @@
           "desc": "Cocinas de pasillo y de planta cerrada abiertas hacia el family room, con vigas calculadas por ingeniería donde los muros de bloque de Palmetto Bay cargan peso."
         },
         {
-          "name": "Gabinetes a la medida",
+          "name": "Gabinetes ajustados a losas desniveladas",
           "desc": "Módulos y frentes fabricados por encargo, gabinetes altos hasta el techo e interiores organizados según su manera de cocinar, instalados a nivel sobre losas que casi nunca lo están."
         },
         {
-          "name": "Topes e islas de piedra",
+          "name": "Piedra natural con bordes en cascada",
           "desc": "Cuarcita, mármol o granito escogidos en el depósito de losas y fabricados con plantillas tomadas en obra, con una isla a escala de tareas, desayunos y todo lo demás."
         },
         {
-          "name": "Reubicación de electrodomésticos",
+          "name": "Electrodomésticos donde el cocinero los quiere",
           "desc": "Cocción, refrigeración y ventilación trasladadas a donde el plano de la isla las necesita, respaldadas por trabajos de gas, electricidad y ductos con permiso."
         },
         {
-          "name": "Diseño de iluminación",
+          "name": "Iluminación del cuarto que más trabaja",
           "desc": "Iluminación de tarea, de isla y ambiental sobre circuitos nuevos, para que el cuarto que más trabaja en la casa deje de depender de una sola lámpara de techo."
         }
       ],
@@ -147,19 +147,19 @@
       "scope_intro": "Sea un solo baño de visitas o todos los baños de la casa, el alcance de abajo se cotiza renglón por renglón antes de la demolición.",
       "scope_items": [
         {
-          "name": "Conversión a suite principal",
+          "name": "Cuartos sobrantes convertidos en suites",
           "desc": "Cuartos, closets y baños anticuados unidos en una verdadera suite, con distribuciones dibujadas sobre la huella baja y extendida de las casas ranch de Palmetto Bay."
         },
         {
-          "name": "Duchas sin marco",
+          "name": "Duchas sin bordillo, probadas con agua",
           "desc": "Entradas a ras de piso, desagües lineales y vidrio grueso sobre una membrana probada con inundación, para que la ducha siga hermosa mucho después del estreno."
         },
         {
-          "name": "Tinas independientes",
+          "name": "Tinas independientes, desagües reencaminados",
           "desc": "Tinas colocadas donde el cuarto las merece, con llenadores de piso, refuerzo estructural donde hace falta y desagües reencaminados correctamente bajo la losa."
         },
         {
-          "name": "Piedra y cerámica",
+          "name": "Despiece planeado en papel",
           "desc": "Mármol, cuarcita y porcelanato de gran formato instalados parejos y precisos, con despieces planeados en papel para que los cortes queden donde nadie mira."
         },
         {
@@ -194,7 +194,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones de casas y segundos pisos en Palmetto Bay | PGX",
-      "meta_description": "Ampliaciones en Palmetto Bay: segundos pisos, alas traseras y suites para familiares en los lotes grandes del village. Alcance fijo por escrito. (786) 273-2524.",
+      "meta_description": "Ampliaciones en Palmetto Bay: segundos pisos, alas traseras y suites para familiares en lotes grandes. Alcance fijo. (786) 273-2524.",
       "h1": "Más casa, la misma dirección",
       "hero_sub": "Extensiones traseras, segundos pisos y suites para familiares en casas de Palmetto Bay, con ingeniería desde los cimientos, permisos del Village y un solo contratista general licenciado con supervisión diaria.",
       "local_heading": "Espacio para crecer en Palmetto Bay",
@@ -207,11 +207,11 @@
       "scope_intro": "De un ala nueva a duplicar los pies cuadrados, cada ampliación de abajo llega con ingeniería, permisos y precio antes de que entre el primer camión.",
       "scope_items": [
         {
-          "name": "Extensiones traseras",
+          "name": "Alas traseras hacia el patio",
           "desc": "Family rooms y ampliaciones de cocina construidos hacia el patio, con aperturas estructurales que borran la línea entre la casa vieja y la nueva."
         },
         {
-          "name": "Segundos pisos",
+          "name": "Segundos pisos con la familia abajo",
           "desc": "Plantas altas completas sobre casas ranch existentes, con cimientos verificados, columnas y vigas de amarre calculadas por ingeniería, y la familia casi siempre viviendo abajo mientras tanto."
         },
         {
@@ -219,7 +219,7 @@
           "desc": "Garajes convertidos y alas con aire de casita aparte, con su propio baño y entrada, dibujadas para cumplir la zonificación del Village en vez de discutirla."
         },
         {
-          "name": "Estructura y cimentación",
+          "name": "La mitad sin glamour, calculada",
           "desc": "Zapatas nuevas amarradas a las losas originales, refuerzo de vigas de amarre e ingeniería de carga de viento: la mitad sin glamour de toda ampliación, hecha visiblemente bien."
         },
         {
@@ -267,19 +267,19 @@
       "scope_intro": "Estructuras de patio, pisos exteriores y la envolvente misma de la casa, cada una cotizada como un alcance definido y con ingeniería donde la carga de viento lo exige.",
       "scope_items": [
         {
-          "name": "Terrazas techadas",
+          "name": "Terrazas techadas para el aire salado",
           "desc": "Ambientes exteriores con techo, amarrados estructuralmente a la casa, con ventiladores, iluminación y cielos rasos detallados para sobrevivir el aire salado y las tormentas de verano."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocinas de verano para recibir",
           "desc": "Parrillas, refrigeración y topes de piedra con líneas de gas y electricidad con permiso, construidas para la familia que recibe en cada fiesta."
         },
         {
-          "name": "Pérgolas y estructuras de sombra",
+          "name": "Pérgolas ancladas contra el viento",
           "desc": "Calculadas para las cargas de viento de la High-Velocity Hurricane Zone y ancladas sobre zapatas de verdad, para que la sombra no se mueva en temporada de huracanes."
         },
         {
-          "name": "Entradas y pisos exteriores",
+          "name": "Entradas trazadas alrededor de los árboles",
           "desc": "Adoquines, concreto y senderos de acceso diseñados alrededor de los árboles protegidos de Palmetto Bay, con un drenaje que respeta al condado y a la gravedad por igual."
         },
         {

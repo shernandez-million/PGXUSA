@@ -32,19 +32,19 @@
       "scope_intro": "From a bayfront house behind the gate to a flow-through residence on Collins Avenue, the scope is written line by line before anyone swings a hammer.",
       "scope_items": [
         {
-          "name": "Full-gut renovations",
+          "name": "Houses behind the gate, gutted",
           "desc": "Estate-section houses stripped to block and beam, replanned for how you live, and rebuilt with finishes that stand up to salt air."
         },
         {
-          "name": "Layout and structural changes",
+          "name": "Mid-century plans opened up",
           "desc": "Opening mid-century floor plans with engineered beams and new structural openings, calculated and inspected rather than guessed at."
         },
         {
-          "name": "Complete MEP replacement",
+          "name": "New systems, not 1958 wiring",
           "desc": "New electrical, plumbing, and air conditioning throughout, sized for modern loads instead of whatever the house was wired for in 1958."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact openings, ARB sign-off first",
           "desc": "Miami-Dade approved openings installed to High-Velocity Hurricane Zone standards, with Architectural Review Board sign-off handled before the permit is filed."
         },
         {
@@ -92,23 +92,23 @@
       "scope_intro": "Five things we do constantly in Bal Harbour kitchens, each one priced, drawn, and scheduled before demolition day.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry approved before fabrication",
           "desc": "Built-to-order cabinetry with shop drawings you approve before fabrication, sized to the room and the ceiling, not to a catalog."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Stone chosen at the slab yard",
           "desc": "Marble, quartzite, and porcelain slabs templated on site and installed with seams planned where you will not stare at them."
         },
         {
-          "name": "Layout changes",
+          "name": "Galley walls opened to the water",
           "desc": "Galley walls removed and sightlines opened toward the water, with any structural change engineered, permitted, and inspected."
         },
         {
-          "name": "Appliance relocation",
+          "name": "Appliances moved, services rerouted",
           "desc": "New positions for ranges, ovens, and refrigeration, with electrical, ventilation, and drainage rerouted correctly — the part you never see but always feel."
         },
         {
-          "name": "Lighting design",
+          "name": "Lighting planned with the cabinetry",
           "desc": "Layered task, ambient, and accent lighting planned with the cabinetry, so the island reads as furniture rather than a workstation."
         }
       ],
@@ -152,19 +152,19 @@
       "scope_intro": "The five requests we hear most from owners here, built with the water management this island demands.",
       "scope_items": [
         {
-          "name": "Primary suite conversions",
+          "name": "Two rooms, one primary suite",
           "desc": "Two cramped rooms become one real suite, with reworked layouts, double vanities, and storage planned for how mornings actually run."
         },
         {
-          "name": "Frameless showers",
+          "name": "Curbless entries and linear drains",
           "desc": "Curbless entries, linear drains, and heavy glass set over properly sloped, flood-tested pans instead of hope."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Freestanding tubs, drains resolved first",
           "desc": "Sculptural tubs placed with floor structure, drain routing, and supply lines resolved before the tub is ever ordered."
         },
         {
-          "name": "Stone and tile work",
+          "name": "Book-matched marble set flat",
           "desc": "Book-matched marble, quartzite, and large-format porcelain set flat and true, with layouts drawn so cuts land exactly where intended."
         },
         {
@@ -212,11 +212,11 @@
       "scope_intro": "Every addition below starts with engineering and the Village's design review, not with a sledgehammer and a sketch.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Extensions toward the garden",
           "desc": "Family rooms, bigger kitchens, and glass-walled living space extended toward the garden side of the lot, matched to the existing structure."
         },
         {
-          "name": "Second-story additions",
+          "name": "Second floors for the bay view",
           "desc": "New upper floors engineered from the foundation up — often the only way to gain a bay view on a built-out street."
         },
         {
@@ -224,11 +224,11 @@
           "desc": "Underused garages and side wings turned into guest quarters or in-law suites, with the permits pulled rather than the corners cut."
         },
         {
-          "name": "Tie-beam and structural upgrades",
+          "name": "Tie-beams for older masonry houses",
           "desc": "Reinforced tie-beams, columns, and connections that let older masonry houses carry new loads safely and legally."
         },
         {
-          "name": "Foundation work",
+          "name": "Footings for coastal soil",
           "desc": "Footings and slabs designed for coastal soil and flood-zone requirements, verified by inspection before anything rises above grade."
         }
       ],
@@ -276,19 +276,19 @@
           "desc": "Covered living areas with real drainage, fans, and lighting — built to be used ten months a year, not admired from indoors."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Built-in grill and permitted gas",
           "desc": "Outdoor cooking done as construction, not accessory shopping: built-in grill, refrigeration, stone counters, and permitted gas, power, and venting."
         },
         {
-          "name": "Pergolas and shade structures",
+          "name": "Pergolas engineered, not assembled",
           "desc": "Engineered for coastal wind loads and anchored accordingly, so the first tropical storm becomes an anecdote instead of a claim."
         },
         {
-          "name": "Driveways, stucco, and paint",
+          "name": "Driveways and paint, board approved",
           "desc": "Exterior refreshes taken through the Architectural Review Board and finished to the standard this particular street expects."
         },
         {
-          "name": "Impact openings and re-roofs",
+          "name": "Impact glass and roof, one schedule",
           "desc": "Miami-Dade approved windows, doors, and roof coordination handled in one schedule when the exterior gets its full renovation."
         }
       ],

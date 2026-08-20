@@ -1,0 +1,320 @@
+{
+  "area_slug": "pompano-beach",
+  "neighborhoods": [
+    "Hillsboro Shores",
+    "Harbor Village",
+    "Avalon Harbor",
+    "Garden Isles",
+    "Cypress Cove",
+    "Snug Harbor",
+    "Cypress Lakes",
+    "Santa Barbara Shores",
+    "Santa Barbara Estates",
+    "Old Pompano",
+    "Palm Aire",
+    "Cypress Bend",
+    "Briny Avenue"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Whole-Home Remodeling in Pompano Beach, FL | PGX Builders",
+      "meta_description": "1960s canal ranches and beachside houses in Pompano Beach rebuilt with HVHZ product approvals and every permit handled. (786) 273-2524.",
+      "h1": "Rebuild the house, keep the address",
+      "hero_sub": "Full-gut remodels for Pompano Beach canal homes, beachside houses and condo residences: structure, mechanicals, impact openings and finishes, permitted through City of Pompano Beach Development Services and run day to day by a licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "What a Pompano remodel actually involves",
+      "intro_paragraphs": [
+        "Most of the good bones in Pompano Beach were poured between roughly 1955 and 1975: concrete block ranch houses on dredged canal lots in Garden Isles, Cypress Cove, Snug Harbor and Santa Barbara Shores, terrazzo underfoot, and a floor plan organized around a formal dining room nobody has eaten in since the Ford administration. Old Pompano holds the older frame and Mediterranean stock near the downtown grid. Owners here rarely want a different house. They want this one taken back to the block, reorganized around the water, and rewired for how a family actually lives now.",
+        "Your application goes to the City of Pompano Beach Development Services Department, Building Permitting and Inspections, at City Hall on West Atlantic Boulevard, filed on the Broward County Uniform Building Permit Application with trade checklists for structural, plumbing, electrical and mechanical work. That is the form every Broward city uses, because code administration here sits under the Broward County Board of Rules and Appeals, which hears appeals of building official decisions, issues formal interpretations, and reviews Broward's code amendments. Broward is inside the High-Velocity Hurricane Zone, so windows, doors and roof systems need a Miami-Dade Notice of Acceptance or Florida Product Approval. Demolition also brings a county asbestos submittal.",
+        "That approach comes from more than twenty years of South Florida building and 150-plus delivered remodels and additions, all of it permitted and inspected. On a Pompano Beach project that means a fixed written scope before the first wall comes down, a superintendent here whenever the crew is, hard protection over the floors and stair treads that are staying, and one accountable team from estimate through final inspection and warranty. You get a schedule you can plan a move around and a single number to call when you want to change something."
+      ],
+      "scope_heading": "Every layer of a Pompano gut",
+      "scope_intro": "Nothing gets demolished until the scope is written down and priced against a specification rather than a hunch. These pieces recur in most Pompano Beach gut projects.",
+      "scope_items": [
+        {
+          "name": "Block walls and steel",
+          "desc": "Removing interior bearing walls in 1960s CBS construction with engineered beams, new tie-beam work, and sealed calculations submitted inside the permit set."
+        },
+        {
+          "name": "Guts of the house, renewed",
+          "desc": "New electrical service and panel, replacement supply and drain lines, and HVAC sized by an actual Manual J load instead of by whatever was there before."
+        },
+        {
+          "name": "Impact glass, documented",
+          "desc": "Impact windows and sliders with approvals circled on the submittal and design pressures proven per opening, which is what Broward plan review genuinely checks."
+        },
+        {
+          "name": "Surfaces, top to bottom",
+          "desc": "Terrazzo restored or replaced, ceilings opened where the trusses allow, and custom millwork and closets built to the new plan rather than the 1962 one."
+        },
+        {
+          "name": "The water side, opened up",
+          "desc": "Rear walls reworked toward the canal with wider openings, engineered headers, and the slab-edge waterproofing detail that decides how the whole assembly ages."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Who issues the permit for a whole-home remodel in Pompano Beach?",
+          "a": "The City of Pompano Beach Development Services Department, through its Building Permitting and Inspections division. Submittals go in on the Broward County Uniform Building Permit Application with the structural, plumbing, electrical and mechanical checklists attached, plus zoning review and, before demolition starts, the county asbestos submittal. Code administration sits under the Broward County Board of Rules and Appeals, so the amendments and the inspector certifications are countywide even though your reviewer is a city employee. We file all of it."
+        },
+        {
+          "q": "Is Pompano Beach really in the zone that needs Miami-Dade product approvals?",
+          "a": "Broward County is inside the High-Velocity Hurricane Zone right alongside Miami-Dade, so yes. Every window, exterior door, shutter, garage door and roof system needs a current Miami-Dade Notice of Acceptance or Florida Product Approval, identified on the submittal and matched to the design pressures for that specific opening. Roofing carries its own HVHZ application. Product that passes in Orlando gets rejected here, which is a good reason not to buy openings before your contractor sees them."
+        },
+        {
+          "q": "We are on a canal. Does flood elevation limit what we can do?",
+          "a": "It can, and the answer turns on your flood zone and how much you are spending relative to the value of the building. Federal substantial improvement rules are the ones to understand early: cross the threshold and the entire structure has to be brought into flood compliance, not only the part you touched. The city runs a floodplain review alongside the building permit, and elevation certificates appear in the inspection list. We check this before anybody starts drawing."
+        },
+        {
+          "q": "Can we stay in the house while you gut it?",
+          "a": "Usually not through the loud half. A true whole-home remodel means no working kitchen, open ceilings, and a slab that gets cut. Some clients keep a guest wing or a garage apartment habitable and we build dust barriers with separate access, but most move out from demolition through rough inspections and return for finishes. We tell you which one applies at the walk-through, not after the short-term lease is signed."
+        },
+        {
+          "q": "What should a high-end whole-home remodel here cost?",
+          "a": "It depends less on square footage than on how much of the building you are replacing. Refinishing what is already there, replacing every system behind the walls, and moving structure on top of that are three separate projects carrying three separate budgets. We scope and price against a written specification so the signed number holds unless you change something or the house hides something. PGX is not the low bid, and we say so before you spend time on us."
+        }
+      ],
+      "cta_heading": "Open the door for us",
+      "cta_sub": "Bring the survey, the wish list, and the parts of the house that annoy you. You leave with a written scope, in English o en español."
+    },
+    "kitchen-remodeling": {
+      "title": "Pompano Beach Kitchen Remodeling, FL | PGX Builders Group",
+      "meta_description": "Pompano Beach kitchen remodeling for ranches and towers alike. Galley walls opened, stone templated on site, associations handled. (786) 273-2524.",
+      "h1": "A kitchen that faces the water",
+      "hero_sub": "Custom cabinetry, stone, islands and layout changes for Pompano Beach kitchens, from canal-front ranch houses to oceanfront residences. Drawn, permitted at City Hall, and built with a licensed general contractor walking the job every day.",
+      "local_heading": "Pompano kitchens, from ranch to high-rise",
+      "intro_paragraphs": [
+        "Two kitchen problems dominate Pompano Beach. The first belongs to the mid-century canal house in Harbor Village, Avalon Harbor or Cypress Lakes, where the kitchen is a closed galley with a pass-through window and the best water view in the house has been assigned to a laundry room. The second belongs to the condo residence, whether at Palm Aire and Cypress Bend or in the newer oceanfront buildings along Briny Avenue, where the layout works but the finish level trails the address by a decade. Both get solved by moving walls, not by refacing doors.",
+        "Kitchen work is permitted by the City of Pompano Beach Building Permitting and Inspections division, and the submittal is more than a sketch. Expect existing and proposed floor plans, plumbing plans showing every fixture and appliance, electrical plans covering circuits, GFCI and AFCI protection and load calculations, and gas isometrics with BTU loads when a range is involved. In a condominium the association's written approval travels with the package, and hard flooring above another residence needs a laboratory acoustic report proving STC and IIC of at least 50 for your actual slab and ceiling assembly, not a brochure.",
+        "Sequencing is what keeps the trades from stepping on each other. Cabinetry gets ordered early because custom boxes set the schedule, slabs are templated against installed cabinets instead of against a drawing, and appliance specifications are in hand before the electrician roughs anything in. The scope is fixed in writing, a supervisor is on site daily, and in a tower we handle the certificates of insurance, the service elevator reservation and the approved noise window so your neighbors stay neighbors. Twenty-plus years in South Florida, every job permitted and inspected."
+      ],
+      "scope_heading": "Where the kitchen budget lands",
+      "scope_intro": "Priced line by line before demolition, against a specification you can hold us to. The elements below cover most Pompano Beach kitchen projects.",
+      "scope_items": [
+        {
+          "name": "Made-to-order cabinet packages",
+          "desc": "Custom boxes and fronts finished for coastal humidity, scaled to your ceiling height, with interiors planned around what you actually own rather than catalog filler."
+        },
+        {
+          "name": "Stone templated on site",
+          "desc": "Quartzite, marble or porcelain slab measured after cabinets are set, with island substructures engineered for the load and seating overhangs supported properly."
+        },
+        {
+          "name": "Opening the galley wall",
+          "desc": "Removing whatever closes a 1960s galley off from the living space, with an engineered beam, tie-in detailing and calculations inside the permit set."
+        },
+        {
+          "name": "Range, sink and fridge moved",
+          "desc": "Relocating ranges, ovens and refrigeration with new gas piping, dedicated circuits, correct venting, and the isometric drawings plan review will ask you for."
+        },
+        {
+          "name": "Lighting and electrical capacity",
+          "desc": "Layered lighting plus the panel and circuit capacity an induction range, double ovens and a wine column need before any of them can be plugged in."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does a kitchen remodel need a permit in Pompano Beach?",
+          "a": "Anything involving plumbing, electrical, gas or structure needs one, and a genuine kitchen project involves all four. The city's kitchen and bath renovation path covers cabinet and counter replacement, fixture and appliance changes, tile work involving waterproofing, layout modifications and exhaust fans. Painting or cabinet refacing may not, subject to review. Unpermitted kitchen work has a habit of surfacing at closing, and permitting it after the fact costs more than doing it once. We pull permits and schedule inspections."
+        },
+        {
+          "q": "I own in an oceanfront building. What does the association add?",
+          "a": "A written approval letter that goes into the city submittal, plus building rules the city never sees: work hours, service elevator reservations, insurance certificates for every trade, and protection of common corridors. Boards also tend to want the acoustic report for any hard flooring before they sign. We push the association package and the permit drawings forward together rather than one after the other, because sequential approvals are how condo kitchens quietly lose two months."
+        },
+        {
+          "q": "Can I put wood or tile floors in a kitchen above another unit?",
+          "a": "Yes, with the paperwork. Pompano Beach requires a sound barrier permit for hard flooring in a unit above another dwelling or a service area, and the acoustic test report has to show STC and IIC ratings of at least 50 for the assembly as it will really be built, accounting for your slab thickness and the ceiling below. Manufacturer brochures and retail listings get rejected. We select underlayment against a genuine laboratory report."
+        },
+        {
+          "q": "Can the wall between my kitchen and living room come out?",
+          "a": "Often, and in a 1960s block house it is usually the difference between a kitchen and a room people want to stand in. What it takes is an engineer confirming whether the wall carries roof load, a beam sized and detailed to replace it, and calculations inside the permit set. In a tower the answer may be no, because the wall is structural or part of a shear system. We establish that before you commit to a layout."
+        },
+        {
+          "q": "How much does a custom kitchen cost in this market?",
+          "a": "Cabinetry, stone and appliances drive it, and selections move the number further than square footage does. A high-end kitchen in a Pompano Beach canal house and one thirty floors above the sand can land in very different places once elevator logistics and association requirements are priced in. We would rather walk the space, write a specification and hand you a fixed number than publish a per-foot figure nobody can actually build to."
+        }
+      ],
+      "cta_heading": "Let's plan the kitchen",
+      "cta_sub": "Tell us how you cook and where the light lands. We measure, write the specification, and price it honestly, in English o en español."
+    },
+    "bathroom-remodeling": {
+      "title": "Bathroom Remodels for Pompano Beach, FL | PGX Builders",
+      "meta_description": "Pompano Beach bath remodels swap cast iron drains, test the pan, then lay stone. Condo and single-family permits managed. (786) 273-2524.",
+      "h1": "The half you never see",
+      "hero_sub": "Primary suites, frameless showers, freestanding tubs and stone for Pompano Beach homes and condos: waterproofing flood-tested, plumbing permitted and inspected, and a licensed general contractor on site every working day.",
+      "local_heading": "What lives behind a Pompano bathroom wall",
+      "intro_paragraphs": [
+        "The average Pompano Beach primary bathroom was laid out around a 1965 idea of privacy: a five-foot tub, one small window, and a vanity for a single person who was not in a hurry. In Santa Barbara Estates, Garden Isles and the older Cypress Cove streets, those baths are frequently still original behind the 1990s tile somebody stuck over them. Beachside in Hillsboro Shores and up in the towers along the sand the problem inverts: the layout is generous, but the shower pan is aging and the finishes have gone quiet. Both roads end at the studs.",
+        "Bathroom permits go through City of Pompano Beach Building Permitting and Inspections, on the Broward County Uniform Building Permit Application, with plumbing rough, top-out and final inspections in sequence, which is exactly the sequence that protects you. Two local details catch owners off guard. In a condominium the association's written approval letter is part of the city package, alongside whatever the building requires about riser shutdowns. And on any floor above the ground floor, hard flooring needs an independent laboratory test report showing STC and IIC ratings of at least 50 for the assembly, which is a permit item here rather than a courtesy to your neighbor.",
+        "There is no margin for error in a room this small. We flood-test pans before any tile is set, verify slope with a level rather than an opinion, block walls properly for heavy glass and grab bars, and duct exhaust to the outside instead of into a soffit. Original cast iron drains get camera-checked while the walls are open, since that is the only inexpensive moment you will get. Fixed written scope, daily supervision, hard protection over every finished surface the crew has to cross, and one team answering for all of it under Lic. CGC1539072."
+      ],
+      "scope_heading": "The parts you will never see",
+      "scope_intro": "Almost everything below sits behind the finish, which is where a bathroom is actually won or lost. All of it scoped in writing before a single tile is ordered.",
+      "scope_items": [
+        {
+          "name": "Waterproofing, flood-tested",
+          "desc": "Bonded membranes carried up the walls and over the curb, then filled and left standing overnight so a failure shows itself before the marble arrives."
+        },
+        {
+          "name": "Bedroom folded into the bath",
+          "desc": "Borrowing a closet or a small bedroom to build a genuine primary suite, carrying the layout, plumbing rough-in, framing and permits on a single submittal."
+        },
+        {
+          "name": "Old drains replaced",
+          "desc": "Camera inspection of original cast iron, then replacement of drain and supply lines while the walls are open rather than after the stone is down."
+        },
+        {
+          "name": "Glass on solid backing",
+          "desc": "Heavy frameless panels hung on blocking installed during framing, hinges landed in real structure, and thresholds detailed so water goes back where it belongs."
+        },
+        {
+          "name": "Steam, heat and quiet air",
+          "desc": "Steam showers, heated floors and exhaust ducted to the exterior, with the moisture ratings and dedicated circuits an inspector is going to look for."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How long is the bathroom out of service?",
+          "a": "For a full gut, plan in weeks rather than days, and expect the timeline to be set by inspections and material lead times rather than by how fast tile goes down. Demolition, plumbing rough, waterproofing and its inspection, tile, then trim and glass each have to finish before the next begins. Custom vanities and stone slabs routinely arrive last. We place orders first so the room is not sitting open waiting on a delivery truck."
+        },
+        {
+          "q": "We want the tub replaced with a walk-in shower. Anything unusual in Pompano Beach?",
+          "a": "The city treats it as a real bath renovation, not a swap. The submittal shows the full extent of the plumbing alteration with every fixture identified, and the work is inspected before it is covered. Two extras catch condo owners: the association's written approval letter rides along with the application, and hard flooring above the ground floor needs an independent acoustic test report. None of it is difficult when it is planned. It stops an inspection cold when it is not."
+        },
+        {
+          "q": "Is a curbless shower realistic in a slab-on-grade house?",
+          "a": "Frequently, but the slab gets the final word. Recessing a pan means cutting concrete and sometimes rerouting drain lines, which occasionally runs into a beam or a service line you would rather leave alone. On a second floor there is usually framing depth to work with. Where the structure says no, a low-profile curb with correct slope and a linear drain gets you most of the look honestly. We open a small test area and find out first."
+        },
+        {
+          "q": "Does salt air near the beach affect bathroom fixtures?",
+          "a": "In Hillsboro Shores houses and oceanfront residences, absolutely, especially where a bathroom window opens toward the water or the unit runs on outside air. Faucet and shower hardware finishes corrode faster, and living finishes such as unlacquered brass go their own way in a hurry. We specify hardware and exhaust equipment rated for humid coastal service and vent moisture out properly, which does more for longevity than any finish choice you can make."
+        },
+        {
+          "q": "Where does the money actually go in a bath remodel?",
+          "a": "Stone, glass and fixtures set the visible budget. Drains, waterproofing, framing and ventilation set the real one, and the second list is where owners underestimate. We scope the building as we find it, put a fixed number against a written specification, and flag in advance anything only demolition can answer. Our clients hire us for certainty and finish quality, not for being the cheapest of three quotes on the kitchen counter."
+        }
+      ],
+      "cta_heading": "Get the bathroom scoped",
+      "cta_sub": "Send photos or let us walk it in person. You get a written scope, a real schedule, and straight answers, in English o en español."
+    },
+    "home-additions": {
+      "title": "Home Additions, Pompano Beach FL | PGX Builders Group",
+      "meta_description": "Pompano Beach houses grow four ways: out back, up a floor, into the garage, or a suite for family. Engineered and permitted. (786) 273-2524.",
+      "h1": "Add on instead of moving on",
+      "hero_sub": "Rear extensions, second stories, garage conversions and in-law suites for Pompano Beach homes: engineered, permitted through Development Services, floodplain-reviewed where required, and built under daily supervision by a licensed general contractor.",
+      "local_heading": "Where a Pompano lot has room",
+      "intro_paragraphs": [
+        "Pompano Beach lots from the canal-subdivision era are wider than they look and shallower than you would like, which makes an addition a design problem before it becomes a construction problem. The usual moves are familiar: a rear great room and primary suite pushed toward the water in Harbor Village or Snug Harbor, a second story over a single-story ranch in Santa Barbara Shores where the lot has nothing left to give, a garage or carport turned into a guest suite around Old Pompano, and full in-law wings on the deeper lots west of Federal Highway.",
+        "Nothing the City of Pompano Beach issues on a house is heavier than an addition permit. Development Services wants a signed and sealed plan set with survey, foundation plan, elevations, structural details and a window and door schedule, plus a geotechnical report with foundation recommendations, truss engineering, energy calculations and Manual J loads, a zoning compliance application, a tree permit if anything is growing near the work, and a floodplain application. Broward County environmental review enters where site work and drainage do. Inspections open at footings and formboard survey and close with a final survey and elevation certificate.",
+        "The half of an addition budget nobody photographs is footings, steel and tie-beams, and it decides whether the seam between old and new ever shows. We tie new foundations into existing ones correctly, match stucco texture and roof profile so the addition does not announce itself from the street, and keep the occupied portion of the house sealed off, powered and livable while the new part goes up. Everything is priced off a written specification, a superintendent runs the site daily, and one team carries the job from feasibility through warranty. That is how 150-plus remodels and additions have gone out the door, all of them permitted and inspected."
+      ],
+      "scope_heading": "The addition types we build",
+      "scope_intro": "Each of these starts with an engineer and a survey rather than a rendering. They are the additions Pompano Beach homes ask for most often.",
+      "scope_items": [
+        {
+          "name": "Adding onto the rear",
+          "desc": "Great rooms and primary suites taken out to the rear setback, with new footings and the roof joint drawn as one coordinated permit set."
+        },
+        {
+          "name": "Second floors over 1960s block",
+          "desc": "Structural evaluation of the existing walls and footings first, then an upper floor with stair, framing and shear detailing designed to what the building can carry."
+        },
+        {
+          "name": "Enclosing the garage legally",
+          "desc": "Turning a garage or carport into finished living space with insulation, impact-rated openings, extended mechanicals and permits, so it counts on the appraisal."
+        },
+        {
+          "name": "In-law quarters, permitted",
+          "desc": "A separate wing with its own bath and small galley, laid out for privacy and permitted as living space instead of framed in over a long weekend."
+        },
+        {
+          "name": "What holds the addition up",
+          "desc": "Geotechnical work, new footings, columns and tie-beam upgrades, plus the special inspector reports Broward requires when piles or threshold conditions come into play."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How long from first meeting to a finished room?",
+          "a": "Front-load your patience. Design, structural and civil engineering, the geotechnical report and city plan review commonly consume several months before a footing is poured, and construction on a substantial addition runs several more. A year from first conversation to furniture is a realistic frame for a large rear wing or a second story. We put the whole timeline in writing, review phases included, so no part of the process feels like a mystery gap."
+        },
+        {
+          "q": "Will FEMA rules stop me adding on to a canal house?",
+          "a": "Rarely stop, sometimes reshape. The federal substantial improvement test weighs your construction spend against what the existing building is worth, and crossing that line means the entire building has to meet current flood requirements, which can mean raising finished floor levels or reworking enclosures below elevation. On some properties that turns an addition into a partial rebuild. Much better to learn it during feasibility than halfway through plan review, so we run the numbers early."
+        },
+        {
+          "q": "Does a second story need a brand new foundation?",
+          "a": "Not usually a new one, but it does need a verified one. An engineer evaluates the existing footings, block walls and tie-beams against the new loads, and the geotechnical report tells everyone what the soil will accept. Sometimes reinforcement, added columns or localized underpinning is enough. Now and then the arithmetic favors going out instead of up, and we would rather tell you that than sell you the more expensive job."
+        },
+        {
+          "q": "Does anyone besides the city have to approve this?",
+          "a": "Depends on the address. If your property sits in a homeowners' association, its written approval letter goes into the city package, and under current Florida law an architectural committee cannot make you hold a building permit before it will review your plans, so the two tracks can run together. Site work and drainage can pull Broward County environmental review into the picture. Trees near the footprint need a permit and a protection plan through the city's urban forestry side, with their own inspections."
+        },
+        {
+          "q": "What happens to the rest of the house while you build?",
+          "a": "We seal the addition off from the occupied house with hard partitions, keep power, water and air conditioning running on the lived-in side, and stage material where it does not block your driveway. The loud stretches are demolition, the tie-in when the existing exterior wall is opened, and roof work. Most Pompano Beach clients stay put through an addition and relocate only for the week or two around tie-in. We schedule those days with you in advance."
+        }
+      ],
+      "cta_heading": "Tell us what you need",
+      "cta_sub": "Bring the survey and the plan you have been sketching for two years. You get a feasibility read and a written number, in English o en español."
+    },
+    "outdoor-living": {
+      "title": "Outdoor Living in Pompano Beach, FL | PGX Builders Group",
+      "meta_description": "Pompano Beach backyards done properly: roofed terraces, plumbed outdoor kitchens, driveways, plus seawall and dock permitting. (786) 273-2524.",
+      "h1": "The yard is half the house",
+      "hero_sub": "Summer kitchens, covered terraces, pergolas, driveways, and seawall and dock coordination for Pompano Beach waterfront homes: permitted through the city and Broward County, engineered for wind load, and watched over daily by a licensed general contractor.",
+      "local_heading": "Waterfront exteriors, done to code",
+      "intro_paragraphs": [
+        "Pompano Beach back yards earn their keep. Houses in Harbor Village, Avalon Harbor and Garden Isles sit on wide canals with ocean access through the Hillsboro Inlet and no fixed bridge in the way, so the dock is not decoration and the boat quietly sets the scale of everything behind the house. Beachside in Hillsboro Shores and along Briny Avenue the constraints invert: salt spray, wind exposure and a rear lot line that ends sooner than anyone wants. Either way the outdoor room gets used eleven months a year, so it has to be built like one.",
+        "Exterior work in Pompano Beach pulls in more agencies than anything indoors. Docks and seawalls need a Broward County Environmental Resource General License before the city will issue, plus a city engineering permit carrying its own piling, framing and decking inspections alongside the building permit, and state or federal sign-off on some scopes. The city's tidal flood barrier rules set a minimum crown elevation of five feet NAVD88 and cap it at five feet ten inches, so the wall has a floor and a ceiling. Pergolas need product approval or sealed engineering, driveways get engineering inspections, and trees near the work need a permit and a protection plan.",
+        "We build exteriors to interior standards, because weather is a harsher inspector than the city. The gas, water and power feeding a summer kitchen get permitted and inspected, not buried under a paver and forgotten. Pergola footings are engineered for uplift and detailed at the attachment. Terraces are pitched so water leaves the house instead of collecting at the slab edge, and hardware within reach of the water is specified for salt service. Fixed scope in writing, daily supervision, and a site swept clean every evening, because the neighbors did not sign up for your project."
+      ],
+      "scope_heading": "Outdoor work we take on",
+      "scope_intro": "From a single covered terrace to a full waterfront rebuild, the pieces below get permitted and sequenced as one project instead of five unrelated trades.",
+      "scope_items": [
+        {
+          "name": "Outdoor kitchens built to last",
+          "desc": "Outdoor kitchens with permitted gas isometrics, water, drainage and dedicated circuits, plus cabinetry and counters specified for direct sun and salt air."
+        },
+        {
+          "name": "Terraces usable in June",
+          "desc": "Shade structures on engineered footings with uplift-rated connections, submitted with product approval or sealed plans and inspected at footings, columns and attachment."
+        },
+        {
+          "name": "Seawalls and docks coordinated",
+          "desc": "Marine scopes run with the county environmental license, city engineering permits and dock inspections handled, so the waterfront half is not yours to project-manage."
+        },
+        {
+          "name": "Driveways and pool decks",
+          "desc": "Pavers or finished concrete over a proper limerock base, inspected by city engineering, graded to drain and detailed at the apron where driveways usually fail first."
+        },
+        {
+          "name": "Facade, paint and sliders",
+          "desc": "Stucco patching, full recoats and repaint, plus impact sliders and doors carrying approvals matched to the design pressures on that elevation."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What does it take to permit a new dock or seawall in Pompano Beach?",
+          "a": "More paperwork than most owners expect. You need a Broward County Environmental Resource General License, a city building application from a licensed structural or marine contractor, a separate city engineering permit, a survey, signed and sealed construction plans including erosion control measures, and a special inspector form if piles are driven. Inspections arrive in two streams, building and engineering, covering piling, framing, decking and the seawall footer. State and federal approvals apply on certain scopes."
+        },
+        {
+          "q": "How high does my seawall have to be?",
+          "a": "Higher than most of the walls it is replacing. Pompano Beach requires tidal flood barriers to reach a minimum of five feet NAVD88 and stop at five feet ten inches, so you cannot simply build as tall as you like and call it resilience. Broward County's regional standard pushes the same direction countywide, stepping minimum elevations up over the coming decades. A surveyor establishes your existing crown elevation before anyone prices a repair, because that number decides whether this is a patch or a replacement."
+        },
+        {
+          "q": "Does an outdoor kitchen really need permits and inspections?",
+          "a": "Yes, and more than one. The structure takes a building permit, the gas line needs flat and isometric drawings with BTU loads, plumbing and electrical each carry their own applications and inspection sequences, and a tree near the work brings in the city's urban forestry review with a protection plan. That is a lot of process for something you will mostly use on Sundays. It is also why a properly built summer kitchen outlasts the furniture around it."
+        },
+        {
+          "q": "Does salt air make that much difference on the beach side?",
+          "a": "On Hillsboro Shores and the oceanfront blocks it is the deciding factor. Standard outdoor cabinetry swells, ordinary stainless pits, fasteners bleed rust down a freshly painted wall, and untreated hardware seizes within a season or two. We specify marine-grade stainless, coatings rated for coastal exposure, dense stone sealed correctly, and hardware chosen for the environment rather than off a price list. Skip that and you will rebuild the same terrace inside five years."
+        },
+        {
+          "q": "What drives the budget on a waterfront outdoor project?",
+          "a": "Utilities and structure, roughly in that order. A paver terrace and a covered outdoor room with gas, water, power and a finished ceiling are two different projects, and anything touching the water adds marine access, engineering and county licensing. Appliance and stone selections then move the total as much as area does. We price against a written specification after a site walk, so what you are comparing is a real build, not a rate card."
+        }
+      ],
+      "cta_heading": "Scope the backyard with us",
+      "cta_sub": "Walk us out back and tell us how you actually use it. A written scope and an honest schedule follow, in English o en español."
+    }
+  }
+}

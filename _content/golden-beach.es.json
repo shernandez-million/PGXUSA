@@ -15,7 +15,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación integral de casas en Golden Beach | PGX Builders",
-      "meta_description": "Remodelación integral en Golden Beach, FL con un contratista que domina la revisión del Town, el código HVHZ y las reglas de inundación. Llame al (786) 273-2524.",
+      "meta_description": "Remodelación integral en Golden Beach, FL con un contratista que domina la revisión del Town, el HVHZ y la inundación. (786) 273-2524.",
       "h1": "Remodelación total, del otro lado de la garita",
       "hero_sub": "PGX Builders Group lleva las casas de Golden Beach hasta su buena estructura y las reconstruye: permisos tramitados con el Town, ingeniería para la High-Velocity Hurricane Zone y supervisión diaria bajo la licencia CGC1539072.",
       "local_heading": "Una milla de A1A con la vara más alta",
@@ -28,23 +28,23 @@
       "scope_intro": "Trabajo integral para casas entre el mar y el Intracoastal, de la cirugía estructural a la última mano de pintura, bajo un solo contrato y un solo constructor responsable.",
       "scope_items": [
         {
-          "name": "Renovación interior total",
+          "name": "Vaciado hasta el bloque",
           "desc": "Demolición interior hasta el bloque, distribuciones repensadas y sistemas reconstruidos para casas de mediados de siglo en Golden Beach que merecen más que otro retoque cosmético."
         },
         {
-          "name": "Aperturas estructurales",
+          "name": "Paredes de carga abiertas al agua",
           "desc": "Paredes de carga removidas para abrir vistas al mar o al Intracoastal, con vigas calculadas por un ingeniero, con permiso e inspección, en lugar de adivinadas."
         },
         {
-          "name": "Reemplazo total de instalaciones",
+          "name": "Instalaciones nuevas contra el salitre",
           "desc": "Servicio eléctrico nuevo, plomería renovada por completo y aire acondicionado moderno, diseñados para el salitre, la humedad y una casa que recibe invitados en serio."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Cristalería de impacto con NOAs",
           "desc": "Cristalería de piso a techo con NOAs de Miami-Dade, instalada con los anclajes y botaguas que los inspectores de la HVHZ realmente revisan."
         },
         {
-          "name": "Acabados y carpintería fina",
+          "name": "Piedra y carpintería, al final",
           "desc": "Piedra, pisos de tablón ancho y carpintería a medida instalados al final, protegidos a diario y repasados en la lista de detalles antes de devolverle las llaves."
         }
       ],
@@ -75,7 +75,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Golden Beach, FL | PGX Builders",
-      "meta_description": "Remodelación de cocinas a medida en Golden Beach: gabinetes, piedra y cambios de distribución, con permisos del Town y supervisión diaria. Llame al (786) 273-2524.",
+      "meta_description": "Cocinas a medida en Golden Beach: gabinetes, piedra y cambios de distribución, con permisos del Town y supervisión. (786) 273-2524.",
       "h1": "Cocinas a la altura de Ocean Boulevard",
       "hero_sub": "Gabinetes a medida, topes de piedra y cambios completos de distribución para cocinas de Golden Beach, con permisos del Town, supervisión cada día laborable y la entrega de un contratista general licenciado y asegurado, Lic. CGC1539072.",
       "local_heading": "El cuarto que recibe a un pueblo entero",
@@ -88,23 +88,23 @@
       "scope_intro": "De la reconstrucción total de la cocina a mejoras precisas de gabinetes y piedra, con alcance por escrito y permisos a través del Town of Golden Beach.",
       "scope_items": [
         {
-          "name": "Gabinetes a medida",
+          "name": "Gabinetes hechos para el salitre",
           "desc": "Paquetes de gabinetes con calidad de mueble fino en materiales estables para la costa, con interiores, herrajes y electrodomésticos panelados definidos en planos de taller antes de demoler nada."
         },
         {
-          "name": "Topes e islas de piedra",
+          "name": "Vetas en espejo, cantos en cascada",
           "desc": "Láminas con vetas casadas en espejo, cantos en cascada e islas dimensionadas para sentar a toda la familia, plantilladas en sitio para que las juntas caigan donde las planeamos."
         },
         {
-          "name": "Cambios de distribución",
+          "name": "Cocina girada hacia el agua",
           "desc": "Las paredes de la cocina de pasillo caen y el espacio gira hacia la piscina o el Intracoastal, con las cargas estructurales calculadas y los permisos en regla."
         },
         {
-          "name": "Reubicación de equipos y gas",
+          "name": "Estufas y líneas de gas reubicadas",
           "desc": "Estufas, hornos de pared y cavas de vino reubicados a donde realmente se cocina, con extracción, líneas de gas y circuitos llevados al código vigente."
         },
         {
-          "name": "Diseño de iluminación",
+          "name": "Luz en capas con atenuación real",
           "desc": "Iluminación de tarea, ambiental y de acento con atenuación de verdad, porque el cuarto que más trabaja en la casa no debería alumbrarse como una oficina."
         }
       ],
@@ -135,7 +135,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños en Golden Beach, Miami | PGX Builders",
-      "meta_description": "Remodelación de baños en Golden Beach, FL con impermeabilización seria, trabajo en piedra y plomería con permisos del Town. Agende un recorrido al (786) 273-2524.",
+      "meta_description": "Remodelación de baños en Golden Beach, FL con impermeabilización seria, trabajo en piedra y plomería con permisos del Town. (786) 273-2524.",
       "h1": "Baños que se ríen del salitre",
       "hero_sub": "Suites principales, duchas sin marco y baños de piedra para casas de Golden Beach, impermeabilizados como si el mar estuviera a una cuadra, porque lo está. Con permisos, inspecciones y supervisión diaria bajo la Lic. CGC1539072.",
       "local_heading": "Baños construidos a una cuadra del Atlántico",
@@ -148,19 +148,19 @@
       "scope_intro": "Suites principales y baños secundarios reconstruidos desde la losa, con los detalles de las zonas húmedas resueltos con el mismo cuidado que las partes bonitas.",
       "scope_items": [
         {
-          "name": "Conversión a suite principal",
+          "name": "Baño y clóset en una suite",
           "desc": "Baños y clósets estrechos y divididos unidos en una sola suite con circulación real, tocador doble y almacenamiento que acaba con el desorden sobre el tope."
         },
         {
-          "name": "Duchas de vidrio sin marco",
+          "name": "Duchas con prueba de inundación",
           "desc": "Entradas sin bordillo, desagües lineales y mamparas pesadas sin marco sobre sistemas de membrana que probamos con inundación antes del porcelanato, siempre, sin excepciones."
         },
         {
-          "name": "Bañeras independientes",
+          "name": "Bañeras esculturales frente a la vista",
           "desc": "Bañeras esculturales ubicadas para la vista, con llenadores montados al piso y líneas de suministro redirigidas por la losa correctamente y con inspección."
         },
         {
-          "name": "Piedra y porcelanato",
+          "name": "Mármol en lámina completa",
           "desc": "Paredes de lámina completa, mármol con vetas casadas en espejo y porcelanato de gran formato asentado plano y parejo, sellado y especificado para baños costeros húmedos."
         },
         {
@@ -208,11 +208,11 @@
       "scope_intro": "Ampliaciones estructurales para un pueblo en isla barrera, de la extensión de un solo ambiente al segundo piso completo, diseñadas alrededor del viento, el agua y la vida de su familia.",
       "scope_items": [
         {
-          "name": "Extensiones traseras",
+          "name": "Ambientes extendidos hacia el muelle",
           "desc": "Salas familiares y cocinas extendidas hacia la piscina o el muelle, con cimientos nuevos anclados con varillas a los existentes y transiciones de techo resueltas con limpieza."
         },
         {
-          "name": "Segundos pisos",
+          "name": "Segundos pisos con vista al agua",
           "desc": "Plantas altas calculadas sobre vigas de amarre y columnas reforzadas, que suman habitaciones y vistas al Intracoastal o al mar sin sacrificar patio."
         },
         {
@@ -255,7 +255,7 @@
     },
     "outdoor-living": {
       "title": "Terrazas y cocinas de verano en Golden Beach | PGX Builders",
-      "meta_description": "Construcción de exteriores en Golden Beach: terrazas, cocinas de verano, pérgolas y entradas en materiales a prueba de salitre, todo con permisos. (786) 273-2524.",
+      "meta_description": "Exteriores en Golden Beach: terrazas, cocinas de verano, pérgolas y entradas en materiales a prueba de salitre, con permisos. (786) 273-2524.",
       "h1": "Espacios exteriores entre el mar y el Intracoastal",
       "hero_sub": "Terrazas, cocinas de verano, pérgolas y patios vehiculares para casas de Golden Beach, construidos con materiales que ignoran el rocío salino, con permisos del Town y terminados bajo la supervisión diaria de un contratista general licenciado, CGC1539072.",
       "local_heading": "Vida al aire libre con playa privada",
@@ -272,11 +272,11 @@
           "desc": "Estructuras de sombra calculadas para cargas de viento costeras, con techos machihembrados, ventiladores e iluminación ubicada para veladas que se alargan."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocinas de verano en acero marino",
           "desc": "Parrillas y equipos de grado marino, topes de piedra y gas, agua y electricidad bien tendidos, con permisos e inspecciones igual que la cocina interior."
         },
         {
-          "name": "Pérgolas y estructuras de sombra",
+          "name": "Pérgolas que enmarcan el muelle",
           "desc": "Estructuras ancladas y certificadas para viento, en materiales resistentes a la corrosión, diseñadas para enmarcar la piscina o el muelle en lugar de pelear con la arquitectura."
         },
         {

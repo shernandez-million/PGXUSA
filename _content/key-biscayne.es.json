@@ -28,23 +28,23 @@
       "scope_intro": "Cada remodelación en Key Biscayne se define por escrito antes de empezar la obra. Estas son las intervenciones que más repetimos en la isla.",
       "scope_items": [
         {
-          "name": "Renovaciones totales",
+          "name": "Vaciado total de casas Mackle",
           "desc": "Llevamos una casa de bloque de los años 50 hasta la estructura y reconstruimos el interior alrededor de cómo vive de verdad su familia en la isla."
         },
         {
-          "name": "Distribución y cambios estructurales",
+          "name": "Vigas donde estaban las paredes",
           "desc": "Eliminamos paredes, colocamos vigas y abrimos plantas cerradas — todo calculado por ingeniería, con permisos del Village e inspecciones en cada etapa."
         },
         {
-          "name": "Instalaciones completamente nuevas",
+          "name": "Instalaciones nuevas para la humedad isleña",
           "desc": "Electricidad, plomería y aire acondicionado de alta eficiencia dimensionado para la humedad de la isla, en reemplazo de sistemas más viejos que casi todos los semáforos de Crandon Boulevard."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Aberturas de impacto aprobadas por Miami-Dade",
           "desc": "Aberturas certificadas para zona de huracanes con aprobaciones de producto de Miami-Dade, instaladas con los anclajes y sellos que aquí importan más que en casi cualquier otro lugar."
         },
         {
-          "name": "Acabados y carpintería fina",
+          "name": "Carpintería que resiste el salitre",
           "desc": "Piedra, azulejos, carpintería a medida y pintura especificadas para resistir el salitre, instaladas bajo supervisión diaria para que los detalles queden como deben."
         }
       ],
@@ -75,7 +75,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Key Biscayne, FL | PGX Builders",
-      "meta_description": "Cocinas a medida para casas y condominios de Key Biscayne: gabinetes, piedra y la logística de isla resuelta. Obra con permisos y supervisión diaria. (786) 273-2524.",
+      "meta_description": "Cocinas a medida para casas y condominios de Key Biscayne: gabinetes, piedra y la logística de isla resuelta, con permisos. (786) 273-2524.",
       "h1": "Cocinas hechas para la vida en la isla",
       "hero_sub": "De las cocinas tipo galera de la era Mackle a las renovaciones de condominio en Ocean Club, PGX diseña y construye cocinas a medida en todo Key Biscayne — con permisos del Village, aprobación de la asociación donde aplica y supervisión diaria de un contratista general licenciado.",
       "local_heading": "Dos tipos de cocina en Key Biscayne",
@@ -88,23 +88,23 @@
       "scope_intro": "De una galera de condominio en una sola pared a una cocina de residencia con antecocina, cada partida queda por escrito antes del día de demolición.",
       "scope_items": [
         {
-          "name": "Gabinetes a medida",
+          "name": "Gabinetes hechos para la humedad costera",
           "desc": "Cajas, puertas y paneles fabricados por encargo, en acabados elegidos para la humedad costera — no gabinetes de línea con sobreprecio y nombre nuevo."
         },
         {
-          "name": "Topes de piedra e islas",
+          "name": "Islas de cuarcita, plantilladas en obra",
           "desc": "Láminas de cuarcita, mármol y porcelanato con plantillas tomadas en obra, e islas con espacio para sentar a toda la familia después de una mañana de playa."
         },
         {
-          "name": "Reubicación de electrodomésticos",
+          "name": "Electrodomésticos con permiso y ventilación",
           "desc": "Estufa, hornos y refrigeración reposicionados según el nuevo plano, con cada tendido — electricidad, plomería, ventilación — con su permiso y su inspección aprobada."
         },
         {
-          "name": "Diseño de iluminación",
+          "name": "Capas de luz contra el resplandor",
           "desc": "Capas de luz regulables — sobre los topes, en el ambiente, sobre los detalles — para una cocina que enfrenta el resplandor del Atlántico de día."
         },
         {
-          "name": "Cocinas en condominio",
+          "name": "Cocinas en las torres de la isla",
           "desc": "Renovaciones completas hasta la losa en Key Colony, Ocean Club y las demás torres de la isla, gestionadas según las reglas de la asociación desde la aprobación hasta la inspección final."
         }
       ],
@@ -135,7 +135,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños en Key Biscayne, Florida | PGX Builders",
-      "meta_description": "Baños principales y duchas renovados en Key Biscayne — impermeabilización a la altura de la humedad de la isla y aprobaciones de condominio resueltas. (786) 273-2524.",
+      "meta_description": "Baños principales y duchas renovados en Key Biscayne, con impermeabilización a la altura de la humedad de la isla. (786) 273-2524.",
       "h1": "Baños que se toman la humedad en serio",
       "hero_sub": "PGX remodela suites principales y baños de visita en todo Key Biscayne — vidrio sin marco, piedra, bañeras independientes — con permisos del Village, aprobaciones de asociación en las torres y una impermeabilización por la que apostaríamos la licencia.",
       "local_heading": "A nivel del mar, la impermeabilización manda",
@@ -148,23 +148,23 @@
       "scope_intro": "Cinco maneras en que los dueños de Key Biscayne reconstruyen sus baños — cada una con permisos, prueba de inundación y acabados bajo supervisión diaria.",
       "scope_items": [
         {
-          "name": "Conversión a suite principal",
+          "name": "De cuarto libre a suite principal",
           "desc": "Convertimos un dormitorio libre o un clóset sobredimensionado en un baño principal de verdad, con la obra estructural y de plomería con todos sus permisos."
         },
         {
-          "name": "Duchas de vidrio sin marco",
+          "name": "Duchas que retienen el agua",
           "desc": "Entradas sin bordillo, drenajes lineales y vidrio grueso montado sobre platos bien inclinados y probados contra fugas — los detalles que mantienen el agua donde debe estar."
         },
         {
-          "name": "Bañeras independientes",
+          "name": "Bañeras exentas con llenador de piso",
           "desc": "Bañeras esculturales contra piedra o vidrio, con llenadores de piso posicionados con precisión desde la obra gruesa, para que nadie adivine dónde cae la válvula."
         },
         {
-          "name": "Piedra y porcelanato",
+          "name": "Piedra sobre impermeabilización completa",
           "desc": "Porcelanato, mármol y mosaico instalados sobre sistemas completos de impermeabilización, con despieces planificados de losa a techo antes del primer corte."
         },
         {
-          "name": "Baños en condominio",
+          "name": "Baños coordinados con el corte de agua",
           "desc": "Renovaciones completas en las torres de la isla, coordinadas con aprobaciones de la asociación, cortes de agua y horarios de ascensor para que los vecinos apenas lo noten."
         }
       ],
@@ -195,7 +195,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones y segundos pisos en Key Biscayne | PGX Builders",
-      "meta_description": "Ampliaciones y segundas plantas en Key Biscayne, calculadas según las reglas de inundación de FEMA y los permisos del Village. PGX Builders Group — (786) 273-2524.",
+      "meta_description": "Ampliaciones y segundas plantas en Key Biscayne, según las reglas de inundación de FEMA y los permisos del Village. (786) 273-2524.",
       "h1": "Más casa sin salir de la isla",
       "hero_sub": "PGX diseña y construye extensiones traseras, segundas plantas y conversiones de garaje en todo Key Biscayne — calculadas para la zona de inundación, tramitadas ante el Village y entregadas por un solo equipo licenciado responsable, del estimado a la garantía.",
       "local_heading": "Ampliar donde el terreno se acabó",
@@ -208,15 +208,15 @@
       "scope_intro": "Toda ampliación empieza con la zonificación y los números de inundación, sigue con la ingeniería y termina en la arquitectura. Esto construimos cuando las cuentas dan.",
       "scope_items": [
         {
-          "name": "Segundas plantas",
+          "name": "Segundas plantas sobre casas de bloque",
           "desc": "Agregamos un piso completo sobre una casa de bloque de una planta — cimientos verificados, estructura calculada y la huella duplicada sin tocar el lindero."
         },
         {
-          "name": "Extensiones traseras",
+          "name": "Hacia atrás, a la cota exigida",
           "desc": "Extendemos el área habitable hacia el patio con cimientos nuevos a la cota exigida, amarrando techo y estructura limpiamente a la casa original."
         },
         {
-          "name": "Conversión de garajes y suites",
+          "name": "Garajes convertidos en suites",
           "desc": "Convertimos garajes y construimos suites independientes para la familia de visita larga, con la revisión de zonificación y los permisos resueltos antes de mover una pared."
         },
         {
@@ -224,7 +224,7 @@
           "desc": "Reforzamos la estructura existente para cargar pesos nuevos y cumplir con la High-Velocity Hurricane Zone — el trabajo sin glamour que mantiene todo lo demás en pie."
         },
         {
-          "name": "Obras de cimentación",
+          "name": "Zapatas para el suelo de la isla",
           "desc": "Zapatas y muros de arranque nuevos, diseñados para el suelo de la isla y las cotas de elevación contra inundaciones, inspeccionados en cada vaciado."
         }
       ],
@@ -255,37 +255,36 @@
     },
     "outdoor-living": {
       "title": "Terrazas y cocinas de exterior en Key Biscayne | PGX Builders",
-      "meta_description": "Terrazas, cocinas de verano y pérgolas hechas para el salitre y el código de huracanes de Key Biscayne. Contratista licenciado y obra con permisos. (786) 273-2524.",
+      "meta_description": "Terrazas, cocinas de verano y pérgolas para el salitre y el código de huracanes de Key Biscayne. Obra con permisos. (786) 273-2524.",
       "h1": "Si vive aquí, es por el patio",
       "hero_sub": "PGX construye terrazas, cocinas de verano, pérgolas y renovaciones exteriores completas en todo Key Biscayne — especificadas contra el salitre, calculadas para el código de huracanes y ejecutadas por un contratista general licenciado con cada permiso del Village en mano.",
       "local_heading": "Para el salitre, el sol y la tormenta de turno",
       "intro_paragraphs": [
         "Nadie se muda a Key Biscayne por los interiores. La vida aquí transcurre afuera: hacia la piscina, el seawall, el muelle, la terraza con sombra donde se cena diez meses al año. Por eso los dueños del corazón del village están reemplazando los patios genéricos de constructora por verdaderos cuartos exteriores, y las casas frente al mar de Harbor Point a Cape Florida suman cocinas de verano, pérgolas y terrazas a escala de recepciones de verdad. El detalle es que el anfitrión es el ambiente: el salitre corroe la herrería estándar en una o dos temporadas, así que todo lo que especificamos — tornillería, estructura, electrodomésticos, acabados — se elige para una isla de barrera, no para un catálogo.",
-        "Un proyecto exterior sigue siendo un proyecto con permisos. El Building, Zoning and Planning Department del Village of Key Biscayne revisa estructuras, electricidad, plomería y líneas de gas igual que revisa la obra interior, y las reglas de zonificación sobre retiros y cobertura del lote también aplican en el patio. Todo lo que tenga techo o estructura — pérgolas, celosías, terrazas cubiertas — debe calcularse para la High-Velocity Hurricane Zone, con anclajes diseñados contra el levantamiento y no confiados al optimismo. En una isla baja, además, tratamos el drenaje como un tema de diseño: cotas y pendientes de terraza planificadas para que una marea extrema (king tide) o un aguacero de verano drene lejos de la casa, no hacia adentro."
-        ,
+        "Un proyecto exterior sigue siendo un proyecto con permisos. El Building, Zoning and Planning Department del Village of Key Biscayne revisa estructuras, electricidad, plomería y líneas de gas igual que revisa la obra interior, y las reglas de zonificación sobre retiros y cobertura del lote también aplican en el patio. Todo lo que tenga techo o estructura — pérgolas, celosías, terrazas cubiertas — debe calcularse para la High-Velocity Hurricane Zone, con anclajes diseñados contra el levantamiento y no confiados al optimismo. En una isla baja, además, tratamos el drenaje como un tema de diseño: cotas y pendientes de terraza planificadas para que una marea extrema (king tide) o un aguacero de verano drene lejos de la casa, no hacia adentro.",
         "PGX aborda los exteriores como un solo paquete coordinado, no como cinco oficios sueltos. Terrazas, estuco y pintura, aberturas de impacto, coordinación del techo nuevo y la cocina de verano avanzan con un solo cronograma, bajo un solo alcance por escrito y con un supervisor en obra todos los días, para que su driveway no sea un patio de acopio durante meses. Llevamos más de 20 años construyendo en el sur de la Florida, y en una isla chica donde todos se conocen, mantenemos las obras limpias, silenciosas y terminadas en el plazo que dejamos por escrito. Cuando sale el último palet, el patio debe verse como en los renders — menos la gente de los renders."
       ],
       "scope_heading": "Obra exterior, un solo alcance responsable",
       "scope_intro": "De la terraza bajo sus pies al techo sobre la cocina de verano, esta es la obra exterior que construimos en el Key.",
       "scope_items": [
         {
-          "name": "Terrazas y decks de piscina",
+          "name": "Terrazas sobre un drenaje real",
           "desc": "Terrazas de piedra y adoquín de porcelanato montadas sobre un drenaje bien resuelto, con cotas planificadas para una isla donde el agua siempre encuentra el punto bajo."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocina de verano contra el salitre",
           "desc": "Parrillas de grado marino, refrigeración y gabinetes, con gas, electricidad y plomería con permisos e inspecciones — construidas para cocinar contra el salitre durante años."
         },
         {
-          "name": "Pérgolas y estructuras de sombra",
+          "name": "Pérgolas ancladas contra el levantamiento",
           "desc": "Pérgolas calculadas por ingeniería y terrazas cubiertas ancladas contra el levantamiento de la zona de huracanes, porque una sombra que se va en la tormenta nunca fue suya."
         },
         {
-          "name": "Driveways y caminería",
+          "name": "Caminería que mejora la llegada",
           "desc": "Driveways, senderos y muros de jardín nuevos que elevan la llegada a la casa, coordinados con los permisos del Village y las normas de asociación de su calle."
         },
         {
-          "name": "Renovación de la envolvente exterior",
+          "name": "Todo el exterior, una sola secuencia",
           "desc": "Reparación de estuco y pintura, ventanas y puertas de impacto y coordinación del techo nuevo, secuenciadas para que todo el exterior termine como un solo proyecto."
         }
       ],

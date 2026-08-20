@@ -1,0 +1,320 @@
+{
+  "area_slug": "southwest-ranches",
+  "neighborhoods": [
+    "Sunshine Ranches",
+    "Rolling Oaks",
+    "Green Meadows",
+    "Country Estates",
+    "Ivanhoe Estates",
+    "Landmark Ranch Estates",
+    "Sterling Ranch Estates",
+    "Santa Fe Estates",
+    "Stone Creek at Sunshine Ranches",
+    "Akai Estates",
+    "Holatee Trail",
+    "Appaloosa Trail",
+    "Melaleuca Road"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral de casas en Southwest Ranches | PGX Builders",
+      "meta_description": "Remodelación integral en Southwest Ranches, FL: fincas de un acre con pozo y séptico, renovadas de punta a punta y con permisos del Town. (786) 273-2524.",
+      "h1": "Casas de rancho, reconstruidas desde la estructura",
+      "hero_sub": "Remodelaciones totales para las fincas de Southwest Ranches: cambios de distribución, instalaciones nuevas y vidrio de impacto HVHZ. Con permisos del Town, inspecciones en cada etapa y la supervisión diaria de un contratista general licenciado del sur de la Florida, Lic. CGC1539072.",
+      "local_heading": "Donde termina el asfalto, empieza el acre",
+      "intro_paragraphs": [
+        "Southwest Ranches son trece millas cuadradas de parcelas de un acre para arriba que en el año 2000 votaron por constituirse en pueblo antes que dejarse absorber por el vecino. Las casas siguen esa misma lógica: ranchos largos y bajos de los años setenta y ochenta en Sunshine Ranches y Green Meadows, y residencias a medida levantadas desde los noventa a lo largo de Holatee Trail, Appaloosa Trail y dentro de Landmark Ranch Estates. Lo que piden los dueños de por aquí no es achicar la huella. Es una remodelación integral que abra la planta, reemplace instalaciones de cuarenta años y por fin ponga la casa a la altura del terreno que la rodea.",
+        "Todo se tramita ante el Town of Southwest Ranches, cuya división de construcción funciona en el Town Hall de Griffin Road, maneja la revisión de planos y las inspecciones por contrato, y recibe cada radicación de forma electrónica. Dos cosas sorprenden a quien llega desde Miami-Dade. El Broward County Board of Rules and Appeals adopta las enmiendas del condado al Florida Building Code y certifica a los funcionarios que van a revisar e inspeccionar su obra. Y Broward también está dentro de la High-Velocity Hurricane Zone, así que cada ventana, cada puerta y cada ensamble de techo necesita una aprobación de producto HVHZ. Las parcelas con pozo y sistema séptico suman además al Florida Department of Health in Broward County.",
+        "Remodelar sobre un acre es tanto un problema de logística como de construcción. Las cuadrillas entran por un camino privado largo, el material se acopia donde no destroce la cuneta de drenaje ni bloquee el sendero del derecho de vía, y la obra se mantiene ordenada porque cada vecino la ve completa. El alcance se acuerda por escrito y se cotiza antes de demoler nada, un mismo supervisor dirige la obra todos los días que está abierta, y el mismo equipo responde por ella del estimado a la garantía. Más de 20 años en el sur de la Florida, más de 150 remodelaciones y ampliaciones entregadas, todas con permisos e inspecciones."
+      ],
+      "scope_heading": "El alcance de una casa completa aquí",
+      "scope_intro": "El alcance queda definido en papel antes de que una cuadrilla llegue a la entrada. Abajo está el trabajo que normalmente carga una remodelación integral sobre un acre de Ranches.",
+      "scope_items": [
+        {
+          "name": "Abrir la planta del rancho",
+          "desc": "Tumbar las paredes entre la cocina, el family room y el Florida room, con vigas de ingeniería y cálculos sellados para que un muro de carga de los años setenta se retire sin escándalo."
+        },
+        {
+          "name": "Servicio, paneles y generador",
+          "desc": "Mejora del servicio eléctrico, paneles nuevos y los cálculos de carga que exige un generador de respaldo para toda la casa en una propiedad donde la luz puede tardar en volver."
+        },
+        {
+          "name": "Agua de pozo bien tratada",
+          "desc": "Filtración, ablandamiento y tratamiento de hierro para toda la casa, dimensionados a su pozo, porque el agua dura arruina griferías, vidrios y piedra nueva más rápido que cualquier otra cosa."
+        },
+        {
+          "name": "Ventanas y puertas HVHZ",
+          "desc": "Vidrio de impacto y puertas exteriores con aprobaciones de la High-Velocity Hurricane Zone, instalados con el detalle de anclaje que el inspector de Broward de verdad revisa."
+        },
+        {
+          "name": "Plomería, drenajes y carga séptica",
+          "desc": "Líneas nuevas de suministro y drenaje en toda la casa, más una lectura honesta de si los aparatos sanitarios adicionales empujan su sistema séptico más allá de lo que tiene permitido."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Quién emite el permiso de construcción para remodelar en Southwest Ranches?",
+          "a": "El Town of Southwest Ranches, a través de su división de permisos e inspecciones de construcción en el Town Hall de Griffin Road, con la revisión de planos y las inspecciones prestadas por contrato por CAP Government. Las solicitudes y los planos se radican de forma electrónica, y el pueblo además usa el esquema de E-Permits del Condado de Broward, así que las aprobaciones del condado avanzan al lado del permiso municipal y no detrás de él. Nosotros armamos y radicamos el expediente completo, y después perseguimos las correcciones."
+        },
+        {
+          "q": "¿Cómo revisa mis planos el Board of Rules and Appeals del condado?",
+          "a": "No los revisa, y esa confusión es común. El Broward County Board of Rules and Appeals es el organismo que administra el código en todo el condado: adopta las enmiendas de Broward al Florida Building Code, certifica a los building officials, revisores de planos e inspectores que trabajan en el condado, emite interpretaciones formales del código y atiende las apelaciones a la decisión de un funcionario. En la práctica define lo que su revisor espera ver, y es una de las diferencias reales entre construir en Broward y construir en Miami-Dade."
+        },
+        {
+          "q": "Mi casa tiene pozo y séptico. ¿Eso cambia una remodelación integral?",
+          "a": "Cambia el orden y las preguntas. Casi todo Southwest Ranches se abastece con pozos privados y sistemas sépticos en sitio, no con acueducto y alcantarillado, así que antes de diseñar baños nuevos o una cocina más grande revisamos el permiso séptico existente, el campo de drenaje y su área de reserva, y la ubicación del pozo. Agregar aparatos sanitarios puede exigir un permiso de modificación ante el Florida Department of Health in Broward County. El tratamiento de agua se especifica después, según lo que su pozo realmente produce."
+        },
+        {
+          "q": "¿Cuánto tarda una remodelación integral por acá?",
+          "a": "Piense en trimestres, no en semanas. Primero van el diseño y la ingeniería, después la revisión del pueblo; la propia guía del Town ubica la respuesta a un permiso de construcción residencial en una ventana de quince a treinta días hábiles, y cada corrección suma ciclos. La construcción de una residencia grande de una sola planta comúnmente corre de seis meses a un año, más si además se cambia el techo o se mueve el séptico. El cronograma va por escrito junto con el estimado, y hay alguien en obra que responde por él."
+        },
+        {
+          "q": "¿Cuánto deberíamos separar para una remodelación completa?",
+          "a": "Los pies cuadrados son el primer golpe: desmantelar un rancho de 6,000 pies cuadrados cuesta más que uno pequeño, y los recorridos de instalaciones son mucho más largos. De ahí en adelante el número depende de sus selecciones y de lo que la casa esté escondiendo. Lo definimos por escrito, con partidas y asignaciones reales, en lugar de una cifra gancho llena de ilusión. PGX compite en certeza y en calidad de acabados, no en ser la oferta más baja, y lo decimos antes de que usted gaste en planos."
+        }
+      ],
+      "cta_heading": "Recorramos la propiedad juntos",
+      "cta_sub": "Traiga el levantamiento topográfico, el permiso del séptico si lo tiene y la lista de deseos. Se va con un alcance real y un número real, en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Remodelación de cocinas en Southwest Ranches, FL | PGX Builders",
+      "meta_description": "Cocinas a medida en Southwest Ranches, FL: gabinetes a la orden, piedra, propano y tratamiento del agua de pozo, con permisos. (786) 273-2524.",
+      "h1": "Una cocina a la escala de la propiedad",
+      "hero_sub": "Gabinetes a medida, topes de piedra y cambios de distribución de verdad para las cocinas de Southwest Ranches, incluidos el tratamiento del agua de pozo y el trabajo de propano que nadie menciona. Con permisos del Town y la supervisión diaria de un contratista general licenciado.",
+      "local_heading": "La cocina al final del camino de entrada",
+      "intro_paragraphs": [
+        "Las cocinas de las residencias de Southwest Ranches se dibujaron para otra vida. Los ranchos de los años setenta y ochenta de Green Meadows, Country Estates y Rolling Oaks traían una cocina angosta escondida detrás de una pared, un solo horno empotrado y una despensa del tamaño de un clóset de abrigos, dentro de una casa hecha claramente para recibir gente. Por eso los proyectos aquí salen grandes: absorber el estudio contiguo, montar una isla larga, agregar una cocina de apoyo y un segundo lavavajillas, y construir el almacenamiento en frío que de verdad necesita una familia que hace mercado una vez por semana.",
+        "Aquí nada queda exento: plomería, gas, electricidad y casi siempre estructura significan un permiso del Town of Southwest Ranches e inspecciones en el camino, radicado de forma electrónica como todo lo demás por acá. El trabajo puramente interior se salta la revisión de site plan; mueva una pared exterior o abra una ventana y zonificación opina primero. Dos particularidades locales: toda abertura nueva necesita una aprobación de producto de la High-Velocity Hurricane Zone, porque Broward está en la HVHZ igual que Miami-Dade, y sumar un segundo lavavajillas o un triturador en una propiedad con séptico amerita revisar la capacidad permitida del sistema.",
+        "A los paquetes de gabinetes y a las planchas de piedra no les hace ninguna gracia una milla de carretera de dos carriles y una entrada de grava, así que la entrega y el acopio se planifican como parte de la obra. La piedra se plantilla después de instalar los gabinetes, nunca antes. Las selecciones quedan amarradas a un alcance fijo por escrito, hay un supervisor en obra todos los días, y el resto de la casa se mantiene sellado y limpio mientras la cocina está abierta. Licenciados y asegurados bajo la Lic. CGC1539072, con más de 150 remodelaciones y ampliaciones entregadas en el sur de la Florida, todas con permisos."
+      ],
+      "scope_heading": "Una cocina de Ranches, partida por partida",
+      "scope_intro": "Cada línea se dibuja y se cotiza antes de que un gabinete se despegue de la pared. Estos son los renglones que más aparecen en las cocinas de las fincas al oeste de Flamingo Road.",
+      "scope_items": [
+        {
+          "name": "Gabinetes hechos a la medida",
+          "desc": "Hileras de gabinetes fabricadas a la orden y acabadas para la humedad de la Florida, dimensionadas a las paredes y a la altura de techo que usted realmente tiene, no partidas en cajas de catálogo."
+        },
+        {
+          "name": "Islas calculadas para la piedra",
+          "desc": "Cuarcita, mármol o granito plantillados en sitio, sobre una estructura construida para el peso de la plancha y para voladizos donde la gente se va a sentar de verdad."
+        },
+        {
+          "name": "Pared afuera, viga adentro",
+          "desc": "Eliminar la pared entre la cocina y la sala, con la viga, las columnas y la ingeniería sellada que el Town querrá ver antes de que empiece la demolición."
+        },
+        {
+          "name": "Propano, campanas y extracción",
+          "desc": "Estufas alimentadas desde un tanque de propano enterrado donde no llega la red de gas, con aire de reposición y ductos de campana dimensionados de verdad y no de manera simbólica."
+        },
+        {
+          "name": "Agua que se puede tomar",
+          "desc": "Filtración, ablandamiento y ósmosis inversa en el fregadero y en la máquina de hielo, porque el agua de pozo y un tope de piedra nuevo no son aliados naturales."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Hace falta permiso para una cocina por acá?",
+          "a": "Para cualquier cosa más allá de pintura y cambio de electrodomésticos, sí. Mover plomería, agregar circuitos, correr una línea de gas o de propano, o tumbar una pared exigen permiso del Town e inspecciones antes de cerrar nada. Las solicitudes entran de forma electrónica. El trabajo de cocina sin permisos tiene la costumbre de salir a la luz durante una venta o una inspección de seguros, y legalizarlo después cuesta más que hacerlo bien una sola vez."
+        },
+        {
+          "q": "Estamos con pozo. ¿El agua va a dañar la cocina nueva?",
+          "a": "El agua de pozo sin tratar deja su marca sin falta: manchas de hierro en un fregadero de granja, sarro en la grifería y en la máquina de hielo, una película opaca sobre el mármol y el vidrio. Tiene arreglo y conviene resolverlo antes de que entren los acabados. Especificamos filtración y ablandamiento para toda la casa, dimensionados a su pozo, más ósmosis inversa en el punto de uso para tomar y para el hielo. Buena agua es la manera más barata de proteger una cocina cara."
+        },
+        {
+          "q": "¿Puedo tener estufa de gas si no llega una línea a la casa?",
+          "a": "Casi siempre sí, con propano. Muchas propiedades de Southwest Ranches quedan lejos de una red de gas natural, así que la respuesta es un tanque enterrado o disimulado que alimenta la estufa, la placa de cocción y a veces el calentador de la piscina y el generador. La ubicación del tanque tiene reglas de retiro, la línea lleva permiso y prueba de presión, y la campana y el aire de reposición se dimensionan según la potencia de los quemadores, no según la fotografía."
+        },
+        {
+          "q": "¿Cuánto va a tardar una cocina a medida?",
+          "a": "La ebanistería marca el reloj. Un paquete hecho a la orden pasa meses en fabricación, y por eso lo ordenamos temprano y ajustamos la demolición a la fecha de entrega, en vez de dejarlo sin cocina mientras una fábrica se pone al día. El trabajo en sitio suele tomar un par de meses, más cuando hay una pared de carga o una línea nueva de propano de por medio. Los permisos suman semanas al arranque, y eso ya viene contemplado en el cronograma escrito."
+        },
+        {
+          "q": "¿En qué se va el presupuesto de una cocina en Ranches?",
+          "a": "Ebanistería, piedra y electrodomésticos mandan, y las cocinas de por acá tienden a ser grandes, lo que multiplica los tres. Súmele los renglones sin glamour que trae una propiedad de acre: tratamiento de agua, una línea de propano, a veces una mejora de panel. En lugar de soltar un rango que no significa nada, recorremos el espacio, escribimos una especificación y la cotizamos. No somos la oferta más barata que llega a su entrada, y se lo decimos temprano."
+        }
+      ],
+      "cta_heading": "Cuéntenos el problema de la cocina",
+      "cta_sub": "Muéstrenos el espacio, la lista de electrodomésticos y cómo cocina de verdad. Recibirá una especificación escrita y un precio que se sostiene, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Southwest Ranches | PGX Builders",
+      "meta_description": "Baños para fincas de Southwest Ranches: aparatos que su séptico aguanta, agua de pozo tratada e impermeabilización probada. (786) 273-2524.",
+      "h1": "Baños pensados para agua de pozo y piedra",
+      "hero_sub": "Suites principales, duchas sin marco y tinas independientes para casas de Southwest Ranches, con impermeabilización probada con agua y una lectura clara de lo que su sistema séptico puede soportar. Con inspecciones y supervisión diaria de un contratista general licenciado, Lic. CGC1539072.",
+      "local_heading": "Dos baños para un rancho de cinco cuartos",
+      "intro_paragraphs": [
+        "La cuenta nunca cuadró. Un rancho de los años ochenta sobre dos acres en Sunshine Ranches o Santa Fe Estates traía un baño principal compartimentado, una tina que nadie llena desde hace veinte años y un baño de pasillo haciendo demasiado trabajo. Los dueños de por aquí lo resuelven anexando territorio: se toman un cuarto o el clóset desmedido, arman una zona húmeda con tina independiente y ducha amplia, y después agregan un baño de piscina como debe ser para que los pies mojados dejen de cruzar el mármol. Sobre un acre, casi siempre hay espacio para hacerlo bien.",
+        "Los permisos de baño salen del Town of Southwest Ranches, con inspecciones de plomería, electricidad y mecánica antes de que la loseta tape nada. Lo que agarra desprevenida a la gente viene después: casi todo el pueblo funciona con séptico en sitio y no con alcantarillado, así que agregar aparatos sanitarios puede pasar el sistema de su carga permitida y exigir una revisión del Florida Department of Health in Broward County, que también atiende el pozo. Si el alcance toca una pared exterior o una ventana nueva, aplican las aprobaciones de producto HVHZ, porque Broward está dentro de la High-Velocity Hurricane Zone.",
+        "Todo lo caro de un baño se apoya sobre algo invisible. Las membranas se prueban con agua antes de la loseta, las pendientes se verifican con nivel, los refuerzos van instalados detrás de cada barra de apoyo y cada panel de vidrio, y la extracción se conduce hacia afuera y no hacia el ático. Las planchas las corta gente que lleva décadas trabajando piedra veteada a libro abierto. Usted recibe el alcance por escrito, supervisión diaria y rutas protegidas desde la puerta principal hasta la zona de trabajo, porque un proyecto de baño no debería redecorar el resto de la casa."
+      ],
+      "scope_heading": "Qué incluye un baño en Ranches",
+      "scope_intro": "No se ordena nada hasta que el plano y la especificación se ponen de acuerdo. Abajo están los elementos que se repiten en los baños de las fincas de este pueblo.",
+      "scope_items": [
+        {
+          "name": "Anexar el cuarto contiguo",
+          "desc": "Convertir un cuarto de huéspedes o un clóset desmedido en la suite que el plano original nunca permitió, con estructura, instalaciones en bruto y planos resueltos antes de demoler."
+        },
+        {
+          "name": "Zonas húmedas sin bordillo",
+          "desc": "Platos hundidos cortados en la losa donde la estructura lo permite, drenajes lineales y vidrio pesado anclado a refuerzos reales para que nada se mueva al tercer año."
+        },
+        {
+          "name": "Impermeabilización que no se ve",
+          "desc": "Membranas adheridas, esquinas selladas y una prueba de inundación sostenida toda la noche antes de la loseta, porque el único momento barato para encontrar una filtración es ahora."
+        },
+        {
+          "name": "Aparatos sanitarios y séptico",
+          "desc": "Una respuesta directa sobre si los aparatos nuevos exceden lo que su sistema en sitio tiene permitido, y la coordinación de la revisión del departamento de salud que venga después."
+        },
+        {
+          "name": "Piedra que aguanta el agua",
+          "desc": "Mármol y cuarcita sellados para una casa de agua dura, con griferías y acabados escogidos para que la mancha mineral no termine siendo el tema principal del baño."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Nuestro séptico aguanta un baño más?",
+          "a": "Puede que sí, y conviene saberlo antes del diseño y no después. Los sistemas en sitio están permitidos para una carga determinada, calculada según dormitorios y aparatos sanitarios, y un baño completo nuevo o un bonus room convertido puede excederla. Sacamos el permiso séptico existente, ubicamos el tanque, el campo de drenaje y el área de reserva, y si el sistema necesita modificación coordinamos la solicitud ante el Florida Department of Health in Broward County. A veces la respuesta es simplemente que sí, sin cambiar nada."
+        },
+        {
+          "q": "¿Necesito permiso para remodelar un baño aquí?",
+          "a": "Sí para todo lo estructural, de plomería, eléctrico o de ventilación, que es prácticamente cualquier remodelación de verdad. El Town emite el permiso e inspecciona el trabajo en bruto antes de que desaparezca detrás de la loseta, y esa secuencia lo protege a usted: alguien distinto de su contratista confirmó la impermeabilización y la plomería en bruto. Los cambios cosméticos, como pintura, un espejo o cambiar un vanity por otro igual, en general no lo requieren. Nosotros sacamos permisos, agendamos inspecciones y le entregamos el expediente cerrado."
+        },
+        {
+          "q": "El agua del pozo deja manchas anaranjadas. ¿Se puede resolver antes de poner la loseta?",
+          "a": "Sí, y debería resolverse. El hierro, la dureza y el azufre son comunes en los pozos privados del oeste de Broward, y en cuestión de meses encuentran las griferías, el vidrio y la piedra nuevos. La solución es un tren de tratamiento bien dimensionado en la casa, no un filtro debajo del fregadero, más acabados y herrajes escogidos sabiendo cómo es el agua. Preferimos resolverlo durante la remodelación que ver un baño hermoso mancharse en la fecha prevista."
+        },
+        {
+          "q": "¿Podemos vivir en la casa mientras se rehace el baño principal?",
+          "a": "Por lo general sí, y las casas de Ranches lo facilitan más que la mayoría porque casi siempre hay otro baño lo bastante lejos para ser usable. Sellamos la zona de trabajo, ponemos presión negativa donde el polvo preocupa, protegemos la ruta desde la entrada y mantenemos al menos un baño en servicio todo el tiempo. El tramo que sí se siente es el corte de agua, que programamos y mantenemos corto. Si en algún momento tiene sentido mudarse, se lo decimos."
+        },
+        {
+          "q": "¿Cuánto cuesta un baño de suite principal a este nivel?",
+          "a": "La piedra, el vidrio, la grifería y la mano de obra para instalarlos con cuidado se llevan la mayor parte, y la mitad invisible, es decir la impermeabilización, los drenajes nuevos, la ventilación y cualquier coordinación con el séptico, es la que la gente olvida presupuestar. No vamos a lanzar un número sin ver el espacio. Después de una visita recibirá un alcance por escrito y un precio fijo. Construimos con estándar de alta gama y cotizamos en consecuencia, y eso lo decimos de entrada."
+        }
+      ],
+      "cta_heading": "Llévenos al baño principal",
+      "cta_sub": "Díganos qué cuarto evita y por qué. Medimos, revisamos los papeles del séptico y le ponemos un número, en español o en inglés."
+    },
+    "home-additions": {
+      "title": "Ampliaciones de casas en Southwest Ranches | PGX Builders",
+      "meta_description": "Ampliaciones en Southwest Ranches, FL: alas traseras, casas de huéspedes y segundos pisos sobre acres, resueltos con séptico y retiros. (786) 273-2524.",
+      "h1": "Más casa, sin sacrificar el terreno",
+      "hero_sub": "Extensiones traseras, casas de huéspedes, suites para familiares y segundos pisos sobre los acres de Southwest Ranches, calculados alrededor de su campo de drenaje y sus retiros, tramitados ante el Town y construidos bajo la supervisión diaria de un contratista general licenciado.",
+      "local_heading": "Terreno para construir, reglas que respetar",
+      "intro_paragraphs": [
+        "Nadie compra en Southwest Ranches para sentirse apretado y, sin embargo, la casa suele ser lo pequeño de una parcela grande. Ampliar es el paso obvio: un ala trasera con suite principal detrás de un rancho en Rolling Oaks, una casa de huéspedes para los padres o para el entrenador cerca del establo, un segundo piso en Ivanhoe Estates donde los dueños quieren vista a su propio potrero. Como los lotes aquí arrancan en un acre y llegan hasta cinco, la restricción rara vez es el terreno. Son el séptico, los retiros y el drenaje.",
+        "Una ampliación pasa por zonificación y revisión de site plan en el Town of Southwest Ranches antes de que avance la solicitud de construcción, y el área de ingeniería del pueblo emite los permisos de relleno, excavación y nivelación cuando el trabajo puede afectar el almacenamiento de la planicie de inundación, una preocupación real en el borde oriental de los Everglades. No se puede construir sobre un campo de drenaje ni sobre su área de reserva, así que la disposición del séptico termina definiendo la huella con frecuencia. Las casas de huéspedes están permitidas, pero reguladas: una por parcela, sin cocina completa, sin medidor ni dirección postal propios, y las edificaciones que alojan animales cargan su propio requisito de patio.",
+        "Por acá lo difícil no es el terreno, es la costura entre lo viejo y lo nuevo. Amarrar unos cimientos nuevos a unos de cuarenta años, igualar la textura del estuco y la teja hasta que la unión desaparece, mejorar vigas de amarre, y mantener sellada, fresca y tranquila la mitad ocupada de la casa mientras la otra mitad está a cielo abierto. PGX lo maneja como un solo contrato con un solo supervisor, un alcance fijo por escrito y un cronograma que puede exigirnos. Más de 20 años en el sur de la Florida, licenciados y asegurados, y cada proyecto con permisos e inspecciones, de la zapata a la inspección final."
+      ],
+      "scope_heading": "Ampliaciones a la medida de un acre",
+      "scope_intro": "Cada una arranca con el levantamiento, la disposición del séptico y un ingeniero estructural. Cinco formas cubren casi todo lo que se construye por aquí.",
+      "scope_items": [
+        {
+          "name": "Alas nuevas sobre el acre",
+          "desc": "Extender hacia el jardín para una suite principal, un gran salón o una oficina en casa, con zapatas nuevas, vigas de amarre y empates de techo calculados antes de cotizar."
+        },
+        {
+          "name": "Casas de huéspedes y suites",
+          "desc": "Dependencias adosadas o independientes construidas según las reglas del Town para casas de huéspedes, que limitan una por parcela, prohíben la cocina completa y restringen el área de piso según el tamaño del lote."
+        },
+        {
+          "name": "Crecer hacia arriba",
+          "desc": "Primero una evaluación estructural de las paredes y las zapatas existentes; después un piso superior de verdad, con la escalera ubicada donde no arruine la planta de abajo."
+        },
+        {
+          "name": "Convertir garajes y establos",
+          "desc": "Volver espacio climatizado un garaje descomunal o una edificación accesoria en desuso, hecho legalmente para que los pies cuadrados cuenten cuando la propiedad cambie de manos."
+        },
+        {
+          "name": "Séptico, pozo y drenaje",
+          "desc": "Reubicar o mejorar el sistema en sitio cuando la ampliación lo exige, más los permisos de relleno y nivelación que pide el Town cuando se toca el almacenamiento de la planicie de inundación."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Puedo construir una casa de huéspedes en mi propiedad de Southwest Ranches?",
+          "a": "A menudo sí, dentro de ciertos límites, y los límites son específicos. El código del pueblo permite una casa de huéspedes por parcela, y no puede venderse ni arrendarse por separado, no puede tener cocina completa, ni dirección postal ni medidor eléctrico propios. No se permite en parcelas de menos de 35,000 pies cuadrados, y el área de piso está limitada, con más rigor en una parcela de un acre que en una mayor. La ubicación sigue sujeta a los retiros, al campo de drenaje con su área de reserva y al pozo. Revisamos la parcela contra el levantamiento antes de que alguien dibuje."
+        },
+        {
+          "q": "¿Cómo limita el séptico dónde puedo poner la ampliación?",
+          "a": "Más de lo que la mayoría de los dueños espera. El tanque, el campo de drenaje y el área de reserva sin obstruir tienen que quedar libres, así que una losa no puede ir encima y la maquinaria pesada tampoco debería pasar por ahí. Las distancias de retiro al pozo también cuentan. A veces la ampliación simplemente se corre veinte pies; a veces el sistema se reubica o se mejora, y eso es su propio permiso ante el Florida Department of Health in Broward County. Esto lo resolvemos en la etapa del levantamiento, no en la de los cimientos."
+        },
+        {
+          "q": "¿Hay alguna junta de diseño que tenga que aprobarme el proyecto?",
+          "a": "Southwest Ranches no maneja una junta de arquitectura como algunas ciudades costeras. Lo que sí hace cumplir es la zonificación: ocupación del lote, retiros, altura, reglas de estructuras accesorias y el carácter rural que el pueblo buscó proteger al constituirse en el año 2000. Los temas de site plan y uso de suelo pasan por el proceso de planificación del Town, ingeniería revisa la nivelación y el trabajo en el derecho de vía, y el permiso de construcción viene después. Si su parcela está en una comunidad con sus propios convenios, esos se aplican además."
+        },
+        {
+          "q": "¿Cuánto pasa del primer boceto a la ampliación terminada?",
+          "a": "Cargue el calendario al principio. Levantamiento, diseño, ingeniería estructural, verificación del séptico y revisión del pueblo comúnmente toman varios meses antes de que se mueva una pala, y las correcciones suman ciclos. La construcción de un ala trasera sustancial o de un segundo piso normalmente corre seis meses o más una vez emitido el permiso. Un año desde la primera conversación hasta la mudanza es una expectativa justa para una ampliación de verdad. La secuencia completa va por escrito, con las partes lentas señaladas con honestidad."
+        },
+        {
+          "q": "¿Conviene más ampliar que comprar una casa más grande por aquí?",
+          "a": "Con frecuencia sí, porque lo caro es la tierra y usted ya la tiene. Los acres de este pueblo son finitos, y los senderos, la zonificación y la tranquilidad son exactamente lo que la gente paga. Construir el ala que le falta suele costar menos que cambiar de casa y mudarse, y le deja la parcela que escogió. Sigue siendo obra de verdad con molestias de verdad, así que le sirve a quien planea quedarse. Tráiganos la idea y le decimos con franqueza si la parcela la aguanta."
+        }
+      ],
+      "cta_heading": "Caminemos el terreno juntos",
+      "cta_sub": "Mándenos el levantamiento y los papeles del séptico, o simplemente señale el jardín. Lo recorremos y hablamos de factibilidad, en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y cocinas de verano en Southwest Ranches | PGX Builders",
+      "meta_description": "Vida al aire libre en Southwest Ranches, FL: cocinas de verano, terrazas techadas, pérgolas, entradas de auto y trabajo exterior. (786) 273-2524.",
+      "h1": "Un acre no está hecho para desperdiciarse",
+      "hero_sub": "Terrazas techadas, cocinas de verano, pérgolas, entradas de auto y trabajo exterior para propiedades de Southwest Ranches, calculados para las cargas de viento de la HVHZ, tramitados ante el Town y supervisados a diario por un contratista general licenciado y asegurado.",
+      "local_heading": "El patio es la razón por la que se mudó",
+      "intro_paragraphs": [
+        "Los patios de Southwest Ranches no son patios. Son corrales, potreros, huertos, terrazas de piscina y lo que sea que quepa en uno o en cinco acres, y los proyectos al aire libre siguen esa escala: una terraza techada lo bastante profunda para aguantar sentado una tormenta de verano, una cocina de verano donde de verdad se cocina, una pérgola sobre un lounge junto a la fuente, una entrada de adoquines tan larga que pide iluminación. Los dueños en Sunshine Ranches y en Stone Creek at Sunshine Ranches pasan más tiempo afuera que la mayoría de los del sur de la Florida, y construyen en consecuencia.",
+        "Los proyectos exteriores involucran a más entidades que los interiores. El Town of Southwest Ranches emite los permisos de las estructuras y las inspecciona; su área de ingeniería maneja los permisos de uso del derecho de vía y las aprobaciones de relleno, excavación y nivelación que protegen el almacenamiento de la planicie de inundación; el Condado de Broward otorga la licencia para remover o reubicar árboles protegidos; y cualquier cosa con techo o con una abertura necesita aprobaciones de producto de la High-Velocity Hurricane Zone, ya que Broward comparte la HVHZ con Miami-Dade. Sume las más de veinticinco millas de senderos en el derecho de vía del pueblo, que no son lugar para dejar un contenedor de escombros.",
+        "La diferencia entre una sala al aire libre y un patio es todo lo que no se ve una vez terminado. Las zapatas de pérgolas y enrejados se calculan para la succión de viento, no se adivinan. Las líneas de gas, agua y electricidad hasta una cocina de verano llevan permisos e inspecciones. Las terrazas se inclinan para alejar el agua de la losa, no para llevarla hacia ella. La obra se mantiene ordenada porque el ruido y el polvo viajan distinto en terreno abierto, y los caballos tienen opinión. Alcance fijo por escrito, supervisión diaria, licenciados y asegurados bajo la Lic. CGC1539072."
+      ],
+      "scope_heading": "Proyectos exteriores sobre acres",
+      "scope_intro": "Un solo proyecto coordinado en vez de cinco oficios discutiendo en su entrada. Estas son las piezas que más construimos por acá.",
+      "scope_items": [
+        {
+          "name": "Cocinas de verano que cocinan",
+          "desc": "Propano, agua y electricidad llevados hasta la terraza con sus permisos, gabinetes y topes calificados para la intemperie, y una campana pensada para una parrilla de verdad y no para exhibición."
+        },
+        {
+          "name": "Terrazas profundas, sombra real",
+          "desc": "Salas exteriores techadas y estructuras de sombra con zapatas calculadas y conexiones contra la succión de viento, empatadas a la línea de techo existente para que lo nuevo se lea como original."
+        },
+        {
+          "name": "Entradas largas y accesos",
+          "desc": "Entradas de adoquines o concreto acabado, retornos y accesos de portón diseñados para drenar bien hacia la cuneta y aguantar un tráiler, con los permisos de derecho de vía resueltos."
+        },
+        {
+          "name": "Fachadas y cambio de techo",
+          "desc": "Restauración exterior, cambios de color y coordinación del retejado, secuenciados para que el andamio, la entrega de teja y la terraza nueva no se peleen la misma semana."
+        },
+        {
+          "name": "Aberturas de impacto al exterior",
+          "desc": "Paredes corredizas, puertas francesas y ventanas con aprobaciones HVHZ, instaladas para que la terraza y la casa por fin se comporten como un solo ambiente."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Una pérgola o una cocina exterior necesitan permisos por acá?",
+          "a": "Sí, las dos. La estructura necesita permiso de construcción del Town, y las líneas de propano, agua y electricidad llevan sus propios permisos por oficio con sus inspecciones. Según la ubicación y la nivelación, el área de ingeniería puede pedir además una revisión de relleno y nivelación. Suena a mucho papeleo para una parrilla y un techo, y lo es. La alternativa es una estructura que en septiembre se convierte en escombros."
+        },
+        {
+          "q": "¿Puedo tumbar un árbol que está estorbando?",
+          "a": "No de manera automática. La ordenanza de preservación de árboles del Condado de Broward exige una licencia para remover o reubicar un árbol protegido, aplica en todo el condado salvo donde las reglas propias de una ciudad son al menos igual de estrictas, y el Town tiene además sus propios requisitos de paisajismo. El desenlace habitual es un cambio de diseño y no un pleito: correr la terraza, flotar un deck alrededor de las raíces o reubicar el árbol en lugar de perderlo. Le decimos sin rodeos cuáles árboles conviene respetar en el diseño y cuáles tienen un caso real para removerse."
+        },
+        {
+          "q": "¿Cómo meten materiales y maquinaria en una propiedad de acres sin destrozarla?",
+          "a": "Con cuidado y con un plan acordado antes del primer día. Aquí el acceso suele ser un camino privado angosto, una cuneta que nunca se pensó para un camión cargado y un sendero en el derecho de vía por donde pasan jinetes y caminantes. Trazamos la ruta de entrega, ponemos protección donde el terreno está blando, acopiamos lejos del sendero y del campo de drenaje, y reparamos lo que hayamos marcado. El trabajo en el derecho de vía lleva su propio permiso del Town."
+        },
+        {
+          "q": "¿La cocina exterior debería funcionar con propano?",
+          "a": "Normalmente sí, porque una red de gas natural no se da por sentada por acá. Un tanque enterrado o disimulado puede alimentar la parrilla, el quemador lateral, un horno de pizza, el calentador de la piscina y un generador de respaldo con un solo llenado, que es más ordenado que una fila de cilindros. La ubicación sigue reglas de retiro y lleva permiso, y dimensionamos la línea para todo lo que pueda agregar más adelante, no solo para lo que compra hoy."
+        },
+        {
+          "q": "¿Cuánto cuesta un proyecto completo de vida al aire libre?",
+          "a": "Dos cosas lo mueven: cuánto techo quiere y cuántos servicios tienen que viajar hasta allá. Una terraza de piedra con iluminación está en un extremo. En el otro hay una sala exterior completamente techada con cocina de verano, línea de propano, línea de agua, extensión de panel y drenaje resuelto dentro de la nivelación, en una propiedad donde esos recorridos son largos. Lo recorremos, lo especificamos y le entregamos un precio fijo por escrito."
+        }
+      ],
+      "cta_heading": "Vamos a ver ese patio",
+      "cta_sub": "Señale lo que quiere allá afuera y le decimos qué hace falta para construirlo como es debido, en español o en inglés."
+    }
+  }
+}

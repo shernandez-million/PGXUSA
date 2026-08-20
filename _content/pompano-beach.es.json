@@ -1,0 +1,320 @@
+{
+  "area_slug": "pompano-beach",
+  "neighborhoods": [
+    "Hillsboro Shores",
+    "Harbor Village",
+    "Avalon Harbor",
+    "Garden Isles",
+    "Cypress Cove",
+    "Snug Harbor",
+    "Cypress Lakes",
+    "Santa Barbara Shores",
+    "Santa Barbara Estates",
+    "Old Pompano",
+    "Palm Aire",
+    "Cypress Bend",
+    "Briny Avenue"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral de casas en Pompano Beach | PGX Builders",
+      "meta_description": "Casas de canal de los sesenta y casas de playa en Pompano Beach, reconstruidas con aprobaciones de producto HVHZ y todos los permisos. (786) 273-2524.",
+      "h1": "Reconstruir la casa, conservar la dirección",
+      "hero_sub": "Remodelaciones integrales para casas de canal, casas junto a la playa y residencias en condominio de Pompano Beach: estructura, instalaciones, aberturas de impacto y acabados, con permisos ante City of Pompano Beach Development Services y la obra dirigida a diario por un contratista general licenciado, Lic. CGC1539072.",
+      "local_heading": "Lo que de verdad implica remodelar en Pompano",
+      "intro_paragraphs": [
+        "Los buenos huesos de Pompano Beach se vaciaron casi todos entre 1955 y 1975: casas ranch de bloque sobre lotes de canal dragados en Garden Isles, Cypress Cove, Snug Harbor y Santa Barbara Shores, terrazo bajo los pies y una planta organizada alrededor de un comedor formal donde nadie come desde la administración Ford. Old Pompano guarda lo más antiguo, las casas de madera y las mediterráneas cerca de la cuadrícula del downtown. Los dueños de aquí rara vez quieren otra casa. Quieren esta: devuelta al bloque, reorganizada hacia el agua y replanteada para la manera en que hoy vive de verdad una familia.",
+        "Su solicitud entra al City of Pompano Beach Development Services Department, división Building Permitting and Inspections, en el City Hall de West Atlantic Boulevard, radicada en la Broward County Uniform Building Permit Application con las listas de verificación por oficio para estructura, plomería, electricidad y mecánica. Es el formulario que usan todas las ciudades de Broward, porque la administración del código aquí depende del Broward County Board of Rules and Appeals, que resuelve apelaciones contra las decisiones del funcionario de construcción, emite interpretaciones formales y revisa las enmiendas de Broward al código. Broward está dentro de la High-Velocity Hurricane Zone, así que ventanas, puertas y sistemas de techo necesitan un Notice of Acceptance de Miami-Dade o un Florida Product Approval. Y la demolición agrega, por su cuenta, un trámite de asbesto ante el condado.",
+        "Ese método sale de más de veinte años construyendo en el sur de la Florida y de más de 150 remodelaciones y ampliaciones entregadas, todas con permisos e inspecciones. En una obra de Pompano Beach eso significa un alcance fijo por escrito antes de que caiga la primera pared, un supervisor en sitio siempre que haya cuadrilla, protección dura sobre los pisos y los peldaños que se quedan, y un solo equipo responsable desde el estimado hasta la inspección final y la garantía. Usted recibe un cronograma con el que puede planear una mudanza y un solo número que marcar cuando quiera cambiar algo."
+      ],
+      "scope_heading": "Cada capa de una obra a fondo en Pompano",
+      "scope_intro": "Aquí no se demuele nada hasta que el alcance está escrito y cotizado contra una especificación, no contra una corazonada. Estas piezas se repiten en casi toda renovación profunda de Pompano Beach.",
+      "scope_items": [
+        {
+          "name": "Paredes de bloque y acero",
+          "desc": "Eliminar muros portantes interiores en construcción CBS de los años sesenta con vigas de ingeniería, trabajo nuevo de viga de amarre y cálculos sellados dentro del juego de permisos."
+        },
+        {
+          "name": "Las entrañas de la casa",
+          "desc": "Servicio eléctrico y panel nuevos, líneas de suministro y drenaje reemplazadas, y aire acondicionado dimensionado con un cálculo Manual J real y no con lo que hubiera antes."
+        },
+        {
+          "name": "Vidrio de impacto documentado",
+          "desc": "Ventanas y corredizas de impacto con las aprobaciones señaladas en el expediente y las presiones de diseño demostradas abertura por abertura, que es lo que la revisión de Broward mira de verdad."
+        },
+        {
+          "name": "Superficies, de arriba abajo",
+          "desc": "Terrazo restaurado o reemplazado, cielos abiertos donde las cerchas lo permiten, y ebanistería y closets a la medida hechos para el plano nuevo y no para el de 1962."
+        },
+        {
+          "name": "El lado del agua, abierto",
+          "desc": "Paredes traseras replanteadas hacia el canal con vanos más amplios, dinteles calculados y el detalle de impermeabilización en el borde de losa que decide cómo envejece todo el conjunto."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Quién emite el permiso de una remodelación integral en Pompano Beach?",
+          "a": "El City of Pompano Beach Development Services Department, a través de su división Building Permitting and Inspections. El expediente se radica en la Broward County Uniform Building Permit Application con las listas de estructura, plomería, electricidad y mecánica adjuntas, más la revisión de zonificación y, antes de demoler, el trámite de asbesto del condado. La administración del código depende del Broward County Board of Rules and Appeals, así que las enmiendas y las certificaciones de los inspectores son de todo el condado aunque quien revise sus planos sea un empleado municipal. Nosotros radicamos todo."
+        },
+        {
+          "q": "¿De verdad Pompano Beach está en la zona que exige aprobaciones de Miami-Dade?",
+          "a": "El condado de Broward está dentro de la High-Velocity Hurricane Zone, igual que Miami-Dade, así que sí. Cada ventana, puerta exterior, contraventana, puerta de garaje y sistema de techo necesita un Notice of Acceptance de Miami-Dade vigente o un Florida Product Approval, identificado en el expediente y calzado con las presiones de diseño de esa abertura específica. El techo lleva su propia solicitud para HVHZ. Un producto que pasa en Orlando aquí lo rechazan, que es una buena razón para no comprar aberturas antes de que su contratista las vea."
+        },
+        {
+          "q": "Vivimos frente a un canal. ¿La elevación de inundación limita lo que podemos hacer?",
+          "a": "Puede hacerlo, y la respuesta depende de su zona de inundación y de cuánto va a invertir frente al valor del edificio. Las reglas federales de mejora sustancial son las que conviene entender temprano: si cruza el umbral, la estructura completa tiene que ponerse en cumplimiento con las normas de inundación, no solamente la parte que usted tocó. La ciudad corre una revisión de zona inundable en paralelo con el permiso de construcción, y los certificados de elevación aparecen en la lista de inspecciones. Esto lo verificamos antes de que alguien empiece a dibujar."
+        },
+        {
+          "q": "¿Podemos quedarnos viviendo en la casa mientras la desarman?",
+          "a": "Durante la mitad ruidosa, normalmente no. Una remodelación integral de verdad significa quedarse sin cocina que funcione, con los cielos abiertos y una losa que se corta. Algunos clientes conservan habitable un ala de huéspedes o un apartamento sobre el garaje, y ahí levantamos barreras contra el polvo con acceso independiente, pero la mayoría se muda desde la demolición hasta las inspecciones en bruto y regresa para los acabados. Le decimos cuál de los dos casos es el suyo en el recorrido, no después de que haya firmado el alquiler temporal."
+        },
+        {
+          "q": "¿Cuánto debería costar aquí una remodelación integral de alta gama?",
+          "a": "Depende menos de los pies cuadrados que de cuánto del edificio va a reemplazar. Renovar lo que ya está, cambiar todas las instalaciones detrás de las paredes y encima mover estructura son tres proyectos distintos con tres presupuestos distintos. Definimos el alcance y cotizamos contra una especificación escrita, de modo que el número firmado se sostiene salvo que usted cambie algo o la casa esconda algo. PGX no es la oferta más baja, y se lo decimos antes de que pierda su tiempo con nosotros."
+        }
+      ],
+      "cta_heading": "Ábranos la puerta de la casa",
+      "cta_sub": "Traiga el levantamiento, la lista de deseos y las partes de la casa que le molestan. Se va con un alcance por escrito, en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Cocinas a la medida en Pompano Beach, FL | PGX Builders Group",
+      "meta_description": "Cocinas en Pompano Beach, del ranch de canal a la torre: abrimos la pared, plantillamos la piedra en sitio y resolvemos la asociación. (786) 273-2524.",
+      "h1": "Una cocina que mira al agua",
+      "hero_sub": "Gabinetes a la medida, piedra, islas y cambios de distribución para cocinas de Pompano Beach, desde casas ranch frente al canal hasta residencias frente al océano. Dibujadas, tramitadas en el City Hall y construidas con un contratista general licenciado recorriendo la obra todos los días.",
+      "local_heading": "Cocinas de Pompano, del ranch a la torre",
+      "intro_paragraphs": [
+        "En Pompano Beach dominan dos problemas de cocina. El primero es el de la casa de canal de mediados de siglo en Harbor Village, Avalon Harbor o Cypress Lakes, donde la cocina es un pasillo cerrado con una ventanilla de servicio y la mejor vista al agua de la casa quedó asignada al cuarto de lavado. El segundo es el de la residencia en condominio, sea en Palm Aire y Cypress Bend o en los edificios más nuevos frente al océano sobre Briny Avenue, donde la distribución funciona pero el nivel de acabados va una década atrás de la dirección. Los dos se resuelven moviendo paredes, no cambiándoles los frentes a los gabinetes.",
+        "La cocina se tramita ante la división Building Permitting and Inspections de la Ciudad de Pompano Beach, y el expediente es bastante más que un croquis. Cuente con plantas del estado actual y del propuesto, planos de plomería con cada aparato sanitario y cada electrodoméstico identificado, planos eléctricos con circuitos, protección GFCI y AFCI y cálculos de carga, e isométricos de gas con cargas en BTU cuando hay estufa de por medio. En condominio, la aprobación por escrito de la asociación viaja con el paquete, y el piso duro sobre otra residencia exige un informe acústico de laboratorio que demuestre STC e IIC de al menos 50 para su losa y su cielo reales, no para los de un folleto.",
+        "La secuencia es lo que evita que los oficios se pisen entre sí. Los gabinetes se ordenan temprano porque las cajas a la medida mandan sobre el cronograma, las losas de piedra se plantillan contra gabinetes ya instalados y no contra un dibujo, y las especificaciones de los electrodomésticos están en mano antes de que el electricista deje una sola salida. El alcance queda fijo por escrito, hay un supervisor en obra a diario y, en una torre, nosotros resolvemos los certificados de seguro, la reserva del ascensor de servicio y la ventana de horario autorizada para el ruido, para que sus vecinos sigan siendo vecinos. Más de veinte años en el sur de la Florida, cada obra con permisos e inspecciones."
+      ],
+      "scope_heading": "Dónde aterriza el presupuesto de la cocina",
+      "scope_intro": "Todo se cotiza línea por línea antes de la demolición, contra una especificación que usted nos puede exigir. Los elementos de abajo cubren la mayoría de las cocinas de Pompano Beach.",
+      "scope_items": [
+        {
+          "name": "Gabinetes hechos a la orden",
+          "desc": "Cajas y frentes a la medida, acabados para la humedad costera, escalados a la altura de su techo y con interiores planificados alrededor de lo que usted de verdad guarda, no de un catálogo."
+        },
+        {
+          "name": "Piedra plantillada en sitio",
+          "desc": "Cuarcita, mármol o porcelánico medidos después de instalar los gabinetes, con la estructura de la isla calculada para el peso y los voladizos de asiento soportados como corresponde."
+        },
+        {
+          "name": "Abrir la cocina de pasillo",
+          "desc": "Eliminar lo que cierra una cocina de pasillo de los años sesenta frente a la sala, con viga de ingeniería, detalle de empate y cálculos dentro del juego de permisos."
+        },
+        {
+          "name": "Mover estufa, fregadero y nevera",
+          "desc": "Reubicar estufas, hornos y refrigeración con tubería de gas nueva, circuitos dedicados, ventilación correcta y los isométricos que la revisión de planos le va a pedir."
+        },
+        {
+          "name": "Iluminación y capacidad eléctrica",
+          "desc": "Iluminación por capas más el panel y los circuitos que una estufa de inducción, un horno doble y una cava de vinos necesitan antes de que alguien pueda enchufarlos."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Remodelar la cocina necesita permiso en Pompano Beach?",
+          "a": "Todo lo que involucre plomería, electricidad, gas o estructura lo necesita, y una cocina de verdad involucra las cuatro cosas. La vía municipal de renovación de cocinas y baños cubre el cambio de gabinetes y topes, el cambio de muebles y electrodomésticos, la loseta que implique impermeabilización, las modificaciones de distribución y los extractores. Pintar o cambiar solo los frentes puede quedar fuera, sujeto a revisión. El trabajo sin permiso tiene la costumbre de aparecer justo al momento de vender, y legalizarlo después cuesta más que hacerlo bien una sola vez. Nosotros sacamos los permisos y agendamos las inspecciones."
+        },
+        {
+          "q": "Tengo una unidad en un edificio frente al océano. ¿Qué agrega la asociación?",
+          "a": "Una carta de aprobación por escrito que entra al expediente municipal, más reglas del edificio que la ciudad nunca ve: horarios de trabajo, reservas del ascensor de servicio, certificados de seguro por cada oficio y protección de los pasillos comunes. Las juntas también suelen querer el informe acústico de cualquier piso duro antes de firmar. Nosotros empujamos el paquete de la asociación y los planos del permiso al mismo tiempo, en lugar de uno detrás del otro, porque las aprobaciones en fila son la manera silenciosa en que una cocina de condominio pierde dos meses."
+        },
+        {
+          "q": "¿Puedo poner madera o loseta en una cocina que está encima de otra unidad?",
+          "a": "Sí, con el papeleo. Pompano Beach exige un permiso de barrera acústica para el piso duro en una unidad ubicada sobre otra vivienda o sobre un área de servicio, y el informe de ensayo acústico tiene que mostrar valores STC e IIC de al menos 50 para el conjunto tal como se va a construir de verdad, contando el espesor de su losa y el cielo de abajo. Los folletos del fabricante y las fichas de tienda los rechazan. Nosotros elegimos la manta acústica con base en un informe de laboratorio real."
+        },
+        {
+          "q": "¿Se puede quitar la pared entre la cocina y la sala?",
+          "a": "Muchas veces sí, y en una casa de bloque de los años sesenta suele ser la diferencia entre una cocina y un espacio donde la gente quiere quedarse parada. Lo que hace falta es un ingeniero que confirme si esa pared carga el techo, una viga dimensionada y detallada para reemplazarla, y los cálculos dentro del juego de permisos. En una torre la respuesta puede ser no, porque la pared es estructural o parte de un sistema de cortante. Eso lo definimos antes de que usted se comprometa con una distribución."
+        },
+        {
+          "q": "¿Cuánto cuesta una cocina a la medida en este mercado?",
+          "a": "Los gabinetes, la piedra y los electrodomésticos mandan, y las selecciones mueven el número más que los pies cuadrados. Una cocina de alta gama en una casa de canal de Pompano Beach y otra a treinta pisos sobre la arena pueden aterrizar en lugares muy distintos una vez que se cotizan la logística del ascensor y los requisitos de la asociación. Preferimos recorrer el espacio, escribir una especificación y entregarle un número fijo, antes que publicar una cifra por pie con la que nadie puede construir de verdad."
+        }
+      ],
+      "cta_heading": "Planifiquemos la cocina",
+      "cta_sub": "Cuéntenos cómo cocina usted y por dónde entra la luz. Medimos, escribimos la especificación y la cotizamos con franqueza, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Pompano Beach, FL | PGX Builders",
+      "meta_description": "Baños en Pompano Beach: cambiamos el hierro fundido, probamos el plato con agua y después va la piedra. Permisos de casa y condominio. (786) 273-2524.",
+      "h1": "La mitad que usted nunca ve",
+      "hero_sub": "Suites principales, mamparas sin marco, tinas independientes y piedra para casas y condominios de Pompano Beach: impermeabilización probada con agua, plomería con permisos e inspecciones y un contratista general licenciado en obra cada día hábil.",
+      "local_heading": "Lo que vive detrás de la pared de un baño",
+      "intro_paragraphs": [
+        "El baño principal promedio de Pompano Beach se distribuyó alrededor de una idea de privacidad de 1965: una tina de cinco pies, una ventana pequeña y un vanity para una sola persona que no tenía ninguna prisa. En Santa Barbara Estates, Garden Isles y las calles más antiguas de Cypress Cove, esos baños siguen siendo con frecuencia los originales, escondidos detrás de la loseta noventera que alguien les pegó encima. Del lado de la playa, en Hillsboro Shores y en las torres sobre la arena, el problema se invierte: la distribución es generosa, pero el plato de la ducha ya tiene años y los acabados se apagaron. Los dos caminos terminan en la estructura desnuda.",
+        "Los permisos de baño salen por Building Permitting and Inspections de la Ciudad de Pompano Beach, radicados en la Broward County Uniform Building Permit Application, con inspecciones de plomería en bruto, de remate y final, en ese orden, que es exactamente el orden que lo protege a usted. Dos detalles locales toman desprevenidos a los dueños. En condominio, la carta de aprobación de la asociación es parte del paquete municipal, junto con lo que el edificio exija para cerrar las columnas de agua. Y en cualquier piso por encima del primero, el piso duro necesita un informe de laboratorio independiente con valores STC e IIC de al menos 50 para el conjunto: aquí eso es un requisito del permiso, no una cortesía con el vecino.",
+        "En un cuarto tan pequeño no hay margen de error. Probamos los platos con agua antes de colocar una sola loseta, verificamos la pendiente con nivel y no con opiniones, reforzamos las paredes para el vidrio pesado y las barras de apoyo, y sacamos la extracción al exterior en lugar de descargarla dentro de un plafón. Los drenajes originales de hierro fundido se revisan con cámara mientras las paredes están abiertas, porque ese es el único momento barato que va a tener. Alcance fijo por escrito, supervisión diaria, protección dura sobre cada superficie terminada que la cuadrilla tenga que cruzar, y un solo equipo respondiendo por todo bajo la Lic. CGC1539072."
+      ],
+      "scope_heading": "Las partes que usted nunca va a ver",
+      "scope_intro": "Casi todo lo de abajo vive detrás del acabado, que es donde un baño de verdad se gana o se pierde. Todo queda definido por escrito antes de ordenar la primera loseta.",
+      "scope_items": [
+        {
+          "name": "Impermeabilización probada con agua",
+          "desc": "Membranas adheridas que suben por las paredes y cruzan el bordillo, y después se llenan y se dejan con agua toda la noche, para que una falla aparezca antes que el mármol."
+        },
+        {
+          "name": "Un cuarto anexado al baño",
+          "desc": "Tomar prestado un closet o una habitación pequeña para armar una suite principal de verdad, con distribución, plomería en bruto, estructura y permisos en un solo expediente."
+        },
+        {
+          "name": "Drenajes viejos reemplazados",
+          "desc": "Inspección con cámara del hierro fundido original y luego reemplazo de drenajes y líneas de suministro mientras las paredes están abiertas, en vez de después de colocada la piedra."
+        },
+        {
+          "name": "Vidrio sobre refuerzo sólido",
+          "desc": "Paneles pesados sin marco colgados de refuerzos instalados durante el enmarcado, bisagras ancladas en estructura real y umbrales detallados para que el agua regrese adonde pertenece."
+        },
+        {
+          "name": "Vapor, calor y aire silencioso",
+          "desc": "Duchas de vapor, pisos radiantes y extracción conducida al exterior, con las clasificaciones de humedad y los circuitos dedicados que el inspector va a buscar."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Cuánto tiempo queda el baño fuera de servicio?",
+          "a": "En una renovación total, cuente en semanas y no en días, y sepa que el cronograma lo marcan las inspecciones y los tiempos de entrega, no la velocidad con que se pega la loseta. Demolición, plomería en bruto, impermeabilización y su inspección, loseta, y después acabados y vidrio: cada etapa tiene que cerrar antes de que empiece la siguiente. Los vanities a la medida y las losas de piedra suelen llegar de últimas. Nosotros ordenamos primero, para que el cuarto no se quede abierto esperando un camión."
+        },
+        {
+          "q": "Queremos cambiar la tina por una ducha. ¿Hay algo especial en Pompano Beach?",
+          "a": "La ciudad lo trata como una renovación de baño de verdad, no como un simple cambio de pieza. El expediente muestra el alcance completo de la alteración de plomería con cada aparato sanitario identificado, y el trabajo se inspecciona antes de taparlo. Dos extras sorprenden a los dueños de condominio: la carta de aprobación de la asociación viaja con la solicitud, y el piso duro por encima del primer piso necesita un informe acústico de laboratorio independiente. Nada de eso es difícil cuando se planifica. Detiene una inspección en seco cuando no."
+        },
+        {
+          "q": "¿Es realista una ducha a ras de piso en una casa sobre losa?",
+          "a": "Con frecuencia sí, pero la losa tiene la última palabra. Hundir el plato implica cortar concreto y a veces desviar drenajes, y de vez en cuando eso se topa con una viga o con una línea de servicio que uno preferiría no mover. En un segundo piso normalmente hay altura de entrepiso para trabajar. Donde la estructura dice que no, un bordillo de perfil bajo con la pendiente bien lograda y un drenaje lineal le da casi toda la imagen, con honestidad. Abrimos una cala pequeña y lo averiguamos primero."
+        },
+        {
+          "q": "¿El aire salino cerca de la playa afecta la grifería del baño?",
+          "a": "En las casas de Hillsboro Shores y en las residencias frente al océano, muchísimo, sobre todo donde la ventana del baño abre hacia el agua o la unidad funciona con aire exterior. Los acabados de la grifería y de la ducha se corroen más rápido, y los acabados vivos como el bronce sin laca toman su propio camino en tiempo récord. Especificamos herrajes y equipos de extracción aptos para servicio costero húmedo y sacamos la humedad como es debido, que hace más por la durabilidad que cualquier acabado que usted elija."
+        },
+        {
+          "q": "¿En qué se va de verdad el dinero de un baño?",
+          "a": "La piedra, el vidrio y la grifería marcan el presupuesto visible. Los drenajes, la impermeabilización, la estructura y la ventilación marcan el real, y es esa segunda lista la que los dueños subestiman. Definimos el alcance sobre el edificio tal como lo encontramos, ponemos un número fijo contra una especificación escrita y señalamos por adelantado todo lo que solo la demolición puede responder. Nuestros clientes nos contratan por certeza y calidad de acabado, no por ser la cotización más barata de las tres que hay sobre el tope de la cocina."
+        }
+      ],
+      "cta_heading": "Pongámosle alcance al baño",
+      "cta_sub": "Mándenos fotos o déjenos recorrerlo en persona. Recibe un alcance por escrito, un cronograma real y respuestas directas, en español o en inglés."
+    },
+    "home-additions": {
+      "title": "Ampliaciones y segundos pisos en Pompano Beach | PGX Builders",
+      "meta_description": "En Pompano Beach una casa crece de cuatro maneras: atrás, arriba, en el garaje o con una suite para la familia. Ingeniería y permisos. (786) 273-2524.",
+      "h1": "Ampliar en lugar de mudarse",
+      "hero_sub": "Extensiones traseras, segundos pisos, conversiones de garaje y suites para familiares en Pompano Beach: con ingeniería, permisos ante Development Services, revisión de zona inundable donde aplica y supervisión diaria de un contratista general licenciado.",
+      "local_heading": "Dónde tiene espacio un lote de Pompano",
+      "intro_paragraphs": [
+        "Los lotes de Pompano Beach de la era de las urbanizaciones de canal son más anchos de lo que aparentan y menos profundos de lo que uno quisiera, y por eso una ampliación es un problema de diseño antes de ser un problema de construcción. Las jugadas son las de siempre: un gran salón y una suite principal empujados hacia el agua en Harbor Village o Snug Harbor, un segundo piso sobre una ranch de una planta en Santa Barbara Shores, donde el lote ya no da más, un garaje o una cochera convertidos en suite de huéspedes por los alrededores de Old Pompano, y alas completas para familiares en los lotes más profundos al oeste de Federal Highway.",
+        "Nada de lo que la Ciudad de Pompano Beach emite sobre una casa pesa más que un permiso de ampliación. Development Services quiere un juego de planos firmado y sellado con levantamiento, plano de cimientos, elevaciones, detalles estructurales y cuadro de puertas y ventanas, más un estudio geotécnico con recomendaciones de cimentación, ingeniería de cerchas, cálculos de energía y cargas Manual J, una solicitud de cumplimiento de zonificación, un permiso de árboles si hay algo creciendo cerca del trabajo, y una solicitud de zona inundable. La revisión ambiental del condado de Broward entra donde entran el movimiento de tierra y el drenaje. Las inspecciones abren con zapatas y levantamiento de encofrado, y cierran con levantamiento final y certificado de elevación.",
+        "La mitad del presupuesto de una ampliación que nadie fotografía son las zapatas, el acero y las vigas de amarre, y es la que decide si la costura entre lo viejo y lo nuevo llega a notarse alguna vez. Amarramos correctamente los cimientos nuevos a los existentes, igualamos la textura del estuco y el perfil del techo para que la ampliación no se anuncie sola desde la calle, y mantenemos la parte ocupada de la casa sellada, con energía y habitable mientras sube la parte nueva. Todo se cotiza contra una especificación escrita, un supervisor dirige la obra a diario, y un solo equipo lleva el proyecto de la factibilidad a la garantía. Así han salido más de 150 remodelaciones y ampliaciones, todas con permisos e inspecciones."
+      ],
+      "scope_heading": "Los tipos de ampliación que construimos",
+      "scope_intro": "Cada una de estas empieza con un ingeniero y un levantamiento, no con un render. Son las ampliaciones que las casas de Pompano Beach piden con más frecuencia.",
+      "scope_items": [
+        {
+          "name": "Crecer hacia el patio",
+          "desc": "Grandes salones y suites principales llevados hasta el retiro trasero, con zapatas nuevas y el empate del techo dibujado dentro de un solo juego de permisos coordinado."
+        },
+        {
+          "name": "Segundos pisos sobre bloque",
+          "desc": "Primero la evaluación estructural de las paredes y zapatas existentes; después un piso superior con escalera, estructura y detalle de cortante diseñados a lo que el edificio de verdad aguanta."
+        },
+        {
+          "name": "Cerrar el garaje legalmente",
+          "desc": "Convertir un garaje o una cochera en área habitable terminada, con aislamiento, aberturas de impacto, instalaciones extendidas y permisos, para que cuente en el avalúo."
+        },
+        {
+          "name": "Suites para familiares, con permisos",
+          "desc": "Un ala aparte con su propio baño y una cocineta, distribuida para dar privacidad y tramitada con permiso como área habitable, en vez de armada en un fin de semana largo."
+        },
+        {
+          "name": "Lo que sostiene la ampliación",
+          "desc": "Estudio geotécnico, zapatas nuevas, columnas y mejoras de vigas de amarre, más los informes de inspector especial que Broward exige cuando entran pilotes o condiciones de threshold building."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Cuánto pasa entre la primera reunión y el cuarto terminado?",
+          "a": "Cargue la paciencia al principio. El diseño, la ingeniería estructural y civil, el estudio geotécnico y la revisión de planos de la ciudad consumen comúnmente varios meses antes de que se vacíe una zapata, y la construcción de una ampliación sustancial suma varios más. Un año desde la primera conversación hasta los muebles es un marco realista para un ala trasera grande o un segundo piso. Le entregamos el cronograma completo por escrito, fases de revisión incluidas, para que ninguna parte del proceso se sienta como un hueco misterioso."
+        },
+        {
+          "q": "¿Las reglas de FEMA me impiden ampliar una casa frente al canal?",
+          "a": "Rara vez lo impiden; a veces lo reconfiguran. La prueba federal de mejora sustancial compara lo que usted va a gastar en obra contra lo que vale el edificio existente, y cruzar esa línea obliga a poner el edificio completo en cumplimiento con las normas vigentes de inundación, lo que puede implicar subir el nivel del piso terminado o rehacer los cerramientos por debajo de la elevación. En algunas propiedades eso convierte una ampliación en una reconstrucción parcial. Mucho mejor saberlo en factibilidad que a mitad de la revisión de planos, así que corremos los números temprano."
+        },
+        {
+          "q": "¿Un segundo piso necesita cimientos completamente nuevos?",
+          "a": "Normalmente no hay que hacerlos de cero, pero sí hay que verificarlos. Un ingeniero evalúa las zapatas, las paredes de bloque y las vigas de amarre existentes contra las cargas nuevas, y el estudio geotécnico le dice a todo el mundo qué acepta el suelo. A veces basta con refuerzos, columnas adicionales o un recalce puntual. De vez en cuando la aritmética favorece crecer hacia atrás en lugar de hacia arriba, y preferimos decírselo antes que venderle el trabajo más caro."
+        },
+        {
+          "q": "¿Alguien más, aparte de la ciudad, tiene que aprobar esto?",
+          "a": "Depende de la dirección. Si su propiedad está dentro de una asociación de propietarios, la carta de aprobación de la asociación entra al paquete municipal, y bajo la ley vigente de la Florida un comité de arquitectura no puede exigirle tener el permiso de construcción en mano antes de revisar sus planos, así que las dos vías pueden correr juntas. El movimiento de tierra y el drenaje pueden sumar la revisión ambiental del condado de Broward. Los árboles cerca de la huella necesitan permiso y un plan de protección por la vía forestal urbana de la ciudad, con sus propias inspecciones."
+        },
+        {
+          "q": "¿Qué pasa con el resto de la casa mientras construyen?",
+          "a": "Aislamos la ampliación de la casa ocupada con particiones duras, mantenemos electricidad, agua y aire acondicionado del lado en el que ustedes viven, y acopiamos el material donde no le bloquee la entrada de autos. Los tramos ruidosos son la demolición, el empate cuando se abre la pared exterior existente, y el trabajo de techo. La mayoría de nuestros clientes en Pompano Beach se queda en casa durante la ampliación y se muda solo por la semana o las dos del empate. Esos días los agendamos con usted por adelantado."
+        }
+      ],
+      "cta_heading": "Cuéntenos qué le hace falta",
+      "cta_sub": "Traiga el levantamiento y el plano que lleva dos años dibujando. Recibe una lectura de factibilidad y un número por escrito, en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y cocinas de verano en Pompano Beach | PGX Builders",
+      "meta_description": "Patios de Pompano Beach bien hechos: terrazas techadas, cocinas de verano con servicios, entradas de auto y permisos de muelle y seawall. (786) 273-2524.",
+      "h1": "El patio es la mitad de la casa",
+      "hero_sub": "Cocinas de verano, terrazas techadas, pérgolas, entradas de auto y coordinación de seawall y muelle para casas frente al agua en Pompano Beach: con permisos de la ciudad y del condado de Broward, ingeniería para carga de viento y un contratista general licenciado encima de la obra a diario.",
+      "local_heading": "Exteriores frente al agua, hechos a código",
+      "intro_paragraphs": [
+        "Los patios de Pompano Beach se ganan el sueldo. Las casas de Harbor Village, Avalon Harbor y Garden Isles están sobre canales anchos con salida al océano por el Hillsboro Inlet y sin un puente fijo de por medio, así que el muelle no es decoración y el bote termina fijando, sin decirlo, la escala de todo lo que hay detrás de la casa. Del lado de la playa, en Hillsboro Shores y a lo largo de Briny Avenue, las limitaciones se invierten: rocío salino, exposición al viento y una línea de lote trasera que se acaba antes de lo que a nadie le gustaría. En cualquiera de los dos casos, el cuarto de afuera se usa once meses al año, así que hay que construirlo como un cuarto.",
+        "El trabajo exterior en Pompano Beach mete en la cancha a más entidades que cualquier cosa bajo techo. Los muelles y los seawalls —los muros de contención frente al agua— necesitan una Broward County Environmental Resource General License antes de que la ciudad emita nada, más un permiso de ingeniería municipal con sus propias inspecciones de pilotaje, estructura y entablado en paralelo con el permiso de construcción, y en ciertos alcances el visto bueno estatal o federal. Las reglas municipales de barrera contra inundación por marea fijan una elevación mínima de corona de cinco pies NAVD 88 y la topan en cinco pies con diez pulgadas, así que el muro tiene piso y también techo. Las pérgolas necesitan aprobación de producto o ingeniería sellada, las entradas de auto llevan inspecciones de ingeniería, y los árboles cerca del trabajo necesitan permiso y un plan de protección.",
+        "Construimos los exteriores con estándares de interior, porque el clima es un inspector más severo que la ciudad. El gas, el agua y la electricidad que alimentan una cocina de verano llevan permiso e inspección, en lugar de quedar enterrados bajo un adoquín y olvidados. Las zapatas de las pérgolas se calculan para succión y se detallan en el anclaje. Las terrazas se pendientan para que el agua se aleje de la casa en vez de acumularse en el borde de la losa, y los herrajes al alcance del agua se especifican para servicio salino. Alcance fijo por escrito, supervisión diaria y una obra barrida y limpia cada tarde, porque los vecinos no se inscribieron en su proyecto."
+      ],
+      "scope_heading": "Trabajo exterior que asumimos",
+      "scope_intro": "De una sola terraza techada a la reconstrucción completa del frente de agua, las piezas de abajo se tramitan y se secuencian como un solo proyecto y no como cinco oficios sueltos.",
+      "scope_items": [
+        {
+          "name": "Cocinas de verano duraderas",
+          "desc": "Cocinas exteriores con isométricos de gas con permiso, agua, drenaje y circuitos dedicados, más gabinetes y topes especificados para el sol directo y el aire salino."
+        },
+        {
+          "name": "Terrazas que sirven en junio",
+          "desc": "Estructuras de sombra sobre zapatas calculadas y conexiones aptas para succión, radicadas con aprobación de producto o planos sellados e inspeccionadas en zapatas, columnas y anclaje."
+        },
+        {
+          "name": "Seawalls y muelles",
+          "desc": "Alcances marinos corridos con la licencia ambiental del condado, los permisos de ingeniería de la ciudad y las inspecciones de muelle resueltos, para que la mitad acuática no la gerencie usted."
+        },
+        {
+          "name": "Entradas y terrazas de piscina",
+          "desc": "Adoquines o concreto acabado sobre una base de limerock como es debido, inspeccionados por ingeniería de la ciudad, con pendiente para drenar y el empate con la calle bien detallado, que es donde una entrada falla primero."
+        },
+        {
+          "name": "Fachada, pintura y corredizas",
+          "desc": "Resane de estuco, recubrimiento completo y repintado, más puertas corredizas y de impacto con aprobaciones calzadas a las presiones de diseño de esa fachada."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Qué se necesita para sacar el permiso de un muelle o un seawall en Pompano Beach?",
+          "a": "Más papeleo del que la mayoría de los dueños espera. Necesita una Broward County Environmental Resource General License, una solicitud municipal de construcción presentada por un contratista estructural o marino licenciado, un permiso aparte de ingeniería de la ciudad, un levantamiento topográfico, planos de construcción firmados y sellados que incluyan las medidas de control de erosión, y un formulario de inspector especial si se hincan pilotes. Las inspecciones llegan por dos vías, construcción e ingeniería, y cubren pilotaje, estructura, entablado y la zapata del muro. Ciertos alcances suman aprobaciones estatales y federales."
+        },
+        {
+          "q": "¿Qué altura tiene que tener mi seawall?",
+          "a": "Más alta que la de casi todos los muros que reemplaza. Pompano Beach exige que las barreras contra inundación por marea lleguen a un mínimo de cinco pies NAVD 88 y se detengan en cinco pies con diez pulgadas, así que no puede simplemente construir tan alto como quiera y llamarlo resiliencia. El estándar regional del condado de Broward empuja en la misma dirección en todo el condado, subiendo por etapas las elevaciones mínimas en las próximas décadas. Un topógrafo establece su elevación de corona actual antes de que alguien cotice una reparación, porque ese número decide si esto es un parche o un reemplazo."
+        },
+        {
+          "q": "¿Una cocina de verano de verdad necesita permisos e inspecciones?",
+          "a": "Sí, y más de uno. La estructura lleva permiso de construcción, la línea de gas necesita planos en planta e isométricos con cargas en BTU, la plomería y la electricidad llevan cada una su propia solicitud y su secuencia de inspecciones, y un árbol cerca del trabajo trae la revisión forestal urbana de la ciudad con su plan de protección. Es mucho trámite para algo que usted va a usar sobre todo los domingos. También es la razón por la que una cocina de verano bien construida sobrevive a los muebles que la rodean."
+        },
+        {
+          "q": "¿Tanta diferencia hace el aire salino del lado de la playa?",
+          "a": "En Hillsboro Shores y en las cuadras frente al océano es el factor decisivo. Los gabinetes de exterior comunes se hinchan, el acero inoxidable corriente se pica, los tornillos dejan chorreras de óxido sobre una pared recién pintada y los herrajes sin tratar se traban en una temporada o dos. Especificamos inoxidable de grado marino, recubrimientos calificados para exposición costera, piedra densa bien sellada y herrajes elegidos por el ambiente y no por la lista de precios. Sáltese eso y volverá a construir la misma terraza antes de cinco años."
+        },
+        {
+          "q": "¿Qué define el presupuesto de un proyecto exterior frente al agua?",
+          "a": "Los servicios y la estructura, más o menos en ese orden. Una terraza de adoquines y una sala exterior techada con gas, agua, electricidad y cielo terminado son dos proyectos distintos, y todo lo que toca el agua suma acceso marino, ingeniería y licenciamiento del condado. Después, las selecciones de equipos y de piedra mueven el total tanto como el área. Cotizamos contra una especificación escrita después de una visita al sitio, para que lo que usted compare sea una obra real y no una lista de tarifas."
+        }
+      ],
+      "cta_heading": "Definamos el patio juntos",
+      "cta_sub": "Salga con nosotros al patio y cuéntenos cómo lo usa de verdad. Después le llegan un alcance por escrito y un cronograma honesto, en español o en inglés."
+    }
+  }
+}

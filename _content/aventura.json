@@ -34,7 +34,7 @@
           "desc": "Demolition to bare slab, new layouts, ceilings, and finishes in tower residences, sequenced around service-elevator schedules and your building's working-hour rules."
         },
         {
-          "name": "Layout and structural changes",
+          "name": "Walls opened, structure verified first",
           "desc": "Opened plans in Aventura Lakes and Country Club Estates houses with engineered beams, and partition reconfigurations in condos verified against the building's structure first."
         },
         {
@@ -42,11 +42,11 @@
           "desc": "New electrical panels, repiping, ductwork, and smart-home wiring, routed around concrete slabs and riser stacks where the building demands it."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glass, facade kept uniform",
           "desc": "Replacement openings with Miami-Dade product approvals, coordinated with association facade standards so your glass matches the building and satisfies the code."
         },
         {
-          "name": "Finishes and millwork",
+          "name": "Millwork, stone, and quiet floors",
           "desc": "Custom cabinetry, natural stone, and wide-plank flooring installed over the sound-attenuation underlayment most Aventura associations require before approving hard floors."
         }
       ],
@@ -90,15 +90,15 @@
       "scope_intro": "From demolition to the last cabinet pull — designed, permitted, and installed by one team that treats your building's rules as part of the drawing set.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry built to elevation drawings",
           "desc": "Fully custom boxes and fronts built to elevation drawings, with interiors organized for how you actually cook — or for how your chef does."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Quartzite and marble, templated on site",
           "desc": "Quartzite, marble, and porcelain slabs padded, protected, and ridden up the service elevator without drama, then templated and seamed properly on site."
         },
         {
-          "name": "Layout and wall changes",
+          "name": "Galley walls opened where structure allows",
           "desc": "Galley walls opened where the structure allows, verified against building drawings first, so the island you want never meets a column you did not know about."
         },
         {
@@ -106,7 +106,7 @@
           "desc": "Sinks, dishwashers, and wine storage moved within what riser stacks and slab depths permit — engineered honestly instead of promised casually."
         },
         {
-          "name": "Lighting design",
+          "name": "Layered light on new circuits",
           "desc": "Layered task, ambient, and accent lighting on new circuits and dimmers, replacing the single sad ceiling fixture your kitchen came with."
         }
       ],
@@ -150,19 +150,19 @@
       "scope_intro": "Complete demolition-to-detail scopes for primary baths, guest baths, and powder rooms — engineered around your slab, your stacks, and your association's paperwork.",
       "scope_items": [
         {
-          "name": "Primary suite conversions",
+          "name": "Eighties bathrooms opened into suites",
           "desc": "Reworked layouts that turn compartmentalized eighties bathrooms into open suites with double vanities, real storage, and a shower you do not have to negotiate with."
         },
         {
-          "name": "Frameless showers",
+          "name": "Curbless showers where slab allows",
           "desc": "Curbless entries where slab depth allows, linear drains, full-height glass, and niches planned on the drawings instead of improvised on demo day."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Freestanding tubs, loads checked",
           "desc": "Sculptural tubs set on proper blocking, floor-mounted fillers roughed in precisely, and loads checked against the structure before the stone arrives."
         },
         {
-          "name": "Stone and tile work",
+          "name": "Stone over flood-tested waterproofing",
           "desc": "Book-matched slabs, large-format porcelain, and mosaics installed flat and aligned — over waterproofing that is flood-tested and inspected, never assumed."
         },
         {
@@ -210,15 +210,15 @@
       "scope_intro": "Five ways owners here get more room without changing their zip code — each one engineered, permitted, and matched to the original structure.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Glass-walled rooms out the back",
           "desc": "Family rooms, expanded kitchens, and glass-walled living space added behind Aventura Lakes and Country Club Estates homes, tied cleanly into the existing roofline."
         },
         {
-          "name": "Second-story additions",
+          "name": "Upper floors on reinforced foundations",
           "desc": "New upper floors with reinforced foundations and engineered load paths — the honest way to double space on a lot you cannot widen."
         },
         {
-          "name": "Garage conversions",
+          "name": "Garages rebuilt as living space",
           "desc": "Garages rebuilt as guest suites, gyms, or offices with conditioned air, proper windows, and finishes that match the rest of the house."
         },
         {
@@ -226,7 +226,7 @@
           "desc": "Adjacent tower units joined into one residence — association approvals, engineering on the shared wall, and mechanical systems merged so it feels born that way."
         },
         {
-          "name": "Structural upgrades",
+          "name": "Tie beams and hurricane hardening",
           "desc": "Tie-beam work, foundation reinforcement, and hurricane hardening folded into the project, because opening a structure is the cheapest moment to strengthen it."
         }
       ],
@@ -270,15 +270,15 @@
       "scope_intro": "Outdoor rooms and building-envelope work for Aventura houses, townhomes, and terraces — permitted, wind-rated, and specified for a waterfront city.",
       "scope_items": [
         {
-          "name": "Covered terraces and pergolas",
+          "name": "Terraces that keep the golf view",
           "desc": "Shade structures engineered for HVHZ wind loads, anchored the way the code insists, and detailed so the golf-course view stays the point."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchens with permitted gas",
           "desc": "Outdoor kitchens with gas, water, and power run correctly under permit — grills, refrigeration, and stone counters that live outside without apology."
         },
         {
-          "name": "Driveways and hardscape",
+          "name": "Pavers set on drained bases",
           "desc": "Paver driveways, walkways, and pool surrounds set on proper bases with drainage planned, because South Florida rain is not a rounding error."
         },
         {

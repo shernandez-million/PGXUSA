@@ -17,7 +17,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación integral de casas en Doral, FL | PGX Builders",
-      "meta_description": "Remodelación integral de casas en Doral, FL. Renovamos a fondo casas de los 90 y 2000, con permisos de la Ciudad de Doral y supervisión diaria. (786) 273-2524.",
+      "meta_description": "Remodelación integral en Doral, FL. Renovamos a fondo casas de los 90 y 2000, con permisos de la ciudad y supervisión diaria. (786) 273-2524.",
       "h1": "Remodelación integral en Doral",
       "hero_sub": "PGX Builders Group toma las casas de Doral construidas en los noventa y los dos mil, las lleva hasta su estructura sana y las reconstruye — con permisos de la Ciudad de Doral, supervisión diaria y acabados a la altura de la dirección.",
       "local_heading": "Conocemos las casas de Doral por dentro",
@@ -30,19 +30,19 @@
       "scope_intro": "Cada proyecto recibe un alcance por escrito antes de empezar. Estas son las piezas que más combinamos en las casas de Doral de los noventa y los dos mil.",
       "scope_items": [
         {
-          "name": "Distribución y aperturas estructurales",
-          "desc": "Eliminamos paredes entre la cocina y las áreas sociales, con vigas de ingeniería y revisión estructural de la Ciudad de Doral, para darle a un plano de 2003 la fluidez que nunca tuvo."
+          "name": "Abrir el plano de 2003",
+          "desc": "Eliminamos paredes entre la cocina y las áreas sociales, con vigas de ingeniería y revisión estructural de la Ciudad de Doral, para darle al plano de la constructora la fluidez que nunca tuvo."
         },
         {
-          "name": "Renovación total de instalaciones",
-          "desc": "Paneles eléctricos, cableado, líneas de suministro de plomería y ductos de aire llevados al código vigente — los sistemas detrás de estas paredes de constructora suelen ser los originales, y ya cumplieron su ciclo."
+          "name": "Sistemas tras la pared de constructora",
+          "desc": "Paneles eléctricos, cableado, líneas de suministro de plomería y ductos de aire llevados al código vigente — detrás de estas paredes los sistemas suelen ser los originales, y ya cumplieron su ciclo."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Vidrio de impacto, sin shutters",
           "desc": "Vidrio de impacto aprobado por Miami-Dade en toda la casa, en reemplazo de las ventanas de constructora y los shutters, con las aprobaciones de producto HVHZ incluidas en el expediente del permiso."
         },
         {
-          "name": "Acabados y carpintería fina",
+          "name": "Empotrados y drywall nivel 5",
           "desc": "Porcelanato de gran formato o pisos de madera, closets y muebles empotrados a medida, drywall nivel 5 y un diseño de iluminación que jubila las luces empotradas genéricas de los dos mil."
         },
         {
@@ -77,7 +77,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Doral: gabinetes y piedra | PGX",
-      "meta_description": "Remodelación de cocinas a medida en Doral, FL: gabinetes a la orden, piedra, islas y cambios de distribución. Con permisos y supervisión diaria. (786) 273-2524.",
+      "meta_description": "Cocinas a medida en Doral, FL: gabinetes a la orden, piedra, islas y cambios de distribución, con permisos y supervisión. (786) 273-2524.",
       "h1": "Cocinas de Doral, reconstruidas desde la estructura",
       "hero_sub": "Gabinetes a medida, topes de piedra e islas que de verdad caben en el espacio — diseñadas, con permisos de la Ciudad de Doral e instaladas bajo la supervisión diaria de un contratista general licenciado del sur de la Florida.",
       "local_heading": "El problema de la cocina de constructora",
@@ -90,24 +90,24 @@
       "scope_intro": "De un refrescamiento cosmético a una reconfiguración completa, cada cocina que construimos en Doral empieza con un alcance por escrito. Estos son los elementos típicos.",
       "scope_items": [
         {
-          "name": "Gabinetes a medida",
-          "desc": "Cajas y frentes hechos a la orden que llegan hasta el techo, con interiores planificados alrededor de cómo cocina usted en realidad, no de una tabla de medidas estándar."
+          "name": "Gabinetes que llegan al techo",
+          "desc": "Cajas y frentes hechos a la orden, con interiores planificados alrededor de cómo cocina usted en realidad, no de una tabla de medidas estándar."
         },
         {
-          "name": "Topes e islas de piedra",
-          "desc": "Cuarzo, cuarcita o mármol natural plantillados después de instalar los gabinetes, con islas dimensionadas para los family rooms abiertos de Doral y los asientos del lado correcto."
+          "name": "Islas para el family room",
+          "desc": "Cuarzo, cuarcita o mármol natural plantillados después de instalar los gabinetes, a la escala de los planos abiertos de Doral y con los asientos del lado correcto."
         },
         {
-          "name": "Reubicación de electrodomésticos",
-          "desc": "Mover la cocción y la refrigeración para ajustarse al plano abierto, incluyendo las acometidas de gas, electricidad y ventilación, cada una con su propia inspección."
+          "name": "Equipos para el plano abierto",
+          "desc": "Mover la cocción y la refrigeración para ajustarse a la nueva distribución, incluyendo las acometidas de gas, electricidad y ventilación, cada una con su propia inspección."
         },
         {
-          "name": "Eliminación de paredes",
+          "name": "Tumbar la pared de la cocina",
           "desc": "La eliminación con ingeniería de la pared entre la cocina y el área social — el cambio que más hace, por sí solo, por un plano de Doral de los dos mil."
         },
         {
-          "name": "Diseño de iluminación",
-          "desc": "Circuitos nuevos que alimentan luz de trabajo, ambiental y de acento donde el constructor dejó una sola caja en el techo y dio el tema por resuelto."
+          "name": "Luz donde había una sola caja",
+          "desc": "Circuitos nuevos que alimentan luz de trabajo, ambiental y de acento donde el constructor dejó un solo punto en el techo y dio el tema por resuelto."
         }
       ],
       "faqs": [
@@ -137,7 +137,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños en Doral, FL — bien hecha | PGX Builders",
-      "meta_description": "Remodelación de baños en Doral, FL. Fuera la tina de esquina; adentro, duchas sin bordillo e impermeabilización de verdad, con permisos de la ciudad. (786) 273-2524.",
+      "meta_description": "Remodelación de baños en Doral, FL. Fuera la tina de esquina; adentro, duchas sin bordillo e impermeabilización de verdad. (786) 273-2524.",
       "h1": "Baños principales, sin la tina de esquina",
       "hero_sub": "PGX convierte los baños principales de Doral en piedra, vidrio y lujo silencioso — con todos los permisos de la Ciudad de Doral y una impermeabilización a estándares que nadie ve pero todos agradecen.",
       "local_heading": "Lo que esconden los baños de Doral",
@@ -150,24 +150,24 @@
       "scope_intro": "Sea una sola suite principal o todos los baños de la casa, el alcance por escrito cubre estos elementos y más.",
       "scope_items": [
         {
-          "name": "Duchas sin bordillo",
-          "desc": "Vidrio sin marco, drenajes lineales y pendiente integrada al piso — la huella de la tina de esquina casi siempre le da a la ducha nueva espacio para respirar."
+          "name": "Ducha donde estaba la tina",
+          "desc": "Vidrio sin marco, drenajes lineales y pendiente integrada al piso — la vieja tina de esquina casi siempre le deja a la ducha nueva espacio para respirar."
         },
         {
-          "name": "Sistemas de impermeabilización",
+          "name": "La capa debajo de la cerámica",
           "desc": "Sistemas de membrana y platos con prueba de inundación, instalados según la especificación del fabricante e inspeccionados por la ciudad antes de colocar la cerámica. Invisibles, y no negociables."
         },
         {
-          "name": "Tinas independientes",
+          "name": "Tinas independientes, dibujadas primero",
           "desc": "Colocadas con el llenador de piso, el refuerzo y la reubicación del drenaje planificados primero en planos, para que la pieza estelar nunca se convierta en una improvisación de plomería."
         },
         {
-          "name": "Piedra y cerámica",
-          "desc": "Láminas de porcelanato, piedra natural y piezas de gran formato colocadas a nivel y alineadas, con despieces dibujados antes de ordenar para que los cortes caigan donde deben."
+          "name": "Despiece dibujado antes de ordenar",
+          "desc": "Láminas de porcelanato, piedra natural y piezas de gran formato colocadas a nivel y alineadas, con los cortes planificados para que caigan donde deben."
         },
         {
-          "name": "Muebles de baño e iluminación",
-          "desc": "Muebles de baño dobles a medida, ventilación silenciosa dimensionada al cuarto y una iluminación por capas que favorece a las siete de la mañana mejor de lo que una tira Hollywood jamás lo hizo."
+          "name": "Muebles dobles y ventilación silenciosa",
+          "desc": "Muebles de baño dobles a medida, ventilación dimensionada al cuarto y una iluminación por capas que favorece a las siete de la mañana mejor de lo que una tira Hollywood jamás lo hizo."
         }
       ],
       "faqs": [
@@ -197,7 +197,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones y extensiones de casas en Doral, FL | PGX",
-      "meta_description": "Ampliaciones de casas en Doral, FL: extensiones traseras, segundos pisos y suites tipo in-law, con la HOA y los permisos de la ciudad resueltos. (786) 273-2524.",
+      "meta_description": "Ampliaciones en Doral, FL: extensiones traseras, segundos pisos y suites tipo in-law, con la HOA y los permisos resueltos. (786) 273-2524.",
       "h1": "Más casa, misma dirección en Doral",
       "hero_sub": "Ampliaciones para Doral — extensiones traseras, segundos pisos y suites tipo in-law, con ingeniería y permisos de la Ciudad de Doral, construidas por un solo equipo licenciado que mantiene habitable el resto de la casa.",
       "local_heading": "Espacio para crecer en una ciudad ya construida",
@@ -210,23 +210,23 @@
       "scope_intro": "Cada ampliación empieza por lo que el lote, la zonificación y su HOA permiten. Estos son los proyectos que más nos piden los dueños en Doral.",
       "scope_items": [
         {
-          "name": "Extensiones traseras",
-          "desc": "Empujar la pared del fondo para lograr una cocina, un family room o una suite principal más grandes, sobre cimientos nuevos amarrados a la estructura existente."
+          "name": "Empujar la pared del fondo",
+          "desc": "La pared del fondo se corre para lograr una cocina, un family room o una suite principal más grandes, sobre cimientos nuevos amarrados a la estructura existente."
         },
         {
-          "name": "Segundos pisos",
-          "desc": "Cuando la cobertura de lote en Doral dice que no hacia los lados, vamos hacia arriba — con el análisis estructural y el refuerzo que un piso adicional exige de verdad."
+          "name": "Hacia arriba, no hacia los lados",
+          "desc": "Cuando la cobertura de lote en Doral descarta ampliar la huella, el piso adicional recibe el análisis estructural y el refuerzo que de verdad exige."
         },
         {
-          "name": "Suites tipo in-law",
-          "desc": "Dormitorio, baño y sala de estar privados para hogares multigeneracionales, diseñados para que los huéspedes que se quedan una temporada tengan una puerta propia."
+          "name": "Un ala para los suegros",
+          "desc": "Dormitorio, baño y sala de estar privados, diseñados para que la familia que se queda una temporada tenga una puerta propia."
         },
         {
-          "name": "Conversiones de garaje",
+          "name": "El garaje como gimnasio u oficina",
           "desc": "Convertir el garaje en gimnasio, oficina o cuarto de huéspedes donde la zonificación y su asociación lo permiten, con el aislamiento y el aire acondicionado bien hechos."
         },
         {
-          "name": "Estructura y vigas de amarre",
+          "name": "Donde lo nuevo amarra con lo viejo",
           "desc": "Cimientos, columnas y refuerzos de vigas de amarre calculados para cargas de huracán, conectando la construcción nueva con la vieja para que toda la casa trabaje como una sola."
         }
       ],
@@ -257,13 +257,12 @@
     },
     "outdoor-living": {
       "title": "Contratista de exteriores y terrazas en Doral, FL | PGX",
-      "meta_description": "Construcción de exteriores en Doral, FL: cocinas de verano, pérgolas y terrazas con ingeniería para huracanes y aprobación de su HOA. Llame a PGX al (786) 273-2524.",
+      "meta_description": "Exteriores en Doral, FL: cocinas de verano, pérgolas y terrazas con ingeniería para huracanes y aprobación de su HOA. (786) 273-2524.",
       "h1": "Espacios exteriores para las noches de Doral",
       "hero_sub": "Cocinas de verano, terrazas techadas y pérgolas — exteriores construidos para los lotes de lago y de golf de Doral, aprobados por la HOA, con permisos de la Ciudad de Doral e ingeniería para tierra de huracanes.",
       "local_heading": "El lote es la mitad de la casa",
       "intro_paragraphs": [
-        "Los patios de Doral vienen con activos que otros suburbios de Miami envidian — frente de lago en Doral Isles y las Islands at Doral, vistas de golf en Doral Estates y Costa del Sol — y la mayoría todavía lleva puesto el patio con malla original del constructor y una franja de adoquines. Los dueños están pasando a verdaderos ambientes exteriores: terrazas techadas con cielos de machimbre, cocinas de verano con ventilación de verdad, pérgolas con ingeniería real, y pisos de travertino o porcelanato que tratan el patio como espacio habitable y no como un paisaje."
-        ,
+        "Los patios de Doral vienen con activos que otros suburbios de Miami envidian — frente de lago en Doral Isles y las Islands at Doral, vistas de golf en Doral Estates y Costa del Sol — y la mayoría todavía lleva puesto el patio con malla original del constructor y una franja de adoquines. Los dueños están pasando a verdaderos ambientes exteriores: terrazas techadas con cielos de machimbre, cocinas de verano con ventilación de verdad, pérgolas con ingeniería real, y pisos de travertino o porcelanato que tratan el patio como espacio habitable y no como un paisaje.",
         "El trabajo exterior es donde los comités arquitectónicos de las HOA de Doral ponen más atención, porque todo se ve: pérgolas, adoquines, colores de pintura exterior, hasta el driveway. Las aprobaciones pasan por su asociación y por el Building Department de la Ciudad de Doral, y las estructuras como pérgolas y terrazas techadas deben calcularse para las cargas de viento de la High Velocity Hurricane Zone — una pérgola que no está anclada para una tormenta es simplemente escombro futuro. Las cocinas de verano suman subpermisos de gas y electricidad. Nosotros preparamos planos que satisfacen a ambos revisores en una sola pasada, que es más rápido que aprender sus preferencias a punta de rechazos.",
         "Los proyectos exteriores premian a un solo contratista responsable, porque los oficios se apilan: la losa de la terraza antes de la cocina de verano, el estuco antes de la pintura, los amarres del techo antes de cerrar cualquier cielo raso. PGX secuencia todo bajo un solo alcance fijo por escrito y un supervisor diario, coordinando reemplazos de techo y aperturas de impacto junto con la obra exterior, para que la casa se intervenga una vez y no cuatro. Llevamos más de 20 años construyendo a la intemperie en el sur de la Florida, tiempo suficiente para respetar el sol, la lluvia y la HOA."
       ],
@@ -271,23 +270,23 @@
       "scope_intro": "De un refrescamiento de terraza a una reconstrucción completa del patio, cada elemento aquí abajo se diseña, se aprueba, se tramita con permisos y se inspecciona.",
       "scope_items": [
         {
-          "name": "Cocinas de verano",
-          "desc": "Parrillas empotradas, ventilación, refrigeración y topes de piedra, con las líneas de gas y electricidad tramitadas ante la ciudad — un ambiente exterior donde de verdad se cocina."
+          "name": "Cocina de verano con parrilla",
+          "desc": "Parrillas, ventilación, refrigeración y topes de piedra, con las líneas de gas y electricidad tramitadas ante la ciudad — un ambiente exterior donde de verdad se cocina."
         },
         {
-          "name": "Terrazas techadas y pérgolas",
+          "name": "Terrazas techadas y pérgolas calculadas",
           "desc": "Estructuras de sombra calculadas para cargas de viento de huracán y detalladas para hacer juego con la casa, no atornilladas como una ocurrencia tardía."
         },
         {
-          "name": "Pisos exteriores y driveways",
+          "name": "Adoquines sobre drenaje planificado",
           "desc": "Travertino, porcelanato para exterior e instalación de driveways nuevos, con el drenaje planificado primero y las aprobaciones de color y material de la HOA resueltas por nosotros."
         },
         {
-          "name": "Estuco y pintura exterior",
-          "desc": "Reparación de grietas, recubrimientos impermeables y repintados completos en paletas aprobadas por la asociación, que mantienen actual una fachada de los años noventa."
+          "name": "Fachadas de los noventa, al día",
+          "desc": "Reparación de grietas, recubrimientos impermeables y repintados completos en paletas aprobadas por la asociación, para que la fachada deje de delatar su edad."
         },
         {
-          "name": "Aperturas de impacto y techo",
+          "name": "La casa abierta a la terraza",
           "desc": "Paredes de vidrio corredizas y puertas de impacto que conectan la casa con la terraza, coordinadas con el cambio de techo para que garantías y tapajuntas sobrevivan a ambos proyectos."
         }
       ],

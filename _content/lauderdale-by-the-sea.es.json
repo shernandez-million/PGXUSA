@@ -1,0 +1,321 @@
+{
+  "area_slug": "lauderdale-by-the-sea",
+  "neighborhoods": [
+    "Terra Mar Island Estates",
+    "Bel Air",
+    "Bel Air Isles",
+    "Silver Shores",
+    "Lauderdale Surf & Yacht Estates",
+    "El Mar Drive",
+    "Palm Club",
+    "Poinciana Street",
+    "Terra Mar Drive",
+    "Bougainvilla Drive",
+    "Villas by the Sea",
+    "Ocean Colony",
+    "Sea Ranch Club",
+    "Sea Ranch Villas"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral en Lauderdale-by-the-Sea | PGX Builders",
+      "meta_description": "Remodelación integral de casas de los años cincuenta en Lauderdale-by-the-Sea, FL. Permisos del pueblo, código de Broward. (786) 273-2524.",
+      "h1": "Casas de la isla barrera, rehechas desde la losa",
+      "hero_sub": "Remodelaciones integrales para casas y condominios de Lauderdale-by-the-Sea: estructura, instalaciones, vidrio de impacto y acabados. Con permisos del Development Services Department del pueblo, inspecciones bajo el código de Broward y la supervisión diaria de un contratista general licenciado, Lic. CGC1539072.",
+      "local_heading": "Una isla angosta, con sal de los dos lados",
+      "intro_paragraphs": [
+        "Lauderdale-by-the-Sea es una franja angosta de isla barrera, con el océano de un lado y el Intracoastal del otro, y la mayoría de sus casas se levantaron cuando eso parecía suficiente. Bel Air y Silver Shores están llenos de casas bajas de los años cincuenta y sesenta, con pisos de terrazo, aberturas de la época de las celosías y cocinas dimensionadas para una greca. Terra Mar Island Estates tiene los lotes de canal y los muelles. La remodelación integral aquí casi siempre trae el mismo encargo: conservar la línea del techo y la dirección, y reemplazar todo lo que toque agua, aire o cableado.",
+        "El permiso lo emite el Development Services Department del Town of Lauderdale-by-the-Sea, donde la Building Division opera por contrato con CAP Government y la revisión de planos es electrónica. Detrás del pueblo está el Broward County Board of Rules and Appeals, que administra el código de construcción en todo el condado, certifica a los funcionarios que inspeccionan su obra y emite las interpretaciones que zanjan las discusiones. Broward es territorio de High-Velocity Hurricane Zone, así que cada ventana y cada puerta necesita aprobación de producto HVHZ. Aquí no hay junta de arquitectura que satisfacer: la zonificación de baja altura define la forma, y las variaciones se resuelven ante el Board of Adjustment, que es el mismo Planning and Zoning Board sesionando en esa función.",
+        "Llevamos más de veinte años construyendo en el sur de la Florida, con más de 150 remodelaciones y ampliaciones entregadas, todas con permisos e inspecciones. En una isla así de angosta esa experiencia se nota en la logística: acopio que no bloquea la entrada del vecino, contenedores programados alrededor del tráfico de temporada en El Mar Drive, y cuadrillas que se anuncian en la garita de Terra Mar sin dar problema. El alcance queda fijo por escrito antes de la demolición. Hay un supervisor en obra todos los días. Y el mismo equipo responde por la obra, del estimado a la garantía."
+      ],
+      "scope_heading": "Qué incluye el alcance en la isla",
+      "scope_intro": "Nada empieza hasta que el alcance está escrito y con precio. Estas son las piezas que aparecen en casi todos los proyectos integrales de Lauderdale-by-the-Sea.",
+      "scope_items": [
+        {
+          "name": "Paredes fuera, vistas adentro",
+          "desc": "Eliminar divisiones interiores en casas de bloque de mediados de siglo, con vigas de ingeniería y cálculos sellados donde la estructura del techo necesita un nuevo punto de apoyo."
+        },
+        {
+          "name": "Tuberías, cableado y ductos",
+          "desc": "Servicio eléctrico y panel nuevos, líneas de suministro y drenajes, más aire acondicionado dimensionado para una casa que por fin tiene aislamiento de verdad y aberturas selladas."
+        },
+        {
+          "name": "Vidrio y puertas de impacto",
+          "desc": "Ventanas y corredizas con aprobación HVHZ instaladas con contramarcos, anclajes y tapajuntas como corresponde, porque el aire salino descubre cualquier atajo en una temporada o dos."
+        },
+        {
+          "name": "Carpintería fina y pisos",
+          "desc": "Terrazo restaurado o reemplazado, techos de popcorn fuera, y molduras a medida pensadas para cuartos de ocho pies de mediados de siglo, no copiadas de un catálogo de dos plantas."
+        },
+        {
+          "name": "Cocina y baños al final",
+          "desc": "Ambos oficios integrados al juego de permisos principal, para que impermeabilización, piedra y ebanistería ocurran una sola vez y en orden, en lugar de tres veces en tres fases."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Quién emite en realidad mi permiso de construcción en Lauderdale-by-the-Sea?",
+          "a": "El pueblo, a través de su Development Services Department. La Building Division opera por contrato con CAP Government, y solicitudes, planos y comentarios se mueven por un portal electrónico de revisión en lugar de un mostrador. Las inspecciones se piden en línea o por correo, con una hora de corte para agendar al día siguiente. Nosotros armamos los expedientes, respondemos los comentarios y llevamos el calendario de inspecciones, para que su proyecto no se quede esperando una llamada."
+        },
+        {
+          "q": "¿Por qué aquí todo el mundo menciona el Board of Rules and Appeals?",
+          "a": "Porque es la capa del condado que los proyectos de Miami-Dade no tienen. El Broward County Board of Rules and Appeals administra el Florida Building Code con las enmiendas de Broward, certifica a los funcionarios e inspectores de construcción de los municipios del condado, atiende las apelaciones a sus decisiones y emite interpretaciones formales cuando una sección del código está genuinamente en disputa. Usted nunca se va a sentar frente a él por una cocina. Importa porque el inspector que llega a su obra trabaja con un estándar de todo el condado, y construir para ese estándar es más fácil cuando su contratista lo conoce."
+        },
+        {
+          "q": "Mi casa está en zona de inundación. ¿Eso le pone tope a lo que puedo invertir en la remodelación?",
+          "a": "No le pone tope al gasto, pero sí cambia lo que una cifra grande lo obliga a hacer. La regla federal de mejora sustancial compara el costo del proyecto contra el valor de la estructura existente; si cruza el umbral, el edificio entero tiene que ponerse en cumplimiento con las normas de inundación, elevación incluida. En una isla barrera que está apenas unos pies sobre el nivel del mar, ese análisis va al comienzo del proyecto, antes de los planos, y no en la ventanilla de permisos."
+        },
+        {
+          "q": "¿Se le puede agregar un segundo piso a una casa en Lauderdale-by-the-Sea?",
+          "a": "Muchas veces sí, dentro de ciertos límites. La zonificación del pueblo protege un carácter de baja altura: la altura residencial se mide en un número corto de pisos y de pies, no en los volúmenes abiertos que se ven en otros puntos de la costa. Así que la pregunta rara vez es si puede crecer hacia arriba, sino cuánto de lo que quiere cabe debajo del tope. Revisamos zonificación y estructura juntas, y temprano, para que nadie le pague a un arquitecto por dibujar algo que el código no va a permitir."
+        },
+        {
+          "q": "¿Cuánto cuesta una remodelación integral aquí?",
+          "a": "Antes de una visita, los rangos amplios son la única respuesta honesta, porque una renovación de acabados y una remodelación a fondo con instalaciones nuevas, vidrio de impacto y trabajo estructural son proyectos distintos con el mismo nombre. Lo que sí comprometemos es un alcance fijo por escrito con partidas reales, en lugar de un número gancho que después crece. PGX es un constructor de alta gama: rara vez somos la oferta más baja, y los clientes nos contratan porque la cifra que firman se sostiene."
+        }
+      ],
+      "cta_heading": "Una visita, un número honesto",
+      "cta_sub": "Traiga la lista de deseos, el levantamiento del lote si lo tiene y sus preguntas. Respondemos con franqueza y dejamos el alcance por escrito, en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Remodelación de cocinas en Lauderdale-by-the-Sea | PGX",
+      "meta_description": "Remodelación de cocinas en Lauderdale-by-the-Sea, FL: cae la pared de la cocina de pasillo y entran gabinetes hechos para el salitre. (786) 273-2524.",
+      "h1": "El último día de la cocina de pasillo",
+      "hero_sub": "Gabinetes a medida, topes de piedra y cambios de distribución de verdad para cocinas de Lauderdale-by-the-Sea, incluidas las de condominio, con elevador de servicio y junta de por medio. Con permisos, inspecciones y un contratista general licenciado al frente.",
+      "local_heading": "Cocinas hechas para la sal y las visitas",
+      "intro_paragraphs": [
+        "En este pueblo dominan dos problemas de cocina. En las cuadras de casas unifamiliares de Bel Air, Silver Shores y Terra Mar Island Estates, la cocina original de los años cincuenta es un cuarto cerrado al fondo de la casa, con una ventana que da al vecino, construida cuando nadie recibía visitas ahí. En los edificios boutique de El Mar Drive y North Ocean Boulevard, la cocina es un pasillo angosto metido detrás de una pared que nunca fue estructural pero que siempre se ha tratado como sagrada. Los dos problemas tienen la misma solución: tumbar la pared y empezar de nuevo.",
+        "Plomería, electricidad, mecánica y casi siempre estructura entran en juego, así que la cocina se tramita ante Lauderdale-by-the-Sea Development Services con inspecciones en cada etapa en bruto. Planos y comentarios pasan por el portal electrónico de revisión del pueblo. Si vive en un condominio, la aprobación de la asociación va antes que la del pueblo: cuente con una carta de arquitecto para cualquier cosa estructural, certificados de seguro del contratista, reglas de transmisión de ruido para el piso nuevo y ventanas de elevador de servicio que deciden cuándo pueden llegar sus gabinetes. Los edificios de tres pisos en adelante además viven hoy dentro del régimen de milestone inspections y estudios de reservas de la Florida.",
+        "Ordenamos la ebanistería temprano y plantillamos la piedra después de instalar las cajas, que es la disciplina aburrida que evita que una cocina llegue tres semanas tarde y un cuarto de pulgada corrida. Cada electrodoméstico recibe su circuito, las campanas se conducen al exterior en vez de recircular hacia el cuarto, y toda junta que algún día verá agua se detalla antes de ordenar la loseta. El alcance queda fijo por escrito, hay un supervisor de PGX en obra todos los días, y el resto de su casa se cubre y se encinta con el cuidado que merece una casa donde vive gente."
+      ],
+      "scope_heading": "Piezas de una cocina de casa de playa",
+      "scope_intro": "Todo se cotiza línea por línea antes de demoler nada, para que usted sepa qué está comprando. Estas piezas se repiten en casi todas las cocinas de por aquí.",
+      "scope_items": [
+        {
+          "name": "Ebanistería para el salitre",
+          "desc": "Cajas y puertas hechas a la orden, con acabados escogidos para aguantar la humedad de la isla y dimensionadas al techo que usted tiene, no al que supone un catálogo."
+        },
+        {
+          "name": "Islas y topes de piedra",
+          "desc": "Mármol, cuarcita o porcelánico plantillados en sitio, con la estructura de la isla calculada para el peso de la losa y para el voladizo donde alguien terminará sentándose."
+        },
+        {
+          "name": "La pared que sale",
+          "desc": "Cálculos de carga, detalle de viga sellado y permiso para abrir una cocina de bloque de los años sesenta hacia la sala, que es donde todo el mundo se para de todos modos."
+        },
+        {
+          "name": "Mover los electrodomésticos",
+          "desc": "Reubicar estufa, refrigeración y fregadero donde la distribución los pide, con drenajes, ventilación y circuitos dedicados nuevos, tramitados e inspeccionados en vez de improvisados."
+        },
+        {
+          "name": "Luz para cocinar de verdad",
+          "desc": "Iluminación de trabajo, ambiental y bajo gabinete en controles separados, más la capacidad de panel que una estufa de inducción y una cava de vinos exigen sin avisar."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "La junta de mi condominio tiene que aprobar la cocina. ¿Cómo se combina eso con el pueblo?",
+          "a": "Son dos aprobaciones, y en ese orden. La asociación revisa primero: casi siempre pide planos sellados para cualquier cosa estructural, un contratista licenciado y asegurado en el expediente, y acuerdos sobre horarios de trabajo, uso del elevador y ruta de escombros. Resuelto eso, la solicitud de permiso va al pueblo. Correr ambas en paralelo suena eficiente y rara vez lo es, porque una condición de la junta puede obligar a cambiar un plano que el pueblo ya revisó. Ordenamos el papeleo para que usted pague un solo juego de planos."
+        },
+        {
+          "q": "¿Se puede tumbar la pared entre la cocina y la sala?",
+          "a": "Por lo general sí, y eso lo decide un ingeniero, no una cinta métrica. La mayoría de las casas de mediados de siglo en Bel Air y Terra Mar son de bloque de concreto con viga de amarre vaciada, así que abrir un vano es un problema de viga y columnas, no un imposible. Las paredes de segundos pisos y de condominios necesitan el mismo escrutinio por razones distintas. Hacemos evaluar la estructura antes de que el diseño se ponga sentimental, porque mover una viga en el papel es muchísimo más barato."
+        },
+        {
+          "q": "¿Cuánto tiempo voy a estar sin cocina?",
+          "a": "El cronograma lo marca la fabricación de la ebanistería, no la demolición. Los paquetes a medida se miden en meses, así que los ordenamos primero y dejamos su cocina funcionando hasta que la fecha de entrega sea real. La obra en sitio de una cocina sencilla suele tomar un par de meses; súmele aperturas estructurales, reubicación de electrodomésticos o el calendario del elevador de un condominio y se estira. La secuencia se la entregamos por escrito para que pueda organizar su vida alrededor de ella."
+        },
+        {
+          "q": "¿Necesito permiso para una cocina tan cerca de la playa?",
+          "a": "La cercanía al océano no cambia la respuesta sobre permisos; el alcance sí. Mover un drenaje, agregar un circuito, correr una línea de gas o abrir una pared exige permisos e inspecciones del pueblo. Cambiar un lavaplatos por otro en la misma conexión, no. Lo que sí cambia la costa es la especificación: acabados de electrodomésticos, herrajes y componentes de campana se corroen rápido a unos cientos de pies del rocío salino, así que escogemos pensando en el ambiente y no en el showroom."
+        },
+        {
+          "q": "¿Adónde se va de verdad el dinero en una cocina de alta gama?",
+          "a": "Encabezan la ebanistería y la piedra, los electrodomésticos vienen pisándoles los talones, y el tercer rubro, el invisible, es todo lo que queda dentro de las paredes: líneas nuevas de suministro y drenaje, circuitos dedicados, capacidad de panel y ventilación conducida al exterior. Las selecciones mueven el total más que los pies cuadrados, y por eso definimos el alcance contra una especificación y no contra un cálculo por pie. Espere un número fijo por escrito después de una visita, y espere franqueza si su presupuesto y sus fotos de referencia no se están hablando."
+        }
+      ],
+      "cta_heading": "Enséñenos esa cocina de pasillo",
+      "cta_sub": "Muéstrenos el cuarto y las fotos que ha ido guardando. Sale de la reunión con un alcance real y un número real, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Lauderdale-by-the-Sea, FL | PGX",
+      "meta_description": "Baños de isla barrera en Lauderdale-by-the-Sea, FL: grifería que resiste el salitre, platos probados con agua, vidrio pesado anclado. (786) 273-2524.",
+      "h1": "Baños pequeños, construidos como barcos",
+      "hero_sub": "Suites principales, mamparas sin marco y tinas independientes para casas y condominios de Lauderdale-by-the-Sea, levantadas sobre membranas probadas con agua, con permisos del pueblo e inspección antes de que se coloque una sola loseta.",
+      "local_heading": "Cuartos chicos, detalles que no perdonan",
+      "intro_paragraphs": [
+        "Nada delata la edad de una casa como el baño, y en esta isla la mayoría se trazaron en los años cincuenta y sesenta. Un baño de tres piezas dando al pasillo, una tina que nadie usa y una ventana que ventila directo al carport del vecino. En Bel Air y Silver Shores los dueños lo resuelven anexando un clóset o un tercer cuarto pequeño para armar una suite principal de verdad. En los condominios de El Mar Drive la huella no se mueve, así que el trabajo va hacia arriba: mejor luz, mejor almacenamiento y una ducha a la que no haya que subirse para entrar.",
+        "El trabajo de baño en Lauderdale-by-the-Sea se tramita ante el Development Services Department del pueblo, con inspecciones de plomería, electricidad y mecánica en bruto antes de tapar nada. Esa secuencia es una ventaja y no un obstáculo: significa que alguien verificó el plato de la ducha y la plomería en bruto mientras todavía estaban a la vista. Los dueños de condominio suman primero la capa de la asociación, más los requisitos de atenuación acústica bajo la loseta nueva y la coordinación con un edificio que quizá esté resolviendo su propia milestone inspection. La administración del código en todo el condado, a cargo del Board of Rules and Appeals, fija el estándar que aplica su inspector.",
+        "Las partes de un baño que fallan son las que nadie fotografía. Por eso la membrana se prueba con agua y se deja llena toda la noche antes de ordenar la loseta, las pendientes se verifican con nivel y no a ojo, y el vidrio pesado se cuelga de refuerzos instalados para eso. La extracción termina afuera, lo que en una isla barrera pesa más que tierra adentro, porque aquí la humedad nunca se va del todo. Alcance fijo por escrito, supervisión diaria y pisos protegidos desde la puerta de entrada. Licenciados, asegurados y responsables bajo la Lic. CGC1539072."
+      ],
+      "scope_heading": "El cuarto chico, rehecho como se debe",
+      "scope_intro": "Cada renglón queda cerrado antes de la demolición, porque el baño es donde las sorpresas se encarecen más rápido. Esto es lo que suele entrar en la lista.",
+      "scope_items": [
+        {
+          "name": "Por fin, una suite principal",
+          "desc": "Unir un baño de pasillo, un clóset y un cuarto de huéspedes en una suite principal de verdad, con la plomería en bruto y los permisos manejados como un solo paquete."
+        },
+        {
+          "name": "Impermeabilización que se prueba",
+          "desc": "Pendiente, membrana y agua toda la noche antes de que alguien toque la loseta, con drenaje lineal y entrada a ras de piso donde la losa coopere."
+        },
+        {
+          "name": "Piedra, vidrio y tinas independientes",
+          "desc": "Mármol y cuarcita sellados para uso diario, mamparas sin marco montadas sobre refuerzos reales, y la ubicación de la tina verificada contra lo que el piso puede cargar."
+        },
+        {
+          "name": "Fuera las líneas originales",
+          "desc": "Cambiar el suministro galvanizado y el hierro fundido cansado mientras las paredes están abiertas, que es el único momento en que ese trabajo saldrá barato."
+        },
+        {
+          "name": "Extracción y luz natural",
+          "desc": "Extractor con sensor de humedad en un ducto que termina afuera, vidrio esmerilado donde los vecinos están cerca, y luz de apliques utilizable a las seis de la mañana."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Puedo tener una ducha a ras de piso en una casa sobre losa de los años cincuenta?",
+          "a": "Muchas veces sí, a veces con condiciones. Sobre losa, una entrada a ras implica hundir el plato, lo que puede exigir cortar concreto y redirigir el drenaje; que sea práctico depende de por dónde corre su línea de desagüe actual y de cuánta caída tiene. Cuando la estructura de verdad no lo permite, un bordillo de perfil bajo con el plato bien inclinado le da casi todo el efecto sin una filtración. Esa pregunta se la respondemos antes de que se comprometa con la loseta."
+        },
+        {
+          "q": "¿El pueblo inspecciona una remodelación de baño, o eso es solo para obras grandes?",
+          "a": "El pueblo inspecciona los baños. La plomería en bruto, la electricidad en bruto y el trabajo mecánico se revisan antes de cerrar paredes, y además hay una inspección final. Lauderdale-by-the-Sea opera su Building Division por contrato con CAP Government y recibe las solicitudes de inspección en línea, con una hora de corte el mismo día para las visitas del día siguiente. Agendamos según la secuencia de los oficios para que la obra no se quede parada esperando un cupo, y usted termina con un historial de permisos que sobrevive una inspección de compraventa."
+        },
+        {
+          "q": "Mi edificio está en su milestone inspection. ¿Conviene esperar para renovar?",
+          "a": "No necesariamente, pero hable con la asociación antes de ordenar nada. Las milestone inspections y los estudios de reservas estructurales pueden desatar reparaciones en todo el edificio, y si su bajante, su balcón o su losa están en esa lista, el momento de su baño importa. A veces lo inteligente es renovar justo después de que el trabajo del edificio llegue a su línea. A veces es avanzar ya y coordinar los accesos. Leemos el calendario de la junta con usted, no a espaldas de él."
+        },
+        {
+          "q": "¿Por qué importa el aire salino dentro de un baño?",
+          "a": "Porque el aire circula por toda la casa. A unos cientos de pies del Atlántico el cromo se pica, las bisagras baratas florecen en óxido y la humedad sin extracción encuentra cada junta sin sellar. Especificamos cuerpos de válvula en bronce macizo y herrajes de grado marino o con el acabado adecuado, sellamos la piedra contra la humedad y nos aseguramos de que la extracción llegue de verdad afuera y no al ático. No es nada exótico. Es la diferencia entre un baño que a los cinco años sigue viéndose nuevo y uno que no."
+        },
+        {
+          "q": "¿Cómo debo pensar el presupuesto de un baño principal?",
+          "a": "Piénselo en tres canastas: lo que se ve, lo que se pisa y lo que nunca se ve. La piedra, el vidrio y la grifería marcan el tono; la impermeabilización, las líneas nuevas de suministro y drenaje, los refuerzos y la ventilación se llevan calladamente una porción real. Un medio baño y una suite principal completa no están en la misma conversación. Definimos el espacio, lo cotizamos por escrito y preferimos perder un trabajo por honestidad antes que ganarlo con un número que sabemos que se va a mover."
+        }
+      ],
+      "cta_heading": "El baño puede ir primero",
+      "cta_sub": "Díganos qué le falla cada mañana. Lo definimos como corresponde y lo cotizamos por escrito, en español o en inglés."
+    },
+    "home-additions": {
+      "title": "Ampliaciones de casas en Lauderdale-by-the-Sea | PGX Builders",
+      "meta_description": "Ampliaciones en Lauderdale-by-the-Sea, FL: extensiones traseras, segundos pisos y suites para familiares, con ingeniería y permisos. (786) 273-2524.",
+      "h1": "Más pies cuadrados, el mismo pueblo pequeño",
+      "hero_sub": "Extensiones traseras, segundos pisos, conversiones de garaje y suites para familiares en Lauderdale-by-the-Sea, con ingeniería para las cargas de viento de la HVHZ, permisos del Development Services del pueblo y supervisión diaria de un contratista general licenciado.",
+      "local_heading": "Hacer crecer una casa en una isla angosta",
+      "intro_paragraphs": [
+        "Aquí nadie está fabricando más terreno. El pueblo mide apenas unas cuadras entre el Intracoastal y el Atlántico, y los lotes de Bel Air, Silver Shores y Terra Mar Island Estates se trazaron para las casas de un piso que todavía están paradas encima. Por eso las ampliaciones en Lauderdale-by-the-Sea son proyectos medidos: una extensión trasera que empuja el family room hacia el canal, una suite principal sobre el garaje existente, un segundo piso que cambia ático por dormitorios. Aquí la gente amplía porque quiere el muelle propio, el buceo desde la orilla y la caminata hasta el muelle de pesca, no un viaje más largo al trabajo.",
+        "Las reglas locales se ponen interesantes en el momento en que usted agrega pies cuadrados. Los retiros, la ocupación del lote y los límites de altura de baja densidad los revisa Planning and Zoning de Lauderdale-by-the-Sea antes de que la Building Division del pueblo entre a ver la estructura, y una variación implica una audiencia cuasi judicial ante el Board of Adjustment, cuyos miembros son los del Planning and Zoning Board sesionando en esa capacidad. Los planos estructurales tienen que satisfacer el Florida Building Code como Broward lo enmienda, con aprobaciones de producto calificadas para la High-Velocity Hurricane Zone en cada abertura nueva. Y si el análisis de inundación lo pasa del umbral de mejora sustancial, los requisitos de elevación llegan junto con él.",
+        "Dos décadas de obra en el sur de la Florida y más de 150 remodelaciones y ampliaciones entregadas nos enseñaron dónde se tuercen de verdad las ampliaciones: la junta entre la zapata vieja y la nueva, el empate de techo que filtra en el tercer año, y los meses de una familia viviendo alrededor de una obra. Amarramos los cimientos nuevos como corresponde, igualamos textura de estuco y perfil de techo hasta que la costura desaparece, y mantenemos la mitad ocupada de la casa sellada, con energía y habitable. Alcance fijo por escrito, supervisión diaria y un solo equipo responsable, del primer boceto a la garantía."
+      ],
+      "scope_heading": "Cinco formas que toma una ampliación",
+      "scope_intro": "Toda ampliación empieza con un levantamiento del lote, un ingeniero y una revisión de zonificación, en ese orden. Después suele tomar una de estas formas.",
+      "scope_items": [
+        {
+          "name": "Crecer hacia el patio",
+          "desc": "Abrir la parte trasera de la casa hacia el jardín, con zapatas, vigas y el empate de techo detallados juntos en el papel, en vez de resueltos a última hora en obra."
+        },
+        {
+          "name": "Segundos pisos, revisados antes",
+          "desc": "Paredes de bloque y zapatas existentes evaluadas por un ingeniero antes de que alguien dibuje, y luego un piso superior diseñado para caber en los límites de altura del pueblo."
+        },
+        {
+          "name": "El carport, ahora adentro",
+          "desc": "Convertir carports y garajes en cuartos aislados y climatizados, con aberturas de impacto y trabajo mecánico tramitado, para que el espacio cuente al momento del cierre."
+        },
+        {
+          "name": "Alas de huéspedes con baño",
+          "desc": "Un ala con baño propio, sala de estar y cocineta para la familia que se queda meses, construida a código para que la casa siga leyéndose como una sola."
+        },
+        {
+          "name": "Estructura que no se ve",
+          "desc": "Recalces, zapatas nuevas, vigas de amarre reforzadas y las conexiones de flejes y anclajes que un inspector busca antes de que se cierre nada encima de ellas."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Qué tan alto puedo construir en Lauderdale-by-the-Sea?",
+          "a": "Más bajo que en casi toda la costa, y es a propósito. La zonificación del pueblo mantiene las edificaciones de baja altura, con la altura residencial expresada tanto en pisos como en pies, y el pueblo ha sostenido ese carácter mientras a ambos lados subía construcción más alta. En la práctica, un segundo piso suele ser posible, pero la pendiente del techo, las alturas de entrepiso y cualquier equipo en azotea tienen que caber debajo del tope. Verificamos el límite exacto de su distrito de zonificación antes de que empiecen los planos, no después."
+        },
+        {
+          "q": "¿De cuánto es el cronograma de una ampliación en la isla?",
+          "a": "Planifique en trimestres, no en semanas. El levantamiento, el diseño y la ingeniería estructural toman tiempo al inicio; el permiso ante el pueblo suma más, y una variación de zonificación agrega encima un ciclo de audiencia. La construcción de una ampliación seria suele correr varios meses, y más si el segundo piso obliga a abrir el techo. Un año desde la primera conversación hasta el cuarto terminado es una expectativa razonable para un proyecto sustancial. Le entregamos la secuencia por escrito junto con el estimado, y las fechas que dependen del pueblo van marcadas como tales."
+        },
+        {
+          "q": "¿Una ampliación puede activar requisitos de elevación por inundación?",
+          "a": "Puede, y en una isla barrera esta es la primera pregunta que hay que resolver. Si el costo de la mejora cruza el umbral federal de mejora sustancial frente al valor de la estructura, el edificio completo debe cumplir los requisitos vigentes de inundación, lo que puede significar elevarlo. En un lote bajo cerca del Intracoastal eso cambia la economía entera del proyecto. Corremos el análisis temprano, con el pueblo, para que usted elija entre opciones reales en lugar de reaccionar ante un revisor de planos."
+        },
+        {
+          "q": "Vivo en Terra Mar. ¿Es más difícil construir en una isla con garita?",
+          "a": "Es distinto, no más difícil. Terra Mar está detrás de un puente y una garita, así que las entregas, los cambios de contenedor y los camiones de concreto se programan, y la garita recibe la lista del personal por adelantado. El espacio de acopio es corto y los vecinos están cerca, así que mantenemos el sitio limpio, trabajamos dentro del horario que la comunidad espera y metemos las cargas pesadas una vez y no cinco. Eso es coordinación, y la coordinación es problema del contratista, no del dueño de casa."
+        },
+        {
+          "q": "¿Amplío o mejor compro una casa más grande por aquí cerca?",
+          "a": "Si la dirección es el activo, amplíe. En esta isla hay un número limitado de lotes con muelle, salida al océano y cinco minutos a pie hasta la playa, y usted ya tiene uno. Una ampliación le compra exactamente el espacio que le falta sin renunciar a la ubicación ni reiniciar su base impositiva. Siguen siendo meses de obra, así que premia a quien piensa quedarse. Antes de que gaste un dólar en planos, le decimos con franqueza si el lote y el código están de acuerdo con la idea."
+        }
+      ],
+      "cta_heading": "Veamos qué permite la isla",
+      "cta_sub": "Mande el levantamiento y el boceto, o simplemente señale el patio. Recibe una lectura directa de zonificación, estructura y costo, en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y cocinas de verano en Lauderdale-by-the-Sea | PGX",
+      "meta_description": "Patios en Lauderdale-by-the-Sea para el salitre, el viento HVHZ y la temporada de tortugas: terrazas, cocinas de verano y adoquines. (786) 273-2524.",
+      "h1": "El patio, construido para el aire salino",
+      "hero_sub": "Cocinas de verano, terrazas techadas, pérgolas y entradas de auto para casas de Lauderdale-by-the-Sea. Zapatas con ingeniería contra el levantamiento del huracán, servicios con permisos e inspecciones, y materiales escogidos para vivir a unos cientos de pies del Atlántico. Licenciados, asegurados y supervisados a diario.",
+      "local_heading": "Vivir afuera en una isla angosta",
+      "intro_paragraphs": [
+        "El espacio exterior es la razón entera de vivir aquí. Una casa en Bel Air o sobre Terra Mar Drive puede ser modesta por dentro y espectacular por detrás, donde el canal, el muelle y el atardecer sobre el Intracoastal hacen todo el trabajo. Sobre El Mar Drive el cuarto exterior es un patio interior o una terraza en azotea mirando al océano. Los proyectos siguen esa lógica: una terraza techada con cocina de verano de verdad, una pérgola que dé sombra a la piscina sin pelearse con la brisa del mar, una entrada de adoquines que por fin drene, una ducha exterior que quite la sal antes de que alguien entre a la casa.",
+        "Los proyectos exteriores en Lauderdale-by-the-Sea cargan reglas que el interior no tiene. Las estructuras necesitan permiso de construcción a través del Development Services del pueblo, y el gas, el agua y la electricidad que alimentan una cocina de verano llevan cada uno su permiso por oficio con sus inspecciones. Todo lo que se vea desde la playa cae bajo las reglas de iluminación costera durante la temporada de anidación de tortugas marinas, que va de marzo hasta el otoño, así que la selección de luminarias y su apantallamiento son decisiones de diseño y no ocurrencias de último momento. El trabajo de seawall y muelle mete al condado de Broward junto al pueblo, y los estándares de resiliencia del condado hoy fijan elevaciones mínimas para los seawalls nuevos y para los que se reconstruyen sustancialmente.",
+        "El trabajo exterior se gana la misma disciplina que el interior, lo que en la práctica significa no adivinar. Las zapatas de pérgolas y pabellones se calculan para levantamiento y se detallan con las conexiones que un inspector de la HVHZ espera ver. El drenaje se planifica para que la terraza despache el agua lejos de la losa y no hacia la puerta principal. Ebanistería, herrajes y equipos se especifican para exposición costera, porque un equipo pensado para un patio tierra adentro no sobrevive dos veranos así de cerca del rocío salino. Alcance fijo por escrito, un supervisor en obra todos los días y una obra de la que sus vecinos no tengan que quejarse."
+      ],
+      "scope_heading": "Lo que construimos puertas afuera",
+      "scope_intro": "Un solo proyecto coordinado, no cuatro oficios discutiendo en su entrada. Terrazas, cocinas, estructuras de sombra y pisos exteriores diseñados, tramitados y construidos juntos.",
+      "scope_items": [
+        {
+          "name": "Cocina de verano de verdad",
+          "desc": "Corridas de gas, agua y electricidad con permisos, ebanistería de grado marino y topes que se sacuden el rocío salino, integrados a la terraza en lugar de estacionados encima."
+        },
+        {
+          "name": "Pérgolas ancladas contra el viento",
+          "desc": "Estructuras de sombra con zapatas de ingeniería y conexiones contra levantamiento, dimensionadas para que la brisa siga llegando a la casa y la línea del techo siga teniendo sentido."
+        },
+        {
+          "name": "Terrazas y pisos exteriores",
+          "desc": "Adoquines, piedra de coquina y concreto acabado colocados con las pendientes y el drenaje resueltos primero, porque en un lote costero el agua estancada nunca se seca en silencio."
+        },
+        {
+          "name": "Recubrimientos exteriores y techo",
+          "desc": "Restauración exterior coordinada con el techo para armar andamios una sola vez, más reparación de estuco y recubrimientos elegidos para lluvia con viento y sol constante."
+        },
+        {
+          "name": "Luz apta para tortugas",
+          "desc": "Luminarias apantalladas, montadas bajo y de longitud de onda larga en las fachadas que miran a la playa, para que la terraza sirva de noche y las reglas de anidación queden cumplidas."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Las reglas de luz para tortugas aplican de verdad a mi patio?",
+          "a": "Si la luz de su propiedad llega a la playa, sí. Las comunidades costeras de Broward, Lauderdale-by-the-Sea incluida, hacen cumplir reglas de iluminación durante la temporada de anidación, que corre de marzo a octubre. Los estándares son prácticos: montar las luminarias bajas, usar los menos lúmenes que hagan el trabajo, apantallar la fuente para que no se vea desde la arena y elegir lámparas de longitud de onda larga. Diseñamos la luz de terraza y piscina para cumplir desde el principio, en vez de corregirla después de una visita de código."
+        },
+        {
+          "q": "Mi seawall está viejo. ¿Quién tiene que aprobar el reemplazo?",
+          "a": "Más de una entidad, y por eso los seawalls toman a la gente por sorpresa. El pueblo emite el permiso de construcción, y el área de permisos ambientales del condado de Broward revisa el trabajo en aguas de marea, a veces con participación del estado según el alcance. Broward además adoptó estándares de resiliencia que fijan elevaciones mínimas para los seawalls nuevos y los reconstruidos sustancialmente en vías de agua influenciadas por la marea, por etapas a lo largo de las próximas décadas. Si su muro está fallando, planifique el reemplazo como un proyecto aparte con su propio cronograma, no como un renglón del trabajo del patio."
+        },
+        {
+          "q": "¿Necesito permiso para una pérgola o una cocina de verano?",
+          "a": "Sí en los dos casos, y normalmente más de uno. La estructura necesita permiso de construcción; la línea de gas, la de agua y los circuitos necesitan cada uno su permiso por oficio con inspección. Las zapatas se calculan para levantamiento por viento porque Broward está dentro de la High-Velocity Hurricane Zone y una estructura de sombra sin permiso se convierte en proyectil en la tormenta equivocada. Las aseguradoras y los futuros compradores también preguntan. Sacamos todo como un paquete coordinado y no a pedazos."
+        },
+        {
+          "q": "¿Qué materiales sobreviven de verdad tan cerca del océano?",
+          "a": "Menos de los que sugiere el showroom. A pocas cuadras del Atlántico especificamos acero inoxidable de grado marino o aluminio con recubrimiento en polvo en lugar de acero común, piedra densa sellada y resellada con calendario, herrajes calificados para exposición costera y ebanistería construida para la intemperie, no simplemente vendida como de exterior. Los tornillos importan tanto como los acabados; el tornillo equivocado le mancha un piso nuevo de travertino en un año. Especificar bien una sola vez sale más barato que reponer alegremente dos veces."
+        },
+        {
+          "q": "¿Cuánto cuesta un proyecto completo de vida al aire libre?",
+          "a": "Escala con los servicios y la estructura más que con los pies cuadrados. Una terraza de adoquines y un cuarto exterior techado con cocina de verano conectada a gas, agua y circuitos dedicados son presupuestos completamente distintos, y las selecciones de equipos y de piedra mueven el número tanto como el tamaño. Recorremos el patio, miramos drenaje y accesos, y después cotizamos una especificación por escrito. Si un plan por fases le cuadra mejor, le proponemos fases sensatas en vez de fingir que todo tiene que pasar al mismo tiempo."
+        }
+      ],
+      "cta_heading": "Llévenos al patio",
+      "cta_sub": "Muéstrenos el jardín, el muelle y esa lista a la que le sigue agregando renglones. Volvemos con planos, una especificación y un precio, en español o en inglés."
+    }
+  }
+}

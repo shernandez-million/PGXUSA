@@ -17,7 +17,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación integral en Venetian Islands, Miami | PGX Builders",
-      "meta_description": "Remodelación integral de casas en las Venetian Islands. Los permisos van por Miami o Miami Beach según su isla; nosotros sabemos cuál. Lic. CGC1539072. (786) 273-2524.",
+      "meta_description": "Remodelación integral en las Venetian Islands. Los permisos van por Miami o Miami Beach según su isla; sabemos cuál. (786) 273-2524.",
       "h1": "Casas de isla, reconstruidas para durar",
       "hero_sub": "PGX Builders Group lleva las casas de los años treinta a cincuenta de las Venetian Islands hasta la estructura y las reconstruye como corresponde: con permisos en la ciudad correcta, ingeniería para un lote de isla barrera y supervisión en la isla todos los días hábiles.",
       "local_heading": "Dos ciudades, seis islas, un solo contratista",
@@ -30,23 +30,23 @@
       "scope_intro": "Cada proyecto recibe un alcance fijo por escrito antes de demoler. Estas son las piezas que más combinamos en las casas de las Venetian Islands.",
       "scope_items": [
         {
-          "name": "Vaciado total y reconstrucción",
-          "desc": "Llevamos una villa de los años treinta o un ranch de posguerra al bloque y la losa, y reconstruimos distribución, instalaciones y acabados al código actual y al gusto actual."
+          "name": "Hasta el bloque y la losa",
+          "desc": "Llevamos una villa de los años treinta o un ranch de posguerra a su estructura desnuda, y reconstruimos distribución, instalaciones y acabados al código actual y al gusto actual."
         },
         {
-          "name": "Aberturas estructurales",
-          "desc": "Retiro calculado por ingeniería de muros de carga para abrir la sala hacia la bahía, con vigas de acero o concreto dimensionadas, con permiso e inspección."
+          "name": "Muros de carga abiertos a la bahía",
+          "desc": "Retiro calculado por ingeniería de la mampostería portante para abrir la sala hacia el agua, con vigas de acero o concreto dimensionadas, con permiso e inspección."
         },
         {
-          "name": "Instalaciones completamente nuevas",
+          "name": "Instalaciones que resisten el salitre",
           "desc": "Servicio eléctrico nuevo, plomería retubada y aire acondicionado bien dimensionado: los sistemas sin glamour que deciden si una remodelación sobrevive al aire salado."
         },
         {
-          "name": "Ventanas y puertas de impacto",
-          "desc": "Cristales con aprobación de Miami-Dade en toda la casa, calculados para el viento de la zona HVHZ e instalados con detalles de sellado que pasan inspección y dejan el agua afuera."
+          "name": "Cristales aprobados por Miami-Dade",
+          "desc": "Cristales en toda la casa, calculados para el viento de la zona HVHZ e instalados con detalles de sellado que pasan inspección y dejan el agua afuera."
         },
         {
-          "name": "Acabados y carpintería fina",
+          "name": "Acabados protegidos hasta la entrega",
           "desc": "El paquete de acabados — piedra, tablón ancho, carpintería a la medida, iluminación — instalado por cuadrillas supervisadas y protegido hasta que las llaves cambien de mano."
         }
       ],
@@ -77,7 +77,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Venetian Islands | PGX Builders",
-      "meta_description": "Cocinas a la medida para casas de las Venetian Islands y torres de Belle Isle: gabinetes, piedra y cambios estructurales, permisos en la ciudad correcta. (786) 273-2524.",
+      "meta_description": "Cocinas a medida en las Venetian Islands y torres de Belle Isle: gabinetes, piedra y permisos en la ciudad correcta. (786) 273-2524.",
       "h1": "Cocinas con vista a la bahía",
       "hero_sub": "PGX Builders Group diseña y construye cocinas a la medida en todas las Venetian Islands, con licencia y permisos por Miami o Miami Beach según lo exija su isla, y supervisión diaria desde la demolición hasta el último tirador de gabinete.",
       "local_heading": "Una cocina digna de la vista al agua",
@@ -90,15 +90,15 @@
       "scope_intro": "De las casas en la isla a las torres de Belle Isle, estos son los elementos que más diseñamos, cotizamos por escrito y construimos.",
       "scope_items": [
         {
-          "name": "Gabinetes a la medida",
-          "desc": "Cajas y frentes totalmente a la medida, construidos según planos de alzado, con bisagras y herrajes elegidos para sobrevivir al aire salado y húmedo, no solo para lucir el día de la entrega."
+          "name": "Gabinetes que aguantan la humedad",
+          "desc": "Cajas y frentes totalmente a la medida, con bisagras y herrajes elegidos para sobrevivir al aire salado y húmedo, no solo para lucir el día de la entrega."
         },
         {
-          "name": "Cubiertas e islas de piedra",
+          "name": "Islas y veteado en espejo",
           "desc": "Losas de mármol, cuarcita y porcelanato plantilladas después de instalar los gabinetes, con bordes en cascada, veteado empatado y uniones colocadas donde usted no las note."
         },
         {
-          "name": "Reubicación de gas y electrodomésticos",
+          "name": "Gas y electrodomésticos, con permiso",
           "desc": "Movemos estufas, hornos y refrigeración adonde la nueva distribución los pide, con líneas de gas, electricidad y ventilación con permisos, escondidas tras bambalinas."
         },
         {
@@ -106,8 +106,8 @@
           "desc": "Vigas calculadas por ingeniería que convierten una cocina original cerrada en un solo ambiente abierto hacia el agua, con permisos e inspecciones en la ciudad correcta."
         },
         {
-          "name": "Diseño de iluminación",
-          "desc": "Iluminación de trabajo, ambiental y de acento en capas, planificada junto con los planos de gabinetes, para que la isla, la piedra y la vista se lean también de noche."
+          "name": "Iluminación que se lee de noche",
+          "desc": "Iluminación de trabajo, ambiental y de acento en capas, planificada junto con los planos de gabinetes, para que la isla, la piedra y la vista funcionen también después del atardecer."
         }
       ],
       "faqs": [
@@ -137,7 +137,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños en Venetian Islands, Miami | PGX Builders",
-      "meta_description": "Remodelación de baños de suite principal y de condominio en las Venetian Islands, con la impermeabilización tratada como estructura. Lic. CGC1539072. (786) 273-2524.",
+      "meta_description": "Baños de suite principal y de condominio en las Venetian Islands, con la impermeabilización tratada como estructura. (786) 273-2524.",
       "h1": "Baños hechos para durar frente a la bahía",
       "hero_sub": "De las suites principales en Di Lido a los baños en torre de Belle Isle, PGX construye baños que se mantienen secos detrás de la piedra: con licencia, permisos en la ciudad correcta e inspecciones en cada etapa.",
       "local_heading": "Baños para casas rodeadas de agua",
@@ -150,24 +150,24 @@
       "scope_intro": "Un medio baño o todos los baños de la casa: el alcance se escribe, se cotiza y obtiene sus permisos antes de que empiece la demolición.",
       "scope_items": [
         {
-          "name": "Conversión a suite principal",
-          "desc": "Unimos cuartos originales estrechos en una suite de verdad, con zona húmeda, doble lavamanos y el espacio de clóset que la planta original nunca presupuestó."
+          "name": "De cuartos estrechos a suite",
+          "desc": "Unimos habitaciones originales apretadas en una suite de verdad, con zona húmeda, doble lavamanos y el espacio de clóset que la planta original nunca presupuestó."
         },
         {
-          "name": "Duchas sin marco",
-          "desc": "Entradas a nivel de piso, desagües lineales e impermeabilización de membrana probada con inundación bajo azulejo de gran formato o paredes de losa, todo documentado antes de cubrirse."
+          "name": "Duchas a nivel, plato probado",
+          "desc": "Entradas a ras de piso, desagües lineales e impermeabilización de membrana probada con inundación bajo azulejo de gran formato o paredes de losa, todo documentado antes de cubrirse."
         },
         {
-          "name": "Bañeras independientes",
+          "name": "Bañeras colocadas donde da la luz",
           "desc": "Colocadas contra la pared correcta para la luz y la vista, con grifería de piso y el refuerzo, la plomería y el trabajo de losa resueltos sin que se noten."
         },
         {
-          "name": "Instalación de piedra y porcelanato",
-          "desc": "Mármol, travertino y porcelanato instalados a nivel, alineados y sellados por cuadrillas que le responden a nuestro supervisor, no a un intermediario."
+          "name": "Mármol y travertino, a nivel",
+          "desc": "Piedra y porcelanato instalados a nivel, alineados y sellados por cuadrillas que le responden a nuestro supervisor, no a un intermediario."
         },
         {
-          "name": "Baños de condominio reconstruidos",
-          "desc": "Baños de torre en Belle Isle reconstruidos según las reglas de la asociación, con paquetes de alteración, certificados de seguro y logística de ascensores manejados por nuestra oficina."
+          "name": "Baños en torres de Belle Isle",
+          "desc": "Baños de torre reconstruidos según las reglas de la asociación, con paquetes de alteración, certificados de seguro y logística de ascensores manejados por nuestra oficina."
         }
       ],
       "faqs": [
@@ -197,7 +197,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones y segundos pisos en Venetian Islands | PGX Builders",
-      "meta_description": "Ampliaciones y segundos pisos en las Venetian Islands, con ingeniería para lotes de relleno, umbrales de FEMA y cargas de viento HVHZ. PGX Builders: (786) 273-2524.",
+      "meta_description": "Ampliaciones y segundos pisos en las Venetian Islands, con ingeniería para lotes de relleno, umbrales de FEMA y viento HVHZ. (786) 273-2524.",
       "h1": "Más casa, misma dirección en la isla",
       "hero_sub": "Los lotes de las Venetian Islands son finitos. PGX agrega los pies cuadrados: extensiones traseras, segundos pisos y plantas replanteadas, con ingeniería y permisos en la ciudad correcta, y supervisión todos los días hábiles.",
       "local_heading": "Ampliaciones que respetan la regla del 50 por ciento",
@@ -210,23 +210,23 @@
       "scope_intro": "Cinco maneras en que los dueños de la isla sacan más casa del lote que ya tienen, cada una con ingeniería, permisos y una unión correcta con la estructura original.",
       "scope_items": [
         {
-          "name": "Extensiones traseras",
+          "name": "Extensiones hacia el seawall",
           "desc": "Extendemos el área social hacia el agua dentro de los retiros permitidos, sobre cimientos nuevos diseñados para suelos de relleno y terminados a ras de la casa original."
         },
         {
-          "name": "Segundos pisos completos",
-          "desc": "Un piso superior completo sobre una huella original reforzada, muchas veces la única manera de sumar habitaciones sin sacrificar el patio ni la piscina."
+          "name": "Segundo piso sobre huella reforzada",
+          "desc": "Un piso superior completo sobre la huella original, reforzada para cargarlo, muchas veces la única manera de sumar habitaciones sin sacrificar el patio ni la piscina."
         },
         {
-          "name": "Conversión de garajes",
+          "name": "El garaje, hecho habitable",
           "desc": "Convertimos el volumen del garaje en gimnasio, oficina o cuarto de huéspedes con aire acondicionado, salidas correctas y permisos que mantienen el espacio legal en la reventa."
         },
         {
-          "name": "Suites para huéspedes y familia",
+          "name": "Suites con baño y entrada propios",
           "desc": "Suites independientes con su propio baño y entrada, pensadas para la familia que visita o el personal, sin alterar cómo vive la casa principal."
         },
         {
-          "name": "Refuerzo de vigas y cimientos",
+          "name": "Vigas y zapatas sobre relleno",
           "desc": "Reforzamos vigas de amarre, columnas y zapatas originales para que la nueva ruta de cargas funcione en suelos de relleno y la estructura se gane su clasificación de viento."
         }
       ],
@@ -257,7 +257,7 @@
     },
     "outdoor-living": {
       "title": "Terrazas y exteriores en Venetian Islands, Miami | PGX Builders",
-      "meta_description": "Terrazas, cocinas de verano y decks de piscina frente al agua en las Venetian Islands: materiales para el salitre, anclaje HVHZ y permisos resueltos. (786) 273-2524.",
+      "meta_description": "Terrazas, cocinas de verano y decks de piscina en las Venetian Islands: materiales para el salitre y anclaje HVHZ. (786) 273-2524.",
       "h1": "Ambientes exteriores al borde del agua",
       "hero_sub": "PGX construye la mitad exterior de la vida en las Venetian Islands: terrazas, cocinas de verano, pérgolas y entradas de auto, con licencia y permisos en la ciudad que corresponde, e ingeniería para el viento, el salitre y una que otra marea rey.",
       "local_heading": "Donde el patio termina en el seawall",
@@ -270,24 +270,24 @@
       "scope_intro": "El trabajo exterior que diseñamos, tramitamos y construimos en las seis islas, desde el frente de calle hasta el seawall.",
       "scope_items": [
         {
-          "name": "Terrazas y decks de piscina",
+          "name": "Terrazas que drenan hacia afuera",
           "desc": "Pisos de shellstone, travertino y porcelanato asentados sobre un drenaje calculado, con elevaciones planificadas para que la lluvia y el rocío corran lejos de la casa."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocina de verano bajo techo",
           "desc": "Gas, agua, refrigeración y ventilación construidos a código bajo un techo o una pérgola de verdad: un ambiente exterior, no un carrito de electrodomésticos."
         },
         {
-          "name": "Pérgolas y estructuras de sombra",
+          "name": "Pérgolas en ipe o aluminio",
           "desc": "Calculadas por ingeniería para las cargas de viento de zona de huracanes y ancladas en consecuencia, en aluminio, ipe o cedro que aguanta la exposición frente a la bahía."
         },
         {
-          "name": "Entradas y accesos",
+          "name": "Entradas, portones y llegada",
           "desc": "Entradas de auto nuevas, muros de jardín, portones y hardscape que le dan a una casa original de la isla la llegada que su remodelación merece."
         },
         {
-          "name": "Envolvente exterior completa",
-          "desc": "Restauración de estuco, pintura, aberturas de impacto y coordinación del retechado: toda la piel de la casa a cargo de un solo equipo responsable."
+          "name": "Toda la piel de la casa",
+          "desc": "Restauración de estuco, pintura, aberturas de impacto y coordinación del retechado, a cargo de un solo equipo responsable."
         }
       ],
       "faqs": [

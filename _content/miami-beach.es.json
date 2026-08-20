@@ -19,7 +19,7 @@
   "pages": {
     "home-remodeling": {
       "title": "Remodelación integral de casas en Miami Beach | PGX Builders",
-      "meta_description": "Remodelación integral en Miami Beach: casas Deco, MiMo y frente al agua renovadas de raíz, con permisos de la ciudad y sus juntas históricas. Llame al (786) 273-2524.",
+      "meta_description": "Remodelación integral en Miami Beach: casas Deco, MiMo y frente al agua, con permisos de la ciudad y juntas históricas. (786) 273-2524.",
       "h1": "Casas de Miami Beach, reconstruidas desde la estructura",
       "hero_sub": "Remodelación integral para casas y condominios de Miami Beach: vaciados completos, aberturas estructurales, instalaciones nuevas y ventanas de impacto. Licenciados y asegurados (CGC1539072), cada proyecto con permisos, inspecciones y supervisión diaria en obra.",
       "local_heading": "Esqueleto Deco, todo lo demás moderno",
@@ -32,15 +32,15 @@
       "scope_intro": "Toda remodelación integral se define por escrito antes de comenzar la obra. Esto es lo que ese alcance suele cubrir en un proyecto de Miami Beach.",
       "scope_items": [
         {
-          "name": "Vaciados completos",
+          "name": "Vaciado de casas Deco y MiMo",
           "desc": "Hasta el bloque y de regreso: nueva distribución, plomería, electricidad, aire acondicionado, aislamiento y acabados, secuenciados para que las inspecciones pasen a la primera."
         },
         {
-          "name": "Aberturas estructurales",
+          "name": "Abrir una planta de 1938",
           "desc": "Eliminamos paredes entre cocina, comedor y sala con vigas calculadas por ingeniería, porque una planta de 1938 no se dibujó para cómo se recibe hoy en casa."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Ventanas de impacto en vanos históricos",
           "desc": "Cristales con aprobación de Miami-Dade en toda la casa, ajustados a los vanos históricos donde las juntas lo requieren, e instalados con los detalles de sellado que el aire salado de la isla exige."
         },
         {
@@ -48,7 +48,7 @@
           "desc": "Estuco, viseras Deco, esquinas curvas y el detalle original restaurados con cuidado, mientras todo lo que queda detrás se convierte discretamente en una casa moderna."
         },
         {
-          "name": "Reemplazo total de instalaciones",
+          "name": "Instalaciones nuevas con deshumidificación real",
           "desc": "Servicio eléctrico nuevo, replomería completa y aire acondicionado de alta eficiencia con deshumidificación de verdad — el trabajo sin glamour que decide cómo se siente la casa en agosto."
         }
       ],
@@ -79,7 +79,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Miami Beach, FL | PGX Builders",
-      "meta_description": "Cocinas a la medida en Miami Beach: gabinetes por encargo, piedra y cambios de distribución para casas de isla y torres de condominio. Agende su visita: (786) 273-2524.",
+      "meta_description": "Cocinas a medida en Miami Beach: gabinetes por encargo, piedra y cambios de distribución en casas de isla y torres. (786) 273-2524.",
       "h1": "Cocinas hechas para la vida de Miami Beach",
       "hero_sub": "Cocinas a la medida para casas y torres de condominio en Miami Beach: gabinetes fabricados por encargo, piedra plantillada en sitio y distribuciones abiertas con todo en regla — con permisos, inspecciones y un solo equipo licenciado al frente todos los días.",
       "local_heading": "De las cocinas de pasillo de Flamingo Park a las residencias de las islas",
@@ -92,23 +92,23 @@
       "scope_intro": "De las cocinas de pasillo de las casitas Deco a las de doble isla de las residencias, estas son las cinco cosas que más nos piden construir en el Beach.",
       "scope_items": [
         {
-          "name": "Gabinetes a la medida",
+          "name": "Gabinetes ajustados a paredes de 1935",
           "desc": "Cajas y frentes fabricados por encargo en acabados estables ante la humedad, ajustados a paredes que rara vez están a escuadra en una casa de 1935, con herrajes que ignoran el aire salado."
         },
         {
-          "name": "Cubiertas e islas de piedra",
+          "name": "Islas de piedra para cincuenta invitados",
           "desc": "Losas de mármol, cuarcita y porcelanato plantilladas en sitio, con islas diseñadas para asientos, almacenamiento y el buffet ocasional para cincuenta invitados."
         },
         {
-          "name": "Cambios de distribución y paredes",
+          "name": "Cocinas angostas abiertas a la terraza",
           "desc": "Abrimos las cocinas angostas hacia el comedor y las vistas de la terraza con dinteles calculados por ingeniería y permisos en regla, para que el cocinero deje de trabajar en un pasillo."
         },
         {
-          "name": "Reubicación de gas y electrodomésticos",
+          "name": "Gas y electrodomésticos redirigidos",
           "desc": "Redirigimos gas, agua y ventilación para las nuevas paredes de electrodomésticos, con permisos e inspecciones, y planificado alrededor de los bajantes reales cuando la cocina vive en una torre."
         },
         {
-          "name": "Diseño de iluminación",
+          "name": "Capas regulables sobre el mármol",
           "desc": "Luz de trabajo donde usted prepara, luz ambiental donde se reúnen, acentos sobre la piedra — cada capa regulable, porque un buen mármol merece buena luz."
         }
       ],
@@ -139,7 +139,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños bien hecha en Miami Beach | PGX Builders",
-      "meta_description": "Remodelación de baños en Miami Beach, FL: suites principales, duchas sin marco e impermeabilización hecha para la humedad de la isla. Estimados al (786) 273-2524.",
+      "meta_description": "Remodelación de baños en Miami Beach, FL: suites principales, duchas sin marco e impermeabilización hecha para la humedad de la isla. (786) 273-2524.",
       "h1": "Baños que le ganan a la humedad",
       "hero_sub": "Suites principales, duchas sin marco y baños en piedra construidos para la humedad de una isla barrera — sistemas completos de impermeabilización, permisos e inspecciones de la ciudad resueltos, y la supervisión diaria de un solo equipo licenciado y asegurado.",
       "local_heading": "Impermeabilización para una isla que la pone a prueba",
@@ -152,23 +152,23 @@
       "scope_intro": "Sea una casa de 1936 o una torre con vista a la bahía, un baño de PGX incluye estos elementos — cada uno con permisos, inspecciones e impermeabilización tomada en serio.",
       "scope_items": [
         {
-          "name": "Conversión a suite principal",
+          "name": "Suites principales donde no había ninguna",
           "desc": "Tomamos prestado un clóset o un cuarto libre para crear una suite de verdad: doble lavamanos, inodoro independiente, ducha amplia y almacenamiento que por fin alcanza."
         },
         {
-          "name": "Duchas sin marco ni bordillo",
+          "name": "Duchas para los invitados de diciembre",
           "desc": "Sin bordillo donde la losa lo permite, impermeabilización de membrana completa, platos probados con inundación, desagües lineales y cristal grueso instalado para sobrevivir al uso diario y a los invitados de diciembre."
         },
         {
-          "name": "Tinas exentas y piedra",
+          "name": "Piedra a espejo y tinas esculturales",
           "desc": "Tinas esculturales, losas empatadas a espejo y porcelanato de gran formato, instalados sobre sustratos preparados para la humedad y el movimiento del sur de la Florida."
         },
         {
-          "name": "Reconstrucción de baños en condominio",
+          "name": "Áreas húmedas en las torres",
           "desc": "Renovaciones de áreas húmedas en las torres de Miami Beach, ejecutadas según las reglas de la asociación: planos aprobados, pasillos protegidos, ascensores reservados y horarios de silencio respetados."
         },
         {
-          "name": "Ventilación y control de humedad",
+          "name": "Ventilación para una envolvente sellada",
           "desc": "Extracción debidamente conducida al exterior, deshumidificación donde hace falta y detalles que evitan que una casa sellada con cristal de impacto cultive cosas que no debería."
         }
       ],
@@ -199,7 +199,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones y segundos pisos en Miami Beach | PGX Builders",
-      "meta_description": "Ampliaciones en Miami Beach: extensiones traseras y segundos pisos diseñados alrededor del freeboard y la regla del 50 por ciento de FEMA. Hable con PGX: (786) 273-2524.",
+      "meta_description": "Ampliaciones en Miami Beach: extensiones traseras y segundos pisos diseñados alrededor del freeboard y la regla del 50% de FEMA. (786) 273-2524.",
       "h1": "Más casa, por encima de la cota de inundación",
       "hero_sub": "Extensiones traseras, segundos pisos y suites de huéspedes en todo Miami Beach — con ingeniería, permisos de la ciudad y construcción bajo el código actual de inundación y huracanes, a cargo de un contratista licenciado que supervisa a diario.",
       "local_heading": "Hacer crecer una casa en una isla regulada",
@@ -212,11 +212,11 @@
       "scope_intro": "Aquí una ampliación es arquitectura, ingeniería y papeleo en partes iguales. Este es el trabajo que planificamos, tramitamos y construimos.",
       "scope_items": [
         {
-          "name": "Extensiones traseras",
+          "name": "Salas familiares hacia el agua",
           "desc": "Nuevas salas familiares y suites principales que se extienden hacia la piscina y el agua, amarradas a la estructura existente con zapatas y conexiones calculadas por ingeniería."
         },
         {
-          "name": "Segundos pisos",
+          "name": "Plantas altas sobre mampostería reforzada",
           "desc": "Plantas altas completas sobre primeros pisos reforzados, con ingeniería, vigas de amarre y escaleras ubicadas donde el plano las quiere, no donde simplemente caben."
         },
         {
@@ -224,11 +224,11 @@
           "desc": "Convertimos garajes y loggias subutilizados en oficinas, gimnasios o cuartos de huéspedes, con el aislamiento y la climatización que los hacen genuinamente habitables en pleno verano."
         },
         {
-          "name": "Suites para huéspedes y suegros",
+          "name": "Suites para inviernos largos",
           "desc": "Suites independientes con baño y kitchenette donde la zonificación lo permite, diseñadas para visitas largas que se mantienen agradables a ambos lados de la puerta del cuarto."
         },
         {
-          "name": "Vigas de amarre y cimentaciones",
+          "name": "Vigas de amarre, mampostería de preguerra",
           "desc": "Refuerzos estructurales que permiten a la mampostería antigua de Miami Beach cargar peso nuevo, verificados por ingenieros, inspeccionados por la ciudad y ocultos por los acabados."
         }
       ],
@@ -272,23 +272,23 @@
       "scope_intro": "En Miami Beach, el alcance exterior va de la puerta trasera al seawall. Estas son las piezas que más construimos.",
       "scope_items": [
         {
-          "name": "Terrazas cubiertas y pérgolas",
+          "name": "Terrazas cubiertas sin tapar la vista",
           "desc": "Estructuras de sombra calculadas para cargas de viento de huracán, detalladas para enmarcar la vista a la bahía en lugar de bloquearla, y con permiso antes de plantar el primer poste."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocina de verano en acero marino",
           "desc": "Parrillas, refrigeración y mesones de preparación en acero de grado marino y piedra, con líneas de gas y electricidad tramitadas e inspeccionadas como la cocina interior con la que compiten."
         },
         {
-          "name": "Decks de piscina y entradas",
+          "name": "Decks de piscina para king tides",
           "desc": "Superficies de porcelanato y shellstone instaladas sobre un diseño de drenaje de verdad, para que una semana de king tides termine con calles mojadas y no con la terraza inundada."
         },
         {
-          "name": "Estuco y pintura exterior",
+          "name": "Estuco y recubrimientos contra la sal",
           "desc": "Renovación de toda la envolvente con reparación de grietas y sistemas de recubrimiento especificados para la exposición a la sal, hecha una sola vez y bien, no cada tres años."
         },
         {
-          "name": "Aberturas de impacto y techos",
+          "name": "Techo y aberturas, en secuencia",
           "desc": "Puertas, ventanas y contraventanas con aprobación de Miami-Dade, más techos secuenciados junto con la obra exterior para que los gremios no se deshagan el trabajo entre sí."
         }
       ],

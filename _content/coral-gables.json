@@ -31,19 +31,19 @@
       "scope_intro": "Every Coral Gables remodel is scoped in writing before we open a wall. These are the pieces we most often put together for Merrick-era homes and newer estates.",
       "scope_items": [
         {
-          "name": "Layout and structural changes",
+          "name": "Opening up the formal rooms",
           "desc": "Removing walls between formal rooms, adding steel or engineered lumber where 1920s masonry needs help, and getting the calculations sealed and permitted."
         },
         {
-          "name": "Full MEP replacement",
+          "name": "New panels, pipes, and ducts",
           "desc": "New electrical service and panels, modern supply lines and drains, and quiet high-efficiency HVAC replacing systems that predate air conditioning itself."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glass for Mediterranean facades",
           "desc": "Miami-Dade approved impact glazing in profiles the Board of Architects will accept, because hurricane protection should not flatten a Mediterranean facade."
         },
         {
-          "name": "Finish carpentry and millwork",
+          "name": "Trim and doors, properly scaled",
           "desc": "Custom cabinetry, restored or replicated interior doors, and baseboards and casings scaled to older ceilings instead of off-the-shelf trim that looks lost."
         },
         {
@@ -91,11 +91,11 @@
       "scope_intro": "Every kitchen is scoped line by line before demolition starts. These are the elements that come up most often in Gables homes.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry, not catalog sizes",
           "desc": "Built-to-order cabinet packages with proper face frames or European boxes, finished to survive Miami humidity, and sized to older ceilings rather than stock dimensions."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Islands that carry the stone",
           "desc": "Marble, quartzite, or granite templated in place, with island structures engineered for weight and seating overhangs supported correctly instead of hopefully."
         },
         {
@@ -103,7 +103,7 @@
           "desc": "Load calculations, engineered beams, and permits for opening the wall between a closed 1920s kitchen and the rooms people actually use."
         },
         {
-          "name": "Appliance and gas relocation",
+          "name": "Ranges, ovens, and gas lines",
           "desc": "Moving ranges, ovens, and refrigeration where the layout wants them, with new gas lines, venting, and dedicated circuits permitted and inspected."
         },
         {
@@ -151,15 +151,15 @@
       "scope_intro": "From powder rooms to full primary suites, the scope is settled in writing before the tile is ordered. The usual elements below.",
       "scope_items": [
         {
-          "name": "Primary suite conversions",
+          "name": "Bedroom and hall bath, combined",
           "desc": "Reworking bedrooms, closets, and hall baths into a true suite, with layout, plumbing rough-ins, and permits handled as one package."
         },
         {
-          "name": "Frameless showers",
+          "name": "Showers the slab can take",
           "desc": "Curbless or low-curb entries where the slab allows, flood-tested pans, linear drains, and heavy glass hung on solid blocking rather than hope."
         },
         {
-          "name": "Freestanding tubs and stone",
+          "name": "Tubs the floor can hold",
           "desc": "Tub placement with floor structure verified, plus marble and quartzite surfaces sealed and installed to survive daily use in Miami humidity."
         },
         {
@@ -167,7 +167,7 @@
           "desc": "Swapping original cast iron and galvanized lines for modern drains and supply while the walls are open, the cheapest moment you will ever do it."
         },
         {
-          "name": "Ventilation and lighting",
+          "name": "Quiet exhaust, layered light",
           "desc": "Quiet exhaust routed properly to the exterior, moisture-rated fixtures, and lighting layered for actual grooming instead of a single ceiling glare."
         }
       ],
@@ -211,23 +211,23 @@
       "scope_intro": "Every addition starts with engineering and a clear picture of the design review it will face. These are the five we build most.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Rear wings and family rooms",
           "desc": "Family rooms, dens, and primary suites extended into the yard, with foundations, tie-beams, and roof tie-ins engineered and permitted as one package."
         },
         {
-          "name": "Second stories",
+          "name": "Second floors, engineered first",
           "desc": "Structural evaluation of the existing masonry and footings first, then a full upper floor designed to satisfy both the engineer and the Board of Architects."
         },
         {
-          "name": "Garage and loggia conversions",
+          "name": "Garages and loggias, made livable",
           "desc": "Turning underused covered space into conditioned rooms with insulation, impact openings, and mechanical extensions done legally, so the square footage counts when you sell."
         },
         {
-          "name": "In-law and guest suites",
+          "name": "Suites for multigenerational households",
           "desc": "Independent suites with baths and kitchenettes for long-stay family, built to code and scaled to the architecture rather than stapled onto it."
         },
         {
-          "name": "Structural and foundation work",
+          "name": "Footings, steel, and tie-beams",
           "desc": "Underpinning, new footings, steel, and tie-beam upgrades: the invisible half of an addition budget, and the half that determines whether it lasts."
         }
       ],
@@ -271,15 +271,15 @@
       "scope_intro": "From a single terrace to a full backyard rebuild, each element below gets designed, permitted, and built as one coordinated project.",
       "scope_items": [
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchens built for weather",
           "desc": "Outdoor kitchens with real utilities, meaning permitted gas, water, and electrical, plus counters and cabinetry rated for weather instead of just priced like it."
         },
         {
-          "name": "Covered terraces and pergolas",
+          "name": "Loggias and pergolas, engineered",
           "desc": "Loggias, trellises, and shade structures with engineered footings and connections detailed for hurricane wind loads, matched to the lines of the house."
         },
         {
-          "name": "Driveways and hardscape",
+          "name": "Driveways the Board reviews too",
           "desc": "Pavers, finished concrete, and walkways designed to satisfy the Board of Architects and drain properly through a Miami rainy season."
         },
         {

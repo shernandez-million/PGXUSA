@@ -30,23 +30,23 @@
       "scope_intro": "Every project gets a fixed written scope before demolition. These are the pieces we most often combine on Venetian Islands houses.",
       "scope_items": [
         {
-          "name": "Full-gut renovations",
-          "desc": "Stripping a 1930s villa or postwar ranch to block and slab, then rebuilding layout, systems, and finishes to current code and current taste."
+          "name": "Down to block and slab",
+          "desc": "Stripping a 1930s villa or postwar ranch to its shell, then rebuilding layout, systems, and finishes to current code and current taste."
         },
         {
-          "name": "Structural openings",
-          "desc": "Engineered removal of bearing walls to open living spaces toward the bay, with steel or concrete beams sized, permitted, and inspected."
+          "name": "Bearing walls opened to the bay",
+          "desc": "Engineered removal of load-bearing masonry to open living spaces toward the water, with steel or concrete beams sized, permitted, and inspected."
         },
         {
-          "name": "Complete MEP replacement",
-          "desc": "New electrical service, repiped plumbing, and properly sized air conditioning: the unglamorous systems that decide whether a remodel survives salt air."
+          "name": "Systems that survive salt air",
+          "desc": "New electrical service, repiped plumbing, and properly sized air conditioning: the unglamorous systems that decide whether a remodel lasts."
         },
         {
-          "name": "Impact windows and doors",
-          "desc": "Miami-Dade approved glazing throughout, rated for high-velocity hurricane zone wind loads, installed with flashing details that pass inspection and keep water out."
+          "name": "Miami-Dade approved glazing",
+          "desc": "Glazing throughout the house, rated for high-velocity hurricane zone wind loads, installed with flashing details that pass inspection and keep water out."
         },
         {
-          "name": "Finishes and millwork",
+          "name": "Finishes protected until handover",
           "desc": "The finish package — stone, wide plank, fitted millwork, lighting — set by supervised crews and kept under protection until keys change hands."
         }
       ],
@@ -90,15 +90,15 @@
       "scope_intro": "From island houses to Belle Isle high-rises, these are the elements we design, price in writing, and build most often.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
-          "desc": "Fully custom boxes and fronts built to elevation drawings, with hinges and hardware chosen to survive humid salt air, not just look good at delivery."
+          "name": "Cabinetry that survives the humidity",
+          "desc": "Fully custom boxes and fronts, with hinges and hardware chosen to survive humid salt air, not just look good at delivery."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Book-matched slabs and islands",
           "desc": "Marble, quartzite, and porcelain slabs templated after cabinets are set, with waterfall edges, matched veining, and seams placed where you won't notice them."
         },
         {
-          "name": "Appliance and gas relocation",
+          "name": "Permitted gas and appliance moves",
           "desc": "Moving ranges, ovens, and refrigeration where the new layout wants them, with permitted gas, electrical, and ventilation runs hidden behind the scenes."
         },
         {
@@ -106,8 +106,8 @@
           "desc": "Engineered beams that turn a closed original kitchen into one open room facing the water, permitted and inspected in the correct city."
         },
         {
-          "name": "Lighting design",
-          "desc": "Layered task, ambient, and accent lighting planned alongside the cabinet drawings, so the island, the stone, and the view all read at night."
+          "name": "Lighting that reads at night",
+          "desc": "Layered task, ambient, and accent lighting planned alongside the cabinet drawings, so the island, the stone, and the view all still register after dark."
         }
       ],
       "faqs": [
@@ -150,24 +150,24 @@
       "scope_intro": "One powder room or every bath in the house: the scope is written, priced, and permitted before demolition begins.",
       "scope_items": [
         {
-          "name": "Primary suite conversions",
-          "desc": "Combining cramped original rooms into a true suite, with a wet room, double vanity, and closet space the original floor plan never budgeted for."
+          "name": "A suite from cramped rooms",
+          "desc": "Combining tight original rooms into a true suite, with a wet room, double vanity, and closet space the original floor plan never budgeted for."
         },
         {
-          "name": "Frameless showers",
-          "desc": "Curbless entries, linear drains, and flood-tested membrane waterproofing under large-format tile or slab walls, all documented before anything gets covered."
+          "name": "Curbless showers, flood-tested",
+          "desc": "Level entries, linear drains, and membrane waterproofing under large-format tile or slab walls, all documented before anything gets covered."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Tubs placed for the light",
           "desc": "Set against the right wall for light and view, with floor-mounted fillers and the blocking, plumbing, and slab work handled invisibly."
         },
         {
-          "name": "Stone and tile installation",
-          "desc": "Marble, travertine, and porcelain installed flat, aligned, and sealed by crews who answer to our supervisor, not to a broker."
+          "name": "Marble and travertine, set flat",
+          "desc": "Stone and porcelain installed flat, aligned, and sealed by crews who answer to our supervisor, not to a broker."
         },
         {
-          "name": "Condo bathroom rebuilds",
-          "desc": "Belle Isle tower bathrooms rebuilt to association rules, with alteration packages, insurance certificates, and elevator logistics managed by our office."
+          "name": "Belle Isle tower bathrooms",
+          "desc": "Tower bathrooms rebuilt to association rules, with alteration packages, insurance certificates, and elevator logistics managed by our office."
         }
       ],
       "faqs": [
@@ -210,23 +210,23 @@
       "scope_intro": "Five ways island owners get more house out of the lot they already own, each engineered, permitted, and tied correctly into the original structure.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Extensions toward the seawall",
           "desc": "Pushing living space toward the water within setbacks, on new foundations designed for fill soils and finished flush with the original house."
         },
         {
-          "name": "Second-story additions",
-          "desc": "A full upper floor over a reinforced original footprint, often the only way to add bedrooms without sacrificing the yard or the pool."
+          "name": "Second story, footprint reinforced",
+          "desc": "A full upper floor over an original footprint strengthened to carry it, often the only way to add bedrooms without sacrificing the yard or the pool."
         },
         {
-          "name": "Garage conversions",
-          "desc": "Turning garage volume into a gym, office, or guest room with conditioned air, proper egress, and permits that keep the space legal at resale."
+          "name": "Garage volume, made livable",
+          "desc": "Turning the garage into a gym, office, or guest room with conditioned air, proper egress, and permits that keep the space legal at resale."
         },
         {
-          "name": "In-law and guest suites",
+          "name": "Suites with a separate entry",
           "desc": "Self-contained suites with their own bath and entry, planned for visiting family or staff without disrupting how the main house lives."
         },
         {
-          "name": "Tie-beam and foundation upgrades",
+          "name": "Tie-beams and footings on fill",
           "desc": "Strengthening original tie-beams, columns, and footings so the new load path works on fill soils and the structure earns its wind rating."
         }
       ],
@@ -270,24 +270,24 @@
       "scope_intro": "The outdoor work we design, permit, and build across the six islands, from the street side all the way to the seawall.",
       "scope_items": [
         {
-          "name": "Terraces and pool decks",
-          "desc": "Shellstone, travertine, and porcelain paving set over engineered drainage, with elevations planned so rain and spray shed away from the house."
+          "name": "Pool terraces that shed water",
+          "desc": "Shellstone, travertine, and porcelain paving set over engineered drainage, with elevations planned so rain and spray run away from the house."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchen, roofed and plumbed",
           "desc": "Gas, water, refrigeration, and ventilation built to code under a real roof or pergola: an outdoor room, not an appliance cart."
         },
         {
-          "name": "Pergolas and shade structures",
+          "name": "Ipe and aluminum pergolas",
           "desc": "Engineered for hurricane-zone wind loads and anchored accordingly, in aluminum, ipe, or cedar that stands up to bay-front exposure."
         },
         {
-          "name": "Driveways and entries",
+          "name": "Driveways, gates, and arrival",
           "desc": "New driveways, garden walls, gates, and hardscape that give an original island house the arrival its remodel deserves."
         },
         {
-          "name": "Exterior envelope work",
-          "desc": "Stucco restoration, painting, impact openings, and re-roof coordination: the full skin of the house handled by one accountable team."
+          "name": "The full skin of the house",
+          "desc": "Stucco restoration, painting, impact openings, and re-roof coordination, all handled by one accountable team."
         }
       ],
       "faqs": [

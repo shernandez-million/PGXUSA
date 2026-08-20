@@ -1,0 +1,321 @@
+{
+  "area_slug": "hollywood-lakes",
+  "neighborhoods": [
+    "North Lake Drive",
+    "South Lake Drive",
+    "Hollywood Boulevard",
+    "Harrison Street",
+    "Tyler Street",
+    "Polk Street",
+    "Lincoln Street",
+    "Johnson Street",
+    "Van Buren Street",
+    "Jackson Street",
+    "Monroe Street",
+    "Madison Street",
+    "Jefferson Street",
+    "Young Circle"
+  ],
+  "pages": {
+    "home-remodeling": {
+      "title": "Remodelación integral en Hollywood Lakes, FL | PGX Builders",
+      "meta_description": "Remodelación integral en Hollywood Lakes: mediterráneas de los años veinte y ranches de posguerra, renovadas detrás de su fachada original. (786) 273-2524.",
+      "h1": "Casa antigua, todo nuevo por dentro",
+      "hero_sub": "Renovaciones totales para las mediterráneas de los años veinte y las casas de posguerra alrededor de North Lake y South Lake, tramitadas ante la Building Division de la City of Hollywood, supervisadas a diario y construidas por un contratista general licenciado, Lic. CGC1539072.",
+      "local_heading": "Construir dentro del trazado de Joseph Young",
+      "intro_paragraphs": [
+        "Hollywood Lakes es la parte del plan que Joseph Wesley Young trazó en los años veinte que todavía se lee en el terreno: dos lagos dragados flanqueando Hollywood Boulevard, calles con nombre de presidente corriendo hacia el este hasta el Intracoastal, y casas de estilo Mediterranean Revival con teja de barril y porches de arcos a una cuadra de ranches de posguerra. Los dueños de North Lake Drive, Harrison Street y Madison Street rara vez las demuelen. Prefieren vaciarlas por dentro: abrir los salones compartimentados del frente, reemplazar todas las instalaciones del edificio y cambiar las ventanas de celosía por vidrio de impacto, sin alterar en nada lo que la calle ve desde la acera.",
+        "El permiso lo emite la Building Division de la City of Hollywood, dentro de Development Services, y no el condado. Detrás de esa ventanilla está el Broward County Board of Rules and Appeals, que atiende las apelaciones a las decisiones de los funcionarios de construcción y de bomberos, emite interpretaciones formales cuando una sección del código se presta a discusión, y respalda el capítulo administrativo propio que Broward le suma al Florida Building Code. Casi todo el vecindario cae dentro del Lakes Area Historic Multiple Resource Listing District o del Hollywood Lakes Historic District, así que el trabajo exterior en una propiedad cubierta necesita un Certificate of Appropriateness del Historic Preservation Board. Y como todo Broward está en la High-Velocity Hurricane Zone, las ventanas, las puertas y el techo necesitan aprobaciones HVHZ.",
+        "Llevamos más de 20 años construyendo en el sur de la Florida, con más de 150 remodelaciones y ampliaciones entregadas, todas con permisos e inspecciones. En estas cuadras eso significa un alcance fijo por escrito firmado antes de que caiga la primera pared, un supervisor en obra cada día laborable, el terrazo y la ebanistería originales protegidos antes de demoler en lugar de lamentados después, y una obra que deja transitable para sus vecinos una calle angosta frente al lago. Un solo equipo licenciado lleva el trabajo del estimado a la inspección final y a la garantía."
+      ],
+      "scope_heading": "Por dentro de una renovación total en los Lakes",
+      "scope_intro": "Nada se demuele antes de que el alcance quede por escrito. Este es el trabajo que suele cubrir un proyecto de casa completa en Hollywood Lakes, más o menos en el orden en que ocurre.",
+      "scope_items": [
+        {
+          "name": "Abrir el plano original",
+          "desc": "Eliminar tabiques entre el salón del frente, el comedor y el ala vieja de la cocina, con cálculos sellados y vigas de acero o de ingeniería donde la estructura original necesita ayuda."
+        },
+        {
+          "name": "Servicio e instalaciones nuevas",
+          "desc": "Servicio eléctrico y paneles mejorados, tuberías de suministro y drenaje reemplazadas, y ductos y equipos bien dimensionados, en vez de sistemas pensados alrededor de unidades de ventana."
+        },
+        {
+          "name": "Vidrio de impacto en arcos",
+          "desc": "Ventanas y puertas con aprobación de producto para la High-Velocity Hurricane Zone, elegidas en perfiles que le sientan bien a una abertura mediterránea de arco en lugar de aplanarla."
+        },
+        {
+          "name": "Techo, vigas y armaduras",
+          "desc": "El trabajo estructural que aparece al abrir los cielos rasos: vigas de amarre cansadas, madera podrida y entablados llevados a los requisitos de sujeción vigentes mientras el acceso todavía sale gratis."
+        },
+        {
+          "name": "Acabados en el orden correcto",
+          "desc": "Ebanistería, piedra, loseta y pintura secuenciadas para que los oficios no se trabajen encima y la lista de pendientes final sea corta en vez de legendaria."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Mi casa en Hollywood Lakes está en un distrito histórico?",
+          "a": "Es muy probable. La ciudad maneja aquí dos designaciones que se superponen, el Lakes Area Historic Multiple Resource Listing District y el Hollywood Lakes Historic District, y el Historic Preservation Board emite los Certificates of Appropriateness de diseño y de demolición para las propiedades que quedan dentro. El trabajo puramente interior casi siempre avanza sin audiencia ante la junta. Cualquier cambio al exterior de una propiedad designada necesita su certificado antes de que el permiso de construcción siga adelante, así que confirmamos el estatus de su propiedad con la Division of Planning and Urban Design antes de que empiecen los planos."
+        },
+        {
+          "q": "¿Quién emite el permiso, la ciudad o el condado de Broward?",
+          "a": "La ciudad. Su permiso y sus inspecciones pasan por la Building Division, dentro del Development Services Department de Hollywood. Detrás de ese proceso, y para todo el condado, está el Broward County Board of Rules and Appeals: considera enmiendas al código, atiende las apelaciones a los funcionarios de construcción y de bomberos, y emite interpretaciones formales cuando una sección del código está en disputa. Broward además mantiene su propio capítulo administrativo del Florida Building Code. Usted trata con la ciudad; nosotros tratamos con las dos."
+        },
+        {
+          "q": "Estamos a dos cuadras del Intracoastal. ¿La zona de inundación cambia nuestra remodelación?",
+          "a": "Puede cambiarla. Las propiedades dentro de una zona de inundación mapeada quedan sujetas a las reglas federales de mejora sustancial, que comparan lo que usted va a invertir contra el valor de la estructura existente. Si cruza ese umbral, el edificio completo tiene que ponerse en cumplimiento con las normas de inundación, y eso es un proyecto muy distinto a una renovación total. El personal de planicie inundable de la ciudad le confirma su zona. Esa cuenta la hacemos antes del diseño, no en pleno trámite del permiso."
+        },
+        {
+          "q": "¿Cuánto tarda una remodelación integral en los Lakes?",
+          "a": "Cuente con dos etapas. El diseño, la ingeniería, la revisión histórica cuando aplica y la revisión de planos suelen ocupar varios meses antes de que se emita el permiso, y la construcción de una casa completa comúnmente toma de varios meses a cerca de un año, según la estructura, el alcance de instalaciones y cuánto cambie el exterior. La ebanistería a medida y las aberturas de entrega larga estiran el tramo final. El cronograma llega junto con el estimado, y un supervisor responde por sostenerlo."
+        },
+        {
+          "q": "¿Cuánto cuesta vaciar y rehacer una casa en los Lakes?",
+          "a": "Con franqueza, depende de cuánto del edificio se quede. Cambiar toda la plomería, todo el cableado, el manejo de aire y las aberturas HVHZ en una casa de mampostería de los años veinte cuesta dinero de verdad antes de que alguien escoja una loseta. Preferimos definir el alcance con precisión antes que soltar un número que después crece a punta de órdenes de cambio, así que usted recibe un alcance fijo por escrito con partidas nombradas. PGX es un contratista de alta gama y rara vez presenta la más baja de tres ofertas; los clientes nos contratan por la certeza."
+        }
+      ],
+      "cta_heading": "Nos vemos en la casa",
+      "cta_sub": "Venga con los planos viejos, con la lista de deseos o solamente con la frustración. Lo que vuelve es un alcance con precio y un cronograma honesto, en español o en inglés."
+    },
+    "kitchen-remodeling": {
+      "title": "Remodelación de cocinas en Hollywood Lakes | PGX Builders",
+      "meta_description": "Cocinas para casas de Hollywood Lakes: gabinetes ajustados a paredes de los años veinte, islas sobre pisos firmes y permisos resueltos. (786) 273-2524.",
+      "h1": "Una cocina que usa toda la casa",
+      "hero_sub": "Gabinetes a medida, topes de piedra y cambios reales de distribución para las cocinas de Hollywood Lakes, con electrodomésticos reubicados, circuitos nuevos y líneas de gas tramitados ante la City of Hollywood y supervisados a diario por un contratista general licenciado.",
+      "local_heading": "Dónde quiere estar hoy la cocina",
+      "intro_paragraphs": [
+        "Entre a casi cualquier casa original entre Young Circle y el Intracoastal y la cocina está en el lugar equivocado. Los constructores de la era del boom la metieron en la esquina trasera, tapiada respecto del comedor y dimensionada para una cocinera que hoy ya nadie emplea. Las casas de los cincuenta y los sesenta de Jefferson Street y Van Buren Street son apenas un poco más amables. Por eso remodelar una cocina en Hollywood Lakes casi siempre significa absorber una despensa o un desayunador, tumbar una pared de mampostería y darle al espacio una isla de verdad, con vista abierta al patio o al lago.",
+        "Una cocina que se queda dentro de las paredes se tramita por la Building Division de Hollywood, con inspecciones de plomería, electricidad, mecánica y gas en el camino, y sin audiencia ante el Historic Preservation Board. Cambie algo visible desde la calle o desde el agua en una propiedad designada — agrandar la ventana sobre el fregadero, o sacar la campana por la fachada del frente — y el Certificate of Appropriateness va primero. Súmele las realidades prácticas de Broward: aprobación HVHZ para cada abertura nueva, y servicios antiguos que no van a cargar una estufa de inducción, una cava de vinos y dos hornos sin una mejora.",
+        "La ebanistería no perdona, y así la tratamos. Las cajas se ordenan contra medidas tomadas en sitio después de la demolición, la piedra se plantilla con los gabinetes ya instalados y no sobre un dibujo, y la plomería en bruto se ubica según el mueble que usted de verdad compró. Recibe un alcance fijo por escrito, supervisión diaria, barreras contra el polvo que respetan el resto de una casa terminada y un solo equipo responsable. Más de 150 remodelaciones y ampliaciones entregadas en el sur de la Florida, todas con permisos e inspecciones, licenciados y asegurados bajo la Lic. CGC1539072."
+      ],
+      "scope_heading": "Las piezas de una cocina en los Lakes",
+      "scope_intro": "Cada elemento de abajo se cotiza línea por línea antes de la demolición, para que usted apruebe una especificación y no una partida optimista.",
+      "scope_items": [
+        {
+          "name": "Gabinetes ajustados a paredes viejas",
+          "desc": "Gabinetes hechos a la orden y ajustados a una mampostería que se ha movido desde 1926, con acabados estables ante la humedad y rellenos perfilados a la pared en vez de disimulados con silicona."
+        },
+        {
+          "name": "Islas y el piso debajo",
+          "desc": "Islas de piedra con la subestructura calculada para el peso, voladizos de asiento bien soportados y nivelación verificada contra un terrazo que es más viejo que todos los presentes."
+        },
+        {
+          "name": "Abrir la pared estructural",
+          "desc": "Aperturas estructurales entre la cocina, el comedor y el family room, con dinteles calculados, planos sellados y el permiso que las mantiene legales al momento de vender."
+        },
+        {
+          "name": "Mover estufa, fregadero y nevera",
+          "desc": "Reubicar plomería dentro de la losa, correr gas nuevo y circuitos dedicados, y ventilar la campana hacia afuera como corresponde, en lugar de devolvérsela recirculada a la cara."
+        },
+        {
+          "name": "Iluminación, cableado y carga",
+          "desc": "Diseño de iluminación por capas más la capacidad de panel y de servicio que exige un paquete moderno de electrodomésticos, que muchas casas originales de los Lakes sencillamente todavía no tienen."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permiso para rehacer la cocina en Hollywood?",
+          "a": "Para cualquier cosa que pase de pintar y cambiar electrodomésticos, sí. Mover plomería, alterar circuitos, agregar gas o tocar la estructura saca permisos por la Building Division de la City of Hollywood, con inspecciones antes de cerrar las paredes. Esa secuencia vale la pena tenerla: significa que la instalación en bruto se verificó antes de que llegara la loseta. Las cocinas sin permiso salen a la luz en el título y en la inspección cuando se vende la casa, y legalizarlas después cuesta más que hacerlo bien una sola vez."
+        },
+        {
+          "q": "¿El Historic Preservation Board se va a meter con mi cocina?",
+          "a": "Solo si el alcance llega al exterior de una propiedad designada. La revisión de la junta cubre los sitios históricos y las propiedades dentro de los distritos históricos de la ciudad, mediante Certificates of Appropriateness de diseño y de demolición. Una cocina interior se queda en revisión de planos. Agrandar la ventana del fregadero, abrir una puerta nueva hacia la terraza o sacar la ventilación de la campana por una pared visible cambia eso, y entonces el Certificate of Appropriateness va antes del permiso de construcción. En la primera visita identificamos cuál de los dos caminos le toca."
+        },
+        {
+          "q": "La casa está sobre losa. ¿El fregadero y la isla pueden ir a cualquier parte?",
+          "a": "En general sí, con dos límites que conviene nombrar temprano. Los drenajes necesitan pendiente, así que alejar el fregadero de la bajante existente a veces implica cortar la losa y redirigir por debajo, o aceptar otra ubicación para la isla. El hierro fundido viejo que aparece en ese corte casi siempre conviene reemplazarlo mientras está descubierto. Abrimos una cala pequeña antes de cerrar la distribución, para que el plano que usted aprueba sea el que de verdad se puede construir."
+        },
+        {
+          "q": "¿Con cuánta anticipación hay que ordenar los gabinetes?",
+          "a": "Con más de la que casi todos imaginan. Los paquetes de gabinetes a medida se miden, se dibujan, se aprueban y recién entonces se fabrican, y esa pista suele ser la partida más larga del cronograma. Ordenamos temprano y sostenemos la demolición hasta que la fecha de entrega es real, para que su casa no se quede sin cocina mientras un taller termina las puertas. Los electrodomésticos de entrega larga se eligen en la misma conversación y por exactamente la misma razón."
+        },
+        {
+          "q": "¿A dónde se va el presupuesto de una cocina en los Lakes?",
+          "a": "Los gabinetes, la piedra y los electrodomésticos marcan la cifra, y en una casa antigua lo que ocurre detrás de la pared la mueve más de lo que los clientes esperan. En vez de citar un rango que no significa nada, recorremos el espacio, confirmamos qué necesitan la estructura y las instalaciones, y ponemos una cifra fija por escrito contra una especificación escrita. Si el factor decisivo es la oferta más barata, se lo decimos temprano y quedamos en buenos términos."
+        }
+      ],
+      "cta_heading": "Empecemos con medidas reales",
+      "cta_sub": "Muéstrenos el espacio y cómo cocina en él. De vuelta le llega un estimado por escrito con alcance fijo, en español o en inglés."
+    },
+    "bathroom-remodeling": {
+      "title": "Remodelación de baños en Hollywood Lakes, FL | PGX Builders",
+      "meta_description": "Baños rehechos en Hollywood Lakes, donde la plomería de los años veinte vive detrás del mármol nuevo. Con permisos e inspecciones. (786) 273-2524.",
+      "h1": "Suite nueva en una casa de noventa años",
+      "hero_sub": "Suites principales, mamparas sin marco y tinas independientes para casas de Hollywood Lakes, con platos probados con agua, pendientes verificadas y cada permiso de plomería y electricidad tramitado ante la City of Hollywood, con supervisión diaria de un contratista general licenciado.",
+      "local_heading": "Qué hay detrás de la pared de un baño en los Lakes",
+      "intro_paragraphs": [
+        "Una casa de 1926 en Monroe Street se construyó con un baño y un pasillo. Los ranches que llenaron el vecindario en los cincuenta agregaron un segundo y después lo enlosetaron en un color que hoy es tema de conversación. Ninguno de los dos arreglos se parece a lo que quieren ahora los compradores y los dueños de toda la vida en Hollywood Lakes: una suite principal con dos lavamanos, una tina independiente y una ducha que no exija coreografía. La mayor parte de la remodelación de baños aquí es, en realidad, planificación de espacio: pedirle prestado un closet, un pasillo o un cuarto pequeño del fondo para lograr un solo cuarto bueno.",
+        "Los permisos de plomería, electricidad y mecánica salen de la Building Division de la City of Hollywood, con inspecciones antes de que se tape nada. El trabajo interior de baño casi nunca llega al Historic Preservation Board; agregar o agrandar una ventana en una fachada designada sí, a través de un Certificate of Appropriateness. Toda abertura nueva necesita además aprobación de producto para la High-Velocity Hurricane Zone, porque todo Broward es HVHZ. Y si su propiedad está en uno de los edificios bajos antiguos cerca del agua, sume la aprobación de la asociación y la realidad de calendario que imponen los requisitos de milestone inspection y de reservas estructurales de la Florida.",
+        "Los baños fallan en silencio y salen caros, así que los construimos como pequeñas piezas de infraestructura. Las membranas de impermeabilización se prueban con agua antes de la loseta, las pendientes se confirman con nivel y no con opiniones, el vidrio pesado se cuelga de refuerzos instalados para ese fin, y la piedra la coloca gente que se ganó el derecho a tocarla. Alcance fijo por escrito, supervisión diaria, pasillos protegidos desde la puerta de entrada hasta la zona de trabajo, y un contratista licenciado y asegurado detrás de todo. Lic. CGC1539072, con permisos e inspecciones sin excepción."
+      ],
+      "scope_heading": "Cómo se construye un proyecto de baño",
+      "scope_intro": "De un medio baño a una suite principal completa, la especificación queda cerrada por escrito antes de ordenar la primera loseta. Estos son los elementos que sostienen el trabajo.",
+      "scope_items": [
+        {
+          "name": "Una suite principal de verdad",
+          "desc": "Tomar prestado un closet, un pasillo o un cuarto del fondo y rehacer paredes e instalaciones para que la suite se lea como original y no como armada con sobras."
+        },
+        {
+          "name": "La membrana bajo el mármol",
+          "desc": "Membranas llenadas de agua y sostenidas antes de colocar una sola loseta, drenajes lineales o centrales a pendiente medida, y entradas a ras de piso donde la losa lo permita."
+        },
+        {
+          "name": "Tinas que el piso aguanta",
+          "desc": "Ubicación de la tina independiente verificada contra la estructura del piso, ruta de la grifería resuelta con anticipación, y superficies de piedra selladas para el uso diario en la humedad de la Florida."
+        },
+        {
+          "name": "Reemplazar la plomería original",
+          "desc": "Cambiar el hierro fundido y las líneas galvanizadas originales por drenaje y suministro modernos con todo abierto, que es la hora de trabajo más barata que usted va a comprar."
+        },
+        {
+          "name": "Vidrio, luz y extracción",
+          "desc": "Paneles sin marco sobre refuerzos sólidos, luminarias aptas para humedad, luz por capas para arreglarse de verdad, y extracción conducida al exterior en lugar de descargada en el ático."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Remodelar un baño en Hollywood necesita permiso?",
+          "a": "Todo lo que pase de un refrescamiento cosmético, sí. Reubicar o reemplazar plomería, alterar circuitos, agregar piso radiante o cambiar la ventilación exige permisos e inspecciones por la Building Division de la City of Hollywood. El valor no es el papeleo por el papeleo: es un tercero confirmando la plomería en bruto y la impermeabilización antes de que el mármol las esconda para siempre. Nosotros sacamos los permisos, agendamos las inspecciones y le entregamos el expediente cerrado al final."
+        },
+        {
+          "q": "Nuestra casa es una propiedad histórica designada. ¿Aun así podemos rehacer los baños?",
+          "a": "Sí. Lo que le importa al Historic Preservation Board es el exterior y el carácter de los edificios designados, y actúa mediante los Certificates of Appropriateness de diseño y de demolición dentro de los distritos históricos de Hollywood. Los baños interiores son suyos para rediseñarlos. Una ventana nueva o más grande, una ventilación exterior reubicada o un cambio a la fachada meten un Certificate of Appropriateness en la secuencia. Eso suma calendario, no un veto, y lo incorporamos al cronograma desde el primer día."
+        },
+        {
+          "q": "¿Podemos mudar un baño al otro lado de la casa?",
+          "a": "Muchas veces sí, aunque la losa decide qué tan elegante resulta. Los drenajes necesitan pendiente y las ventilaciones necesitan camino, así que un baño lejos de la bajante existente puede significar cortar la losa, redirigir por debajo o subir una ventilación nueva por una pared que todavía no existe. En los segundos pisos manda el entramado. Investigamos antes de diseñar, para que usted elija entre opciones reales y no descubra los límites a media demolición."
+        },
+        {
+          "q": "Somos dueños en un edificio bajo antiguo cerca del Intracoastal. ¿Qué cambia?",
+          "a": "Sobre todo los tiempos. Cuente con una aprobación arquitectónica de la asociación, comprobante de seguro del contratista, restricciones de horario y de uso del ascensor, y coordinación de los cortes de agua del edificio que afectan a los vecinos. Los edificios antiguos de tres pisos o más también están dentro del marco de milestone inspection y de estudio de reservas estructurales de la Florida, que puede poner obras de todo el edificio en el calendario junto a la suya. Programamos alrededor de las reglas del edificio en vez de discutirlas."
+        },
+        {
+          "q": "¿Cuánto sale un baño principal a este nivel?",
+          "a": "La piedra, el vidrio y la grifería son los costos visibles; los drenajes, el suministro, la ventilación y la impermeabilización son los que la gente subestima, y en una casa de los años veinte o los cincuenta suelen ser la mitad más grande. Definimos lo que el edificio genuinamente necesita y le damos un número fijo por escrito, no un cálculo por pie cuadrado. Como contratista de alta gama competimos en calidad de acabados y en certeza, no en ser los más baratos."
+        }
+      ],
+      "cta_heading": "Un baño a la vez también funciona",
+      "cta_sub": "Cuéntenos qué le molesta y vamos a medir, definir el alcance por escrito y ponerle un precio honesto, en español o en inglés."
+    },
+    "home-additions": {
+      "title": "Ampliaciones de casas en Hollywood Lakes | PGX Builders Group",
+      "meta_description": "Ampliaciones en Hollywood Lakes con ingeniería y revisión del distrito histórico: alas traseras, segundos pisos y suites familiares. (786) 273-2524.",
+      "h1": "Más espacio sin mudarse de los Lakes",
+      "hero_sub": "Extensiones traseras, segundos pisos, conversiones de garaje y suites para familiares en casas de Hollywood Lakes, con cimientos y vigas de amarre calculados, revisión histórica resuelta donde corresponde, permisos por la City of Hollywood y supervisión diaria en obra.",
+      "local_heading": "Ampliar dentro de un distrito histórico",
+      "intro_paragraphs": [
+        "Hollywood Lakes se loteó en parcelas de cincuenta pies, con el garaje al fondo y callejones de servicio corriendo detrás de cada calle. Una casa de dos cuartos de los años veinte en Tyler Street, o un ranch compacto en Jackson Street, casi siempre tiene espacio atrás y una manera de meter materiales sin desfilarlos frente a la puerta principal, y por eso tantos dueños de aquí amplían en vez de poner la casa en venta. Los proyectos típicos son un family room y una suite principal empujados hacia el patio trasero, un segundo piso sobre un plano original de una sola planta, un garaje convertido en área climatizada, y una suite para familiares en una casa que creció en las dos direcciones.",
+        "La Building Division de Hollywood mira con lupa exactamente este tipo de trabajo. Los retiros de zonificación, la cobertura del lote y la altura los revisa la Division of Planning and Urban Design, la Building Division emite el permiso de la construcción, y en una propiedad designada dentro de un distrito histórico el Historic Preservation Board pesa la volumetría y los materiales a través de un Certificate of Appropriateness. Cuente con ingeniería estructural sellada para zapatas, vigas de amarre y cargas de levantamiento, aprobaciones de producto HVHZ para cada abertura nueva, y en los lotes cerca del Intracoastal, una mirada seria a la zona de inundación y a los límites federales de mejora sustancial antes de que alguien dibuje una pared.",
+        "Las ampliaciones son donde de verdad se nota tener dos décadas de obra en el sur de la Florida. Amarrar una zapata nueva a unos cimientos de los años veinte, igualar la textura del estuco y la teja de barril hasta que la costura desaparece, y mantener habitable la mitad ocupada de la casa mientras la otra mitad se quedó sin techo son oficios que se aprenden. PGX corre el proyecto con un alcance fijo por escrito y un supervisor en obra todos los días, coordina al ingeniero y las revisiones, y mantiene un solo equipo responsable desde la primera conversación de factibilidad hasta la inspección final y la garantía."
+      ],
+      "scope_heading": "Formas en que crece una casa en los Lakes",
+      "scope_intro": "Cada una de estas arranca con ingeniería y una lectura honesta de la revisión que va a enfrentar. Preferimos matar una mala idea en la primera semana y no en revisión de planos.",
+      "scope_items": [
+        {
+          "name": "Extender hacia el patio",
+          "desc": "Family rooms, suites principales y comedores ampliados empujados hacia el patio, con los cimientos, la viga de amarre y el empate de techo diseñados y tramitados como un solo paquete."
+        },
+        {
+          "name": "Segundos pisos sobre muros viejos",
+          "desc": "Primero un ingeniero evalúa la mampostería y las zapatas existentes; después se diseña un piso superior que satisfaga tanto a la estructura como a la volumetría que el distrito espera."
+        },
+        {
+          "name": "Conversiones de garaje y carport",
+          "desc": "Convertir espacio sin climatizar en área habitable legal, aislada y con aire, con aberturas y trabajo mecánico tramitados para que los pies cuadrados cuenten cuando venda."
+        },
+        {
+          "name": "Un ala familiar privada",
+          "desc": "Suites independientes con baño, closet y kitchenette para familia de estadía larga, a la escala de la arquitectura original en vez de con cara de haber aterrizado ahí."
+        },
+        {
+          "name": "Zapatas, vigas y anclaje",
+          "desc": "Recalces, zapatas nuevas, acero y trayectoria continua de cargas: la mitad invisible del presupuesto, y la mitad que decide si la ampliación dura."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Una ampliación en Hollywood Lakes necesita aprobación del Historic Preservation Board?",
+          "a": "Si su propiedad está designada o queda dentro de uno de los distritos históricos de Hollywood, cuente con ello. Las funciones de la junta cubren los proyectos en sitios históricos y dentro de los distritos históricos, y las ampliaciones a casas unifamiliares existentes le llegan como Certificates of Appropriateness de diseño. Ese certificado va antes de que avance el permiso de construcción. Los diseños que respetan la línea de techo, las proporciones y los materiales originales suelen pasar limpio; los que pelean con la casa invitan revisiones y una segunda audiencia."
+        },
+        {
+          "q": "¿Una casa de mampostería de los años veinte aguanta un segundo piso?",
+          "a": "Muchas sí, algunas necesitan refuerzo, y eso lo resuelve un ingeniero estructural y no la corazonada de un contratista. Primero se evalúan las paredes originales de bloque de arcilla, piedra caliza oolítica o bloque de concreto y sus zapatas poco profundas; después se diseñan columnas nuevas, zapatas engrosadas o vigas de amarre mejoradas donde los números lo exigen. De vez en cuando la respuesta honesta es que una extensión trasera le da más espacio útil por menos dinero. Le ponemos las dos opciones enfrente, con cifras reales."
+        },
+        {
+          "q": "¿Cómo afecta la zona de inundación a una ampliación cerca del agua?",
+          "a": "Puede rehacer el proyecto completo. En una zona de inundación mapeada, las reglas federales de mejora sustancial miden su inversión contra el valor de la estructura existente, y cruzar ese umbral lo obliga a poner el edificio entero en cumplimiento con las normas de inundación, no solamente la parte nueva. En lotes cerca del Intracoastal eso cambia por completo la conversación de diseño. El personal de planicie inundable de Hollywood confirma su zona, y nosotros corremos el análisis antes de que usted se comprometa con planos."
+        },
+        {
+          "q": "¿Cuánto tarda una ampliación de principio a fin?",
+          "a": "Ajuste las expectativas desde el arranque. El diseño, la ingeniería estructural, la revisión histórica cuando aplica, la confirmación de zonificación y la revisión de planos suelen tomar varios meses antes de romper tierra, y la construcción de una ampliación sustancial suma varios meses más, más todavía si hay un segundo piso de por medio. Cerca de un año desde la primera reunión hasta la mudanza es un marco realista para un proyecto serio. El cronograma completo va por escrito, para que ninguna fase llegue de sorpresa."
+        },
+        {
+          "q": "¿Cuánto cuesta el pie cuadrado de una ampliación aquí?",
+          "a": "Las cifras por pie cuadrado engañan en las ampliaciones, porque los cimientos, la estructura, los empates de techo y las extensiones mecánicas no escalan con el área de piso. Una extensión trasera sencilla y un segundo piso sobre una casa sin reforzar son presupuestos completamente distintos. Después de una visita al sitio y una lectura estructural le entregamos un alcance fijo por escrito. Construimos a nivel de alta gama y cobramos en consecuencia, con el número atado a una especificación y no a una ilusión."
+        }
+      ],
+      "cta_heading": "Vamos a medir el patio",
+      "cta_sub": "Muéstrenos el lote, el levantamiento y lo que le hace falta. Recibe una lectura franca de factibilidad y números honestos, en español o en inglés."
+    },
+    "outdoor-living": {
+      "title": "Terrazas y cocinas de verano en Hollywood Lakes | PGX",
+      "meta_description": "Patios de Hollywood Lakes hechos para el aire salino del Intracoastal: terrazas con sombra, cocinas de verano y entradas de auto. (786) 273-2524.",
+      "h1": "El patio es la sala de afuera",
+      "hero_sub": "Cocinas de verano, pérgolas, terrazas de piscina, entradas de auto y restauración exterior para casas de Hollywood Lakes, con zapatas calculadas, gas y electricidad con permisos, y el techo nuevo y las aberturas de impacto coordinados por un solo contratista general licenciado.",
+      "local_heading": "Sombra, aire salino y el Intracoastal",
+      "intro_paragraphs": [
+        "Young trazó este vecindario alrededor del agua y de la sombra, y un siglo después ese sigue siendo el punto. Las casas de North Lake Drive y South Lake Drive miran hacia el agua abierta; las calles que corren al este hacia el Intracoastal terminan en seawalls y muelles, con salida hacia el norte al inlet de Port Everglades. Bajo banianos maduros y palmas reales, los dueños están construyendo la mitad exterior de la casa: una terraza techada en la parte de atrás, una cocina de verano que funcione en agosto, una pérgola sobre la terraza de la piscina, y una entrada de autos y un acceso que por fin estén a la altura de la fachada.",
+        "El trabajo exterior es lo que más revisión activa en Hollywood Lakes. Las estructuras necesitan permiso de construcción de la Building Division de la City of Hollywood, las líneas de gas, agua y electricidad llevan cada una su permiso por oficio, y en una propiedad designada dentro de un distrito histórico el Historic Preservation Board revisa los cambios visibles mediante un Certificate of Appropriateness. El trabajo de seawall y muelle pasa por la ciudad y además por el Aquatic and Wetland Resources Program del condado de Broward, que licencia el trabajo en, sobre o bajo las aguas superficiales, incluidos muelles, seawalls, dragado y relleno, y poda de mangle. Hollywood también adoptó elevaciones mínimas de seawall y de barrera de marea, alineadas con el estándar de todo el condado de Broward.",
+        "Aquí el trabajo exterior recibe estándares de interior, porque el clima no califica con curva. Las zapatas de las pérgolas se calculan en vez de estimarse, las terrazas se inclinan para llevar el agua lejos de la casa y no hacia la losa, y todo lo que quede al alcance del aire salino lleva metales de grado marino, piedra densa sellada y herrajes escogidos para esa exposición. Los proyectos corren con un alcance fijo por escrito, supervisión diaria y una obra que se limpia todas las tardes. Licenciados y asegurados, Lic. CGC1539072, con más de 20 años de construcción en el sur de la Florida detrás del estimado."
+      ],
+      "scope_heading": "El alcance del patio en los Lakes",
+      "scope_intro": "Una sola terraza o todo el fondo de la propiedad: se diseña, se tramita y se construye como un único proyecto coordinado, con un solo cronograma.",
+      "scope_items": [
+        {
+          "name": "Cocinas de verano bajo techo",
+          "desc": "Líneas de gas, agua y electricidad con permisos, gabinetes y topes calificados para la intemperie, y ventilación planificada para que el cocinero no termine parado dentro de su propio humo."
+        },
+        {
+          "name": "Pérgolas y terrazas techadas",
+          "desc": "Estructuras de sombra sobre zapatas vaciadas, con herrajes dimensionados para las cargas de viento de Broward y proporciones tomadas de la casa y no de un catálogo."
+        },
+        {
+          "name": "Entradas, caminerías y drenaje",
+          "desc": "Adoquines, concreto acabado y caminerías de acceso trazados para convivir bien con la fachada y para despachar un aguacero del sur de la Florida sin encharcarse."
+        },
+        {
+          "name": "Estuco, pintura y fachada",
+          "desc": "Reparar estuco desprendido, atender la corrosión costera en dinteles y barandas, y repintar como es debido, que en una fachada designada significa aprobar el color primero."
+        },
+        {
+          "name": "Aberturas de impacto y techo",
+          "desc": "Puertas de terraza y unidades exteriores aprobadas para HVHZ, instaladas con los flashings bien hechos, y el techo secuenciado con el resto para que el trabajo ocurra una sola vez."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "¿Necesito permisos para una pérgola o una cocina de verano en Hollywood?",
+          "a": "Sí en ambos casos, y por lo general más de uno. La estructura en sí necesita permiso de construcción de la City of Hollywood, y las líneas de gas, agua y electricidad llevan cada una su propio permiso por oficio y su inspección. Si la propiedad está designada, o el trabajo se ve dentro de un distrito histórico, súmele la revisión del Historic Preservation Board antes de que el permiso avance. Es más trámite del que una isla de parrilla parece merecer, y es lo que mantiene la obra legal y asegurable."
+        },
+        {
+          "q": "Hay que reconstruir el seawall y el muelle. ¿Quién lo aprueba?",
+          "a": "Más de una autoridad. La ciudad permite la construcción, y el Aquatic and Wetland Resources Program del condado de Broward licencia el trabajo en, sobre o bajo las aguas superficiales, lo que cubre muelles, seawalls, dragado y relleno, y poda de mangle. Según el alcance, puede aplicar también revisión estatal y federal. Hollywood además fija elevaciones mínimas de seawall y de barrera de marea construidas alrededor del aumento proyectado del nivel del mar, alineadas con el estándar de todo el condado. Cuente con una pista de aprobaciones real y planifique con ella."
+        },
+        {
+          "q": "¿Se pueden hacer a la vez la terraza de la piscina y el techo nuevo?",
+          "a": "Normalmente deberían hacerse juntos. Los bordes del techo, las canaletas, las bajantes y el drenaje de la terraza son un solo sistema, y retechar después de terminar una terraza nueva significa bajar teja y equipo sobre trabajo recién hecho. Secuenciamos techo, aberturas exteriores y hardscape en un mismo cronograma bajo un solo contratista, para que los detalles de flashing amarren con la estructura nueva y usted no viva dos temporadas de obra separadas por trabajos que van juntos."
+        },
+        {
+          "q": "¿El Historic Preservation Board revisa una entrada de autos o una cerca?",
+          "a": "Puede hacerlo, cuando la propiedad está designada o el cambio se lee desde la calle dentro de un distrito histórico. La revisión de la junta cubre las alteraciones sustanciales a edificios y sitios designados, y el hardscape del jardín del frente, las cercas, el color exterior y cualquier cosa que altere la presentación de una fachada histórica entran en esa conversación. Ha emitido un Certificate of Appropriateness por algo tan común como una entrada circular. El trabajo en el patio trasero, oculto a la vista, suele ser más simple. Confirmamos el estatus de designación con la Division of Planning and Urban Design antes de empezar a diseñar."
+        },
+        {
+          "q": "¿Qué determina el costo de una sala al aire libre aquí?",
+          "a": "Escala con la estructura y los servicios mucho más que con el área. Una terraza de adoquines con su drenaje es un presupuesto; una sala exterior techada con cocina de verano, gas, agua, electricidad y zapatas calculadas es genuinamente otro, y las selecciones de equipos y de piedra lo mueven todavía más. Después de una caminata por el sitio recibe un alcance por escrito con especificaciones reales, para que compare lo que de verdad se va a construir y no una cifra por pie que ignora lo que va debajo de la losa."
+        }
+      ],
+      "cta_heading": "Llévenos por el patio",
+      "cta_sub": "Señale lo que quiere y por dónde cae el sol. De vuelta le llegan un alcance fijo por escrito y un cronograma honesto, en español o en inglés."
+    }
+  }
+}

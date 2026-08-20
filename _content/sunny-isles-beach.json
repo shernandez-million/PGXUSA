@@ -31,23 +31,23 @@
       "scope_intro": "Full-gut renovations for Golden Shores houses and Collins Avenue residences — engineered, permitted, and finished for life on a barrier island.",
       "scope_items": [
         {
-          "name": "Full-gut renovations",
+          "name": "Full gut, tower or house",
           "desc": "Unit or house taken back to slab and structure, then rebuilt with new layouts, systems, and finishes under one coordinated city permit package."
         },
         {
-          "name": "Layout and structural changes",
+          "name": "House plans and tower layouts",
           "desc": "Opening up compartmentalized 1960s Golden Shores floor plans, or reconfiguring tower residences with engineering and association structural review where the building requires it."
         },
         {
-          "name": "Complete MEP updates",
+          "name": "Modern loads, aging risers",
           "desc": "New electrical, plumbing, and ductwork sized for modern loads — essential in houses wired decades ago and in units fed by aging building risers."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glass for oceanfront exposure",
           "desc": "Miami-Dade approved openings for oceanfront exposure: full replacement in single-family homes, coordinated with the association where the tower owns the envelope."
         },
         {
-          "name": "Finishes and millwork",
+          "name": "Stone, millwork, and quiet floors",
           "desc": "Stone, wide-plank flooring over sound-rated underlayment, custom millwork, and lighting, installed under daily supervision and protected until the day we hand over keys."
         }
       ],
@@ -91,11 +91,11 @@
       "scope_intro": "Complete kitchen construction — cabinetry, stone, systems, and lighting — scoped in writing and permitted with the city before a single cabinet comes off the wall.",
       "scope_items": [
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry installed dead level",
           "desc": "Fully custom millwork or premium European lines, built from shop drawings and installed dead level in buildings where very little else is."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Slabs up the service elevator",
           "desc": "Natural stone, quartzite, and porcelain slabs — templated on site, seams planned in advance, and brought up the service elevator without drama."
         },
         {
@@ -103,11 +103,11 @@
           "desc": "Walls opened between kitchen and living space in Golden Shores houses; islands and appliance walls reconfigured within a tower's riser constraints."
         },
         {
-          "name": "Appliance and gas relocation",
+          "name": "Appliances moved where you cook",
           "desc": "Panel-ready refrigeration, wine storage, induction or gas ranges moved where the layout wants them, with electrical and ventilation permitted to match."
         },
         {
-          "name": "Lighting design",
+          "name": "Task, cove, and decorative light",
           "desc": "Layered task, cove, and decorative lighting on proper dimming, aimed so the stone looks as good at night as it does at noon."
         }
       ],
@@ -151,19 +151,19 @@
       "scope_intro": "Primary suites, guest baths, and powder rooms, taken from demolition through glass — permitted with the city and tested before tile.",
       "scope_items": [
         {
-          "name": "Frameless showers",
+          "name": "The pan under the glass",
           "desc": "Curbless entries and heavy-glass enclosures over sloped, membraned, flood-tested pans — the part nobody photographs and everybody depends on."
         },
         {
-          "name": "Freestanding tubs",
+          "name": "Tubs the slab can carry",
           "desc": "Sculptural tubs with floor-mounted fillers, set on properly reinforced framing, with tower slab conditions verified before anyone falls in love."
         },
         {
-          "name": "Stone and large-format tile",
+          "name": "Book-matched slabs, dry-laid first",
           "desc": "Book-matched slabs and oversized porcelain, dry-laid and approved in advance so the veining lands exactly where your eye does."
         },
         {
-          "name": "Fixtures and plumbing",
+          "name": "Rain heads and thermostatic valves",
           "desc": "Thermostatic valves, rain heads, and relocated drains where the building's risers allow, coordinated with association plumbing rules in condo towers."
         },
         {
@@ -211,23 +211,23 @@
       "scope_intro": "Extensions and conversions for Golden Shores and Atlantic Isle properties, engineered to current wind and flood standards from the footings up.",
       "scope_items": [
         {
-          "name": "Rear extensions",
+          "name": "Glass-walled rooms toward the bay",
           "desc": "Family rooms, primary suites, and glass-walled living space extended toward the canal or bay, tied structurally into the existing house."
         },
         {
-          "name": "Second-story additions",
+          "name": "Second floor where footings allow",
           "desc": "A full upper floor where foundations allow it — structural analysis first, then new tie beams, stairs, and a roof built to hurricane-zone code."
         },
         {
-          "name": "Garage conversions",
+          "name": "Garages turned into real rooms",
           "desc": "Garages turned into guest suites, offices, or gyms with real insulation, conditioned air, and legal egress — permitted, not improvised."
         },
         {
-          "name": "In-law and guest suites",
+          "name": "Suites with their own entrance",
           "desc": "Separate-entry suites for long-stay family, a sensible investment in a neighborhood where relatives arrive in January and depart in April."
         },
         {
-          "name": "Foundation and tie-beam work",
+          "name": "Engineered for wind and sand",
           "desc": "Footings, stem walls, and reinforced tie beams engineered for coastal wind loads and the sandy soil this barrier island sits on."
         }
       ],
@@ -271,15 +271,15 @@
       "scope_intro": "From the pool terrace to the roof line: exterior construction scoped in writing, engineered for coastal exposure, and inspected like everything else we build.",
       "scope_items": [
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchens, marine rated",
           "desc": "Gas, refrigeration, and stone-topped cabinetry rated for marine air — plumbed, wired, and permitted like the small building it actually is."
         },
         {
-          "name": "Covered terraces and pergolas",
+          "name": "Terraces engineered, not assembled",
           "desc": "Shade structures engineered for hurricane-zone wind loads and anchored into real footings, because a pergola here is a wind calculation with furniture."
         },
         {
-          "name": "Pool decks and driveways",
+          "name": "Pool decks that drain fast",
           "desc": "Travertine, shellstone, and pavers set over proper base, with drainage planned so summer downpours leave as quickly as they arrive."
         },
         {

@@ -36,7 +36,7 @@
           "desc": "Down to bare slab and back: new layouts, doors, millwork, and finishes, staged around your building's elevator bookings and working hours."
         },
         {
-          "name": "Layout and wall changes",
+          "name": "Wall removals, engineer confirmed",
           "desc": "Opening enclosed kitchens, re-planning bedroom wings, and confirming with an engineer which walls are partitions and which are holding up your neighbors."
         },
         {
@@ -44,7 +44,7 @@
           "desc": "New electrical panels, plumbing branch lines, and fan-coil or ducted HVAC, tied cleanly into building risers and inspected by the City of Miami."
         },
         {
-          "name": "Impact windows and doors",
+          "name": "Impact glass to building standard",
           "desc": "Miami-Dade approved impact glazing wherever your association permits replacement, matched to the building standard and documented for HVHZ compliance."
         },
         {
@@ -96,11 +96,11 @@
           "desc": "Removing the kitchen enclosure, with engineering and headers where a wall carries load, so the cook finally gets the bay view too."
         },
         {
-          "name": "Custom cabinetry",
+          "name": "Cabinetry measured twice",
           "desc": "Built to post-demolition field measurements, with panel-ready appliances and interiors organized for how you actually cook, not how a spec sheet imagined."
         },
         {
-          "name": "Stone counters and islands",
+          "name": "Stone sized for the elevator",
           "desc": "Slabs selected at the yard, templated in place, and cut with elevator dimensions in mind, because a broken slab teaches an expensive lesson."
         },
         {
@@ -156,11 +156,11 @@
           "desc": "Combining compartmentalized eighties layouts into one open suite, with the tub, shower, and double vanity arranged around the light and the view."
         },
         {
-          "name": "Frameless showers",
+          "name": "Curbless showers where possible",
           "desc": "Full-height glass, linear drains, and benches built on flood-tested pans, curbless where the slab allows the recess and low-profile where it does not."
         },
         {
-          "name": "Freestanding tubs and stone",
+          "name": "Tubs, marble, and movement joints",
           "desc": "Sculptural tubs, slab walls, and book-matched marble installed over correct substrates, with movement joints where South Florida humidity demands them."
         },
         {
@@ -212,7 +212,7 @@
       "scope_intro": "Five kinds of expansion we build here, each engineered, permitted, and priced in writing before demolition starts.",
       "scope_items": [
         {
-          "name": "Unit combinations",
+          "name": "Combining the unit next door",
           "desc": "Structural openings through demising walls to merge adjacent condos, engineered, association-approved, and finished so the seam is undetectable."
         },
         {
@@ -276,7 +276,7 @@
           "desc": "Porcelain pavers on pedestals, drainage corrections, lighting, and planters, installed over protected membranes, because a leaking terrace is really a failing roof."
         },
         {
-          "name": "Summer kitchens",
+          "name": "Summer kitchens, tower or townhome",
           "desc": "Outdoor kitchens where your building or lot allows them: electric-equipped on tower terraces, gas-plumbed on townhome patios, permitted either way."
         },
         {

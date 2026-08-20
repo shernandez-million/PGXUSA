@@ -30,23 +30,23 @@
       "scope_intro": "Obra integral, de la estructura a los acabados, secuenciada para abrir la casa una sola vez y cerrarla bien.",
       "scope_items": [
         {
-          "name": "Renovaciones completas",
+          "name": "Vaciar por dentro, conservar el casco",
           "desc": "Demolición interior completa y reconstrucción de casas antiguas del Grove, conservando el casco y su carácter mientras se reemplaza todo lo que va detrás de las paredes."
         },
         {
-          "name": "Aperturas estructurales",
+          "name": "Fuera los muros de carga",
           "desc": "Remoción calculada por ingeniería de muros de carga para abrir plantas de los años veinte y de mediados de siglo, con permisos, cálculos e inspecciones en el orden correcto."
         },
         {
-          "name": "Reemplazo total de instalaciones",
+          "name": "Reemplazar lo que la humedad arruinó",
           "desc": "Nuevo servicio eléctrico, plomería y ductos dimensionados para las cargas de hoy — los sistemas que la humedad del Grove y décadas de parches suelen arruinar primero."
         },
         {
-          "name": "Ventanas y puertas de impacto",
+          "name": "Aberturas de impacto aprobadas para HVHZ",
           "desc": "Aberturas de impacto aprobadas por Miami-Dade que cumplen el código HVHZ y aun así respetan las proporciones de una fachada mediterránea o de un bungalow antiguo."
         },
         {
-          "name": "Carpintería fina a medida",
+          "name": "Molduras y empotrados, no de estante",
           "desc": "Molduras, puertas y muebles empotrados hechos a medida, ejecutados al nivel que marca el resto de la renovación, no comprados de un estante."
         }
       ],
@@ -77,7 +77,7 @@
     },
     "kitchen-remodeling": {
       "title": "Remodelación de cocinas en Coconut Grove | PGX Builders Group",
-      "meta_description": "Cocinas a medida para casas de Coconut Grove — gabinetes, piedra natural, islas y equipos reubicados, con permisos de la Ciudad de Miami. Llame al (786) 273-2524.",
+      "meta_description": "Cocinas a medida en Coconut Grove: gabinetes, piedra natural, islas y equipos reubicados, con permisos de la Ciudad de Miami. (786) 273-2524.",
       "h1": "Cocinas del Grove, por fin abiertas",
       "hero_sub": "Gabinetes a medida, topes de piedra y cambios reales de distribución para cocinas de Coconut Grove — diseñadas, con permisos de la Ciudad de Miami y construidas bajo la supervisión diaria de un contratista general con licencia.",
       "local_heading": "Casas antiguas, cocinas exigentes",
@@ -90,23 +90,23 @@
       "scope_intro": "Todo entre el primer boceto y la última inspección, construido alrededor de cómo su familia realmente cocina y se reúne.",
       "scope_items": [
         {
-          "name": "Gabinetes a medida",
+          "name": "Gabinetes para paredes fuera de escuadra",
           "desc": "Paquetes de gabinetes hechos a pedido para paredes antiguas fuera de escuadra — de altura completa, ajustados pieza por pieza y con interiores organizados para el uso real."
         },
         {
-          "name": "Topes de piedra e islas",
+          "name": "Losas elegidas en el depósito",
           "desc": "Mármol, cuarcita y granito seleccionados en el depósito de losas, plantillados en sitio e instalados con las uniones donde usted nunca va a mirar."
         },
         {
-          "name": "Cambios de distribución y muros",
+          "name": "Cocina y sala, en uno",
           "desc": "Aperturas calculadas por ingeniería entre la cocina y las áreas sociales, que convierten una planta compartimentada del Grove en un solo espacio continuo."
         },
         {
-          "name": "Reubicación de equipos",
+          "name": "Los equipos siguen la distribución",
           "desc": "Mover estufas, refrigeración y ventilación adonde la nueva distribución las pide, con el gas, la electricidad y los ductos con sus permisos en regla."
         },
         {
-          "name": "Diseño de iluminación",
+          "name": "Luz para una cocina en sombra",
           "desc": "Iluminación de tarea, ambiental y de acento planificada en el techo antes del drywall, porque la sombra del follaje hace las cocinas del Grove más oscuras de lo que los dueños esperan."
         }
       ],
@@ -137,7 +137,7 @@
     },
     "bathroom-remodeling": {
       "title": "Remodelación de baños en Coconut Grove, FL | PGX Builders",
-      "meta_description": "Baños principales, duchas de vidrio sin marco e impermeabilización bien hecha en Coconut Grove — con permisos e inspecciones de la Ciudad de Miami. (786) 273-2524.",
+      "meta_description": "Baños principales, duchas sin marco e impermeabilización bien hecha en Coconut Grove, con permisos e inspecciones. (786) 273-2524.",
       "h1": "Piedra, vapor e impermeabilización bien hecha",
       "hero_sub": "PGX Builders Group construye baños principales y de visita en todo Coconut Grove — con permisos completos, supervisión diaria e impermeabilización que asume la humedad del sur de la Florida como un hecho, porque lo es.",
       "local_heading": "A qué se enfrenta un baño en el Grove",
@@ -154,19 +154,19 @@
           "desc": "Reconfiguraciones totales que toman espacio de un clóset o de un dormitorio para crear la suite que la planta original del Grove nunca imaginó."
         },
         {
-          "name": "Duchas de vidrio sin marco",
+          "name": "Vidrio medido después del azulejo",
           "desc": "Duchas sin bordillo o de bordillo bajo, con platos en pendiente, desagües lineales y vidrio medido después de instalar el azulejo — nunca antes."
         },
         {
-          "name": "Sistemas de impermeabilización",
+          "name": "Membranas probadas con agua",
           "desc": "Membranas probadas con agua antes de colocar el azulejo, porque una filtración encontrada temprano cuesta una tarde y una encontrada tarde cuesta un techo."
         },
         {
-          "name": "Tinas independientes y piedra",
+          "name": "Tinas con el desagüe que exigen",
           "desc": "Ubicación de la tina planificada con la reubicación de desagüe que realmente exige, envuelta en piedra de vetas espejadas o azulejo de gran formato."
         },
         {
-          "name": "Reemplazo de plomería",
+          "name": "Tubería nueva hasta la bajante",
           "desc": "Líneas de hierro fundido y galvanizado cambiadas por tubería moderna hasta la bajante mientras las paredes ya están abiertas — el momento barato para hacerlo."
         }
       ],
@@ -197,7 +197,7 @@
     },
     "home-additions": {
       "title": "Ampliaciones de casas en Coconut Grove, Miami | PGX Builders",
-      "meta_description": "Extensiones traseras, segundos pisos y suites independientes en Coconut Grove — diseñadas según las reglas NCD-3, obra de un contratista con licencia. (786) 273-2524.",
+      "meta_description": "Extensiones traseras, segundos pisos y suites independientes en Coconut Grove, diseñadas según las reglas NCD-3. Contratista licenciado. (786) 273-2524.",
       "h1": "Más casa, los mismos árboles",
       "hero_sub": "Extensiones traseras, segundos pisos y conversiones de garaje en todo Coconut Grove — con ingeniería, permisos de la Ciudad de Miami y la supervisión diaria de PGX Builders Group, contratista general con licencia CGC1539072.",
       "local_heading": "Ampliar sin renunciar al Grove",
@@ -210,23 +210,23 @@
       "scope_intro": "Extensiones y conversiones que agregan pies cuadrados de verdad mientras el lote, los árboles y la casa original quedan intactos.",
       "scope_items": [
         {
-          "name": "Extensiones traseras",
+          "name": "Ampliar alrededor de raíces protegidas",
           "desc": "Ampliaciones en planta baja hacia el jardín — salas familiares, cocinas más grandes, suites principales — con cimentaciones planificadas alrededor de las zonas de raíces protegidas."
         },
         {
-          "name": "Segundos pisos",
+          "name": "Hacia arriba, no a lo ancho",
           "desc": "Plantas altas completas sobre la huella existente: la respuesta del Grove cuando el lote y sus árboles no dejan hacia dónde crecer más que hacia arriba."
         },
         {
-          "name": "Conversiones de garaje",
+          "name": "Del garaje a suite de huéspedes",
           "desc": "Garajes y construcciones auxiliares convertidos en espacio habitable legal — suites de huéspedes, oficinas, estudios — con los permisos y el aislamiento bien hechos."
         },
         {
-          "name": "Suites independientes",
+          "name": "Suites con entrada propia",
           "desc": "Suites con su propio baño y entrada, construidas para los padres, los invitados o las visitas de larga estadía que Miami produce con puntualidad."
         },
         {
-          "name": "Estructura y cimentaciones",
+          "name": "Vigas de amarre para cargas HVHZ",
           "desc": "Refuerzos de vigas de amarre, zapatas nuevas y conexiones calculadas para las cargas de viento HVHZ, inspeccionadas en cada etapa estructural."
         }
       ],
@@ -257,7 +257,7 @@
     },
     "outdoor-living": {
       "title": "Terrazas y cocinas de verano en Coconut Grove | PGX Builders",
-      "meta_description": "Terrazas, cocinas de verano, pérgolas y renovación exterior bajo los árboles de Coconut Grove, por un contratista general con licencia. Llame al (786) 273-2524.",
+      "meta_description": "Terrazas, cocinas de verano, pérgolas y renovación exterior bajo los árboles de Coconut Grove. Contratista licenciado. (786) 273-2524.",
       "h1": "Salas al aire libre bajo árboles maduros",
       "hero_sub": "PGX diseña y construye terrazas, cocinas de verano y renovaciones exteriores completas para casas de Coconut Grove — con permisos de la Ciudad de Miami, ingeniería para huracanes y nuestra supervisión diaria.",
       "local_heading": "La arboleda es la amenidad",
@@ -270,23 +270,23 @@
       "scope_intro": "De una sola terraza a una renovación exterior completa — piedra, estructuras y acabados hechos para la sombra, el aire salado y la temporada de huracanes.",
       "scope_items": [
         {
-          "name": "Terrazas y decks de piscina",
+          "name": "Terrazas que drenan bajo el follaje",
           "desc": "Terrazas de piedra y adoquines niveladas para drenar como corresponde bajo un follaje denso, donde el agua estancada y la hojarasca castigan cualquier superficie sin pendiente."
         },
         {
-          "name": "Cocinas de verano",
+          "name": "Cocina de verano, techo de verdad",
           "desc": "Parrillas empotradas, refrigeración y topes bajo techos calculados por ingeniería, con las líneas de gas y electricidad con permisos en lugar de improvisadas."
         },
         {
-          "name": "Pérgolas y estructuras de sombra",
+          "name": "Pérgolas ancladas para huracanes",
           "desc": "Estructuras ancladas y calculadas para las cargas de viento HVHZ, dimensionadas para complementar los árboles en lugar de competir con ellos."
         },
         {
-          "name": "Entradas de autos y accesos",
+          "name": "Entradas trazadas entre las raíces",
           "desc": "Entradas de autos, caminerías y accesos de entrada planificados alrededor de las zonas de raíces, con materiales que sobreviven la sombra, la humedad y el uso diario."
         },
         {
-          "name": "Estuco, pintura y aberturas",
+          "name": "Envolvente exterior, andamios una vez",
           "desc": "Trabajo de envolvente exterior — reparación de estuco, repintado completo, ventanas y puertas de impacto — coordinado con el cambio de techo para armar andamios una sola vez."
         }
       ],

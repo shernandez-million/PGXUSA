@@ -29,13 +29,24 @@ AREAS = {a["slug"]: a for a in PLAN["areas"]}
 SERVICE_ORDER = [s["slug"] for s in PLAN["services"]]
 
 FIELD_LIMITS = {
-    "en": {"title": (40, 70), "meta_description": (120, 175)},
-    "es": {"title": (40, 75), "meta_description": (120, 185)},
+    "en": {"title": (40, 70), "meta_description": (120, 162)},
+    "es": {"title": (40, 75), "meta_description": (120, 160)},
 }
 COMMON_FIELDS = ["h1", "hero_sub", "local_heading", "scope_heading",
                  "scope_intro", "cta_heading", "cta_sub"]
 EXTRA_FORM_OPTIONS = {"en": ["Permitting / compliance", "Something else"],
                       "es": ["Permisos / cumplimiento", "Otro"]}
+OG_LOCALE = {"en": "en_US", "es": "es_US"}
+# alt text is built per page so the same stock rendering isn't described identically on 200 pages
+ALT_TMPL = {"en": "{base} — {service} in {area}, Florida. Architectural rendering.",
+            "es": "{base} — {service} en {area}, Florida. Render arquitectónico."}
+ALT_BASE_ES = {
+    "home-remodeling": "Sala remodelada de planta abierta",
+    "kitchen-remodeling": "Cocina renovada con isla de mármol y gabinetes a medida",
+    "bathroom-remodeling": "Baño principal con tina independiente y ducha de mármol",
+    "home-additions": "Ampliación trasera moderna con ventanales de piso a techo",
+    "outdoor-living": "Terraza cubierta con cocina de verano y piscina",
+}
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -61,6 +72,14 @@ def file_for(s_slug: str, a_slug: str, lang: str) -> str:
     return f"{svc_slug(s_slug, lang)}-{a_slug}.html"
 
 
+COUNTY_ES = {"Miami-Dade": "Condado de Miami-Dade", "Broward": "Condado de Broward"}
+
+
+def county_name(area: dict, lang: str) -> str:
+    c = area.get("county", "Miami-Dade")
+    return COUNTY_ES.get(c, c) if lang == "es" else f"{c} County"
+
+
 def areas_url(lang: str) -> str:
     return "/zonas" if lang == "es" else "/areas"
 
@@ -75,10 +94,10 @@ def load_content() -> dict:
         for lang, name in (("en", f"{a}.json"), ("es", f"{a}.es.json")):
             p = CONTENT / name
             if not p.exists():
-                if lang == "en":
-                    errors.append(f"missing content file: {name}")
-                else:
-                    warnings.append(f"missing Spanish file: {name} (EN page will have no ES alternate)")
+                # an area can sit in the plan before its copy is written (county rollout);
+                # it simply isn't rendered until the file lands
+                warnings.append(f"not yet written: {name}"
+                                + ("" if lang == "en" else " (EN page will have no ES alternate)"))
                 continue
             try:
                 data[lang][a] = json.loads(p.read_text())
@@ -197,7 +216,7 @@ def lang_pair_urls(s_slug, a_slug, has_es):
     return en, es
 
 
-def render_page(a_slug, s_slug, doc, lang, has_pair):
+def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
     svc, area, pg = SERVICES[s_slug], AREAS[a_slug], doc["pages"][s_slug]
     canonical = DOMAIN + url_for(s_slug, a_slug, lang)
     en_abs = DOMAIN + url_for(s_slug, a_slug, "en")
@@ -231,9 +250,11 @@ def render_page(a_slug, s_slug, doc, lang, has_pair):
     rel_svc = "\n".join(
         f'          <a class="chip" href="{url_for(s, a_slug, lang)}">{esc(svc_name(s, lang))}</a>'
         for s in SERVICE_ORDER if s != s_slug)
+    # only link neighbours that actually have a rendered page in this language
+    nbrs = [n for n in area["neighbors"] if built is None or n in built]
     rel_areas = "\n".join(
         f'          <a class="chip" href="{url_for(s_slug, n, lang)}">{esc(AREAS[n]["name"])}</a>'
-        for n in area["neighbors"])
+        for n in nbrs)
 
     opt_key = "form_option_es" if lang == "es" else "form_option"
     form_opts = "\n".join(
@@ -248,10 +269,15 @@ def render_page(a_slug, s_slug, doc, lang, has_pair):
         for s in SERVICE_ORDER)
     ft_areas = "\n".join(
         f'        <li><a href="{url_for("home-remodeling", n, lang)}">{esc(AREAS[n]["name"])}</a></li>'
-        for n in area["neighbors"])
+        for n in nbrs)
 
     alt_url = (url_for(s_slug, a_slug, "es" if lang == "en" else "en")
                if has_pair else home_url("es" if lang == "en" else "en"))
+
+    alt_base = (ALT_BASE_ES[s_slug] if lang == "es"
+                else svc["img_alt_base"].split(" — ")[0])
+    img_alt = ALT_TMPL[lang].format(base=alt_base, service=name.lower(), area=area["name"])
+    og_img = f"{DOMAIN}/images/og/{Path(svc['image']).stem}-og.jpg"
 
     joiner = "·"
     out = TPL[lang]
@@ -268,7 +294,9 @@ def render_page(a_slug, s_slug, doc, lang, has_pair):
         "{{EN_ABS_URL}}": en_abs if has_pair or lang == "en" else canonical,
         "{{ES_ABS_URL}}": es_abs if has_pair or lang == "es" else canonical,
         "{{ALT_URL}}": alt_url,
-        "{{OG_IMAGE_URL}}": f"{DOMAIN}/{svc['image']}",
+        "{{OG_LOCALE}}": OG_LOCALE[lang],
+        "{{OG_LOCALE_ALT}}": OG_LOCALE["es" if lang == "en" else "en"],
+        "{{OG_IMAGE_URL}}": og_img,
         "{{JSONLD_SERVICE}}": json.dumps(jsonld_service(s_slug, area, canonical, lang), indent=2, ensure_ascii=False),
         "{{JSONLD_BREADCRUMB}}": json.dumps(jsonld_breadcrumb(s_slug, area, canonical, lang), indent=2, ensure_ascii=False),
         "{{JSONLD_FAQ}}": json.dumps(jsonld_faq(pg["faqs"]), indent=2, ensure_ascii=False),
@@ -277,8 +305,9 @@ def render_page(a_slug, s_slug, doc, lang, has_pair):
         "{{H1}}": esc(pg["h1"].rstrip(".")),
         "{{HERO_SUB}}": esc(pg["hero_sub"]),
         "{{HERO_IMAGE}}": svc["image"],
-        "{{HERO_IMG_ALT}}": esc(svc["img_alt_base"]),
+        "{{HERO_IMG_ALT}}": esc(img_alt),
         "{{AREA_NAME}}": esc(area["name"]),
+        "{{COUNTY}}": esc(county_name(area, lang)),
         "{{SERVICE_NAME}}": esc(name),
         "{{LOCAL_HEADING}}": esc(pg["local_heading"].rstrip(".")),
         "{{INTRO_PARAGRAPHS_HTML}}": intro_html,
@@ -329,25 +358,37 @@ AREAS_PAGE_COPY = {
 
 def render_areas_index(data, lang):
     c = AREAS_PAGE_COPY[lang]
-    blocks = []
+    county_label = {"Miami-Dade": {"en": "Miami-Dade County", "es": "Condado de Miami-Dade"},
+                    "Broward": {"en": "Broward County", "es": "Condado de Broward"}}
+    groups = {}
     for a in PLAN["areas"]:
         if a["slug"] not in data[lang]:
             continue
-        links = "".join(
-            f'<a class="chip" href="{url_for(s, a["slug"], lang)}">{esc(svc_name(s, lang))}</a>\n        '
-            for s in SERVICE_ORDER)
-        blocks.append(f'''    <div class="ar-block rv">
+        groups.setdefault(a.get("county", "Miami-Dade"), []).append(a)
+    sections = []
+    for county, areas in groups.items():
+        blocks = []
+        for a in areas:
+            links = "".join(
+                f'<a class="chip" href="{url_for(s, a["slug"], lang)}">{esc(svc_name(s, lang))}</a>\n        '
+                for s in SERVICE_ORDER)
+            blocks.append(f'''    <div class="ar-block rv">
       <h3 class="disp"><a href="{url_for('home-remodeling', a['slug'], lang)}">{esc(a['name'])}</a></h3>
       <div class="area-wrap">
         {links.rstrip()}
       </div>
     </div>''')
-    body = "\n".join(blocks)
+        label = county_label.get(county, {}).get(lang, county)
+        sections.append(f'    <h2 class="disp ar-county rv">{esc(label)}<span class="dot">.</span></h2>\n'
+                        + "\n".join(blocks))
+    body = "\n".join(sections)
     head_extra = """<style>
+.ar-county{font-size:clamp(28px,3.4vw,42px);margin:clamp(44px,5vw,72px) 0 4px}
+.ar-county:first-of-type{margin-top:0}
 .ar-block{border-top:1px solid var(--line);padding:30px 0 36px}
 .ar-block h3{font-size:clamp(22px,2.6vw,30px)}
 .ar-block h3 a{text-decoration:none;transition:color .25s}
-.ar-block h3 a:hover{color:var(--azure-ink)}
+.ar-block h3 a:hover{color:var(--brass-ink)}
 .ar-block .area-wrap{margin-top:16px}
 </style>"""
     tpl = TPL[lang]
@@ -379,7 +420,10 @@ def render_areas_index(data, lang):
         "{{EN_ABS_URL}}": DOMAIN + areas_url("en"),
         "{{ES_ABS_URL}}": DOMAIN + areas_url("es"),
         "{{ALT_URL}}": areas_url("es" if lang == "en" else "en"),
+        "{{OG_LOCALE}}": OG_LOCALE[lang],
+        "{{OG_LOCALE_ALT}}": OG_LOCALE["es" if lang == "en" else "en"],
         "{{OG_IMAGE_URL}}": DOMAIN + "/og-image.jpg",
+        "{{HERO_IMG_ALT}}": esc(c["h1"]),
         "{{JSONLD_SERVICE}}": jsonld,
         "{{JSONLD_BREADCRUMB}}": json.dumps({
             "@context": "https://schema.org", "@type": "BreadcrumbList",
@@ -412,6 +456,28 @@ def render_areas_index(data, lang):
     return out
 
 
+def sync_homepage_chips(data):
+    """Rewrite the area chip cloud on both homepages so it always mirrors what was
+    actually built. Hand-maintaining 40+ chips in two files guarantees drift."""
+    for lang, page in (("en", ROOT / "index.html"), ("es", ROOT / "es.html")):
+        if not page.exists():
+            continue
+        src = page.read_text()
+        if "<!-- AREAS:START -->" not in src:
+            warnings.append(f"{page.name}: no AREAS markers, chips not synced")
+            continue
+        chips = []
+        for a in PLAN["areas"]:
+            if a["slug"] not in data[lang]:
+                continue
+            chips.append(f'      <a class="chip" href="{url_for("home-remodeling", a["slug"], lang)}"'
+                         f' style="text-decoration:none">{esc(a["name"])}</a>')
+        block = "<!-- AREAS:START -->\n" + "\n".join(chips) + "\n<!-- AREAS:END -->"
+        new = re.sub(r"<!-- AREAS:START -->.*?<!-- AREAS:END -->", lambda m: block, src, flags=re.S)
+        if new != src:
+            page.write_text(new)
+
+
 def sitemap_entry(loc, en_url=None, es_url=None):
     lines = [f"  <url>", f"    <loc>{loc}</loc>", f"    <lastmod>{TODAY}</lastmod>"]
     if en_url and es_url:
@@ -424,6 +490,9 @@ def sitemap_entry(loc, en_url=None, es_url=None):
 
 def main():
     check_only = "--check-only" in sys.argv
+    # --force renders despite validation errors so the templates can be previewed while
+    # content is still being written; it never bypasses the check for a real publish
+    force = "--force" in sys.argv
     data = load_content()
     validate(data)
     if errors:
@@ -431,13 +500,20 @@ def main():
         for e in errors:
             print("  -", e)
     if warnings:
-        print(f"warnings ({len(warnings)}):")
-        for w in warnings[:40]:
-            print("  -", w)
-        if len(warnings) > 40:
-            print(f"  … and {len(warnings) - 40} more")
-    if errors:
+        # "not yet written" is expected during a county rollout and would otherwise bury
+        # the warnings that actually need attention, so report it as a count, not a list
+        pending = [w for w in warnings if w.startswith("not yet written")]
+        real = [w for w in warnings if not w.startswith("not yet written")]
+        if pending:
+            print(f"pending content: {len(pending)} area/language files not written yet")
+        if real:
+            print(f"warnings ({len(real)}):")
+            for w in real:
+                print("  -", w)
+    if errors and not force:
         sys.exit(1)
+    if errors:
+        print(f"--force: rendering anyway despite {len(errors)} error(s) — preview only, do not publish")
     if check_only:
         print(f"OK: {len(data['en'])} EN + {len(data['es'])} ES areas validated, no errors")
         return
@@ -454,11 +530,13 @@ def main():
             for lang in ("en", "es"):
                 if a_slug not in data[lang]:
                     continue
-                out = render_page(a_slug, s_slug, data[lang][a_slug], lang, has_pair)
+                out = render_page(a_slug, s_slug, data[lang][a_slug], lang, has_pair,
+                                  built=set(data[lang]))
                 (ROOT / file_for(s_slug, a_slug, lang)).write_text(out)
                 counts[lang] += 1
                 loc = DOMAIN + url_for(s_slug, a_slug, lang)
                 entries.append(sitemap_entry(loc, en_url, es_url) if has_pair else sitemap_entry(loc))
+    sync_homepage_chips(data)
     (ROOT / "areas.html").write_text(render_areas_index(data, "en"))
     if data["es"]:
         (ROOT / "zonas.html").write_text(render_areas_index(data, "es"))
