@@ -30,15 +30,85 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "GeneralContractor",
-  "name": "PGX Builders Group LLC",
-  "url": "https://www.pgxusa.com/",
-  "telephone": "+1-786-273-2524",
-  "email": "pgxbuildersgroup@gmail.com",
-  "address": {"@type": "PostalAddress", "addressLocality": "Miami", "addressRegion": "FL", "addressCountry": "US"},
-  "areaServed": ["Miami-Dade County", "Broward County"],
-  "inLanguage": "es",
-  "knowsAbout": ["Remodelación integral de viviendas", "Ampliaciones", "Remodelación de cocinas", "Remodelación de baños", "Construcción de espacios exteriores", "Permisos y cumplimiento de código"]
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://www.pgxusa.com/#website",
+      "url": "https://www.pgxusa.com/",
+      "name": "PGX Builders Group",
+      "publisher": {
+        "@id": "https://www.pgxusa.com/#business"
+      },
+      "inLanguage": [
+        "en",
+        "es"
+      ]
+    },
+    {
+      "@type": "GeneralContractor",
+      "@id": "https://www.pgxusa.com/#business",
+      "name": "PGX Builders Group LLC",
+      "url": "https://www.pgxusa.com/",
+      "logo": "https://www.pgxusa.com/images/pgx-logo.png",
+      "image": "https://www.pgxusa.com/og-image.jpg",
+      "telephone": "+1-786-273-2524",
+      "email": "pgxbuildersgroup@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Miami",
+        "addressRegion": "FL",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Miami-Dade County, Florida"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Broward County, Florida"
+        }
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "08:00",
+          "closes": "18:00"
+        }
+      ],
+      "knowsLanguage": [
+        "en",
+        "es"
+      ],
+      "knowsAbout": [
+        "Remodelación integral de viviendas",
+        "Ampliaciones",
+        "Remodelación de cocinas",
+        "Remodelación de baños",
+        "Construcción de espacios exteriores",
+        "Permisos y cumplimiento de código"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.pgxusa.com/es#webpage",
+      "url": "https://www.pgxusa.com/es",
+      "isPartOf": {
+        "@id": "https://www.pgxusa.com/#website"
+      },
+      "about": {
+        "@id": "https://www.pgxusa.com/#business"
+      },
+      "inLanguage": "es"
+    }
+  ]
 }
 </script>
 <style>

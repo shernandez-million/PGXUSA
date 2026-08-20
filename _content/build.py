@@ -194,6 +194,7 @@ def jsonld_service(s_slug, area, canonical, lang):
         "areaServed": {"@type": "Place", "name": f"{area['name']}, FL"},
         "inLanguage": lang,
         "provider": PROVIDER,
+        "isPartOf": {"@id": DOMAIN + "/#website"},
     }
     return d
 
@@ -429,9 +430,15 @@ def render_areas_index(data, lang):
     out = main_re.sub(lambda m: listing, tpl, count=1)
     # AREAS_INDEX_NO_HERO: this page has no hero photograph, so drop its LCP preload
     out = re.sub(r'<link rel="preload" as="image" href="\{\{HERO_IMAGE\}\}"[^>]*>\n', '', out, count=1)
-    jsonld = json.dumps({"@context": "https://schema.org", "@type": "CollectionPage",
-                         "name": c["collection_name"], "inLanguage": lang,
-                         "url": DOMAIN + areas_url(lang)}, indent=2, ensure_ascii=False)
+    jsonld = json.dumps({
+        "@context": "https://schema.org", "@type": "CollectionPage",
+        "@id": DOMAIN + areas_url(lang) + "#webpage",
+        "name": c["collection_name"], "inLanguage": lang,
+        "url": DOMAIN + areas_url(lang),
+        "isPartOf": {"@id": DOMAIN + "/#website"},
+        "about": {"@id": DOMAIN + "/#business"},
+        "publisher": {"@id": DOMAIN + "/#business"},
+    }, indent=2, ensure_ascii=False)
     repl = {
         "{{TITLE}}": c["title"],
         "{{META_DESCRIPTION}}": c["meta"],
