@@ -462,6 +462,26 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
   }
   .hero-media .hero-sub{max-width:38ch}
 }
+
+/* ---------- tap targets ----------
+   Negative margins absorb the extra padding, so the hit area grows to a
+   thumb-friendly size without shifting any layout. */
+.lang{padding:12px 10px;margin:-12px -10px}
+.burger{padding:13px;margin-right:-13px}
+.crumbs a{display:inline-block;padding:7px 3px;margin:-7px -3px}
+.m-menu a{padding:7px 0}
+.m-menu .mm-tel{display:inline-block;padding:10px 0}
+.m-menu .mm-lang{padding:10px 0}
+.ct-row a{display:inline-block;padding:9px 0;margin:-9px 0}
+.ft-col a{display:inline-block;padding:10px 0;margin:-10px 0}
+.ft-bar a{display:inline-block;padding:8px 0;margin:-8px 0}
+@media(max-width:760px){
+  .nav-in{height:72px}
+  .hero-media .hero-cta .btn{padding:16px 26px}
+  .chip{padding:14px 20px}
+  .crumbs a{padding:10px 4px;margin:-10px -4px}
+  .lang{padding:12px 14px;margin:-12px -14px}
+}
 </style>
 </head>
 <body>
