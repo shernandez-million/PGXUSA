@@ -48,6 +48,26 @@ ALT_BASE_ES = {
     "outdoor-living": "Terraza cubierta con cocina de verano y piscina",
 }
 
+PROVIDER = {
+    "@type": "GeneralContractor",
+    "@id": DOMAIN + "/#business",
+    "name": PLAN["business"]["name"],
+    "url": DOMAIN + "/",
+    "logo": DOMAIN + "/images/pgx-logo.png",
+    "image": DOMAIN + "/og-image.jpg",
+    "telephone": "+1-786-273-2524",
+    "email": PLAN["business"]["email"],
+    "address": {"@type": "PostalAddress", "addressLocality": "Miami",
+                "addressRegion": "FL", "addressCountry": "US"},
+    "areaServed": [{"@type": "AdministrativeArea", "name": "Miami-Dade County, Florida"},
+                   {"@type": "AdministrativeArea", "name": "Broward County, Florida"}],
+    "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+        "opens": "08:00", "closes": "18:00"}],
+    "knowsLanguage": ["en", "es"],
+}
+
 errors: list[str] = []
 warnings: list[str] = []
 
@@ -173,13 +193,7 @@ def jsonld_service(s_slug, area, canonical, lang):
         "serviceType": svc_name(s_slug, lang), "url": canonical,
         "areaServed": {"@type": "Place", "name": f"{area['name']}, FL"},
         "inLanguage": lang,
-        "provider": {
-            "@type": "GeneralContractor", "name": PLAN["business"]["name"],
-            "url": DOMAIN + "/", "telephone": "+1-786-273-2524",
-            "email": PLAN["business"]["email"],
-            "address": {"@type": "PostalAddress", "addressLocality": "Miami",
-                        "addressRegion": "FL", "addressCountry": "US"},
-        },
+        "provider": PROVIDER,
     }
     return d
 
@@ -483,8 +497,18 @@ def sync_homepage_chips(data):
             page.write_text(new)
 
 
-def sitemap_entry(loc, en_url=None, es_url=None):
-    lines = [f"  <url>", f"    <loc>{loc}</loc>", f"    <lastmod>{TODAY}</lastmod>"]
+def content_mtime(a_slug: str, lang: str) -> str:
+    """lastmod should reflect when the page's copy actually changed."""
+    import datetime
+    p = CONTENT / (f"{a_slug}.json" if lang == "en" else f"{a_slug}.es.json")
+    try:
+        return datetime.date.fromtimestamp(p.stat().st_mtime).isoformat()
+    except OSError:
+        return TODAY
+
+
+def sitemap_entry(loc, en_url=None, es_url=None, lastmod=None):
+    lines = [f"  <url>", f"    <loc>{loc}</loc>", f"    <lastmod>{lastmod or TODAY}</lastmod>"]
     if en_url and es_url:
         lines.append(f'    <xhtml:link rel="alternate" hreflang="en" href="{en_url}"/>')
         lines.append(f'    <xhtml:link rel="alternate" hreflang="es" href="{es_url}"/>')
@@ -540,7 +564,9 @@ def main():
                 (ROOT / file_for(s_slug, a_slug, lang)).write_text(out)
                 counts[lang] += 1
                 loc = DOMAIN + url_for(s_slug, a_slug, lang)
-                entries.append(sitemap_entry(loc, en_url, es_url) if has_pair else sitemap_entry(loc))
+                lm = content_mtime(a_slug, lang)
+                entries.append(sitemap_entry(loc, en_url, es_url, lm) if has_pair
+                               else sitemap_entry(loc, lastmod=lm))
     sync_homepage_chips(data)
     (ROOT / "areas.html").write_text(render_areas_index(data, "en"))
     if data["es"]:

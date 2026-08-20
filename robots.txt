@@ -1,4 +1,10 @@
+# https://www.pgxusa.com — PGX Builders Group LLC
+# General contractor · Miami-Dade & Broward
+
 User-agent: *
 Allow: /
 
-Sitemap: https://www.pgxbuildersgroup.com/sitemap.xml
+# Build sources and generated image variants add no value to the index
+Disallow: /_content/
+
+Sitemap: https://www.pgxusa.com/sitemap.xml

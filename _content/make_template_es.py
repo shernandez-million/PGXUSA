@@ -96,8 +96,8 @@ REPL = [
     ('<li><a href="/#contact">Request an estimate</a></li>', '<li><a href="/es#contact">Solicitar un estimado</a></li>', 1),
     ('© 2026 PGX Builders Group LLC · Lic. CGC1539072 · Licensed &amp; insured',
      '© 2026 PGX Builders Group LLC · Lic. CGC1539072 · Licenciado y asegurado', 1),
-    ('<a href="/" style="color:inherit;text-decoration:none">pgxbuildersgroup.com</a>',
-     '<a href="/es" style="color:inherit;text-decoration:none">pgxbuildersgroup.com</a>', 1),
+    ('<a href="/" style="color:inherit;text-decoration:none">pgxusa.com</a>',
+     '<a href="/es" style="color:inherit;text-decoration:none">pgxusa.com</a>', 1),
     ("'Estimate request — '", "'Solicitud de estimado — '", 1),
 ]
 
