@@ -315,6 +315,66 @@
       ],
       "cta_heading": "Come stand in the yard with us",
       "cta_sub": "Show us where the shade should fall and where the grill should live. You get a drawn scope, a permit plan and a fixed number, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Open Permits & Compliance, Coral Springs FL | PGX Builders",
+      "meta_description": "An open or expired permit on a Coral Springs address can stop a sale. We file with the city, meet the inspections and close it out. (786) 273-2524.",
+      "h1": "The permit that never got closed",
+      "hero_sub": "Applications filed with the City of Coral Springs Building Department, product approvals documented for the High-Velocity Hurricane Zone, inspections met in order, and the expired permit a title search just surfaced on your address. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "What the city has on your address",
+      "intro_paragraphs": [
+        "Coral Springs stopped building houses in 2003 and has been quietly altering them ever since. A Ramblewood or Maplewood ranch has usually been re-roofed twice, re-glazed, repiped and re-panelled by now, and the 1980s golf-course homes near Eagle Trace and the Coral Springs Country Club carry the same layers in a shorter span. Plenty of that was permitted. A water heater that moved rooms, a carport turned into a bedroom, a long-weekend window swap: usually not. None of it evaporates. An unfinished permit sits on the address until somebody finishes it, and most owners learn about theirs from a title search rather than from memory.",
+        "Permits are reviewed, issued and inspected by the City of Coral Springs Building Department through its online permitting portal, with zoning at Community Development in City Hall on West Sample Road. Above the city sits a second code authority: the Broward County Board of Rules and Appeals maintains the county's amendments to the Florida Building Code, certifies the plans examiners and inspectors who judge your job, and settles disputed code interpretations. Broward is High-Velocity Hurricane Zone territory, so glass, doors and roof assemblies need approved products documented. No historic board reviews a house here, but exterior color and roof tile answer to the city's approved lists.",
+        "We would rather read the record than guess at it. Before anyone talks money, we pull what the city holds on the address, walk the property, and put in writing which situation you are actually in: work that was built and never inspected, a permit issued for work never built, or work that never reached paper at all. Those are three different routes. From there it is a fixed written scope, our license on the application, and a supervisor in the room when the inspector arrives. Twenty-plus years in South Florida, 150-plus remodels and additions, all of them permitted and inspected. Lic. CGC1539072."
+      ],
+      "scope_heading": "Permits opened, and permits closed",
+      "scope_intro": "Half of this is a new project filed correctly from the first drawing. The other half is clearing what somebody else left behind. Both run under our license.",
+      "scope_items": [
+        {
+          "name": "Permits that never finaled",
+          "desc": "We pull the address record, take the dormant file onto an active license, build whatever it still needs, and get a final inspection signed rather than promised."
+        },
+        {
+          "name": "Plan review, first time through",
+          "desc": "Drawings, sealed engineering and product data assembled into one complete submittal through the city's portal, with review comments answered until the permit actually issues."
+        },
+        {
+          "name": "Approved windows and doors",
+          "desc": "Impact windows, doors, garage doors and roof assemblies carrying approvals valid in the High-Velocity Hurricane Zone, with anchor details and pressure schedules inside the set."
+        },
+        {
+          "name": "Inspections booked and attended",
+          "desc": "Rough, structural, waterproofing and final called in the right order, each one met on site by a supervisor who knows what the inspector will ask to see."
+        },
+        {
+          "name": "Legalizing unfiled work",
+          "desc": "Garage and carport conversions, screen rooms, patio slabs and window swaps nobody ever filed, documented as built, engineered where structure is involved, permitted under current code."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A title search on our Coral Springs house turned up an open permit. What happens now?",
+          "a": "It will not clear itself at closing. The permit belongs to the property rather than to whoever pulled it, and title companies routinely hold a sale until the file shows a final inspection. We pull the city record for the address to learn whether the work was built, partly built, or never started, because each answer leads somewhere different. Where finishes now cover the work, an engineer's letter can sometimes stand in for an inspector's eyes. Expect weeks rather than days, so begin well ahead of your closing date."
+        },
+        {
+          "q": "Who issues building permits in Coral Springs, and is more than one office involved?",
+          "a": "The City of Coral Springs Building Department reviews, permits and inspects, and applications go in through the city's online permitting portal. Zoning questions sit with Community Development at City Hall on West Sample Road. Behind the city, the Broward County Board of Rules and Appeals maintains the county's code amendments and certifies the officials who will review your job. There is no historic board here, the city being chartered in 1963, but exterior paint and roof tile still have to land on the city's approved lists."
+        },
+        {
+          "q": "A previous owner enclosed the carport and replaced the windows with no permit. Can that be legalized?",
+          "a": "Usually, and far more cheaply before a buyer's inspector finds it. The route is as-built drawings, sealed engineering wherever structure is involved, and a permit reviewed against the code in force today rather than the code of the year the work happened. That is where it stings: replacement glass has to carry an approval valid in the High-Velocity Hurricane Zone, so a quiet window swap from two decades ago often gets redone rather than blessed. Conversions also get read against setbacks and required parking."
+        },
+        {
+          "q": "Do milestone inspections or recertification apply to my property in Coral Springs?",
+          "a": "Not to a single-family house. Broward's building safety inspection program runs through the county Board of Rules and Appeals, keys off building age, and leaves one- and two-family dwellings out, which covers most of this city. Florida's milestone inspection and structural integrity reserve study rules reach condominium and cooperative buildings of three habitable stories or more, so here that means older low-rise condominium and townhome sections, not the ranches. Those reports belong to a licensed engineer or architect. We bring one in, then permit and build the repairs it names."
+        },
+        {
+          "q": "How much does it cost to clear an old permit off our house?",
+          "a": "No honest number comes from an address alone. The filing is the small part; the cost lives in whatever the file is still missing. Opening a ceiling so an inspector can see framing is one order of magnitude. A re-roof that was never signed off, or a carport conversion that needs engineering and current-code glazing, is another entirely. We read the record, walk the house, and price a written scope with real line items. City fees are the city's number rather than ours, and get passed through at cost."
+        }
+      ],
+      "cta_heading": "Send us the address first",
+      "cta_sub": "Before anyone talks about money, you will hear what the city has on file for your property and what clearing it involves, in English o en español."
     }
   }
 }

@@ -311,6 +311,66 @@
       ],
       "cta_heading": "Put the acre to work",
       "cta_sub": "Walk the yard with us. We will sketch what fits, flag what needs permits, and price it straight, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Ponce-Davis County Permits, Miami FL | PGX Builders",
+      "meta_description": "Open or expired permit on your Ponce-Davis house? PGX closes out old county records, files new work with Miami-Dade RER, handles HVHZ approvals. (786) 273-2524.",
+      "h1": "Close the permits before the closing",
+      "hero_sub": "Permitting and compliance for Ponce-Davis and High Pines: applications and plan review through Miami-Dade County RER, HVHZ product approvals, trade inspections, and closing out the open or expired permits that stall a sale. Licensed GC, Lic. CGC1539072.",
+      "local_heading": "Unincorporated means the county holds your file",
+      "intro_paragraphs": [
+        "Ponce-Davis and High Pines have been quietly improved for seventy years. Carports off Davis Road became garages, then bedrooms. Screened porches picked up air conditioning and drywall. Cabanas, generators, and pool decks appeared behind the hedges on Ponce de Leon Road and around Stonegate without anyone checking what the county file said about them. Much of that work was permitted properly. Some of it was not, and the discovery never arrives at a convenient hour; it arrives when a title search, a lender, or an insurance underwriter finally pulls the address. Those calls usually reach us with a closing date already on the calendar.",
+        "Because this pocket is unincorporated, there is no city hall to walk into. Work is filed with Miami-Dade County's Department of Regulatory and Economic Resources, RER, through the county's e-permitting portal, and the contractor pulling the permit has to be licensed and registered with the county. Building, electrical, plumbing, mechanical, and roofing each carry a separate permit and separate inspections. Taking down a protected oak needs its own DERM approval. Every exterior opening and roof system needs product documentation valid for the High-Velocity Hurricane Zone. Coral Gables and South Miami wrap around these streets without taking them in, so the folio decides where a permit is filed.",
+        "We are a general contractor, not a paperwork courier, and the difference shows in how a submittal gets built. PGX coordinates the architect, engineer, or arborist a package actually requires, assembles the drawings so plan review asks its questions once rather than three times, and answers comments in writing where there is a record of them. Inspections are sequenced into the build and attended by our own supervisor instead of left to whichever sub arrives first. You get a fixed written scope, a permit history that reads clean to a buyer's attorney, and one licensed team, CGC1539072, behind two decades of permitted work in South Florida."
+      ],
+      "scope_heading": "County filings and county fixes",
+      "scope_intro": "From a single window permit to thirty years of undocumented additions: researched, corrected, inspected, and closed out under one licensed contractor.",
+      "scope_items": [
+        {
+          "name": "County permits left open",
+          "desc": "We pull the full permit history tied to your folio, determine what each open record still needs, and carry it through reactivation, inspection, and final closeout."
+        },
+        {
+          "name": "After-the-fact permits",
+          "desc": "Legalizing the enclosed carport or the converted porch: measured as-built drawings, engineering where the structure demands it, and inspection of work already standing."
+        },
+        {
+          "name": "County product approvals",
+          "desc": "Windows, doors, shutters, and roof systems documented with Miami-Dade Notices of Acceptance and installed to the anchor detail that approval actually covers."
+        },
+        {
+          "name": "New filings through county RER",
+          "desc": "Building, electrical, plumbing, mechanical, roofing, and DERM tree applications prepared as one coordinated submittal rather than five separate afterthoughts."
+        },
+        {
+          "name": "Inspections to final sign-off",
+          "desc": "Trade inspections scheduled and attended in the right order, ending with the certificate a title company can verify rather than a record that simply went silent."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Title turned up an open permit on our Ponce-Davis house. What now?",
+          "a": "First we read the record, because open covers three different problems. The job may have been abandoned unfinished, the permit may have expired mid-project, or the work may be perfectly complete and nobody ever called the final inspection. The last one ends in an inspection and a closeout. The first two can mean reactivating the permit, re-permitting under current code, or opening finished work so an inspector can see it. We tell you which one you own, in writing, with enough runway before your closing date to act on it."
+        },
+        {
+          "q": "Is Ponce-Davis part of Coral Gables or South Miami for permitting?",
+          "a": "Neither. Ponce-Davis and High Pines are unincorporated Miami-Dade, wrapped by Coral Gables on one side and South Miami on the other but inside neither, so building permits are filed with the county through RER. The confusion is understandable, and it costs real time when a package gets prepared for the wrong reviewer. We verify the folio and the jurisdiction against the county record before anyone draws a sheet or quotes a scope."
+        },
+        {
+          "q": "A previous owner enclosed the carport with no permit. Can it be legalized?",
+          "a": "Usually, through an after-the-fact permit. We measure what exists, produce as-built drawings, bring in an engineer or architect when the structure calls for one, and submit it to be inspected against the code in force today. That sometimes means opening a wall or ceiling so an inspector can see framing, straps, and connections that were buried years ago. If what was built cannot be brought into compliance, the honest answer is rebuild or remove it, and you will hear that from us before you pay for drawings."
+        },
+        {
+          "q": "Do windows and doors here really need a Miami-Dade Notice of Acceptance?",
+          "a": "Ponce-Davis sits in the High-Velocity Hurricane Zone, so every exterior opening and roof system needs approval documentation valid for the HVHZ, and Miami-Dade's Notice of Acceptance is the approval most commonly used. The paperwork alone is not enough: the installation has to match what the NOA covers, down to anchor type, spacing, and substrate. Openings put in without it fail inspection, complicate the file at resale, and can cost you wind mitigation credit with your insurer."
+        },
+        {
+          "q": "Does 40-year recertification or a milestone inspection apply to a house like ours?",
+          "a": "No. Miami-Dade's building recertification program, the one everyone still calls the 40-year, exempts single-family homes and duplexes, and Ponce-Davis is single-family almost end to end. Milestone inspections and structural integrity reserve studies are a condominium requirement, aimed at buildings of three habitable stories and up, so nothing on these streets triggers them. If you also sit on a condo board elsewhere in Miami-Dade, the repair work those reports generate is something we do."
+        }
+      ],
+      "cta_heading": "One address, one county file",
+      "cta_sub": "Send us the address or the folio. We will read the county record, tell you plainly what is open, and price the fix in writing, in English o en español."
     }
   }
 }

@@ -314,6 +314,66 @@
       ],
       "cta_heading": "Take the project outside",
       "cta_sub": "Show us the backyard, the terrace, or the tired stucco — we will bring a plan and a straight answer, in English o en español. (786) 273-2524."
+    },
+    "permitting-compliance": {
+      "title": "Aventura Permitting & Compliance, Miami-Dade | PGX Builders",
+      "meta_description": "An open permit can stop an Aventura closing. PGX pulls the record, files what is missing, passes the inspections and closes it out. (786) 273-2524.",
+      "h1": "Permits that close before your closing does",
+      "hero_sub": "Permit applications, Miami-Dade product approvals, inspections and sign-offs filed with the City of Aventura, plus the less photogenic work of closing out a permit a prior owner left open. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "Where a permit outlives its owner",
+      "intro_paragraphs": [
+        "Aventura residences change hands often, and every owner leaves something behind: a kitchen opened up, a bathroom moved a few feet, marble run through the whole unit, an air handler swapped on a quiet Saturday. Almost all of that needs a permit here. The city draws its line at $500 in labor and materials once work modifies the structure, and it names tile, wood flooring and marble specifically. Years later that history shows up in exactly one place, the permit record a title company or a refinance underwriter pulls on a Williams Island, Porto Vita or Mystic Pointe address.",
+        "Permits inside city limits are issued and inspected by the Building Division of the City of Aventura Community Development Department, at the Government Center on West Country Club Drive, with applications, status and inspection requests running through the eTRAKiT portal. County rules follow the work anyway: windows, doors and roofing need current Miami-Dade product approvals, because Aventura sits inside the High-Velocity Hurricane Zone, and older buildings carry the county recertification program on top of the state's milestone inspections and reserve studies. The city also asks associations to share their structural and life-safety reports with it.",
+        "PGX Builders Group has more than twenty years in South Florida and over 150 remodels and additions delivered, all of them permitted and inspected. We pull permits under our own license, CGC1539072, so the file carries our name and finishing it is our responsibility. We coordinate the architect, engineer and product documentation each submittal needs instead of handing an owner a checklist, we register with your association and carry the certificates it asks for, and a supervisor meets the inspector rather than a phone number. We do not expedite anyone's calendar. We submit complete, sequence honestly, and answer your property manager before they have to ask."
+      ],
+      "scope_heading": "The paperwork we take off your desk",
+      "scope_intro": "Some of this arrives attached to a construction contract. Some of it is the entire job, hired on its own, because somewhere a file was never closed.",
+      "scope_items": [
+        {
+          "name": "Unclosed permits on a unit",
+          "desc": "We pull the property record at the city, establish what each open permit actually covers, and take it through re-inspection, revision or a replacement permit until it reads closed."
+        },
+        {
+          "name": "Complete permit applications",
+          "desc": "Filed with the City of Aventura through eTRAKiT, with drawings, engineering and product data in the first package, so review comments come back short instead of twice."
+        },
+        {
+          "name": "Glazing approvals for towers",
+          "desc": "Windows, doors and roofing specified to current Miami-Dade approvals and installed with the documented anchorage, because the inspector reads the paperwork against the opening."
+        },
+        {
+          "name": "Legalizing unpermitted work",
+          "desc": "Enclosed terraces, relocated plumbing, flooring and openings that were never filed, brought back through as-built drawings, engineering and inspection against the code in force today."
+        },
+        {
+          "name": "Milestone and SIRS repairs",
+          "desc": "Structural, waterproofing and electrical repairs your engineer's report calls for, permitted, sequenced around residents, and closed out item by item with the board kept current."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Aventura condo from the previous owner. What now?",
+          "a": "First we pull the property record at the City of Aventura Building Division and find out what that permit actually covered and how far it got. Sometimes the work was finished and only the final inspection was missed. Sometimes it was never done, or was done differently than the plans, and the honest route is a revision or a fresh permit. The permit belongs to the property, not to whoever pulled it, so it waits. Start it well before a closing date rather than the week of one."
+        },
+        {
+          "q": "Who issues building permits in Aventura, the city or Miami-Dade County?",
+          "a": "The City of Aventura Community Development Department issues and inspects permits inside city limits through its Building Division, and applications, payments, status and inspection requests run through the eTRAKiT portal. County rules still reach the job: Miami-Dade product approvals for hurricane-rated components, and the county recertification code for older buildings. There is no historic board or board of architects standing in front of a residential remodel here. What there usually is, in this city, is an association with its own approval package."
+        },
+        {
+          "q": "Do I really need a permit to change flooring or a water heater?",
+          "a": "Yes, and Aventura is unusually direct about it. The city requires a permit for general maintenance and repairs above $500 in labor and materials once the work modifies the structure, and it lists tile, wood flooring and marble by name. Electrical work down to a ceiling fan, air conditioning replacement, water heaters and fixture changes are on the list too, and a licensed contractor has to pull them. It feels fussy right up until the unit sells and the record is read out loud."
+        },
+        {
+          "q": "Our building has a recertification notice and a milestone inspection coming. How does that affect our unit?",
+          "a": "They are two separate programs and both land on the association first. Miami-Dade recertification, long known as the forty-year recertification, is a structural and electrical review signed by a Florida engineer or architect and repeated on a cycle, and coastal buildings reach it sooner. State law adds milestone inspections and structural integrity reserve studies for condominium buildings three stories and up. Aventura asks for those reports as well. Find out what your building has scheduled before you commit to dates inside your own walls."
+        },
+        {
+          "q": "What does it cost to sort out a permit problem?",
+          "a": "It depends on what the record shows and how much has to be opened up to prove the work is sound. A missed final inspection is a small exercise. A wall that was never filed, or plumbing that needs a pressure test, is a project. City fees are set by the city and we pass them through at cost, without markup. Our side is priced from a written scope after we have read the file, never guessed at over the phone."
+        }
+      ],
+      "cta_heading": "Start before the closing date",
+      "cta_sub": "Send us the address. We will tell you what is open, what closing it takes and what it costs, in writing and in English o en español."
     }
   }
 }

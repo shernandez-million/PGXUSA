@@ -316,6 +316,66 @@
       ],
       "cta_heading": "Take the house outside",
       "cta_sub": "Walk us through the yard and the wish list. We will bring the permit knowledge and a written scope, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Building Permits & Compliance in Miami Beach | PGX Builders",
+      "meta_description": "Permitting and compliance in Miami Beach FL: open permits closed out, HVHZ product approvals, inspections, recertification repairs. Call (786) 273-2524.",
+      "h1": "Open permits don't close themselves",
+      "hero_sub": "Permit filing, plan review, HVHZ product approvals, inspections, and closing out open or expired permits on Miami Beach property — run by a licensed general contractor, Lic. CGC1539072, who signs for the work and meets the inspector.",
+      "local_heading": "Where a Miami Beach permit actually goes",
+      "intro_paragraphs": [
+        "Miami Beach property turns over constantly, and permit history is where the past shows up. A 1930s Flamingo Park apartment house, a MiMo home in Mid-Beach, a South of Fifth condo, a North Bay Road estate: each one collects decades of work. A kitchen gutted, a bathroom re-piped, windows swapped, a deck poured, a garage quietly turned into a guest suite. Some of that was done with a permit and closed out properly. Some got a permit and was abandoned before the final inspection. Some was never filed at all, and none of it announces itself until a title search, an appraiser or an insurer goes looking.",
+        "All of it is filed with the City of Miami Beach Building Department through the city's Civic Access portal: a master permit for the job, trade subpermits for mechanical, electrical and plumbing, and a plan review that rarely clears in a single cycle. Miami-Dade County sits above the city too: its Board of Rules and Appeals oversees building code administration countywide, and county product approvals govern windows, doors and roofing in the High-Velocity Hurricane Zone. Then come the local layers — a Certificate of Appropriateness from the Historic Preservation Board for historic-district exteriors, floodplain and FEMA substantial-improvement review on a barrier island, and Miami-Dade DERM for seawalls and anything environmental.",
+        "PGX Builders Group has spent more than twenty years building in South Florida, with 150-plus remodels and additions delivered, all permitted and inspected. On the compliance side that looks like a written scope before anything is filed, one office coordinating the architect, the engineer and the product documentation, and a licensed contractor of record, Lic. CGC1539072, whose name goes on the permit card and who is standing there when the inspector arrives. We will not shortcut a requirement or pretend one can be waived. We will close things out, in the right order, in writing."
+      ],
+      "scope_heading": "What we take off your desk",
+      "scope_intro": "Permitting work gets scoped in writing like any other job, whether it is a project you are planning or a problem you inherited with the house. The usual range:",
+      "scope_items": [
+        {
+          "name": "Open and expired permits",
+          "desc": "We pull the property's permit record, find the inspections nobody ever called, renew or refile, and step in as contractor of record when the original one is long gone."
+        },
+        {
+          "name": "Filing and plan review",
+          "desc": "Master permit and trade subpermits submitted through Civic Access, with review comments answered in one voice instead of three trades pointing at each other."
+        },
+        {
+          "name": "HVHZ product approvals",
+          "desc": "Windows, doors, shutters and roofing documented with county or state approvals, and installed with the anchoring and substrate that approval specifies — the part inspectors check."
+        },
+        {
+          "name": "Inspections, in sequence",
+          "desc": "Trades staged so each inspection is genuinely ready when it is called, a PGX supervisor there to walk it, and correction notices answered rather than filed away."
+        },
+        {
+          "name": "Recertification and milestone repairs",
+          "desc": "Concrete, railing, electrical and waterproofing repairs called for by a building recertification or a condo milestone inspection, permitted and built with your association's engineer."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A title search found an open permit from the previous owner. What now?",
+          "a": "First we pull the permit record and find out what stalled: a missing final inspection, an abandoned trade inspection, or work that drifted from the approved drawings. From there the permit is renewed or refiled with the city, PGX is named contractor of record if the original contractor is unreachable, and the remaining inspections are completed. Whatever protection a buyer may have, lenders and title companies still want the file clean. Start weeks ahead of your closing date, not days."
+        },
+        {
+          "q": "What actually requires a permit in Miami Beach?",
+          "a": "Anything structural, anything touching plumbing, gas, electrical or mechanical, most roofing, and every window or door replacement. Cosmetic work — paint, cabinet doors, flooring over a sound slab — generally does not, and the city publishes a list of what it does not permit. In a historic district the exterior line moves: replacing a window in kind can still call for a Certificate of Appropriateness. When it is genuinely unclear, we ask the Building Department first, which costs far less than asking afterward."
+        },
+        {
+          "q": "What are HVHZ product approvals and why does my window order matter?",
+          "a": "Miami Beach sits in the High-Velocity Hurricane Zone, so windows, doors, shutters and roof systems must carry an approval — a Miami-Dade Notice of Acceptance or the Florida equivalent — for the exact configuration being installed. The approval also dictates anchors, spacing and substrate, and the inspector reads it. Swapping a product mid-job because a lead time slipped means new documentation and sometimes a new review, so we lock approvals into the permit set before anything is ordered."
+        },
+        {
+          "q": "Our building got a recertification notice. Can PGX do the repairs?",
+          "a": "Yes. The county recertification program everyone still calls the 40-year is administered here by the City of Miami Beach, applies to multifamily and commercial buildings rather than single-family houses, and repeats on a ten-year cycle once a building enters it. A milestone inspection or structural integrity reserve study on a three-story-plus condo drives similar work. The engineer writes the report; we permit and build what it calls for, phased so residents stay in their units, and close the file."
+        },
+        {
+          "q": "Can you expedite a permit?",
+          "a": "Not in the way people usually mean. Nobody legitimately jumps the line, and a contractor who promises to has told you something useful about how they work. What actually moves a permit is a complete, coordinated submittal, comments answered the week they land, and drawings that match the product approvals. Florida also allows private provider review and inspections on qualifying work, and we will raise it when it genuinely fits. Plan in weeks, not days, and start before your deadline is a deadline."
+        }
+      ],
+      "cta_heading": "Send us the permit number",
+      "cta_sub": "Tell us the address and what the search turned up. We will read the permit history and lay out the closeout, in English o en español. Call (786) 273-2524."
     }
   }
 }

@@ -315,6 +315,66 @@
       ],
       "cta_heading": "Meet us on the river side",
       "cta_sub": "Walk the yard, the seawall and the dock with us. Feasibility, the permit path and a real number follow, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Open Permits & Compliance in Wilton Manors, FL | PGX Builders",
+      "meta_description": "An open or expired permit on a Wilton Manors house can stall a sale. PGX files, inspects and closes the record out with Construction Services. (786) 273-2524.",
+      "h1": "Seventy years of other people's work",
+      "hero_sub": "Permit filing, HVHZ product approvals, inspections run to a signed final, and the open or expired permits a prior owner left on a Wilton Manors house. Filed with Construction Services by the licensed contractor on the job, Lic. CGC1539072.",
+      "local_heading": "Where the record lives, and who reads it",
+      "intro_paragraphs": [
+        "Wilton Manors filled in fast after 1950, and the paperwork did not always keep pace. The Island City's concrete-block ranches have absorbed seventy years of work from owners, handymen and contractors of wildly different habits. So the carport that quietly became a bedroom in Coral Estates, the Florida room glassed in over on Middle River Manor, the service panel upgraded off the books, the dock or lift added behind a Jenada Isles house all land in one category. The house looks finished. The city's file says the job never ended, and a title search will find it.",
+        "Permits are issued by the Construction Services division of Community Development Services at 2020 Wilton Drive, filed through the city's online permitting portal on the Broward County Uniform Building Permit Application, with a Notice of Commencement where the work calls for one. Broward then adds a layer above the city: the county Board of Rules and Appeals writes the local amendments your plans examiner applies, certifies the inspector who walks the job, and issues the formal reading when a code section is argued over. Every inch of the county is High-Velocity Hurricane Zone, so glazing, doors and roofing travel with approved products and their anchor details.",
+        "PGX Builders Group has twenty-plus years in South Florida behind it and more than 150 permitted, inspected remodels and additions delivered, which in practice means we have read a great many of other people's files. We pull the history on the address before quoting anything, open up what has to be seen, and bring in the engineer, architect or surveyor the record demands instead of pretending to be one. On the river side we look at floodplain exposure early, because a deep renovation can cross into substantial improvement. The supervisor who ran the work meets the inspector. We do not sell shortcuts, and there are none to sell."
+      ],
+      "scope_heading": "What we file and what we fix",
+      "scope_intro": "Half of this work starts as a plan. The other half starts as something a previous owner left behind. Both begin the same way: read the record, then price it.",
+      "scope_items": [
+        {
+          "name": "Permits left open",
+          "desc": "Reading the full permit history the city holds for the address, matching it against what is actually standing, then reviving, amending or re-inspecting until the city marks the file closed."
+        },
+        {
+          "name": "Work nobody ever filed",
+          "desc": "The enclosed carport, the glassed-in porch, the bathroom that simply appeared: surveyed and documented as built, engineered where the structure demands it, inspected against the code in force today."
+        },
+        {
+          "name": "Impact products, approved",
+          "desc": "Windows, doors and roof assemblies matched to approvals valid in the High-Velocity Hurricane Zone, with the anchor schedule the approval specifies rather than whatever the last crew used."
+        },
+        {
+          "name": "Inspections to a signed final",
+          "desc": "Each phase requested in an order the house can deliver, a PGX supervisor on site to meet the inspector, and the final signed so the permit stops being your problem."
+        },
+        {
+          "name": "Docks, seawalls and lifts",
+          "desc": "Middle River structures built or legalized with a sealed survey, sealed engineering, county environmental licensing, and the separate electrical permit that lighting and lifts require."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Wilton Manors house and we close soon. What now?",
+          "a": "Start with the record. The address history shows every permit ever pulled, which inspections were signed, and exactly where things stopped. Then it is a diagnosis. Sometimes only the final was never called. Sometimes what stands does not match what was approved. Sometimes the permit sits under a contractor who is long gone. All three are solvable, none of them over a weekend, so the call belongs weeks ahead of funding rather than days."
+        },
+        {
+          "q": "Who issues the permit here, and how do inspections get scheduled?",
+          "a": "Construction Services, the permitting arm of Community Development Services, works out of City Hall at 2020 Wilton Drive. Everything is filed digitally through the city's online permitting portal on Broward's uniform application, then routed to building, zoning, utilities and whichever trade reviewers the scope pulls in. Inspections are requested online against the city's daily cutoff, so we file each one when the phase is genuinely ready rather than to chase an open slot. When the last one is signed, a certificate of completion or occupancy closes the file."
+        },
+        {
+          "q": "What actually needs a permit on a house like mine?",
+          "a": "More than most owners expect. Structural changes, roofing, windows and doors, electrical, plumbing, mechanical, pools, fences, decks, driveways and demolition all do. Interior paint, flooring laid over a sound slab and swapping a fixture for its equal generally do not. What tends to go unfiled is exactly what gets expensive later: an enclosed carport, a jalousie-to-impact swap, a relocated water heater, a heavier electrical service, a lift on the river."
+        },
+        {
+          "q": "Does recertification or a milestone inspection apply to my property?",
+          "a": "Not to a single-family house. Broward's building safety inspection program is administered through the county Board of Rules and Appeals, keys off building age, and leaves one- and two-family dwellings out. Florida's milestone inspection and structural integrity reserve study rules reach condominium and cooperative buildings of three habitable stories or more, which here means a handful of older low-rise buildings, not the ranches. The report belongs to a licensed engineer or architect. We engage one, then permit and build the repairs it calls for."
+        },
+        {
+          "q": "What does it cost to put unpermitted work right?",
+          "a": "It depends on what is behind the drywall. If the construction is sound and only the final was never called, this is a modest line item and some patience. A room framed over a patio slab with no engineering behind it, or an opening cut through a bearing wall, can mean taking it apart and rebuilding to current code. Permit fees are the city's and scale with the value of the work. You get the number and the bad news in the same written scope."
+        }
+      ],
+      "cta_heading": "Tell us what the search found",
+      "cta_sub": "Give us an address and we will read the city's file on it, then put in writing what closing it out actually takes, in English o en español."
     }
   }
 }

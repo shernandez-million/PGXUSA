@@ -316,6 +316,66 @@
       ],
       "cta_heading": "Take the renovation outside",
       "cta_sub": "Show us the terrace, the pool deck, or the facade. We'll bring a scope that survives both the board and the weather, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Open Permits & Permitting in Bal Harbour, FL | PGX Builders",
+      "meta_description": "Permits, HVHZ product approvals, inspections and open permit closeout in Bal Harbour, FL. Licensed GC handling Village and ARB review. Call (786) 273-2524.",
+      "h1": "Permits handled, nothing left open",
+      "hero_sub": "Permitting and compliance for Bal Harbour houses and condo residences: applications filed with the Village Building Department, Architectural Review Board approvals, HVHZ product approvals, phased inspections, and old open permits closed out by a licensed general contractor.",
+      "local_heading": "How work gets approved in Bal Harbour",
+      "intro_paragraphs": [
+        "Nothing in Bal Harbour is far from the ocean or from a building file. The gated estate section along Bal Bay Drive, Bal Cross Drive and Camden Drive holds mid-century and Mediterranean houses that have been renovated repeatedly since the 1950s, while the Collins Avenue towers, from the Plaza of Bal Harbour to Oceana, hold residences that have been reworked more than once since their buildings opened. Every one of those rounds left a record, or should have. Impact windows, a kitchen gut, a moved wall, a re-roof, a seawall repair, an air conditioning changeout: all of it is permit work, and some of it never was.",
+        "The authority here is the Bal Harbour Village Building Department, which runs its plan review at Village Hall on 96th Street and takes applications in person. Since 2021 the Village has performed concurrent review with Miami-Dade County, so village and county comments come back on the same drawings. Exterior work needs a Certificate of Appropriateness from the Architectural Review Board before plan review begins. This is a High-Velocity Hurricane Zone, so openings and roofing need a Miami-Dade Notice of Acceptance or equivalent Florida Product Approval on file, and much of the village sits in AE flood zones, where FEMA substantial-improvement limits can reshape a renovation before it starts.",
+        "PGX Builders Group has been building in South Florida for more than twenty years, with over 150 remodels and additions delivered and every one of them permitted and inspected. On a Bal Harbour compliance job that shows up as sequence: architect, engineer and product data coordinated before anything is filed, plan review comments answered by us rather than forwarded to you, and inspections called in an order that keeps trades working instead of waiting. The same licensed team, Lic. CGC1539072, owns the file from the first application to the final sign-off. We do not shortcut requirements. We take the friction out of meeting them."
+      ],
+      "scope_heading": "The compliance work, item by item",
+      "scope_intro": "Some owners come to us before design starts. Others come with a notice from the Village or a title company two weeks before closing. This covers both.",
+      "scope_items": [
+        {
+          "name": "Inherited permits, cleared",
+          "desc": "Old and expired permits traced through Village and county records, taken over under our license, corrected, re-inspected and signed off before a sale or refinance stalls."
+        },
+        {
+          "name": "Complete first submittals",
+          "desc": "Drawings, product data and applications assembled and filed at Village Hall, Architectural Review Board approval handled first when the exterior is involved, comments answered by us."
+        },
+        {
+          "name": "Oceanfront glazing approvals",
+          "desc": "Windows, doors, garage doors and roofing specified with a valid Miami-Dade Notice of Acceptance, and the installation detailed to match what that approval actually covers."
+        },
+        {
+          "name": "Inspections in the right order",
+          "desc": "Each phase called when the work is genuinely ready, so an inspector's first visit is also the last one and the schedule holds."
+        },
+        {
+          "name": "Engineer-directed building repairs",
+          "desc": "Structural, concrete, balcony and electrical repairs your engineer's recertification or milestone report calls for, built under permit and documented for the association and the Village."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my property from a previous owner. What happens now?",
+          "a": "It surfaces in the municipal lien and permit search your buyer's title company runs, and lenders rarely fund around it. You do not need the original contractor. A licensed contractor can take the file over, pull the Village records, see which inspections were never called, expose or test the work where needed, correct what fails, and carry it through to final. Start the day it is found, not the week of closing."
+        },
+        {
+          "q": "What actually needs a permit in Bal Harbour?",
+          "a": "More than most owners assume. Structural changes, electrical, plumbing, mechanical, windows and doors, roofing, seawalls and docks all need one, and so does most of what happens inside a condo residence past paint and flooring. Anything visible from outside, including paint colors, awnings, driveways, fences and new openings, goes to the Architectural Review Board first for a Certificate of Appropriateness. If you are unsure, ask before the work starts. It is a five-minute question that prevents a two-year problem."
+        },
+        {
+          "q": "Can windows or a renovation done without a permit be legalized after the fact?",
+          "a": "Often yes, through an after-the-fact permit, though the standard is the same as if you had filed first. The Village and the county need to see that what was installed meets current code, which usually means drawings, certification by an engineer or architect, and product approval documents matching the units actually in the wall. Where openings went in without a valid Notice of Acceptance, some have to be replaced. We tell you which situation you are in before you spend on either path."
+        },
+        {
+          "q": "Our condo board received a recertification or milestone inspection report. Can PGX do the repairs?",
+          "a": "Yes. We do not perform the inspection. That belongs to your engineer, and it is worth asking up front whether the firm writing the report also intends to bid the repair work. What we do is build what the report calls for: concrete restoration, balcony and railing work, waterproofing, electrical corrections, all permitted through the Village and documented so the association ends up with a clean record. In an occupied Collins Avenue tower that also means staging, elevators and residents who still live there."
+        },
+        {
+          "q": "How long does permitting take, and what does it cost?",
+          "a": "Time is measured in weeks, not days, and the honest variables are scope, drawing quality, and whether the Architectural Review Board is involved. A complete, well-built submittal comes back with one round of comments; an incomplete one comes back three times. Fees are set by the Village and Miami-Dade County, scale with the value of the work, and we pass them through rather than mark them up. Anyone promising an exact number of days has not read your scope."
+        }
+      ],
+      "cta_heading": "Start with the building file",
+      "cta_sub": "A permit number, a violation notice, or a plan you simply want filed correctly. We'll tell you what it takes, in English o en español."
     }
   }
 }

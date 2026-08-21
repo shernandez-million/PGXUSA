@@ -312,6 +312,66 @@
       ],
       "cta_heading": "Make the outside the main room",
       "cta_sub": "Walk us around the yard and tell us how you actually use it. Written estimates, in English o en español — call (786) 273-2524."
+    },
+    "permitting-compliance": {
+      "title": "Village of Key Biscayne Permits, FL | PGX Builders",
+      "meta_description": "Building permits, inspections, and open-permit cleanup for Key Biscayne homes and condos. Licensed GC filing with the Village. Call PGX at (786) 273-2524.",
+      "h1": "Permitted, inspected, and closed out",
+      "hero_sub": "PGX Builders Group files, tracks, and closes permits for Key Biscayne homes and condos — new work, open permits inherited from a prior owner, HVHZ product approvals, and inspections — as a licensed general contractor (Lic. CGC1539072).",
+      "local_heading": "One island, its own building department",
+      "intro_paragraphs": [
+        "Most permitting calls from Key Biscayne start the same way: a title search two weeks before closing turns up an open permit nobody remembers pulling. It might be a 1990s reroof on a Mackle-era block house near the Village Green, an enclosed carport in Biscayne Key Estates, or a bathroom in Key Colony that was gutted quietly one summer. Sometimes the call runs the other direction — an owner on Harbor Point or Mashta Island planning real work who wants it filed correctly the first time. We take both calls, and the second one is cheaper.",
+        "Key Biscayne is its own jurisdiction. Permits are filed with the Village of Key Biscayne's Building, Zoning and Planning Department rather than with Miami-Dade, and the Village registers every contractor before it will accept an application. Drawings go through the Village's online plan review and come back with comments to answer. Windows, doors, and roofing need Miami-Dade approved products for the High-Velocity Hurricane Zone, with the documentation attached. Because most of the island sits in a FEMA flood zone, the Village also applies the substantial-improvement rule, and work at a seawall or dock adds county environmental review on top.",
+        "PGX Builders Group is a licensed general contractor, not a permit broker. We file our own work, coordinate the engineer or architect when a project needs drawings or calculations, and meet the inspector on site instead of leaving you to explain the job. That means a written scope before anything is submitted, a supervisor here daily so inspections get called at the right stage, and no shortcuts offered even when someone asks for one. Twenty-plus years in South Florida and more than 150 remodels and additions, every one permitted and inspected, taught us the cheap way through plan review is the expensive way out."
+      ],
+      "scope_heading": "The compliance work, start to sign-off",
+      "scope_intro": "Some of this is planning ahead. Some of it is cleaning up what a previous owner left behind. We do both in writing, before anyone touches the house.",
+      "scope_items": [
+        {
+          "name": "Permit applications and plan review",
+          "desc": "Drawings assembled, Village contractor registration current, submittal filed — then every plan-review comment answered until the permit is actually in hand."
+        },
+        {
+          "name": "Closing out open permits",
+          "desc": "We pull the property's permit history, work out what each open record still needs — a final inspection, a revision, a permit after the fact — and get it signed off."
+        },
+        {
+          "name": "Product approvals and anchorage",
+          "desc": "Windows, doors, and roofing specified with Miami-Dade approved products, approval documents filed with the submittal, because the inspector asks for paperwork before glass."
+        },
+        {
+          "name": "Inspections, called in order",
+          "desc": "Phased inspections scheduled at the right stage with the work genuinely ready, so the trade behind it is not idling on the island waiting for a re-inspection."
+        },
+        {
+          "name": "Milestone inspection repairs",
+          "desc": "For island condo buildings, we price and build the structural, waterproofing, and electrical repairs an engineer's recertification or milestone report calls for."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Key Biscayne house from the previous owner. What now?",
+          "a": "It is solvable, and much easier before a closing date than after one. We pull the permit history from the Village, read what each open record is missing, and sort it: some need only a final inspection, some need a revision or an engineer's letter, and work done with no permit may have to be permitted after the fact and opened up for inspection. The Village closes a permit by inspecting it, so this is real work, not a phone call."
+        },
+        {
+          "q": "Who issues building permits on Key Biscayne, the Village or Miami-Dade County?",
+          "a": "The Village of Key Biscayne runs its own Building, Zoning and Planning Department, so residential permits are filed, reviewed, and inspected by the Village rather than by the county. Contractors must be registered with the Village before an application is accepted, and plans move through the Village's online review. Miami-Dade still appears in two places: the product approvals required in the High-Velocity Hurricane Zone, and county environmental review for seawalls, docks, and other work in the water."
+        },
+        {
+          "q": "Does my remodel need a permit if we are not moving any walls?",
+          "a": "Almost certainly. Permits follow the trade, not the drama. Electrical, plumbing, mechanical, window and door replacement, roofing, water heaters, and most of what happens behind a wall are permitted and inspected work even when the floor plan never changes. Paint and a cabinet swap generally are not. The rule we give owners is simple: if a licensed trade is doing it, assume a permit, and let us confirm before the crew arrives rather than after a neighbor calls it in."
+        },
+        {
+          "q": "Our condo building received a recertification or milestone inspection report. Can you do the repairs?",
+          "a": "Yes, and that is the right division of labor. The report comes from a Florida-registered engineer or architect the association hires; we are not that professional and will not pretend to be. We take on the repair scope it produces — concrete restoration, waterproofing, railing and balcony work, electrical corrections — permitted through the Village, inspected, then handed back to your engineer for the follow-up report. In buildings like Key Colony and Ocean Club, we schedule around residents rather than the crew."
+        },
+        {
+          "q": "How much does permitting add, and how long does plan review take?",
+          "a": "Permitting is part of the cost of building legally, so it goes in the written scope instead of surfacing later. Fees are set by the Village and scale with the value of the work, so we quote them against your real scope rather than guess at a number here. Timing is honest: plan review on a serious project runs in weeks, not days, and longer when the drawings are thin. The fastest permit is a complete submittal, and that is where we spend the effort."
+        }
+      ],
+      "cta_heading": "Let's open the village file",
+      "cta_sub": "Give us the address and the permit number. We will pull the history and tell you where you stand, in English o en español — call (786) 273-2524."
     }
   }
 }

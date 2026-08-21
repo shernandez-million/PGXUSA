@@ -59,7 +59,7 @@
         },
         {
           "q": "Why does everyone here mention the Board of Rules and Appeals?",
-          "a": "It is the county layer Miami-Dade projects do not have. BORA administers the Florida Building Code as amended for Broward, certifies building officials and inspectors across the county's municipalities, hears appeals of their decisions, and issues formal interpretations when a code section is genuinely disputed. You will never sit in front of it for a kitchen. It matters because the inspector at your job works from a countywide standard, which is easier to build to when your contractor knows it."
+          "a": "It is the county layer that sits above every building department in Broward. BORA administers the Florida Building Code as amended for Broward, certifies building officials and inspectors across the county's municipalities, hears appeals of their decisions, and issues formal interpretations when a code section is genuinely disputed. You will never sit in front of it for a kitchen. It matters because the inspector at your job works from a countywide standard, which is easier to build to when your contractor knows it."
         },
         {
           "q": "My house is in a flood zone. Does that cap what I can spend on a remodel?",
@@ -316,6 +316,66 @@
       ],
       "cta_heading": "Take us out back",
       "cta_sub": "Show us the yard, the dock and the list you keep adding to. We will come back with drawings, a specification and a price, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Lauderdale-by-the-Sea Permits, FL | PGX Builders Group",
+      "meta_description": "Open or expired permit on a Lauderdale-by-the-Sea property? PGX reads the file, inspects and closes it out through the Town's Building Division. (786) 273-2524.",
+      "h1": "Clean file, clear closing",
+      "hero_sub": "Permit filings, HVHZ product approvals, inspections and final sign-offs across Lauderdale-by-the-Sea, plus closing out the open and expired permits a previous owner left on the property. Filed through the Town's Building Division by a licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "A small town desk, a countywide code",
+      "intro_paragraphs": [
+        "Most permit trouble in Lauderdale-by-the-Sea arrives with the deed. A title search flags an open addition permit on a Bel Air ranch, pulled by an owner two sales ago. An appraiser asks about the enclosed carport on Poinciana Street that appears in no town record. A lender pauses a refinance on Terra Mar Island Estates because a dock, a boat lift and a whole-house generator went in with no inspection anyone can find. The house is sound. The seawall is fine. The file is the problem.",
+        "Filing runs through the Town of Lauderdale-by-the-Sea Development Services Department, whose Building Division is staffed under contract by CAP Government. Drawings go up electronically, comments come back the same way, and inspections are requested online or by email against a daily cutoff. On top of the town sits the county's building code authority: the Broward County Board of Rules and Appeals publishes the Broward amendments to the Florida Building Code, certifies the plans examiner and inspector on your job, and rules on disputed readings. Broward is also High-Velocity Hurricane Zone, so every window, door and roof system needs an approved product with its anchoring detail attached.",
+        "Twenty-plus years of South Florida work and more than 150 remodels and additions, every one permitted and inspected, add up to an unglamorous specialty: reading other people's records. We order the permit history before quoting anything, open up what has to be seen, and bring in the licensed engineer, architect or surveyor a file calls for rather than pretending to be one. Flood elevation gets checked early on a barrier island, because crossing the substantial improvement threshold changes the whole project. Inspections are booked by us and met on site by the supervisor who ran the job. Nothing here runs on a shortcut."
+      ],
+      "scope_heading": "What gets filed, and what gets fixed",
+      "scope_intro": "Some of this is filed before a project starts. The rest is filed because a previous owner left it undone. Both begin with reading the record.",
+      "scope_items": [
+        {
+          "name": "The reroof that never finaled",
+          "desc": "Ordering the town's full permit history for the address, matching it against what is actually built, then reactivating, correcting or re-inspecting each one until the file closes."
+        },
+        {
+          "name": "Work that was never filed",
+          "desc": "Enclosed carports, added baths, swapped windows and garage conversions that never reached the town: drawn as built, engineered where structure is involved, inspected against current code."
+        },
+        {
+          "name": "HVHZ approvals and anchoring",
+          "desc": "Impact windows, doors and roof systems matched to approvals valid in the High-Velocity Hurricane Zone and fastened exactly as the approval specifies, with the documentation attached."
+        },
+        {
+          "name": "Inspections, in the right order",
+          "desc": "Rough, framing and final called in a sequence the job can actually meet, with someone from PGX at the door when the inspector shows up, so the permit closes."
+        },
+        {
+          "name": "Repairs the report calls for",
+          "desc": "Concrete restoration, railings, waterproofing and electrical work that a milestone report or Broward's county safety inspection puts on an association's list, permitted and inspected together."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Lauderdale-by-the-Sea house and we close next month. What now?",
+          "a": "Start with the record, not the repair. The town's file will show every permit ever pulled on that address, which inspections were signed, and exactly where things stopped. What comes next depends on what that shows. A missing final on sound work is the short version. Work that does not match the approved drawings is a longer one, and may need a licensed engineer to document what is actually there. Either way this runs in weeks rather than days, so make the call well before the closing date."
+        },
+        {
+          "q": "What actually needs a permit in a town this small?",
+          "a": "More than owners expect. Structure, roofing, windows and doors, electrical, plumbing, gas and mechanical all do, and so do fences, pools, driveways, docks, lifts and seawalls, which on this island is most of what people want to change. Paint, flooring over a sound slab and a like-for-like cabinet swap generally do not. The items that quietly go unfiled are the ones that cost the most later: a carport enclosed into a room, a panel upgrade, a water heater moved, a shower added to a garage."
+        },
+        {
+          "q": "The contractor who pulled my permit is gone. Can PGX take it over?",
+          "a": "Usually, yes. A permit is tied to the license that pulled it, so when that contractor disappears the job cannot simply be finished by someone else on the same paperwork. The town has a process for a qualified contractor to take over an existing permit, which means we become answerable for what was built before we arrived. That is why we look first: nobody puts a license behind concealed work they have not seen. Where something has to be opened up to be verified, we say so first."
+        },
+        {
+          "q": "Our oceanfront building has a milestone inspection report. Does PGX do that work?",
+          "a": "The report is signed by a Florida-licensed engineer or architect; we bring that professional in rather than claim the title. State law requires milestone inspections for condominium and cooperative buildings of three habitable stories or more: a visual first phase, and a second phase only where substantial structural deterioration turns up. Near salt water a local official can require the first one sooner. PGX does the repair scope that follows: concrete restoration, railings, waterproofing, electrical, permitted and inspected. The structural integrity reserve study runs on its own track."
+        },
+        {
+          "q": "What does it cost to clear an old permit problem?",
+          "a": "That depends entirely on what is behind the wall. A missing final on work that was built properly is a small item. A room framed with no engineering behind it, or a roof installed without approved products, can mean opening it up and rebuilding to today's code. Permit fees are set by the town and scale with the value of the work, so they are not ours to mark up. What you get from us is the record read, a written scope, and the bad news early."
+        }
+      ],
+      "cta_heading": "Pull the record first",
+      "cta_sub": "Give us the address, or the permit number if you have it. We will read the file and put the fix in writing, in English o en español."
     }
   }
 }

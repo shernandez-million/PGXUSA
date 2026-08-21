@@ -312,6 +312,66 @@
       ],
       "cta_heading": "Take the living outside",
       "cta_sub": "Walk the yard with us. We will plan the terrace, the summer kitchen, and the approvals as one scope — in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Permits & Compliance for Miami Shores, FL | PGX Builders",
+      "meta_description": "Open permits, HVHZ product approvals and inspections in Miami Shores, FL. PGX files through the Village and closes out the old records. (786) 273-2524.",
+      "h1": "A permit history that reads clean",
+      "hero_sub": "Permitting and compliance for Miami Shores homes: applications filed through the Village, HVHZ product approvals, phased inspections, and the closeout of open or expired permits that surface at a sale. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "What the Village has on your address",
+      "intro_paragraphs": [
+        "Miami Shores was drawn in the 1920s and built out over the four decades that followed: Mediterranean Revival houses near Grand Concourse, prewar cottages on the numbered streets, postwar ranches spreading toward the Country Club and Barry University. Almost every one of them has been changed by somebody. Carports were closed in, screened porches became air-conditioned rooms, a bathroom appeared where a closet used to be. Plenty of that was permitted properly. The rest sits quietly in the file until a title search, a lender or an insurance underwriter goes looking for it.",
+        "Work here is permitted through the Miami Shores Village Building Department on NE 2nd Avenue, which runs its own plan review, takes submittals through the Village's online portal, and will not issue to a contractor who is not registered with the Village first. Exterior changes answer to the Village's harmony standards, and the dozens of houses carrying Village historic designation need Historic Preservation Board approval before anything on the outside moves. Every opening and roof system needs HVHZ product approval. On the bayfront lots along North Bayshore Drive the Village's floodplain rules join the review, and FEMA's fifty percent substantial improvement threshold can reshape an entire project.",
+        "PGX runs permitting the way we run construction: scoped in writing, sequenced, and owned by one person. We bring in the architect, engineer or surveyor a submittal genuinely needs, file complete rather than in pieces, and put every response to plan review in writing so nothing depends on who answered the phone. A PGX supervisor books each inspection and stands there for it. You end up with a licensed contractor of record, a fixed price against a fixed scope, and a permit history that reads clean to the next buyer's attorney. More than 20 years, 150-plus projects, all of them permitted and inspected."
+      ],
+      "scope_heading": "Permit problems we solve in the Shores",
+      "scope_intro": "One window permit or thirty years of quiet alterations: filed, corrected, inspected and closed under a licensed general contractor, with the Village's requirements handled before they become your problem.",
+      "scope_items": [
+        {
+          "name": "Open permits on the address",
+          "desc": "We read the Village's record for your address, identify what each open permit is actually missing, and carry it through reactivation, inspection and a documented closeout."
+        },
+        {
+          "name": "Unpermitted work, legalized",
+          "desc": "After-the-fact permits for the enclosed carport, the converted garage or the extra bathroom: as-built drawings, engineering where the structure demands it, inspection of what already stands."
+        },
+        {
+          "name": "NOAs for windows and roofs",
+          "desc": "Windows, doors, shutters and roof assemblies documented with Miami-Dade Notices of Acceptance and installed to the anchor detail the approval covers, not to whatever came on the truck."
+        },
+        {
+          "name": "Village and historic review",
+          "desc": "Zoning and appearance review coordinated up front, plus Historic Preservation Board approval for designated houses, so the exterior is settled before any material is ordered."
+        },
+        {
+          "name": "Inspections to final sign-off",
+          "desc": "Trade inspections booked in the right order and attended by our supervisor, ending with a final that genuinely closes the permit instead of leaving it dormant."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "The Village record shows a permit that was never finaled. What do we do?",
+          "a": "The Village holds the record, so that is where we start. Some entries are jobs abandoned partway, some expired while the work sat, and plenty are jobs built properly where nobody ever called the final inspection. That last kind usually ends with one visit and a closeout. The others can mean re-permitting, or opening finished work so an inspector can see what is behind it. You will know which one you own well before your closing date, not the week of it."
+        },
+        {
+          "q": "Who issues permits in Miami Shores, and can any contractor pull them?",
+          "a": "Permits come from the Miami Shores Village Building Department, which reviews plans itself rather than sending them to the county, and takes applications through the Village's online portal. The Village also requires contractors to be registered with it, license and insurance on file, before a permit will issue in their name. And you should never be asked to pull an owner-builder permit so a contractor can work underneath it. PGX files under license CGC1539072."
+        },
+        {
+          "q": "The previous owner closed in the carport without a permit. Can that be legalized?",
+          "a": "Usually, through an after-the-fact permit. We measure what is standing, produce as-built drawings, bring in an engineer or architect where the structure calls for one, and put the work through inspection against the code in force today, which sometimes means opening a wall or ceiling so the connections can be seen. The Village charges a penalty when the permit arrives after the work. If what is built cannot be brought to code, the honest answer is rebuild or remove, and we say so before you pay for drawings."
+        },
+        {
+          "q": "Do my impact windows need Miami-Dade approval, or is a Florida approval enough?",
+          "a": "Every exterior opening and roof assembly in Miami Shores has to carry approval documentation valid inside the High-Velocity Hurricane Zone, and the Miami-Dade Notice of Acceptance is the version inspectors here see most. The paperwork is only half of it: the installation has to match the approval down to anchor type, spacing and substrate, or it fails inspection no matter how good the window is. On a designated historic house the profiles and sightlines have to satisfy the Historic Preservation Board as well."
+        },
+        {
+          "q": "Does the 40-year recertification or the condo milestone rule apply to me here?",
+          "a": "If you own a house, no. Miami-Dade's building recertification program, which most people still call the 40-year even though the first inspection now comes sooner, exempts single-family homes and duplexes, and Miami Shores is overwhelmingly single-family. Milestone inspections and structural integrity reserve studies apply to condominium and cooperative buildings of three habitable stories or more, which in the Village means the small multifamily buildings, not the houses. If you sit on one of those boards, the repairs a report calls for are work we do."
+        }
+      ],
+      "cta_heading": "Start with the permit history",
+      "cta_sub": "Send us the address. We will read what the Village has on file and tell you plainly what it takes to close it out, in English o en español."
     }
   }
 }

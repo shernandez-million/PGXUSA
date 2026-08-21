@@ -314,6 +314,66 @@
       ],
       "cta_heading": "Time the backyard grew up",
       "cta_sub": "Show us the lot and the wish list. We will handle the HOA, the permits, and the build — in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Doral, FL Permits & Open Permit Closeout | PGX Builders",
+      "meta_description": "Open permits, HVHZ product approvals and inspections in Doral, FL. PGX files with the City of Doral and closes out old county records. Call (786) 273-2524.",
+      "h1": "Permits that match what was built",
+      "hero_sub": "Permitting and compliance for Doral homes: filings and plan review through the City of Doral, HVHZ product approvals, inspections, and closing out the open or expired permits that surface at a sale. Lic. CGC1539072.",
+      "local_heading": "A city younger than its houses",
+      "intro_paragraphs": [
+        "Doral filled in fast. Doral Estates and Doral Park went up in the early 1980s, Doral Isles and the Islands at Doral came through the late 1990s and 2000s, Downtown Doral and Canarias more recently still. Two decades of owners have since screened terraces, turned patios into offices, converted garages, swapped water heaters and air handlers, and had impact windows installed by whoever answered the phone. Some of that was permitted. The rest sits quietly in the house until a title company, a lender or an insurance underwriter goes looking for the paperwork.",
+        "Permits are filed with the City of Doral Building Department, which reviews structural, electrical, plumbing and mechanical work as separate sub-permits and requires the contractor of record to be registered with the city before anything is issued. Doral only incorporated in 2003, so a large share of the housing here was permitted by Miami-Dade County, and those older records still live in the county's system. Every exterior opening and roof system needs HVHZ product approval. Condominium and cooperative buildings of three stories or more carry milestone inspections and a reserve study on top of all that.",
+        "We treat permitting as construction management rather than errands. PGX pulls the record on your address, retains the engineer or architect the drawings genuinely require, and assembles a package that gives plan review nothing to ask twice. Comments get answered in writing. Inspections are scheduled and attended by our own superintendent instead of left to a subcontractor's morning. What you end up with is a fixed written scope, one licensed team (Lic. CGC1539072) accountable from first filing to final closeout, and a file that reads clean when a buyer's attorney opens it."
+      ],
+      "scope_heading": "Five permit problems, one contractor",
+      "scope_intro": "Whether the problem is one expired record or twenty years of quiet improvements, it gets researched, permitted, inspected and closed under a single licensed contractor.",
+      "scope_items": [
+        {
+          "name": "Open permits from prior owners",
+          "desc": "We read the permit history on your folio, identify what each open record is missing, and carry it through reactivation, inspection and formal closeout."
+        },
+        {
+          "name": "Permits issued before 2003",
+          "desc": "Work approved while Doral was still unincorporated sits in Miami-Dade County records. We establish which office signs off today and take the file there."
+        },
+        {
+          "name": "Unpermitted terraces and garages",
+          "desc": "For the enclosed terrace or the garage that became a bedroom: measured drawings, an engineer where the structure needs one, and an after-the-fact permit filed with the city."
+        },
+        {
+          "name": "Product approvals and NOAs",
+          "desc": "Windows, doors, garage doors and roof systems documented with Miami-Dade Notices of Acceptance and installed to the anchor pattern the approval actually covers."
+        },
+        {
+          "name": "Inspections, then a closed file",
+          "desc": "Trade inspections booked and attended in sequence, corrections handled as they come, and a final sign-off that turns an open record into a closed one."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A title search on my Doral house turned up an open permit. What now?",
+          "a": "First we find out what it actually is. Some open records are jobs that were never finished. Some expired mid-project. Plenty are jobs completed years ago where nobody ever called the final inspection. That last kind usually ends with an inspection and a closeout. The first kind can mean opening up finished work or permitting it again. You get that answer in writing, well before your closing date."
+        },
+        {
+          "q": "The permit is from Miami-Dade County, not the City of Doral. Who closes it?",
+          "a": "Doral only became a city in 2003, so anything permitted before that was approved by the county, which covers a good part of Doral Estates, Doral Park and the older sections. Those records still sit in the county's system while the property now answers to the city. The first step is establishing which office closes the file and what it wants to see, and that depends on the type of work. We do that research before you spend money on drawings."
+        },
+        {
+          "q": "My HOA already approved the work. Do I still need a city permit?",
+          "a": "Yes. Architectural review approval and a building permit are two different animals, and nearly every community here has the first: Doral Isles, the Islands at Doral, Vintage Estates, Grand Bay Estates. The association is deciding whether the work fits the neighborhood. The city is deciding whether it meets code. An HOA letter will not satisfy an inspector, a lender or a title company, and it will not close a permit."
+        },
+        {
+          "q": "Do my impact windows need Miami-Dade product approval?",
+          "a": "In practice, yes. Doral sits inside the High Velocity Hurricane Zone, so every window, door and roof system needs approval documentation valid for the HVHZ, and Miami-Dade's Notice of Acceptance is the version inspectors here see most. Approval alone is not enough: the installation has to match the anchor type, spacing and substrate the document specifies. Openings put in without that paperwork fail inspection, and can quietly cost you wind mitigation credit on your insurance."
+        },
+        {
+          "q": "Does the 40-year recertification apply to my house or my building in Doral?",
+          "a": "Not to a single-family home or a duplex. Miami-Dade's building recertification program exempts both. It does reach Doral's condominium, rental and commercial buildings, and the county has since tightened that old forty-year cycle, so buildings of the vintage that fills this city come up for a first recertification well before forty. Condominium and cooperative buildings three stories and up also carry state milestone inspections and a structural integrity reserve study. The repair work those reports generate is work we do."
+        }
+      ],
+      "cta_heading": "One address, one honest answer",
+      "cta_sub": "Send us the address. We will check what the city and the county still have open on it, and what closing it takes, in English o en español."
     }
   }
 }

@@ -316,6 +316,66 @@
       ],
       "cta_heading": "Your terrace can do better",
       "cta_sub": "Invite us up for a look. We'll bring ideas, honest feasibility answers, and a written estimate, served in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Permits & Compliance in Brickell, Miami FL | PGX Builders",
+      "meta_description": "An open permit can stall a Brickell closing. PGX files with the City of Miami, meets the inspections and clears the record. Call (786) 273-2524.",
+      "h1": "Open permits, closed before closing",
+      "hero_sub": "PGX handles Brickell permitting end to end: complete applications to the City of Miami, Miami-Dade product approvals, inspections met in order, and inherited permits closed out before a sale or refinance stalls. Licensed general contractor, CGC1539072.",
+      "local_heading": "What the permit record remembers",
+      "intro_paragraphs": [
+        "Brickell permit problems usually arrive with the deed. A kitchen was opened up in a Brickell Avenue tower two owners ago, a bathroom moved in a Brickell Key unit, glass swapped on a West Brickell townhome over a long weekend, and somewhere in that history a permit was pulled and never finalized, or never pulled at all. None of it shows at a showing. All of it shows in the city's permit record, which is exactly what a title company or a lender's underwriter reads before a Brickell closing funds. The owner inherits that file along with the view.",
+        "Brickell is City of Miami, so permits are applied for, reviewed and inspected by the City of Miami Building Department at Miami Riverside Center on Southwest 2nd Avenue, filed electronically through the city's iBuild portal. Zoning questions run through Miami 21. Windows, doors and roofing need current Miami-Dade product approvals, because the county sits entirely inside the High-Velocity Hurricane Zone. Buildings other than houses and duplexes carry county recertification, which now begins earlier than the old forty-year mark, and condominium buildings of three stories and up carry milestone inspections and structural integrity reserve studies on top of it.",
+        "PGX Builders Group has spent more than 20 years building in South Florida, with 150-plus remodels and additions delivered and every one of them permitted and inspected. We pull permits under our own license, CGC1539072, and bring in the engineer, architect or product documentation a Brickell submittal needs rather than leaving an owner to assemble a package alone. The written scope comes before demolition. A supervisor is on site every day the job moves. Inspections are met by someone who can answer for the work, and the file is not finished until the record reads closed."
+      ],
+      "scope_heading": "What we file, fix and finish",
+      "scope_intro": "Some of this is planning the work properly. Some of it is undoing what a previous owner left behind. In Brickell we do both.",
+      "scope_items": [
+        {
+          "name": "Open permits closed out",
+          "desc": "We pull the address history, work out what each open or expired permit covers, and carry it through revision, re-inspection or a replacement permit until the record reads closed."
+        },
+        {
+          "name": "City of Miami filings",
+          "desc": "Complete applications through the city's iBuild portal, drawings and calculations in the first submittal, filed on the same clock as the renovation package your board wants."
+        },
+        {
+          "name": "HVHZ product approvals",
+          "desc": "Impact glass, doors and roof assemblies specified with current Miami-Dade approvals and installed to the documented anchorage, because the inspector reads the paperwork against the opening."
+        },
+        {
+          "name": "Inspections met in order",
+          "desc": "Rough-in, framing and final inspections booked in the right sequence and attended by the supervisor who built the work, not by a phone number on a form."
+        },
+        {
+          "name": "Recertification and milestone repairs",
+          "desc": "Concrete restoration, balcony and railing work, waterproofing and electrical corrections called for by an engineer's report, permitted and closed out around the building's access rules."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Brickell condo from a previous owner. What now?",
+          "a": "First we read the record at the City of Miami Building Department and establish what the permit covered and how far it got. Sometimes the work was finished and only the final inspection was missed. Sometimes it was built differently, and the honest route is a revision or a new permit. In a tower, add board approval and an elevator booking to the sequence. It runs in weeks rather than days, so start it before a closing date, not after one."
+        },
+        {
+          "q": "Who issues building permits for Brickell, the city or Miami-Dade County?",
+          "a": "Brickell sits inside city limits, so the City of Miami Building Department issues and inspects, with applications filed through iBuild and zoning governed by Miami 21. Miami-Dade County sits above the city too: its Board of Rules and Appeals oversees code administration countywide, county Product Control approves your windows, doors and roofing, and recertification reaches buildings by age. Designated historic sites and the archaeological zones along the bayfront and the Miami River add a Historic and Environmental Preservation Board layer, though most unit work never touches it."
+        },
+        {
+          "q": "Do I need a permit to replace impact windows in a Brickell tower?",
+          "a": "Yes, and the paperwork matters as much as the glass. Glazing and doors need current Miami-Dade product approvals because all of Brickell is in the High-Velocity Hurricane Zone, and the installation has to match the anchorage method in that approval. Your association will also hold you to the building standard for frame color and glass tint. Unpermitted window swaps are one of the most common findings we clean up, usually years later, usually under someone else's deadline."
+        },
+        {
+          "q": "Our building is in milestone inspection. Can PGX do the repair work?",
+          "a": "Yes. We do not sign the report, because that belongs to your engineer or architect, but we build what it calls for: concrete restoration, balcony and railing repairs, waterproofing, electrical corrections, and the permits and inspections that close each item out. We work to your engineer of record, the association's access rules, and the freight elevator calendar, and we keep the board's documentation current as items are signed off."
+        },
+        {
+          "q": "What does it cost to fix a permit problem in Brickell?",
+          "a": "It depends on what the record shows and how much has to be opened up to prove it. A missed final inspection is a modest exercise. A wall built without a permit, or a plumbing riser that needs a test, is a project. City fees belong to the city and we pass them through at cost. Our part is priced from a written scope after we have read the file, never guessed at over the phone."
+        }
+      ],
+      "cta_heading": "Start with the permit record",
+      "cta_sub": "Send the unit and the address. We will tell you what is open, what closing it takes, and what that costs, in English o en español."
     }
   }
 }

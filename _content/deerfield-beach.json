@@ -58,7 +58,7 @@
         },
         {
           "q": "What is the Broward County Board of Rules and Appeals, and does it affect my project?",
-          "a": "It is the county-level code body Broward has and Miami-Dade does not. Established under the county charter, it reviews local amendments to the Florida Building and Fire Prevention codes, issues formal interpretations of code sections, hears appeals of building and fire official decisions, and certifies the building officials, plans examiners and inspectors working in Broward cities. You will never sit in front of it. Its practical effect is that inspection standards stay consistent from Deerfield Beach to Weston."
+          "a": "It is the county-level code body that sits above every Broward building department. Established under the county charter, it reviews local amendments to the Florida Building and Fire Prevention codes, issues formal interpretations of code sections, hears appeals of building and fire official decisions, and certifies the building officials, plans examiners and inspectors working in Broward cities. You will never sit in front of it. Its practical effect is that inspection standards stay consistent from Deerfield Beach to Weston."
         },
         {
           "q": "My Cove house sits in a flood zone. Does that cap what I can spend?",
@@ -315,6 +315,66 @@
       ],
       "cta_heading": "Your backyard is underused",
       "cta_sub": "Walk the yard with us and describe how you actually want to use it. A fixed written scope comes back, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Close an Open Permit in Deerfield Beach, FL | PGX",
+      "meta_description": "Open or expired permits, HVHZ approvals and inspections handled for Deerfield Beach homes and condos — filed with the city and closed out. (786) 273-2524.",
+      "h1": "The open permit found at closing",
+      "hero_sub": "Applications filed through GeoCivix, product approvals documented for the High-Velocity Hurricane Zone, inspections met in sequence, and the expired permit a title search just turned up on your Deerfield Beach address. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "The city counter and the county rulebook",
+      "intro_paragraphs": [
+        "The Cove has been changing hands since the 1960s, and six decades of owners leave a paper trail. Canal houses off the Intracoastal have been re-roofed, re-glazed, repiped, screened in and added to, sometimes on a permit and sometimes over a quiet long weekend. Deer Creek, Coquina Lakes and Villages of Hillsboro carry the same history in a shorter span: pool cages, carport enclosures, panel upgrades, a water heater that moved rooms. None of it evaporates. An unfinished permit stays attached to the address until somebody finishes it, and most owners meet theirs with a buyer already under contract.",
+        "Deerfield Beach is its own municipality, so permits are filed with the city's Building Division on NE 2nd Avenue and move through the GeoCivix portal, while ePermitsOneStop carries the Broward County pieces that ride alongside: asbestos notification before demolition, environmental review, the notice of commencement. Above the city sits the county Board of Rules and Appeals, the layer every Broward building department answers to, which maintains Broward's amendments to the Florida Building Code and certifies the plans examiners and inspectors who will judge your job. Broward is High-Velocity Hurricane Zone territory, so glass, doors and roofing need approved products documented in the file.",
+        "There is a difference between running paperwork and being able to build whatever the file is missing, and it usually decides how this goes. Old permits close when the work behind them is finished: a failed component replaced, a wall opened so an inspector can see the framing, an engineer's letter written for something long since covered. We read the permit history first and tell you which of the three you are facing, in writing, before you spend anything. Our supervisor is at the house when the inspector pulls up. 20-plus years in South Florida, more than 150 remodels and additions delivered, all of them permitted and inspected. Lic. CGC1539072."
+      ],
+      "scope_heading": "The paperwork, and the work behind it",
+      "scope_intro": "Half of this is a new project done correctly from the first drawing. The other half is clearing what a previous owner left open. Both go under our license.",
+      "scope_items": [
+        {
+          "name": "Expired permits, reopened and closed",
+          "desc": "The address history pulled, the dormant file moved into an active license, the unfinished work completed, and a final inspection signed rather than promised."
+        },
+        {
+          "name": "Filing and plan review",
+          "desc": "Drawings, engineering and product data assembled into one complete GeoCivix submittal with the city's HOA affidavit attached, and review comments answered until the permit issues."
+        },
+        {
+          "name": "Roofing and glazing approvals",
+          "desc": "Impact windows, doors, garage doors and roof assemblies carrying approvals valid in the High-Velocity Hurricane Zone, with anchor details and pressure schedules in the set."
+        },
+        {
+          "name": "Inspections met in sequence",
+          "desc": "Requests filed against the city's daily cutoff so nothing waits an extra turn, and every rough, structural, waterproofing and final call met on site by a supervisor."
+        },
+        {
+          "name": "Legalizing unfiled work",
+          "desc": "Carport enclosures, screen rooms, window swaps and dock structures nobody ever filed, documented as built, engineered where the structure requires it, permitted under current code."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A title search on our Deerfield Beach house turned up an open permit. Now what?",
+          "a": "It does not close with the sale. The permit stays with the property, and your title company will hold the closing while the file is open. We pull the record, confirm whether the work was ever built at all, and move the permit into an active contractor's name so it can be finished and inspected. Work now hidden behind finishes may need an engineer's letter instead of an inspector's eyes. Count on weeks rather than days, and start well before your closing date."
+        },
+        {
+          "q": "Who actually issues a building permit in Deerfield Beach?",
+          "a": "The City of Deerfield Beach. This is a municipality rather than unincorporated county, so applications, plans and revisions go to the city's Building Division through GeoCivix, with ePermitsOneStop carrying the Broward County reviews that travel with them. Behind the city sits the county Board of Rules and Appeals, which maintains Broward's code amendments and certifies the officials reviewing your job. No aesthetic board stands between a house permit and issuance here; the Community Appearance Board looks at multi-family and commercial exteriors."
+        },
+        {
+          "q": "A previous owner enclosed the carport and swapped the windows with no permit. Can that be fixed?",
+          "a": "Usually, and far better fixed before a buyer's inspector finds it. Unpermitted work gets legalized with as-built drawings, engineering where structure is involved, and a permit reviewed against the code in force today rather than the year the work happened. That last part bites: replacement glass has to carry High-Velocity Hurricane Zone approval, so windows that went in quietly two decades ago may not survive review. On a canal lot the value of that work also counts toward your substantial improvement math."
+        },
+        {
+          "q": "I own in an oceanfront building on Deerfield Beach Island. What applies to my unit and my building?",
+          "a": "Two separate tracks. Unit work needs a licensed contractor, the HOA affidavit with the application, and a permit card posted where an inspector can read it from outside your door. The building answers to Broward's building safety inspection program, administered through the county Board of Rules and Appeals, and to Florida's milestone inspection and structural integrity reserve study for condominium buildings of three stories and up. Those reports belong to a licensed engineer. We price, permit, build and close out the repairs they call for."
+        },
+        {
+          "q": "What does it cost to close out an old permit?",
+          "a": "Nobody can quote that from an address, and anyone who tries is guessing. The money sits in the work, not the filing: a file that needs an inspector to look at existing framing is one number, a roof that has to come off is another species entirely. We pull the record, walk the property, and hand you a fixed written scope with real line items instead of a placeholder. City fees are what the city charges and are passed through at cost."
+        }
+      ],
+      "cta_heading": "First the record, then the plan",
+      "cta_sub": "Send us the address. You will hear what Deerfield Beach has on file for the property before anyone talks about money, in English o en español."
     }
   }
 }

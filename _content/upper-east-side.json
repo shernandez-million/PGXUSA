@@ -312,6 +312,66 @@
       ],
       "cta_heading": "Let's build the outdoor room",
       "cta_sub": "Invite us to see the yard, the roof, and the plan in your head — estimates in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Upper East Side Permits & Compliance, Miami | PGX Builders",
+      "meta_description": "Permit filings, HVHZ approvals, inspections and open-permit closeouts for Morningside, Belle Meade and Shorecrest homes. Licensed GC. Call (786) 273-2524.",
+      "h1": "The open permit nobody told you about",
+      "hero_sub": "We pull City of Miami permits for Upper East Side houses, meet the inspectors, and close the file — including the expired one a prior owner left behind. Licensed general contractor, CGC1539072, supervising every job daily.",
+      "local_heading": "Ninety years of permit history",
+      "intro_paragraphs": [
+        "Houses in Miami's Upper East Side have been changing hands, and changing shape, since the 1920s. A Mediterranean Revival on a Morningside street, a Streamline Moderne behind Belle Meade's gate, a 1940s house in Palm Grove or Magnolia Park, a bayfront property in Shorecrest — most carry a permit history several owners deep, and somewhere in it sits a job that was never signed off. A roof, a window swap, a pool enclosure, a garage quietly turned into a guest room. None of it announces itself until a title search finds it, weeks before a closing or a refinance.",
+        "Work here is filed with the City of Miami Building Department, through the city's iBuild and ePlan systems under Miami 21 zoning — the first gate, not the only one. Morningside, Bayside and Palm Grove are locally designated historic districts, and the MiMo Biscayne Boulevard district runs along the corridor, so exterior changes there need a Certificate of Appropriateness from the Historic and Environmental Preservation Board. Windows, doors and roof assemblies need Miami-Dade product approvals for the High-Velocity Hurricane Zone. Bayfront lots add flood-zone review, and the apartment and condominium buildings around Shorecrest carry recertification and milestone obligations of their own.",
+        "PGX Builders Group is a licensed general contractor rather than a permit runner, and that distinction shows when a file has to be closed instead of merely opened. We begin by reading what the city and the county already hold on the property, then tell you plainly what is outstanding, how much of it is paperwork and how much is real work. Where the file needs an architect, a structural engineer or a surveyor, we engage and coordinate them. Scope is written before anything begins, a supervisor meets every inspector on site, and one team carries it from application to final approval."
+      ],
+      "scope_heading": "From first filing to final sign-off",
+      "scope_intro": "New permits, stalled files, and whatever a previous owner left behind in the record — all of it handled by the contractor who also does the work.",
+      "scope_items": [
+        {
+          "name": "Open permits, several owners deep",
+          "desc": "We pull the record, become the contractor of record where the original one has vanished, finish whatever is missing, and get the final inspection signed."
+        },
+        {
+          "name": "Filings, plans and historic review",
+          "desc": "Drawing sets assembled, applications submitted to the City of Miami, Certificate of Appropriateness packages where the district requires one, and reviewer comments answered until the permit issues."
+        },
+        {
+          "name": "Impact glass and its paperwork",
+          "desc": "Impact windows, doors and roof systems matched to current Miami-Dade approvals, with the Notice of Acceptance and anchor details filed alongside the drawings."
+        },
+        {
+          "name": "Inspections met on site",
+          "desc": "Phased inspections booked in the right sequence and met by a supervisor who has already checked what the inspector is coming to look at."
+        },
+        {
+          "name": "Recertification and milestone work",
+          "desc": "For older apartment and condominium buildings around Shorecrest: the concrete, waterproofing, balcony and electrical repairs an engineer's report calls for, permitted and closed out."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A title search on our Morningside house found an open permit. What now?",
+          "a": "An open or expired permit follows the property, not the contractor who pulled it, and a title company will hold your closing until it clears. We start with the record: what was permitted, what was actually built, what is still missing. If the original contractor has disappeared, we can become the contractor of record and obtain permission to complete the work. Concealed work sometimes needs an engineer's letter. Then inspections, then the final. Plan on weeks rather than days, and start long before the closing date."
+        },
+        {
+          "q": "Who issues building permits for the Upper East Side?",
+          "a": "The City of Miami Building Department. Unlike Miami Shores Village next door, the Upper East Side is not its own municipality — Morningside, Belle Meade, Bay Point, Bayside, Palm Grove, Shorecrest and Magnolia Park all file with the city, applications through iBuild and drawings through ePlan, under Miami 21 zoning. Behind the city sits Miami-Dade County, whose product control approvals govern anything installed in the High-Velocity Hurricane Zone and whose recertification program reaches buildings once they hit a certain age."
+        },
+        {
+          "q": "Does historic designation change the permit process in Morningside?",
+          "a": "Only for what the street can see. Interior work is reviewed like any other permit. Exterior changes in Morningside, Bayside and Palm Grove — windows, doors, roofing, fences, additions, even paint on a contributing house — need a Certificate of Appropriateness before a building permit can issue. Modest, like-for-like changes are often handled at staff level; larger ones go to the Historic and Environmental Preservation Board. We prepare the application and carry it through, with that step built into the schedule instead of discovered halfway."
+        },
+        {
+          "q": "The previous owner closed in the garage without a permit. Can that be legalized?",
+          "a": "Often, yes, and it is far better to do it before the house goes on the market. The path runs backwards: an architect or engineer documents what exists, we open finishes so an inspector can see the wiring, framing and plumbing now hidden behind them, and the space is brought up to current code — egress, smoke alarms, HVHZ openings. Then it is permitted and inspected as built. Occasionally zoning will not allow the use at all, and the honest answer is to restore the space."
+        },
+        {
+          "q": "Our building near Shorecrest received a recertification notice. Do you handle the repairs?",
+          "a": "Yes. The inspection itself is an engineer's or architect's job, and we bring one in rather than claim it as ours. Our part is what the report demands: concrete and stucco restoration, waterproofing, balconies and railings, electrical corrections, plus the permits and inspections that close the file. Miami-Dade recertification reaches buildings by age and repeats on a cycle after that; the state milestone inspection applies to condominium and cooperative buildings three stories and taller, with the structural integrity reserve study alongside it. We price the repair scope in writing."
+        }
+      ],
+      "cta_heading": "Let's read the whole history",
+      "cta_sub": "Give us the address. We will read what the city has on file, then tell you what clearing it actually takes — in English o en español."
     }
   }
 }

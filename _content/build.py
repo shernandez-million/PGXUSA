@@ -34,8 +34,7 @@ FIELD_LIMITS = {
 }
 COMMON_FIELDS = ["h1", "hero_sub", "local_heading", "scope_heading",
                  "scope_intro", "cta_heading", "cta_sub"]
-EXTRA_FORM_OPTIONS = {"en": ["Permitting / compliance", "Something else"],
-                      "es": ["Permisos / cumplimiento", "Otro"]}
+EXTRA_FORM_OPTIONS = {"en": ["Something else"], "es": ["Otro"]}
 OG_LOCALE = {"en": "en_US", "es": "es_US"}
 # alt text is built per page so the same stock rendering isn't described identically on 200 pages
 ALT_TMPL = {"en": "{base} — {service} in {area}, Florida. Architectural rendering.",
@@ -46,6 +45,7 @@ ALT_BASE_ES = {
     "bathroom-remodeling": "Baño principal con tina independiente y ducha de mármol",
     "home-additions": "Ampliación trasera moderna con ventanales de piso a techo",
     "outdoor-living": "Terraza cubierta con cocina de verano y piscina",
+    "permitting-compliance": "Planos arquitectónicos y documentos de permiso",
 }
 
 PROVIDER = {
@@ -123,11 +123,24 @@ def load_content() -> dict:
                 data[lang][a] = json.loads(p.read_text())
             except json.JSONDecodeError as e:
                 errors.append(f"{name}: invalid JSON — {e}")
+    data["hub"] = {"en": {}, "es": {}}
+    for sl in SERVICE_ORDER:
+        for lang, nm in (("en", f"hub-{sl}.json"), ("es", f"hub-{sl}.es.json")):
+            p2 = CONTENT / nm
+            if not p2.exists():
+                warnings.append(f"not yet written: {nm}")
+                continue
+            try:
+                data["hub"][lang][sl] = json.loads(p2.read_text())
+            except json.JSONDecodeError as e:
+                errors.append(f"{nm}: invalid JSON — {e}")
     return data
 
 
 def validate(data: dict) -> None:
     for lang, docs in data.items():
+        if lang == "hub":
+            continue
         seen = {"title": {}, "h1": {}, "meta_description": {}}
         limits = FIELD_LIMITS[lang]
         for a_slug, doc in docs.items():
@@ -135,9 +148,13 @@ def validate(data: dict) -> None:
             if not (8 <= len(nb) <= 14):
                 errors.append(f"[{lang}] {a_slug}: neighborhoods count {len(nb)} (need 8-14)")
             pages = doc.get("pages", {})
-            if set(pages) != set(SERVICE_ORDER):
-                errors.append(f"[{lang}] {a_slug}: page keys {sorted(pages)} != services")
+            unknown = set(pages) - set(SERVICE_ORDER)
+            if unknown:
+                errors.append(f"[{lang}] {a_slug}: unknown page keys {sorted(unknown)}")
                 continue
+            # a service can be added to the plan before its copy exists (service rollout)
+            for miss in set(SERVICE_ORDER) - set(pages):
+                warnings.append(f"not yet written: [{lang}] {a_slug}/{miss}")
             for s_slug, pg in pages.items():
                 tag = f"[{lang}] {a_slug}/{s_slug}"
                 for f in list(limits) + COMMON_FIELDS:
@@ -525,6 +542,136 @@ def content_mtime(a_slug: str, lang: str) -> str:
         return TODAY
 
 
+
+HUB_COPY = {
+    "en": {"crumb_home": "Home", "crumb_here": "Services", "scope_all": "Miami-Dade &amp; Broward",
+           "where": "Where we build", "note": "Every area we serve, for this service. Not listed? Call (786) 273-2524.",
+           "others": "Other PGX services", "browse": "Browse by area"},
+    "es": {"crumb_home": "Inicio", "crumb_here": "Servicios", "scope_all": "Miami-Dade y Broward",
+           "where": "Dónde construimos", "note": "Todas las zonas que atendemos, para este servicio. ¿No aparece la suya? Llame al (786) 273-2524.",
+           "others": "Otros servicios de PGX", "browse": "Ver por zona"},
+}
+
+
+def hub_url(s_slug: str, lang: str) -> str:
+    return f"/{svc_slug(s_slug, lang)}"
+
+
+def render_hub(s_slug, doc, lang, built, has_pair):
+    """Service hub: targets the head term and links out to every area page."""
+    svc = SERVICES[s_slug]
+    c = HUB_COPY[lang]
+    name = svc_name(s_slug, lang)
+    canonical = DOMAIN + hub_url(s_slug, lang)
+    stem = Path(svc["image"]).stem
+    srcset = ", ".join(f"images/r/{stem}-{w}.webp {w}w" for w in (420, 640, 900, 1280))
+    alt_base = (ALT_BASE_ES[s_slug] if lang == "es" else svc["img_alt_base"].split(" — ")[0])
+    img_alt = ALT_TMPL[lang].format(base=alt_base, service=name.lower(), area=c["scope_all"].replace("&amp;", "&"))
+
+    # the payoff: a hub links to all 42 area pages for its service
+    groups = {}
+    for a in PLAN["areas"]:
+        if a["slug"] in built:
+            groups.setdefault(a.get("county", "Miami-Dade"), []).append(a)
+    blocks = []
+    for county, areas in groups.items():
+        label = (f"{county} County" if lang == "en"
+                 else ("Condado de Miami-Dade" if county == "Miami-Dade" else "Condado de Broward"))
+        chips = "\n".join(
+            f'      <a class="chip" href="{url_for(s_slug, a["slug"], lang)}">{esc(a["name"])}</a>'
+            for a in areas)
+        blocks.append(f'      <p class="nb-label" style="margin-top:22px">{esc(label)}</p>\n'
+                      f'      <div class="area-wrap">\n{chips}\n      </div>')
+    area_grid = "\n".join(blocks)
+
+    intro_html = "\n".join(f"      <p>{esc(p)}</p>" for p in doc["intro_paragraphs"])
+    scope_html = "\n".join(
+        '      <div class="pr-card rv"><span class="n">%02d</span><h3 class="disp">%s</h3><p>%s</p></div>'
+        % (i, esc(it["name"]), esc(it["desc"])) for i, it in enumerate(doc["scope_items"], 1))
+    faq_html = "\n".join(
+        f'      <details class="fq"{" open" if i == 0 else ""}><summary>{esc(f["q"])}</summary>'
+        f'<div class="fa">{esc(f["a"])}</div></details>' for i, f in enumerate(doc["faqs"]))
+    rel_svc = "\n".join(
+        f'          <a class="chip" href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a>'
+        for o in SERVICE_ORDER if o != s_slug)
+
+    opt_key = "form_option_es" if lang == "es" else "form_option"
+    form_opts = "\n".join('                <option%s>%s</option>' % (
+        " selected" if x[opt_key] == svc[opt_key] else "", esc(x[opt_key])) for x in PLAN["services"])
+    for extra in EXTRA_FORM_OPTIONS[lang]:
+        form_opts += f'\n                <option>{esc(extra)}</option>'
+
+    ld_service = {"@context": "https://schema.org", "@type": "Service",
+                  "@id": canonical + "#service", "serviceType": name, "url": canonical,
+                  "inLanguage": lang, "provider": PROVIDER,
+                  "isPartOf": {"@id": DOMAIN + "/#website"},
+                  "areaServed": [{"@type": "AdministrativeArea", "name": "Miami-Dade County, Florida"},
+                                 {"@type": "AdministrativeArea", "name": "Broward County, Florida"}]}
+    ld_crumb = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": c["crumb_home"], "item": DOMAIN + home_url(lang)},
+        {"@type": "ListItem", "position": 2, "name": name, "item": canonical}]}
+    ld_faq = {"@context": "https://schema.org", "@type": "FAQPage",
+              "mainEntity": [{"@type": "Question", "name": f["q"],
+                              "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in doc["faqs"]]}
+
+    alt = hub_url(s_slug, "es" if lang == "en" else "en") if has_pair else home_url("es" if lang == "en" else "en")
+    out = TPL[lang]
+    repl = {
+        "{{TITLE}}": esc(doc["title"]),
+        "{{META_DESCRIPTION}}": esc(doc["meta_description"]),
+        "{{CANONICAL_URL}}": canonical,
+        "{{EN_ABS_URL}}": DOMAIN + hub_url(s_slug, "en"),
+        "{{ES_ABS_URL}}": DOMAIN + hub_url(s_slug, "es"),
+        "{{ALT_URL}}": alt,
+        "{{OG_LOCALE}}": OG_LOCALE[lang],
+        "{{OG_LOCALE_ALT}}": OG_LOCALE["es" if lang == "en" else "en"],
+        "{{OG_IMAGE_URL}}": f"{DOMAIN}/images/og/{stem}-og.jpg",
+        "{{JSONLD_SERVICE}}": json.dumps(ld_service, indent=2, ensure_ascii=False),
+        "{{JSONLD_BREADCRUMB}}": json.dumps(ld_crumb, indent=2, ensure_ascii=False),
+        "{{JSONLD_FAQ}}": json.dumps(ld_faq, indent=2, ensure_ascii=False),
+        "{{BREADCRUMB_HTML}}": (f'<a href="{home_url(lang)}">{c["crumb_home"]}</a>'
+                                f'<span class="sep">/</span><span>{esc(name)}</span>'),
+        "{{EYEBROW}}": esc(f'{name} · {c["scope_all"].replace("&amp;", "&")}'),
+        "{{H1}}": esc(doc["h1"].rstrip(".")),
+        "{{HERO_SUB}}": esc(doc["hero_sub"]),
+        "{{HERO_IMAGE}}": svc["image"],
+        "{{HERO_SRCSET}}": srcset,
+        "{{HERO_IMG_ALT}}": esc(img_alt),
+        "{{AREA_NAME}}": c["scope_all"],
+        "{{COUNTY}}": c["scope_all"],
+        "{{SERVICE_NAME}}": esc(name),
+        "{{LOCAL_HEADING}}": esc(doc["local_heading"].rstrip(".")),
+        "{{INTRO_PARAGRAPHS_HTML}}": intro_html,
+        "{{NEIGHBORHOOD_CHIPS_HTML}}": area_grid,
+        "{{SCOPE_HEADING}}": esc(doc["scope_heading"].rstrip(".")),
+        "{{SCOPE_INTRO}}": esc(doc["scope_intro"]),
+        "{{SCOPE_CARDS_HTML}}": scope_html,
+        "{{FAQ_ITEMS_HTML}}": faq_html,
+        "{{RELATED_SERVICES_HTML}}": rel_svc,
+        "{{RELATED_AREAS_HTML}}": f'          <a class="chip" href="{areas_url(lang)}">{c["browse"]} →</a>',
+        "{{CTA_HEADING}}": esc(doc["cta_heading"]),
+        "{{CTA_SUB}}": esc(doc["cta_sub"]),
+        "{{FORM_OPTIONS_HTML}}": form_opts,
+        "{{FOOTER_SERVICES_HTML}}": "\n".join(
+            f'        <li><a href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a></li>' for o in SERVICE_ORDER),
+        "{{FOOTER_AREAS_HTML}}": "\n".join(
+            f'        <li><a href="{url_for(s_slug, a, lang)}">{esc(AREAS[a]["name"])}</a></li>'
+            for a in list(built)[:6]),
+    }
+    for k, v in repl.items():
+        out = out.replace(k, v)
+    # the hub replaces the per-area helper line with a service-wide one
+    out = out.replace(f'Where we work in {c["scope_all"]}', c["where"])
+    out = re.sub(r'<p class="area-note rv rv-d2">.*?</p>',
+                 f'<p class="area-note rv rv-d2">{esc(c["note"])}</p>', out, count=1, flags=re.S)
+    out = out.replace(f'More PGX services in {c["scope_all"]}', c["others"])
+    out = out.replace(f'{name} nearby', c["browse"])
+    leftovers = re.findall(r"\{\{[A-Z_]+\}\}", out)
+    if leftovers:
+        errors.append(f"hub {s_slug}/{lang}: unreplaced {set(leftovers)}")
+    return out
+
+
 def sitemap_entry(loc, en_url=None, es_url=None, lastmod=None):
     lines = [f"  <url>", f"    <loc>{loc}</loc>", f"    <lastmod>{lastmod or TODAY}</lastmod>"]
     if en_url and es_url:
@@ -572,10 +719,14 @@ def main():
     counts = {"en": 0, "es": 0}
     for a_slug in AREAS:
         for s_slug in SERVICE_ORDER:
-            has_pair = a_slug in data["en"] and a_slug in data["es"]
+            in_en = s_slug in data["en"].get(a_slug, {}).get("pages", {})
+            in_es = s_slug in data["es"].get(a_slug, {}).get("pages", {})
+            if not (in_en or in_es):
+                continue
+            has_pair = in_en and in_es
             en_url, es_url = lang_pair_urls(s_slug, a_slug, has_pair)
             for lang in ("en", "es"):
-                if a_slug not in data[lang]:
+                if a_slug not in data[lang] or s_slug not in data[lang][a_slug]["pages"]:
                     continue
                 out = render_page(a_slug, s_slug, data[lang][a_slug], lang, has_pair,
                                   built=set(data[lang]))
@@ -585,6 +736,19 @@ def main():
                 lm = content_mtime(a_slug, lang)
                 entries.append(sitemap_entry(loc, en_url, es_url, lm) if has_pair
                                else sitemap_entry(loc, lastmod=lm))
+    hubs = data.get("hub", {"en": {}, "es": {}})
+    for sl in SERVICE_ORDER:
+        pair = sl in hubs["en"] and sl in hubs["es"]
+        for lang in ("en", "es"):
+            if sl not in hubs[lang]:
+                continue
+            out = render_hub(sl, hubs[lang][sl], lang, set(data[lang]), pair)
+            (ROOT / f"{svc_slug(sl, lang)}.html").write_text(out)
+            counts[lang] += 1
+            loc = DOMAIN + hub_url(sl, lang)
+            entries.append(sitemap_entry(loc, DOMAIN + hub_url(sl, "en"), DOMAIN + hub_url(sl, "es"))
+                           if pair else sitemap_entry(loc))
+
     sync_homepage_chips(data)
     (ROOT / "areas.html").write_text(render_areas_index(data, "en"))
     if data["es"]:

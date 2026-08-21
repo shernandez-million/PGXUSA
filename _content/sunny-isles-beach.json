@@ -315,6 +315,66 @@
       ],
       "cta_heading": "Build the outside you paid for",
       "cta_sub": "Walk us through the yard or the terrace. We will bring a straight scope and a real schedule — in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Permitting & Compliance in Sunny Isles Beach, FL | PGX",
+      "meta_description": "Open permits, HVHZ product approvals, inspections and recertification repairs in Sunny Isles Beach, FL. A licensed GC who files and closes. (786) 273-2524.",
+      "h1": "Permits closed before the closing",
+      "hero_sub": "PGX files, builds and closes permits across Sunny Isles Beach: complete packages through the city's digital portal, Miami-Dade product approvals, inspections attended in order, and old permits cleared off a property before a sale stalls. Lic. CGC1539072.",
+      "local_heading": "The record follows the address",
+      "intro_paragraphs": [
+        "Sunny Isles Beach hides its permit problems well. A Collins Avenue residence that a previous owner reworked, rewired, or refloored three sales ago shows immaculate at the walk-through and still drags an unclosed permit through the city's records. West of Collins, the 1950s and 60s houses in Golden Shores and Atlantic Isle have collected enclosed carports, added bathrooms, and quiet weekend window swaps that no inspector ever saw. None of it appears on a survey. All of it appears the moment a title company or a refinance underwriter runs the address.",
+        "Permits inside the city limits are issued and inspected by the City of Sunny Isles Beach Building Department, and the whole cycle, from application through plan review, comments, inspections, and closeout, runs on the city's digital portal. Tower work collects more reviewers: a notarized association authorization naming the contractor, plus county Fire and DERM review depending on scope. Windows, doors, and roof assemblies need current Miami-Dade product approvals, because the city sits inside the High-Velocity Hurricane Zone. The same department administers building recertification, which arrives as a notice with a clock attached.",
+        "PGX Builders Group has spent more than twenty years building in South Florida, with over 150 remodels and additions delivered, every one permitted and inspected. We file under our own license, CGC1539072, and coordinate the engineer, architect, and product documentation each submittal needs. Scope goes in writing before anything is opened up, a supervisor is on site each day work moves, and the inspector is met by the person who built the wall. Nobody here will sell you a shortcut, only a complete package and a schedule your lender can read."
+      ],
+      "scope_heading": "From application to final sign-off",
+      "scope_intro": "Whether the work starts next month or stalled years ago, these five fronts decide whether a Sunny Isles Beach property stays clean.",
+      "scope_items": [
+        {
+          "name": "Unclosed permits, resolved",
+          "desc": "We pull the permit history, establish what each open or expired record actually covers, and carry it through re-inspection or a new permit until the file reads closed."
+        },
+        {
+          "name": "Submittals that clear review",
+          "desc": "Complete submittals through the city's digital portal, with drawings, calculations, and product data in the first upload, so review comments come back short."
+        },
+        {
+          "name": "High-rise glazing approvals",
+          "desc": "Impact glass, doors, and roofing specified with current Miami-Dade approvals and installed to the anchorage method those approvals document, because the inspector checks both."
+        },
+        {
+          "name": "Inspections taken in sequence",
+          "desc": "Rough-ins, framing, and finals requested in the right order and attended by the supervisor who ran the work, not by a phone number."
+        },
+        {
+          "name": "Recertification and milestone repairs",
+          "desc": "Concrete restoration, balcony and railing repair, waterproofing, and electrical corrections called for by a recertification or milestone report, built to your engineer of record and the board's calendar."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A previous owner left an open permit on my Sunny Isles Beach property. What now?",
+          "a": "We start at the City of Sunny Isles Beach Building Department and read the record: what the permit covered, which inspections were approved, and where it stopped. Often the work is finished and only the final was never called. Sometimes it was never done, or was built differently than drawn, and the honest path is a revision or a new permit under our license. Plan in weeks rather than days, and start before a closing date, not during one."
+        },
+        {
+          "q": "Who issues building permits here, the city or Miami-Dade County?",
+          "a": "The city. The Sunny Isles Beach Building Department reviews, issues, and inspects permits for property inside the city limits, and the entire cycle runs through its online portal. County requirements still reach your job: Miami-Dade product approvals for anything in the building envelope, county recertification rules for buildings other than houses and duplexes, and Fire or DERM review on certain high-rise scopes. One authority stamps the permit. Several sets of rules apply to it."
+        },
+        {
+          "q": "Do I really need a permit to change windows, floors, or a bathroom in my unit?",
+          "a": "Windows and doors, always, and with Miami-Dade approved products, since the whole city sits in the High-Velocity Hurricane Zone. Flooring is where tower owners get caught: your association almost certainly specifies an acoustic underlayment rating, and any finish work that moves plumbing, electrical, or a fire-rated assembly needs a permit even when nothing structural changes. In Golden Shores the same logic catches enclosed carports and added bathrooms, which is exactly what a permit search turns up later."
+        },
+        {
+          "q": "Our building received a recertification notice. Can PGX do the repairs?",
+          "a": "Yes, the construction side of it. The report belongs to your engineer or architect and we do not sign it. What we do is build what it calls for: concrete restoration, balcony and railing work, waterproofing, electrical corrections, and the permits and inspections that close each item out. In a coastal city like this one, county recertification and the state's milestone requirements tend to arrive close together, so boards here are rarely working with spare time."
+        },
+        {
+          "q": "What does it cost to clear up a permit problem?",
+          "a": "That depends on what the file says. A permit that only ever needed its final inspection is a modest exercise. A bathroom that was moved, a wall that was framed, or a panel changed with no record can mean opening finishes back up to prove the work behind them. City fees belong to the city and we pass them through at cost. Our number comes from a written scope once we have read the record."
+        }
+      ],
+      "cta_heading": "Send the unit and the address",
+      "cta_sub": "Send the address and the date you are working against. We will read the file and tell you what closing it takes — in English o en español."
     }
   }
 }

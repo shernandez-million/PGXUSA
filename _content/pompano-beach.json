@@ -315,6 +315,66 @@
       ],
       "cta_heading": "Scope the backyard with us",
       "cta_sub": "Walk us out back and tell us how you actually use it. A written scope and an honest schedule follow, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Pompano Beach Permit Filing & Inspections | PGX",
+      "meta_description": "Open or expired permit on a Pompano Beach house or condo? PGX files it, inspects it and closes it out with the city's Development Services. (786) 273-2524.",
+      "h1": "Make the paperwork match the house",
+      "hero_sub": "Permit applications, HVHZ product approvals, inspections carried through to a signed final, and the open or expired permits a previous owner left behind on a Pompano Beach property. Filed and supervised by a licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "Where a Pompano permit really gets decided",
+      "intro_paragraphs": [
+        "Most permit trouble in Pompano Beach is inherited. A boat lift went in on a Garden Isles canal lot and nobody called for the inspection. A screened patio in Cypress Cove got glassed in and quietly became a family room. A unit off Briny Avenue has been gutted twice and only one of those jobs left a file behind. None of it matters until a buyer's title search or a lender's appraiser pulls the permit history on the address, and then it matters enormously, on a deadline somebody else chose for you.",
+        "Permits are issued by the City of Pompano Beach Development Services Department, through its Building Permitting and Inspections division at City Hall on West Atlantic Boulevard, and filed on the Broward County Uniform Building Permit Application. Above the city sits a countywide layer: the Broward County Board of Rules and Appeals publishes the county's amendments to the Florida Building Code, certifies the plans examiners and inspectors assigned to your job, hears appeals of their decisions and issues formal interpretations. Broward is in the High-Velocity Hurricane Zone, so windows, doors and roofing need approved products with the anchor details attached.",
+        "Twenty-plus years in South Florida and more than 150 permitted, inspected remodels and additions leave a side effect: we have read a great deal of other people's paperwork. A compliance job starts with the record rather than the drawings, every permit ever pulled on the address, what was signed off and where it stopped. Then we open up whatever has to be seen, engage the engineer, architect or surveyor the file calls for instead of pretending to be one, and put the superintendent who ran the work in front of the inspector. Nobody here sells a shortcut."
+      ],
+      "scope_heading": "The files we open and the ones we close",
+      "scope_intro": "Half of this work begins as a plan. The other half begins as a problem somebody else created. Either way the record gets read before a price gets written.",
+      "scope_items": [
+        {
+          "name": "Permits left open",
+          "desc": "Pulling the full permit history on the address, matching it against what is physically standing, then reviving, amending or re-inspecting until the city marks the file closed."
+        },
+        {
+          "name": "Work nobody filed",
+          "desc": "Garage bedrooms, enclosed patios, boat lifts and generators added without a permit: documented as built, engineered where the structure demands it, inspected against today's code."
+        },
+        {
+          "name": "Impact products, documented",
+          "desc": "Windows, doors and roof assemblies carried with a current Notice of Acceptance or Florida Product Approval, anchored the way that approval specifies rather than the customary way."
+        },
+        {
+          "name": "Inspections to a signed final",
+          "desc": "Rough through final booked in a sequence the building can actually deliver, with a PGX supervisor meeting each inspector so the last signature genuinely happens."
+        },
+        {
+          "name": "Safety inspection repairs",
+          "desc": "Spalling concrete, corroded rebar, railings and waterproofing that a milestone report or a structural integrity reserve study puts on a Pompano Beach association's list, permitted as one package."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A title search turned up an open permit from a prior owner. What now?",
+          "a": "Start with the record, not the wall. The city's permit history for the address shows what was pulled, which inspections were signed and exactly where the file stalled. After that it is a diagnosis: sometimes only a final inspection is missing, sometimes what got built does not match what was approved, and sometimes the permit sits under a contractor who dissolved his company a decade ago. All three are solvable. None is solvable in a week, which is why this call belongs on the day the title report lands."
+        },
+        {
+          "q": "What actually needs a permit on a Pompano Beach property?",
+          "a": "More than owners expect. Structure, roofing, windows and doors, electrical, plumbing, gas and mechanical all do, and on the water so do docks, boat lifts, seawalls, pools and most driveways, with Broward County environmental licensing on top of the city permit for marine work. Paint, flooring over a sound slab and a like-for-like cabinet swap generally do not. The quiet ones are the costly ones: a garage turned into a bedroom, a patio enclosed, a panel upgraded."
+        },
+        {
+          "q": "Our building received a Notice of Required Inspection. Is that something PGX handles?",
+          "a": "That notice comes from the building official under the building safety inspection program, and it calls for a written report from a Florida-licensed engineer or architect certifying the structure electrically and structurally safe for continued occupancy. Condominium and cooperative buildings of three stories or more also carry Florida's milestone inspection, visual first and invasive only where deterioration turns up. We do not seal those reports. We engage the professional who does, then permit and build the repairs the report produces."
+        },
+        {
+          "q": "We already bought impact windows. Will they clear review here?",
+          "a": "Only if the approval covers the High-Velocity Hurricane Zone and the design pressures calculated for those particular openings. Broward sits inside HVHZ alongside Miami-Dade, so every window, exterior door, shutter, garage door and roof system needs a current Notice of Acceptance or Florida Product Approval, called out on the submittal and installed with the anchors that approval specifies. Product that sails through review in Orlando gets rejected here. It is why we ask to see the order before anything ships."
+        },
+        {
+          "q": "What does it cost to clear unpermitted work, and how long does it take?",
+          "a": "Both answers live behind the drywall. A permit missing only its final inspection is a small line item. A room framed over a patio slab with no engineering behind it, or a roof laid with products that were never approved, can mean taking it apart and rebuilding to current code. Fees are set by the city and scale with the value of the work. Think in weeks rather than days, and start ahead of the closing date. You get the number and the bad news in the same written scope."
+        }
+      ],
+      "cta_heading": "Show us the letter you got",
+      "cta_sub": "Send the address and whatever the city, the title company or your association mailed you. You leave with a written path to a closed permit, in English o en español."
     }
   }
 }

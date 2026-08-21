@@ -315,6 +315,66 @@
       ],
       "cta_heading": "Your terrace is overdue",
       "cta_sub": "Walk us through the yard and the vision, and a fixed written scope comes back, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Coral Gables Permits, Review & Sign-Off | PGX Builders",
+      "meta_description": "Open or expired permits on a Coral Gables home? PGX files, inspects and closes them out through Development Services before your closing. (786) 273-2524.",
+      "h1": "Records that match the house",
+      "hero_sub": "Permit applications, Board of Architects submittals, HVHZ product approvals and inspections in Coral Gables — plus closing out the open permits a prior owner left behind. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "How work gets approved in the Gables",
+      "intro_paragraphs": [
+        "Most people do not go looking for a permitting contractor until something forces the issue. A title search on a Riviera bungalow turns up a 1990s addition permit nobody ever closed. A refinance on a Cocoplum waterfront house stalls because the generator and the pool heater were never inspected. A buyer's inspector notices that the enclosed Florida room on a Country Club Section home appears nowhere in the city's records. Coral Gables housing stock is old enough, and trades hands often enough, that this happens constantly, and it always surfaces at the least convenient hour.",
+        "Work here is filed electronically with the City of Coral Gables Development Services Department and reviewed by its Building Division. Anything visible from the street, from windows and doors to roofs, driveways and even exterior paint colors, goes to the Board of Architects first, and designated historic properties need a Certificate of Appropriateness before permits move. Windows, doors and roofing systems require Miami-Dade product approvals for the High-Velocity Hurricane Zone, installed exactly as the approval reads. On the water in Gables Estates, Tahiti Beach or Deering Bay, the city's floodplain administrator also weighs whether a project counts as substantial improvement.",
+        "Compliance work rewards contractors who read the file before they promise anything, and PGX has been reading South Florida files for over 20 years, across more than 150 remodels and additions, all of them permitted and inspected. We coordinate the engineer or architect a record requires instead of pretending to be one, we open up what needs to be seen before we scope it, and one supervisor calls the inspections and is standing there when they happen. Nobody here will tell you a shortcut exists, because in the Gables it does not."
+      ],
+      "scope_heading": "The compliance work we take on",
+      "scope_intro": "Some clients call before a project starts. Some call the morning a title company flags something. Both get the same answer: a written plan for the file, not a reassuring phone call.",
+      "scope_items": [
+        {
+          "name": "The open permit problem",
+          "desc": "Pulling the full permit history, establishing what was actually built, then filing, correcting or re-inspecting whatever each one needs before it can be closed."
+        },
+        {
+          "name": "Applications the Gables accepts",
+          "desc": "Electronic submittals to Development Services, Board of Architects packages for anything the street can see, and comment responses written to end the review loop instead of extending it."
+        },
+        {
+          "name": "Miami-Dade product approvals",
+          "desc": "Windows, doors and roofing carrying Miami-Dade approvals for the High-Velocity Hurricane Zone, installed to the fastening schedule the approval names, because inspectors read that page."
+        },
+        {
+          "name": "Inspections that pass first",
+          "desc": "Trades sequenced so every phased inspection is genuinely ready, someone from PGX on site when the inspector arrives, and corrections cleared rather than argued."
+        },
+        {
+          "name": "Building recertification repairs",
+          "desc": "Concrete restoration, structural repairs and electrical work called out by a recertification, milestone inspection or reserve study, permitted and inspected as one package."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Coral Gables house and I am trying to sell. What now?",
+          "a": "Get the actual record rather than the one-line summary the title company sent. The city's permit portal shows what was filed, what was inspected and exactly where it stopped. From there it is usually one of three things: a missing final inspection, work built beyond what was approved, or a permit whose contractor is long gone. Each has a path, none of them is instant, so start the day you hear about it rather than the week of closing."
+        },
+        {
+          "q": "Can you close out a permit that another contractor pulled?",
+          "a": "Usually yes. A permit tied to a contractor who has disappeared, or one that has expired, generally has to be revived or re-filed under a licensed contractor willing to stand behind the work. That means we look at what is actually there first. If the construction is sound, it gets inspected and closed. If it is not, you get an honest scope for making it right. We do not put our license on work we have not opened up."
+        },
+        {
+          "q": "Does the Board of Architects get involved in a permit cleanup?",
+          "a": "The moment the work shows from outside, yes. Coral Gables routes exterior changes to the Board of Architects before the Building Division finishes its review, and that reaches things owners rarely expect, including exterior paint. If what you are legalizing is an unpermitted window swap or a patio enclosure, design review is part of the path rather than a formality bolted on at the end. We assemble submittals in that order so it happens once."
+        },
+        {
+          "q": "Our condo board received a recertification notice. Is that work PGX does?",
+          "a": "The report itself comes from a Florida-licensed engineer or architect, and we coordinate that professional rather than pretend to be one. What PGX does is the work the report calls for: concrete restoration, structural repairs, electrical upgrades, railings and parking-lot items, permitted and inspected through the same Development Services process. Coral Gables mails Notices of Required Recertification to buildings that reach the age the county code sets, and repeats it every ten years. Milestone inspections and reserve studies run on their own track for condominium and cooperative buildings."
+        },
+        {
+          "q": "How much does it cost to legalize unpermitted work in Coral Gables?",
+          "a": "Entirely dependent on what is behind the wall. A missing final inspection on sound construction is a small item. A room addition built without engineering, or a re-roof done without approved products, can mean opening things up and rebuilding them to code. We will not quote a number before we look, and we will not hand you a low one to win the job and revise it later. You get a written scope, real allowances, and the bad news early."
+        }
+      ],
+      "cta_heading": "Let us read the record",
+      "cta_sub": "Send the permit number, the title report, or the notice you just received. We will tell you in writing what it takes, in English o en español."
     }
   }
 }

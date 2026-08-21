@@ -313,6 +313,66 @@
       ],
       "cta_heading": "One plan for the whole yard",
       "cta_sub": "Walk the yard with us — in English o en español — and we'll map what a permitted, built-to-last outdoor project looks like on your lot."
+    },
+    "permitting-compliance": {
+      "title": "Pinecrest Village Permits & Sign-Off, FL | PGX Builders",
+      "meta_description": "Open permits, HVHZ product approvals and inspections in Pinecrest, FL. PGX closes out old permits and files new ones through the Village. (786) 273-2524.",
+      "h1": "Two additions, one missing permit",
+      "hero_sub": "Permitting and compliance for Pinecrest homes: applications and plan review through the Village, HVHZ product approvals, inspections, and closing out open or expired permits that stall a sale. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "Old county permits, new village rules",
+      "intro_paragraphs": [
+        "Pinecrest is a village of 1950s and 60s ranch houses on acre lots, and most of them have been added to at least twice. Screened patios became family rooms, garages became gyms, and summer kitchens and cabanas appeared behind the hedge in Devonwood, Suniland and North Pinecrest. Some of that work was permitted. Some of it was not, and nobody thinks about it until a title search, a lender or an insurance underwriter goes looking. That is usually the week our phone rings.",
+        "Permits here are filed with the Village of Pinecrest Building and Planning Department on Pinecrest Parkway, which takes plans digitally through its online permitting portal and requires contractors to be registered with the village before anything is issued. Electrical, plumbing, mechanical, roofing and window work each carry their own permit and their own inspections, tree removal has its own application, and every exterior opening or roof system needs product approval for the High-Velocity Hurricane Zone. Because Pinecrest only incorporated in 1996, the oldest permits on your house may still belong to Miami-Dade County, and the village has a specific procedure for closing those.",
+        "We treat permitting as construction management, not errands. PGX coordinates the architect, engineer or arborist a submittal actually needs, prepares the package so plan review has nothing to ask twice, and answers comments in writing instead of by phone rumor. Inspections are scheduled and attended by our own supervisor rather than left to a subcontractor's morning. You get one accountable team, a fixed written scope, and a file that holds up when a buyer's attorney reads it, backed by more than 20 years of permitted work in South Florida."
+      ],
+      "scope_heading": "Permit work we handle in Pinecrest",
+      "scope_intro": "From a single window permit to a decade of unpermitted additions: filed, inspected and closed out under one licensed contractor.",
+      "scope_items": [
+        {
+          "name": "Open and lapsed permits",
+          "desc": "We pull the permit history on your address, work out what each open record still needs, and take it through reactivation, inspection and final closeout."
+        },
+        {
+          "name": "Old Miami-Dade County permits",
+          "desc": "Permits issued before the village incorporated get closed through Pinecrest, and the route the Building Official sets depends on the type of work involved."
+        },
+        {
+          "name": "Legalizing unpermitted work",
+          "desc": "After-the-fact permits for the enclosed patio or converted garage: as-built drawings, engineering where required, and inspection of construction that is already standing."
+        },
+        {
+          "name": "Miami-Dade NOAs on file",
+          "desc": "Windows, doors, garage doors, shutters and roof systems documented with Miami-Dade Notices of Acceptance, so the inspector approves the installation and not just the invoice."
+        },
+        {
+          "name": "Every inspection, in order",
+          "desc": "Trade inspections scheduled, attended and passed in sequence, ending with the sign-off that leaves your file genuinely closed rather than merely quiet."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "I'm under contract in Pinecrest and title found an open permit. What now?",
+          "a": "First we pull the record and find out what it actually is: a permit where the job was never finished, one that expired mid-project, or one where the work was completed and the final inspection was simply never called. The easy version ends with an inspection and a closeout. The expensive version means opening up finished work or re-permitting it. We tell you which one you own well before your closing date."
+        },
+        {
+          "q": "The permit is from Miami-Dade County, not Pinecrest. Who closes it out?",
+          "a": "Pinecrest only incorporated in 1996, so anything permitted before that was issued by the county, and plenty of those records are still open. The village closes county-era permits itself, and its Building Official sets the route: some permit types can be resolved from documentation, others need the work actually inspected. Which one applies depends on the scope, and it is not a choice you get to make."
+        },
+        {
+          "q": "The previous owner enclosed the patio without a permit. Can that be legalized?",
+          "a": "Usually, through an after-the-fact permit. That means measuring what is there, producing as-built drawings, bringing in an engineer or architect where the structure requires one, and having the work inspected against today's code, which sometimes means opening a wall or ceiling so an inspector can see the connections. If the construction cannot meet code, the honest answer is rebuild or removal, and we say so before you pay for drawings."
+        },
+        {
+          "q": "Do my windows need Miami-Dade approval, or is a Florida product approval enough?",
+          "a": "Pinecrest sits in the High-Velocity Hurricane Zone, so every exterior opening and roof system needs approval documentation valid for the HVHZ, and the installation has to match what the approval covers: anchors, spacing, substrate, the whole detail. Miami-Dade's Notice of Acceptance is the strictest of those approvals and the one most commonly used here. Openings installed without that paperwork fail inspection, and can cost you wind mitigation credit with your insurer."
+        },
+        {
+          "q": "Does the 40-year recertification apply to my house in Pinecrest?",
+          "a": "No. Miami-Dade's building recertification program, the one everyone still calls the 40-year and which the county tightened to a shorter cycle in 2022, exempts single-family homes and duplexes, and Pinecrest is almost entirely single-family. Milestone inspections and structural integrity reserve studies apply to condominium buildings three stories or more in height. If you sit on a board for one of those elsewhere in Miami-Dade, that repair work is something we do."
+        }
+      ],
+      "cta_heading": "Find out what your file says",
+      "cta_sub": "Send us the address. We'll check the permit history and tell you plainly what is open and what it takes to close it, in English o en español."
     }
   }
 }

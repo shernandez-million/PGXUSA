@@ -315,6 +315,66 @@
       ],
       "cta_heading": "Reclaim the backyard this season",
       "cta_sub": "Walk the yard with us and point at what bothers you. A written scope and a realistic schedule follow, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Weston Home Permits & HOA Approvals, FL | PGX Builders",
+      "meta_description": "Open or expired permits closed out before a Weston closing, plus HVHZ product approvals, HOA review and city inspections. PGX at (786) 273-2524.",
+      "h1": "HOA approval is not a permit",
+      "hero_sub": "Permits filed, HVHZ product approvals documented, inspections met on site, and the open or expired records that stall a Weston closing driven shut through the city's Building Code and Permitting Services Department. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "Two approvals, and only one is a permit",
+      "intro_paragraphs": [
+        "Weston is too young for the century-old mysteries that haunt older Broward addresses, and that lulls people. The houses here date from the mid-1980s through the 2000s, so the original paperwork is usually clean and the trouble arrived afterward. Roofs replaced across Emerald Estates and Country Isles following the 2005 hurricane season. Accordion shutters and impact glass swapped into openings in The Ridges. Pool cages, summer kitchens, paver driveways, water heaters and standby generators changed out by whoever was available that month. Second-generation work on a first-generation house is where the Weston record goes quiet.",
+        "Filing is a City of Weston matter. The Building Code and Permitting Services Department reviews and issues, submittals go in electronically and digitally signed and sealed, and whoever pulls the permit owns it until it closes. Above the city sits the county's code administration. The Broward County Board of Rules and Appeals adopts the county's amendments to the Florida Building Code, certifies the plans examiners and inspectors who will read your file, hears appeals of a code official's decision, and issues formal interpretations when a section is genuinely disputed. Broward is High-Velocity Hurricane Zone territory, so glass, doors and roofing carry HVHZ product approvals.",
+        "Every permit we file carries our license number, CGC1539072, which is what separates a general contractor from a filing service: the signature and the accountability arrive together. We read the address history before promising anything, engage the engineer, architect or surveyor a complete submittal genuinely requires, clear plan review comments in one round rather than three, and put a supervisor on site when the inspector arrives instead of a note on the door. More than twenty years building in South Florida, more than 150 remodels and additions, all of it permitted and inspected. A Weston job ends when the city's record for your address does."
+      ],
+      "scope_heading": "Closing the gap in the record",
+      "scope_intro": "Half of this gets filed long before anyone breaks ground. Some of it gets excavated out of a twenty-year-old record two weeks before a closing. We take both.",
+      "scope_items": [
+        {
+          "name": "Permits closed before resale",
+          "desc": "We pull the address history, sort each stale record by what it is actually short of, and take it to the inspection or the replacement permit that retires it."
+        },
+        {
+          "name": "Work nobody filed",
+          "desc": "Screen enclosures, generators, water heaters and window swaps done quietly over the years, documented as built, engineered where the structure asks for it, and inspected under current code."
+        },
+        {
+          "name": "Approved impact products",
+          "desc": "Windows, doors and roofing specified to approvals that hold inside the High-Velocity Hurricane Zone, with anchor details and installation instructions inside the submittal rather than scrambled for later."
+        },
+        {
+          "name": "Inspections that pass first",
+          "desc": "Phased inspections called only when the work is genuinely ready, with a supervisor present to walk the inspector through it and correct anything minor on the spot."
+        },
+        {
+          "name": "Association review, then city",
+          "desc": "The architectural committee package and the permit set drawn from one set of plans, so your elevations, colors and product data never tell the city a different story."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Title turned up an open permit from 2011. Now what?",
+          "a": "We pull the record at the city and read what each open item is genuinely short of. Some are waiting on a final inspection nobody ever called. Others need a revision, an engineer's letter, or an entirely new permit because the original went stale on its own. Where the work was never filed at all, expect an after-the-fact application and enough opening up for an inspector to verify what sits behind the finish. A permit closes by being inspected, so start the day it surfaces."
+        },
+        {
+          "q": "My HOA already approved the work. Do I still need a permit?",
+          "a": "Yes, and the two have nothing to do with each other. Nearly every Weston home sits inside a private community whose architectural review committee decides how the work reads from the street, and those associations register annually with the City Clerk. The committee cannot permit anything. The city has no opinion on your paint color. Owners get caught when a contractor waves an approval letter, never files, and the gap turns up years later at a closing table."
+        },
+        {
+          "q": "Does 40-year recertification apply to a house in Weston?",
+          "a": "Not to a single-family home. Broward runs a Building Safety Inspection Program through the county Board of Rules and Appeals, and one and two family dwellings are exempt from it, which covers the overwhelming majority of Weston. Florida's separate milestone inspection and structural integrity reserve study rules reach condominium and cooperative buildings of three habitable stories or more, and there the duty belongs to the association rather than an individual unit owner. Repairs those reports call for are work we take on."
+        },
+        {
+          "q": "Which projects in Weston actually need a permit?",
+          "a": "More than most owners expect. Paint, carpet and tile generally do not. Almost everything else does: window and door replacement, roofing, structural openings, electrical and plumbing changes, water heaters and air handlers, fences, sheds, pavers and driveway extensions, screen enclosures, pools, summer kitchens and standby generators. Working without one can bring a stop work order and added charges on top of the ordinary ones, and it leaves a hole in the record that a buyer's inspector eventually finds."
+        },
+        {
+          "q": "We close in a few weeks. Can this be sorted in time?",
+          "a": "Sometimes, and it turns entirely on what the file is missing. A permit waiting only on its final inspection can move quickly. Anything needing sealed engineering, an as-built survey, a revision or a fresh application counts in weeks rather than days, because those steps run one after another instead of side by side. Fees belong to the city and scale with the declared value of the work, so we price your actual scope instead of guessing at a number here. Tell your title company early."
+        }
+      ],
+      "cta_heading": "Association first, then the city",
+      "cta_sub": "Give us the address and the closing date, or the plans you have not filed yet. You get a straight read of the record, in English o en español."
     }
   }
 }

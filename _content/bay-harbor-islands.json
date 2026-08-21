@@ -314,6 +314,66 @@
       ],
       "cta_heading": "Build the outdoor room next",
       "cta_sub": "Invite us over, show us the yard, and describe the evenings you want out there. Estimates are straightforward and bilingual: English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Permit Closeout in Bay Harbor Islands, FL | PGX Builders",
+      "meta_description": "Open or expired permits on a Bay Harbor Islands property? PGX files with the town, meets every inspection and closes the record. Call (786) 273-2524.",
+      "h1": "Nothing open, nothing outstanding",
+      "hero_sub": "PGX Builders Group files Bay Harbor Islands work through the town's Building & Zoning Department, specifies Miami-Dade approved products, meets every inspection, and closes out the old permits that surface when a property changes hands. Licensed general contractor, CGC1539072.",
+      "local_heading": "A small town with a long memory",
+      "intro_paragraphs": [
+        "Bay Harbor Islands is two islands and about a third of a square mile, which makes the building record here unusually complete and unusually easy to check. West Island houses from the late 1940s and 1950s have changed hands several times, and somewhere in that chain a Florida room got enclosed, a bathroom moved, or windows were swapped on a quiet Saturday. On the East Island, where only multifamily and commercial buildings are allowed, the same history sits in a co-op or condo file. None of it matters until a title company or a lender runs a permit search.",
+        "Permits are issued and inspected by the Town of Bay Harbor Islands Building & Zoning Department, and applications, inspections and permit history all run through the town's Citizenserve portal, searchable by address, owner name or folio. Windows, doors, roofing, electrical and plumbing each take a separate permit and a separate inspection. Exterior work goes to the Design Review Board. Every opening needs a current Miami-Dade product approval, because this is the High-Velocity Hurricane Zone. Older houses meet FEMA substantial-improvement limits, and East Island buildings carry county recertification, milestone inspections and reserve studies on top of all of it.",
+        "PGX Builders Group has spent more than twenty years on South Florida projects, 150-plus remodels and additions, every one of them permitted and inspected. We file under our own license, CGC1539072, and coordinate the engineer, architect and product documentation each submittal needs instead of handing an owner a reading list. The scope is written before anything is demolished, a supervisor stands on site every day work moves, and the person who meets the inspector is the person who built the wall in question. We do not expedite anything improperly. We submit complete, and complete moves faster."
+      ],
+      "scope_heading": "Where a permit file goes wrong",
+      "scope_intro": "Whether you are starting a renovation or cleaning up somebody else's, these are the five places a Bay Harbor Islands property record gets stuck, and what we do about each.",
+      "scope_items": [
+        {
+          "name": "Expired permits on the islands",
+          "desc": "We pull the town record, establish what each permit actually covered, and take it through re-inspection, revision or a replacement permit until the file reads closed."
+        },
+        {
+          "name": "Complete permit applications",
+          "desc": "Drawings, calculations and code references submitted to the Building & Zoning Department in the first package, so the reviewer sends back comments rather than a rejection."
+        },
+        {
+          "name": "Design review submittals",
+          "desc": "Exterior changes, additions and facade work prepared and presented to the town's Design Review Board, which sits on a meeting calendar nobody accelerates."
+        },
+        {
+          "name": "Miami-Dade product approvals",
+          "desc": "Windows, doors and roof assemblies specified with current HVHZ approvals and installed to the anchorage method in the paperwork the inspector will be holding."
+        },
+        {
+          "name": "Recertification repair work",
+          "desc": "Concrete, balcony, waterproofing and electrical repairs called for by a recertification or milestone report, built to your engineer of record and the board's access rules."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A permit search on my Bay Harbor Islands house came back with something open. What now?",
+          "a": "We pull the file through the town portal and find out what that permit covered and how far it got. The town itself names the usual three causes: a permit issued for work that never started, work that finished but never had its inspection called, or an inspection that found deficiencies nobody corrected or re-inspected. Each has a different fix, and each takes weeks rather than days. Start it before a closing date, not after one."
+        },
+        {
+          "q": "Who issues building permits in Bay Harbor Islands, the town or Miami-Dade County?",
+          "a": "The Town of Bay Harbor Islands Building & Zoning Department issues and inspects permits inside the town limits, through its Citizenserve portal, where you can search by address, owner name or folio. County rules still reach the job: Miami-Dade product approvals for anything hurricane-rated, and the county recertification program for buildings other than houses and duplexes. In practice you deal with one counter, a few blocks from the work, and a plans examiner who knows the street."
+        },
+        {
+          "q": "Do I need Design Review Board approval to change windows or repaint?",
+          "a": "Exterior changes here go to the town planner and, depending on the work, to the Design Review Board, which reviews new construction, exterior renovations, additions and plan revisions. Windows, doors, paint, fences, awnings and signs all sit on that list. Interior-only work generally moves on building and trade permits. The board runs on a meeting calendar, and no contractor moves it. What we can do is submit early and submit complete, so the project is heard once."
+        },
+        {
+          "q": "Our East Island building has a recertification notice. Can PGX do the repairs?",
+          "a": "Yes, the construction side of it. We do not sign the report, because that belongs to your engineer or architect, but we build what it calls for: concrete restoration, balcony and railing repairs, waterproofing, electrical corrections, and the permits and inspections that close each item out. Plenty of East Island buildings date to the 1950s co-op era, and their boards are now handling milestone inspections and structural integrity reserve studies alongside recertification. We work to your engineer of record and the association's calendar."
+        },
+        {
+          "q": "What does it cost to clear up a permit problem?",
+          "a": "Nobody can answer that from a phone call, and anyone who does is guessing. The number tracks what the record shows and how much finished work has to be opened up to prove what is behind it. A final inspection that was simply never called is a small exercise. A room added without a permit, or plumbing that needs testing behind new tile, is a project with its own drawings. Town fees are the town's and pass through at cost."
+        }
+      ],
+      "cta_heading": "Give us the folio number",
+      "cta_sub": "Address, owner name or folio, any one gets us the file. We will tell you what is open and what closing it takes, in English o en español."
     }
   }
 }

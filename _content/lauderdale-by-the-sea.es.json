@@ -59,7 +59,7 @@
         },
         {
           "q": "¿Por qué aquí todo el mundo menciona el Board of Rules and Appeals?",
-          "a": "Porque es la capa del condado que los proyectos de Miami-Dade no tienen. El Broward County Board of Rules and Appeals administra el Florida Building Code con las enmiendas de Broward, certifica a los funcionarios e inspectores de construcción de los municipios del condado, atiende las apelaciones a sus decisiones y emite interpretaciones formales cuando una sección del código está genuinamente en disputa. Usted nunca se va a sentar frente a él por una cocina. Importa porque el inspector que llega a su obra trabaja con un estándar de todo el condado, y construir para ese estándar es más fácil cuando su contratista lo conoce."
+          "a": "Porque es la capa del condado que está detrás de cada permiso del pueblo. El Broward County Board of Rules and Appeals administra el Florida Building Code con las enmiendas de Broward, certifica a los funcionarios e inspectores de construcción de los municipios del condado, atiende las apelaciones a sus decisiones y emite interpretaciones formales cuando una sección del código está genuinamente en disputa. Usted nunca se va a sentar frente a él por una cocina. Importa porque el inspector que llega a su obra trabaja con un estándar de todo el condado, y construir para ese estándar es más fácil cuando su contratista lo conoce."
         },
         {
           "q": "Mi casa está en zona de inundación. ¿Eso le pone tope a lo que puedo invertir en la remodelación?",
@@ -316,6 +316,66 @@
       ],
       "cta_heading": "Llévenos al patio",
       "cta_sub": "Muéstrenos el jardín, el muelle y esa lista a la que le sigue agregando renglones. Volvemos con planos, una especificación y un precio, en español o en inglés."
+    },
+    "permitting-compliance": {
+      "title": "Permisos y cumplimiento en Lauderdale-by-the-Sea | PGX Builders",
+      "meta_description": "¿Permiso abierto o vencido en su propiedad de Lauderdale-by-the-Sea? PGX lee el expediente, inspecciona y lo cierra ante el pueblo. (786) 273-2524.",
+      "h1": "Expediente limpio, cierre sin sorpresas",
+      "hero_sub": "Solicitudes ante la Building Division del Town, aprobaciones de producto HVHZ, inspecciones hasta la firma final y el cierre de los permisos que dejó abiertos el dueño anterior en Lauderdale-by-the-Sea. Todo ante la Building Division del pueblo, con contratista general licenciado, Lic. CGC1539072.",
+      "local_heading": "Un pueblo chico, un código de todo el condado",
+      "intro_paragraphs": [
+        "Casi todos los problemas de permisos en Lauderdale-by-the-Sea llegan junto con la escritura. Una búsqueda de título marca un permiso de ampliación abierto en una ranch de Bel Air que sacó un dueño de hace dos ventas. Un tasador pregunta por el carport cerrado de Poinciana Street que no figura en ningún registro del pueblo. Un banco frena un refinanciamiento en Terra Mar Island Estates porque un muelle, un elevador de bote y un generador de toda la casa se instalaron sin una sola inspección que aparezca. La casa está sana. El seawall está bien. El expediente no.",
+        "La radicación pasa por el Development Services Department del Town of Lauderdale-by-the-Sea, cuya Building Division opera por contrato con CAP Government. Los planos suben en digital, los comentarios regresan por la misma vía y las inspecciones se piden en línea o por correo, con una hora de corte diaria. Encima del pueblo está la capa del condado: el Broward County Board of Rules and Appeals publica las enmiendas de Broward al Florida Building Code, certifica al revisor de planos y al inspector de su obra, y resuelve las lecturas de código en disputa. Broward además está dentro de la High-Velocity Hurricane Zone, así que cada ventana, puerta y sistema de techo necesita un producto aprobado con su detalle de anclaje.",
+        "Más de veinte años construyendo en el sur de la Florida y más de 150 remodelaciones y ampliaciones, todas con permisos e inspecciones, terminan dando una especialidad poco glamorosa: leer expedientes ajenos. Pedimos el historial de permisos antes de poner un precio, abrimos lo que haya que ver y contratamos al ingeniero, al arquitecto o al agrimensor que el caso exige, en lugar de fingir que lo somos. En una isla barrera la elevación de inundación se revisa temprano, porque cruzar el umbral de mejora sustancial cambia el proyecto entero. Un supervisor de PGX pide las inspecciones y recibe al inspector. Y aquí nadie vende atajos."
+      ],
+      "scope_heading": "Qué se radica y qué se arregla",
+      "scope_intro": "Una parte se radica antes de que llegue la primera cuadrilla. La otra se radica porque el dueño anterior dejó el expediente a medias. Las dos empiezan por leer el registro.",
+      "scope_items": [
+        {
+          "name": "El reroof que nunca cerró",
+          "desc": "Pedimos al pueblo el historial completo de la dirección, lo comparamos con lo que está construido de verdad y luego revivimos, corregimos o volvemos a inspeccionar cada permiso hasta que el expediente cierre."
+        },
+        {
+          "name": "Obra que nunca se radicó",
+          "desc": "Carports cerrados, baños agregados, ventanas cambiadas y garajes convertidos que nunca llegaron al pueblo: se dibujan como están, con ingeniería donde hay estructura, y se inspeccionan contra el código vigente."
+        },
+        {
+          "name": "Aprobaciones HVHZ con su anclaje",
+          "desc": "Ventanas de impacto, puertas y sistemas de techo con aprobaciones válidas en la High-Velocity Hurricane Zone, fijados exactamente como indica la aprobación y con la documentación adjunta."
+        },
+        {
+          "name": "Cada inspección a tiempo",
+          "desc": "Inspecciones en bruto, de estructura y final pedidas en la secuencia que la obra puede cumplir, con alguien de PGX recibiendo al inspector, para que el permiso quede cerrado."
+        },
+        {
+          "name": "Reparaciones que exige el informe",
+          "desc": "Restauración de concreto, barandas, impermeabilización y trabajo eléctrico que el informe de milestone o la inspección de seguridad del condado pone en la lista de la asociación, con permisos e inspecciones en un solo paquete."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Tengo un permiso abierto en mi casa de Lauderdale-by-the-Sea y cierro el mes que viene. ¿Por dónde empiezo?",
+          "a": "Por el expediente, no por la reparación. El registro del pueblo muestra cada permiso que se sacó en esa dirección, qué inspecciones quedaron firmadas y en qué punto se detuvo todo. Lo que sigue depende de eso. Si la obra está sana y solo falta la inspección final, es la versión corta. Si lo construido no coincide con los planos aprobados, es más largo y puede necesitar un ingeniero licenciado que documente lo que hay. En cualquier caso esto se mide en semanas y no en días, así que llame bastante antes de la fecha de cierre."
+        },
+        {
+          "q": "¿Qué trabajos necesitan permiso en un pueblo tan pequeño?",
+          "a": "Más de los que uno supone. Estructura, techo, ventanas y puertas, electricidad, plomería, gas y aire acondicionado sí lo necesitan, y también cercas, piscinas, entradas de auto, muelles, elevadores de bote y seawalls, que en esta isla es casi todo lo que la gente quiere cambiar. Pintura, piso nuevo sobre una losa sana y un cambio de gabinetes idéntico, por lo general no. Lo que suele quedarse sin radicar es lo que sale caro después: un carport convertido en cuarto, un panel eléctrico nuevo, un calentador de agua movido, un baño agregado en el garaje."
+        },
+        {
+          "q": "El contratista que sacó mi permiso ya no existe. ¿PGX puede asumirlo?",
+          "a": "Por lo general sí. El permiso está atado a la licencia que lo sacó, así que cuando ese contratista desaparece nadie más puede terminar la obra con el mismo papel. El pueblo tiene un procedimiento para que un contratista calificado asuma un permiso existente, y eso significa que quedamos respondiendo por lo que se construyó antes de que llegáramos. Por eso primero miramos: nadie pone su licencia detrás de una obra tapada que no ha visto. Si hay que abrir algo para verificarlo, se lo decimos antes."
+        },
+        {
+          "q": "A nuestro edificio frente al mar le llegó el informe de milestone inspection. ¿PGX hace ese trabajo?",
+          "a": "El informe lo firma un ingeniero o arquitecto licenciado en Florida; nosotros lo contratamos, no lo firmamos. La ley estatal exige milestone inspections en edificios de condominio y cooperativa de tres pisos habitables o más: una primera fase visual, y una segunda fase solo si aparece deterioro estructural sustancial. Cerca del mar, la autoridad local puede exigir la primera antes. Lo que hace PGX es la reparación que viene después: concreto, barandas, impermeabilización y eléctrico, con permisos e inspecciones. El estudio de reservas estructurales corre por su propia vía."
+        },
+        {
+          "q": "¿Cuánto cuesta poner en regla un expediente viejo?",
+          "a": "Depende por completo de lo que haya detrás de la pared. Si la obra se hizo bien y solo falta la inspección final, es una partida chica. Un cuarto levantado sin ingeniería detrás, o un techo puesto sin productos aprobados, puede significar abrirlo y rehacerlo según el código de hoy. Las tasas del permiso las fija el pueblo y suben con el valor de la obra, así que no son nuestras para marcar. De nosotros recibe el expediente leído, un alcance por escrito y las malas noticias temprano."
+        }
+      ],
+      "cta_heading": "Primero se lee el expediente",
+      "cta_sub": "Mándenos la dirección, o el número de permiso si lo tiene. Leemos el expediente y le entregamos por escrito qué hace falta, en español o en inglés."
     }
   }
 }

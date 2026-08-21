@@ -68,6 +68,18 @@
       "img_alt_base": "Covered outdoor living with summer kitchen and pool terrace — architectural rendering",
       "is_hub": false,
       "angle": "Terraces, summer kitchens, pergolas, driveways, stucco and paint, re-roof coordination, impact openings."
+    },
+    {
+      "slug": "permitting-compliance",
+      "name": "Permitting & Compliance",
+      "slug_es": "permisos-y-cumplimiento",
+      "name_es": "Permisos y cumplimiento",
+      "form_option_es": "Permisos / cumplimiento",
+      "form_option": "Permitting / compliance",
+      "image": "images/permit.webp",
+      "img_alt_base": "Architectural floor plans and permit drawings — architectural rendering",
+      "is_hub": false,
+      "angle": "Permit applications and plan review, HVHZ product approvals, inspections and sign-offs, closing out open permits that block a sale or refinance, 40/50-year recertification support, and milestone-inspection and SIRS repair work for condo associations."
     }
   ],
   "areas": [

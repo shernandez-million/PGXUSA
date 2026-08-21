@@ -316,6 +316,66 @@
       ],
       "cta_heading": "Take us through the yard",
       "cta_sub": "Point at what you want and where the sun lands. A fixed written scope and an honest schedule come back, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Hollywood Lakes Permits & Open Permit Fixes, FL | PGX",
+      "meta_description": "Inherited an open or expired permit in Hollywood Lakes? We read the city record, legalize the work and get the final signed. (786) 273-2524.",
+      "h1": "Close out what the last owner left",
+      "hero_sub": "Permit filing, HVHZ product approvals, inspections through a signed final, and closeout of the open or expired permits a prior owner left on a Hollywood Lakes property. Licensed general contractor filing with the City of Hollywood, Lic. CGC1539072.",
+      "local_heading": "A city desk with a historic layer",
+      "intro_paragraphs": [
+        "Hollywood Lakes hands its permit trouble down with the deed. A 1920s Mediterranean on Harrison Street changes hands three times, and somewhere in that chain a garage became a bedroom, jalousies became impact windows, and a Florida room appeared off the back with nothing in the city file to show for it. Nobody notices until a title search, an appraiser or a lender does, usually with a closing date already on the calendar. On the lots running east toward the Intracoastal, add a dock or a seawall repair built and never inspected. None of it is a construction problem. All of it is a records problem.",
+        "Permits come from the Building Division inside Hollywood's Development Services Department. Applications, uploads and inspection requests now run through the city's Accela Citizen Access portal, while anything pulled before that changeover still lives in the older system, where most inherited files turn up. Behind the city sits a countywide code layer: the Broward County Board of Rules and Appeals publishes the county amendments to the Florida Building Code and certifies the plans examiners and inspectors who read your file. Broward is High-Velocity Hurricane Zone territory, so openings and roofing need approved products. On a designated property, a Certificate of Appropriateness comes first.",
+        "Twenty-plus years in South Florida and more than 150 permitted, inspected remodels and additions mostly teach you to read a bad file quickly. We start with the record and a walk-through, open whatever has to be opened, and retain the engineer, architect or surveyor the city will want to see rather than claiming those licenses ourselves. Close to the Intracoastal we check the flood side early, since federal substantial improvement limits can reshape a scope before it is priced. The scope is fixed and written, a supervisor is on site daily, and whoever ran the work meets the inspector. Nobody here will offer you a shortcut."
+      ],
+      "scope_heading": "First the file, then the work",
+      "scope_intro": "Some of this starts as a plan for new work. The rest starts as something a previous owner left behind. Both begin the same way, with the record read end to end.",
+      "scope_items": [
+        {
+          "name": "Permits inherited with the deed",
+          "desc": "Pulling the full permit history for the address, matching it against what is physically standing, then reviving, amending or re-inspecting each one until the city calls it closed."
+        },
+        {
+          "name": "Unpermitted work, legalized",
+          "desc": "Conversions and extensions that never reached a plan sheet, surveyed and drawn as they actually exist, reinforced where an engineer says so, then inspected into the record."
+        },
+        {
+          "name": "Impact glass with approvals",
+          "desc": "Openings and roofing tied to approvals valid in the High-Velocity Hurricane Zone, with anchoring submitted and installed exactly as the approval reads rather than by habit."
+        },
+        {
+          "name": "Inspections, called and met",
+          "desc": "Trade and structural inspections sequenced so nothing gets covered too early, each met on site by the supervisor who ran the work, through to the last signature."
+        },
+        {
+          "name": "Recertification repairs, permitted",
+          "desc": "Concrete restoration, railings, waterproofing and electrical work that a safety inspection or milestone report puts on a building's list, priced, permitted and built as one package."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on our Hollywood Lakes house and the closing is set. What now?",
+          "a": "Order the record first. The city can show every permit issued at the address, which inspections were signed and where the file stalled, and permits predating the Accela changeover are searched in the older system. Then comes the diagnosis. Sometimes only the final was never called. Sometimes what stands no longer matches what was approved. Sometimes the permit sits under a contractor who is long gone. All three have a path and none of them is quick, which is the argument for calling now rather than the week of funding."
+        },
+        {
+          "q": "What actually needs a permit on a house like ours?",
+          "a": "More than owners expect. Structure, roofing, windows and doors, electrical, plumbing, gas and mechanical work all do, and so do fences, driveways, pools, docks and seawall repair, which on the Intracoastal side also involves Broward County's Aquatic and Wetland Resources Program. Paint, flooring over a sound slab and a like-for-like cabinet swap generally do not. What quietly goes unfiled is the expensive kind later: an enclosed porch, a panel upgrade, a water heater moved across the room."
+        },
+        {
+          "q": "The windows were replaced without a permit and the house is in a historic district. How bad is that?",
+          "a": "Fixable, but it is two problems rather than one. The building side needs the units documented against High-Velocity Hurricane Zone approvals and inspected, which sometimes means proving anchoring nobody photographed at the time. The preservation side runs separately: on a designated property the Historic Preservation Board acts on Certificates of Appropriateness for exterior change, so profiles and materials that were never reviewed get looked at now. We confirm your designation status with the Division of Planning and Urban Design before proposing anything."
+        },
+        {
+          "q": "Does building recertification or a milestone inspection reach a house here?",
+          "a": "Rarely a house. Broward runs a building safety inspection program under the county Board of Rules and Appeals, enforced locally by the City of Hollywood, and it is aimed at older multi-family and commercial buildings, with a floor-area threshold worth checking on a very large house. Florida's milestone inspections and structural integrity reserve studies reach condominium and cooperative buildings of three habitable stories or more, which here means the older low-rise buildings at the edges. The report belongs to a licensed engineer or architect; the repairs are ours."
+        },
+        {
+          "q": "What does it cost to clear all of this up?",
+          "a": "It depends on what the record is hiding. Work that is sound and simply never had its final called is a modest line item. Framing put up without engineering, or a roof laid without approved products, can mean opening it back up and rebuilding to current code, which is a real number. Fees are set by the city and rise with the value of the work, so nobody can quote them off an address. You get a written scope with the bad news already in it."
+        }
+      ],
+      "cta_heading": "Bring us the closing date",
+      "cta_sub": "Send the number, the title report or just the address, and you get a written read on what it takes to clear the file, in English o en español."
     }
   }
 }

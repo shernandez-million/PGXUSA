@@ -316,6 +316,66 @@
       ],
       "cta_heading": "Reclaim the back of the house",
       "cta_sub": "Meet us in the yard, tell us how you want to use it, and a fixed written scope follows. English o en español, your call."
+    },
+    "permitting-compliance": {
+      "title": "Permitting & Compliance, Fort Lauderdale FL | PGX Builders",
+      "meta_description": "Open or expired permit on a Fort Lauderdale house? PGX files, inspects and closes it out through city Building Services before your closing. (786) 273-2524.",
+      "h1": "Close the file, then the sale",
+      "hero_sub": "Filing permits, matching products to HVHZ approvals, running inspections through to a signed final, and closing out the open or expired permits a prior owner left on a Fort Lauderdale property. Licensed general contractor filing through LauderBuild, Lic. CGC1539072.",
+      "local_heading": "The city desk and the county layer",
+      "intro_paragraphs": [
+        "Most Fort Lauderdale permit problems are inherited. The seller finaled nothing, the contractor vanished, and twenty years later it is your closing date on the line. It shows up as a title search flagging an open addition permit on a Victoria Park cottage, an appraiser questioning the enclosed Florida room on a Coral Ridge ranch that appears in no city record, or a lender pausing a refinance on Seven Isles because a boat lift and a whole-house generator were installed and never inspected. The house is fine. The file is not.",
+        "Work here is filed digitally on LauderBuild and reviewed by the City of Fort Lauderdale Development Services Department, where Building Services handles plan review, permit issuance and inspections. Broward then adds a second layer above the city: the county's Board of Rules and Appeals publishes the Broward amendments to the Florida Building Code, certifies the plans examiners and inspectors who will look at your job, hears appeals of their decisions and issues formal interpretations. Broward sits inside the High-Velocity Hurricane Zone, so windows, doors and roofing need approved products with the anchor details attached. Exterior work in the Sailboat Bend historic district needs a Certificate of Appropriateness first.",
+        "PGX Builders Group has twenty-plus years in South Florida and more than 150 permitted, inspected remodels and additions behind it, which mostly adds up to having read a great many bad files. We pull the history before we price anything, open up whatever has to be seen, and coordinate the engineer, architect or surveyor the record requires instead of claiming to be one. On the finger isles we check the flood side early, because crossing the substantial improvement threshold changes the whole project. The inspections get booked by the person who ran the work, not by a coordinator who has never seen it. We do not sell shortcuts."
+      ],
+      "scope_heading": "What we clean up, and what we file",
+      "scope_intro": "Some of these start as planning. The rest start as a problem a previous owner left behind. Both get the same treatment: the record read, then a scope in writing.",
+      "scope_items": [
+        {
+          "name": "Open and expired permits",
+          "desc": "Reading the whole LauderBuild file first, matching it against what is physically standing, then reviving, amending or re-inspecting each permit until the city marks it closed."
+        },
+        {
+          "name": "Unpermitted work, legalized",
+          "desc": "The garage that became a bedroom, the porch that got glassed in, the bath that appeared: documented as built, engineered where the structure demands it, and inspected against today's code."
+        },
+        {
+          "name": "HVHZ product approvals",
+          "desc": "Impact windows, doors and roof assemblies documented with approvals valid in the High-Velocity Hurricane Zone, anchored exactly as those approvals specify rather than the way it has always been done."
+        },
+        {
+          "name": "Inspections and final closeout",
+          "desc": "Rough through final booked in an order the building can actually deliver, with a PGX supervisor meeting the inspector, so the last one signs and the permit stops being yours."
+        },
+        {
+          "name": "Milestone and recertification repairs",
+          "desc": "Spalling concrete, corroded rebar, balcony railings, waterproofing and panel work that an engineer's report puts on the association's list, priced and built as one permitted package."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Fort Lauderdale house and we close next month. What now?",
+          "a": "Order the record first. LauderBuild will show every permit ever pulled on the address, which inspections were signed off and where the file stalled. Then it is a diagnosis: sometimes only a final inspection is missing, sometimes what got built does not match what was approved, and sometimes the permit sits under a contractor who is no longer in business. All three are solvable. None is solvable in a week, which is the real reason to call now rather than five days before funding."
+        },
+        {
+          "q": "Which projects on a Fort Lauderdale house actually need a permit?",
+          "a": "More than people assume. Anything touching structure, roofing, windows and doors, electrical, plumbing, gas or mechanical does, and so do fences, docks, seawalls, pools and most driveways. Interior paint, new flooring on a sound slab and a like-for-like cabinet swap generally do not. What quietly goes unfiled is exactly what gets expensive later: a garage turned into a bedroom, a screened porch glassed in, a panel upgrade, a water heater moved across the room."
+        },
+        {
+          "q": "Does the county Board of Rules and Appeals add a step to my permit?",
+          "a": "It adds a layer rather than a step. Your permit still comes from the City of Fort Lauderdale, but the county's Board of Rules and Appeals publishes the Broward amendments the reviewer applies, certifies the plans examiner and the inspector, and is where a disputed code reading gets settled. Those amendments are Broward's own, and they are what gets enforced here. Practically, it means detailing and product paperwork that cleared review south of the county line can still draw comments here."
+        },
+        {
+          "q": "Our building received a milestone inspection report. Is that work PGX does?",
+          "a": "That report has to come from an engineer or architect licensed in Florida. We engage one; we do not sign as one. Florida requires milestone inspections for condominium and cooperative buildings of three habitable stories or more, starting with a visual phase and moving to a second phase only where substantial deterioration turns up. What PGX does is the repair scope that follows: concrete restoration, structural work, railings, waterproofing and electrical, permitted and inspected through Building Services. Structural integrity reserve studies run on their own track."
+        },
+        {
+          "q": "What does it cost to legalize unpermitted work here?",
+          "a": "It depends on what is behind the wall. If the work is sound and only the final was never called, this is a small line item. A bedroom framed over a patio slab with no engineering behind it, or a roof laid without approved products, can mean taking it apart and building it again to current code. Permit fees themselves are set by the city and scale with the value of the work. You will hear the number and the bad news in the same conversation, in writing."
+        }
+      ],
+      "cta_heading": "Before the closing date, not after",
+      "cta_sub": "Send the permit number, the title report or just the address. You get a written read on what it takes to clear it, in English o en español."
     }
   }
 }

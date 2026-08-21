@@ -311,6 +311,66 @@
       ],
       "cta_heading": "Put the backyard to work",
       "cta_sub": "Show us the yard and the wish list. We will scope your Palmetto Bay outdoor project in writing, in English o en español."
+    },
+    "permitting-compliance": {
+      "title": "Palmetto Bay Permits & Unpermitted Work, FL | PGX",
+      "meta_description": "Permitting and compliance in Palmetto Bay, FL: open permits closed out, HVHZ product approvals, inspections passed. Licensed GC. Call (786) 273-2524.",
+      "h1": "The open permit, finally closed",
+      "hero_sub": "Permitting and compliance for Palmetto Bay homes: open and expired permits closed out, HVHZ product approvals documented, inspections scheduled and passed. A licensed general contractor, CGC1539072, registered with the Village before a single application is filed.",
+      "local_heading": "The Village kept its own building desk",
+      "intro_paragraphs": [
+        "Palmetto Bay is mostly 1950s-to-70s ranch houses on big lots: Mangowood, Tanglewood Estates, Coral Reef Estates, the streets east of Old Cutler Road. Nearly all of them have passed through three or four owners, and somewhere in that history sits a carport turned into a bedroom, a patio enclosed and air conditioned, an electrical panel swapped on a Saturday. Structural, electrical, plumbing and mechanical work all require permits here, and so do roofing, windows and doors, fences, sheds, pools and standby generators. What was skipped decades ago does not disappear. It waits for an appraiser, an inspector, or a buyer.",
+        "Permits for those houses are filed with the Village of Palmetto Bay Building and Permitting Department on East Hibiscus Street, where the Building Official also administers the floodplain. Your contractor has to be registered on the Village's portal before an application can be submitted at all. County agencies still attach to a scope though the Village issues the permit: Miami-Dade's Board of Rules and Appeals oversees code administration countywide, environmental review reaches protected trees, the county health department handles septic systems, and Miami-Dade product control governs anything meant to survive a hurricane. And permits issued before the Village incorporated in 2002 live in the county's records, not the Village's.",
+        "PGX Builders Group has spent more than twenty years filing in South Florida, and every one of our 150-plus remodels and additions has been permitted and inspected. On compliance work that means we pull the record first and tell you what it says, coordinate the engineer, architect or surveyor the file needs, and put the corrective scope in writing before anyone touches the house. We do not expedite anything improperly, and we do not promise an outcome the code will not give you. What we do promise is one accountable team, a supervisor on site, and a permit that ends in a final inspection instead of a question."
+      ],
+      "scope_heading": "Ranch-house permits, opened and closed",
+      "scope_intro": "Compliance is not one job. It is five different problems wearing the same word, and these are the ones Palmetto Bay owners bring us.",
+      "scope_items": [
+        {
+          "name": "Permits still showing active",
+          "desc": "We pull the record at the Village and at the county, find what was never inspected, and carry the file through to a final sign-off."
+        },
+        {
+          "name": "Unpermitted work made legal",
+          "desc": "Enclosed patios, converted garages, weekend electrical. We open what has to be opened, bring it to current code, and permit it after the fact."
+        },
+        {
+          "name": "Applications the village accepts",
+          "desc": "Contractor registration, drawings, forms and written answers to plan review comments, with the engineer or architect coordinated so nothing waits on a missing signature."
+        },
+        {
+          "name": "Product control approvals",
+          "desc": "Windows, doors and roofing matched to Miami-Dade approvals for the actual opening and design pressure, installed the way the approval reads and documented for the inspector."
+        },
+        {
+          "name": "Repairs after an engineer's report",
+          "desc": "For older multi-family and condo buildings: the structural and electrical repairs an engineer's recertification or milestone report calls for, permitted and inspected like any other job."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "There is an open permit on my Palmetto Bay house from a previous owner. Can I still sell?",
+          "a": "You can list it, but it has to be resolved, and closing out permits commonly lands on the seller, so read what your contract actually says. Start early. The Village's lien search returns open and expired permits from both Palmetto Bay and Miami-Dade County, because the county issued the permits here until the Village incorporated in 2002. Once we see the record we can tell you whether the fix is an inspection, a reinstatement, or real corrective work. Plan on weeks, not days."
+        },
+        {
+          "q": "How long does it take to close out a permit, and can you speed it up?",
+          "a": "Nobody jumps the line legitimately, and anyone who says otherwise is selling you a problem. What saves time is a complete first submittal and a scope that anticipates what the inspector will ask to see. A simple closeout moves quickly. A permit whose work has to be exposed, corrected and re-inspected does not. Weeks, not days, is the honest frame, so tell us about a closing date up front."
+        },
+        {
+          "q": "What actually needs a permit in Palmetto Bay?",
+          "a": "More than owners expect. Anything structural, electrical, plumbing or mechanical, plus roofing, windows and doors, fences, sheds, pools, decks, driveways and standby generators. Interior finish work, meaning paint, flooring over an existing slab, or swapping cabinets in place, generally does not, until it moves a wall or a pipe. If the scope touches a protected tree or a septic system, county agencies review it too. When it is genuinely unclear, we ask the Village instead of guessing."
+        },
+        {
+          "q": "Do my windows and doors really need Miami-Dade approved products?",
+          "a": "Yes. All of Miami-Dade sits in the High-Velocity Hurricane Zone, so windows, doors, garage doors, roofing and skylights need a current product approval covering your specific size and design pressure, installed exactly the way that approval describes. The documentation gets checked at inspection. Buying glass that carries no approval, or anchoring it the wrong way, is how a job fails an inspection and stalls a schedule that had no room in it."
+        },
+        {
+          "q": "My building received a recertification or milestone inspection notice. Can PGX handle it?",
+          "a": "We handle the construction side. A licensed engineer or architect performs the inspection and signs the report; we coordinate that professional, then permit and build the repairs it calls for. In Palmetto Bay this rarely touches a house, since single-family homes and duplexes sit outside Miami-Dade's recertification program. It does reach the village's older multi-family and condo buildings, and any condominium three stories or more in height falls under the state's milestone and structural reserve rules. Check your building's age rather than trusting the old forty-year number."
+        }
+      ],
+      "cta_heading": "Let's see what the village has",
+      "cta_sub": "Send the address or the permit number. We will pull the record and tell you exactly what it takes to close it, in English o en español."
     }
   }
 }

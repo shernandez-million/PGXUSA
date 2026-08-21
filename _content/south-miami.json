@@ -314,6 +314,66 @@
       ],
       "cta_heading": "Give the backyard a job",
       "cta_sub": "Walk the yard with us and tell us how you want to use it — we'll handle the rest, in English o en español. (786) 273-2524."
+    },
+    "permitting-compliance": {
+      "title": "South Miami Permit Filing & Fixes, FL | PGX Builders",
+      "meta_description": "Open permits, HVHZ approvals and inspections in South Miami, FL. PGX files with the city, closes out old permits and gets you to final sign-off. (786) 273-2524.",
+      "h1": "Clean permits before the closing table",
+      "hero_sub": "Permitting and compliance for South Miami homes: applications and plan review through the city, design review and historic sign-offs, HVHZ product approvals, inspections, and open permits closed out before they cost you a sale. Licensed general contractor, Lic. CGC1539072.",
+      "local_heading": "The city line nobody can see",
+      "intro_paragraphs": [
+        "Most South Miami houses are on at least their third life. A 1950s block ranch in Twin Lakes or Bird Road Estates loses its carport to a family room in the seventies, gains a bathroom in the nineties, and gets the kitchen opened up sometime after that. Some of that work went through the city. Some of it went in over a long weekend. Nobody sorts out which is which until somebody with money on the line pulls the permit record: a buyer's attorney, a refinance underwriter, a carrier deciding whether to keep writing the policy. By then there is a date on the calendar.",
+        "Inside the city limits, permits are filed with the City of South Miami Building Department, a small office with its own plan reviewers, inspectors and online permitting portal. New construction and two-story additions to a residence also need approval from the city's Design Review Board, still known locally as the ERPB, and facades in the Cambridge Lawns Historic District need a certificate of appropriateness from the Historic Preservation Board. Windows, doors and roof systems need High-Velocity Hurricane Zone product approvals. A South Miami mailing address is no guarantee of a South Miami permit: High Pines, Ponce-Davis and much of Glenvar Heights are unincorporated Miami-Dade and file with the county.",
+        "Permitting here is construction management, not an errand run ahead of the real work. PGX lines up whichever design professional the drawings call for, and the package crosses the counter complete, because a submittal short one sheet waits behind everything that is not. Plan review comments come back answered on paper. Inspections are booked and met by our supervisor rather than by whichever subcontractor happens to be closest. You get a fixed written scope, one accountable team, and a permit record that reads clean line by line, backed by 20+ years and 150+ permitted projects in South Florida."
+      ],
+      "scope_heading": "What we file, fix and close",
+      "scope_intro": "One window permit or three decades of undocumented add-ons, the same job either way: file it, inspect it, close it, under a contractor who is on site anyway.",
+      "scope_items": [
+        {
+          "name": "Old permits brought to final",
+          "desc": "We read the address history at the Building Department, find out why each record stalled, and drive it back through inspection to a final that title can see."
+        },
+        {
+          "name": "After-the-fact legalization",
+          "desc": "The enclosed carport, the converted garage, the patio roof nobody filed: as-built drawings, engineering where the structure demands it, and inspection against current code."
+        },
+        {
+          "name": "Design review and historic sign-off",
+          "desc": "Two-story additions, new construction and Cambridge Lawns facades packaged for the boards that see them first, so board night is a formality instead of a setback."
+        },
+        {
+          "name": "HVHZ product documentation",
+          "desc": "Impact windows, doors and roof systems submitted with Notices of Acceptance that match how they were actually installed, down to the fasteners an inspector will pull on."
+        },
+        {
+          "name": "Inspections in sequence",
+          "desc": "Trade inspections booked, attended and passed in order, from rough-in to final, so your schedule bends around the work and not around a missed appointment."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "A title search turned up an open permit on my South Miami house. What now?",
+          "a": "Step one is finding out what the record actually is. Sometimes the job was finished years ago and nobody ever called the last inspection, which is the cheap version. Sometimes the permit lapsed mid-project, or describes something that was changed after it was issued. We pull the file at the Building Department, tell you which of those you own, and map the route to a closeout with room to spare instead of a scramble the week of closing."
+        },
+        {
+          "q": "My mailing address says South Miami, but I'm told the city doesn't issue my permit. Which is it?",
+          "a": "Both can be true. The mailing address covers more ground than the city limits do. High Pines, Ponce-Davis and much of Glenvar Heights sit in unincorporated Miami-Dade, so their permits come from the county rather than from the city's Building Department. The two systems have different portals, different reviewers and different inspection routines. We confirm the jurisdiction by folio before anyone draws anything, because filing in the wrong place costs weeks."
+        },
+        {
+          "q": "Do I need a permit to replace windows or a roof in South Miami?",
+          "a": "Yes, and each is its own permit with its own inspections. South Miami sits in the High-Velocity Hurricane Zone, so every exterior opening and roof system has to be an approved product, installed the way the approval actually describes: fastener type, spacing, what it anchors into. Paperwork that does not match the installation fails inspection, and it has a way of resurfacing later as a wind mitigation credit your insurer declines to give you."
+        },
+        {
+          "q": "The previous owner added a room without a permit. Can it be legalized?",
+          "a": "Usually yes, through an after-the-fact permit, which is the same process a new job goes through, only backwards. A surveyor and a designer document what is standing, an engineer signs the structure where one is required, and the city inspects construction that already has drywall on it. Expect a hole or two cut so an inspector can see how it is tied together. If it cannot be made to comply, we say so before you spend money on drawings."
+        },
+        {
+          "q": "Is my South Miami property subject to the 40-year recertification?",
+          "a": "If you own a house, no. Miami-Dade's recertification program, still called the 40-year although the county now triggers the first inspection sooner, leaves single-family homes and duplexes out of it, and South Miami is mostly single-family. The low-rise condominium and townhouse associations near downtown are a different story: buildings of three habitable stories or more also fall under Florida's milestone inspection and structural integrity reserve study rules. When those reports call for structural repair, that is the kind of work we build."
+        }
+      ],
+      "cta_heading": "Find out which city you're in",
+      "cta_sub": "Give us the address and we'll go through the permit record with you: what is open, what closing it takes, in English o en español."
     }
   }
 }
