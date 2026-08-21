@@ -672,6 +672,134 @@ def render_hub(s_slug, doc, lang, built, has_pair):
     return out
 
 
+
+ABOUT_COPY = {
+    "en": {"crumb_home": "Home", "eyebrow": "About PGX", "here": "About",
+           "svc_head": "What we do", "svc_note": "Six services, and the paperwork that makes them legal.",
+           "areas_head": "Where we build", "areas_note": "Forty-two communities across Miami-Dade and Broward.",
+           "areas_link": "See every service area →"},
+    "es": {"crumb_home": "Inicio", "eyebrow": "Sobre PGX", "here": "Nosotros",
+           "svc_head": "Qué hacemos", "svc_note": "Seis servicios, y el papeleo que los hace legales.",
+           "areas_head": "Dónde construimos", "areas_note": "Cuarenta y dos comunidades en Miami-Dade y Broward.",
+           "areas_link": "Vea todas las zonas →"},
+}
+
+
+def about_url(lang):
+    return "/nosotros" if lang == "es" else "/about"
+
+
+def render_about(doc, lang, has_pair):
+    c = ABOUT_COPY[lang]
+    canonical = DOMAIN + about_url(lang)
+    stats = "\n".join(
+        f'        <div class="stat"><div class="n">{esc(x["n"])}<em>{esc(x["em"])}</em></div>'
+        f'<div class="l">{esc(x["l"])}</div></div>' for x in doc["stats"])
+    prins = "\n".join(
+        f'        <div class="prin"><h3 class="disp"><i>{esc(x["i"])}</i>{esc(x["h"])}</h3>'
+        f'<p>{esc(x["p"])}</p></div>' for x in doc["principles"])
+    creds = "\n".join(
+        f'        <div class="ct-row"><div class="k">{esc(x["k"])}</div>'
+        f'<div class="v">{esc(x["v"])}</div></div>' for x in doc["credentials"])
+    intro = "\n".join(f"      <p>{esc(p)}</p>" for p in doc["intro_paragraphs"])
+    svc = "\n".join(
+        f'        <a class="chip" href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a>'
+        for o in SERVICE_ORDER)
+
+    listing = f'''<main id="top">
+<section class="hero" style="padding-bottom:clamp(24px,3vw,40px)">
+  <div class="wrap">
+    <nav class="crumbs rv" aria-label="Breadcrumb"><a href="{home_url(lang)}">{c["crumb_home"]}</a><span class="sep">/</span><span>{c["here"]}</span></nav>
+    <p class="eyebrow rv">{c["eyebrow"]}</p>
+    <h1 class="disp h1 rv rv-d1">{esc(doc["h1"])}<span class="dot">.</span></h1>
+    <p class="hero-sub rv rv-d2">{esc(doc["hero_sub"])}</p>
+  </div>
+</section>
+<section class="sec" style="padding-top:clamp(20px,3vw,40px)">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="disp h2 rv">{esc(doc["local_heading"])}<span class="dot">.</span></h2></div>
+    <div class="prose rv rv-d1">
+{intro}
+    </div>
+    <p class="nb-label rv rv-d2">{c["svc_head"]}</p>
+    <div class="area-wrap rv rv-d2">
+{svc}
+    </div>
+    <p class="area-note rv rv-d2">{c["svc_note"]}</p>
+    <p class="nb-label rv rv-d2" style="margin-top:clamp(30px,4vw,44px)">{c["areas_head"]}</p>
+    <div class="area-wrap rv rv-d2">
+        <a class="chip" href="{areas_url(lang)}">{c["areas_link"]}</a>
+    </div>
+    <p class="area-note rv rv-d2">{c["areas_note"]}</p>
+  </div>
+</section>
+<section class="sec dark">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow rv">{"How we work" if lang == "en" else "Cómo trabajamos"}</p>
+      <h2 class="disp h2 rv rv-d1">{"A remodel is a promise. We keep it in writing" if lang == "en" else "Una remodelación es una promesa. La dejamos por escrito"}<span class="dot">.</span></h2></div>
+    <div class="ap-grid">
+      <div class="rv">
+{stats}
+      </div>
+      <div class="rv rv-d1">
+{prins}
+      </div>
+    </div>
+  </div>
+</section>
+<section class="sec" style="padding-bottom:0">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="disp h2 rv">{esc(doc["credentials_heading"])}<span class="dot">.</span></h2></div>
+    <div class="ct-info rv rv-d1" style="max-width:640px;margin-top:clamp(28px,3vw,40px)">
+{creds}
+    </div>
+  </div>
+</section>
+</main>'''
+
+    tpl = TPL[lang]
+    cm = re.search(r'<!-- CONTACT -->.*?</section>', tpl, re.S)
+    if cm:
+        listing = listing.replace('</main>', cm.group(0) + '\n</main>')
+    out = re.sub(r'<main id="top">.*?</main>', lambda m: listing, tpl, count=1, flags=re.S)
+    out = re.sub(r'<link rel="preload" as="image" href="\{\{HERO_IMAGE\}\}"[^>]*>\n', '', out, count=1)
+
+    ld = {"@context": "https://schema.org", "@type": "AboutPage",
+          "@id": canonical + "#webpage", "url": canonical, "name": doc["title"],
+          "inLanguage": lang, "isPartOf": {"@id": DOMAIN + "/#website"},
+          "about": {"@id": DOMAIN + "/#business"}, "mainEntity": PROVIDER}
+    crumb = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": c["crumb_home"], "item": DOMAIN + home_url(lang)},
+        {"@type": "ListItem", "position": 2, "name": c["here"], "item": canonical}]}
+    opt_key = "form_option_es" if lang == "es" else "form_option"
+    opts = "\n".join(f'                <option>{esc(x[opt_key])}</option>' for x in PLAN["services"])
+    for extra in EXTRA_FORM_OPTIONS[lang]:
+        opts += f'\n                <option>{esc(extra)}</option>'
+    repl = {
+        "{{TITLE}}": esc(doc["title"]), "{{META_DESCRIPTION}}": esc(doc["meta_description"]),
+        "{{CANONICAL_URL}}": canonical,
+        "{{EN_ABS_URL}}": DOMAIN + about_url("en"), "{{ES_ABS_URL}}": DOMAIN + about_url("es"),
+        "{{ALT_URL}}": about_url("es" if lang == "en" else "en") if has_pair else home_url("es" if lang == "en" else "en"),
+        "{{OG_LOCALE}}": OG_LOCALE[lang], "{{OG_LOCALE_ALT}}": OG_LOCALE["es" if lang == "en" else "en"],
+        "{{OG_IMAGE_URL}}": DOMAIN + "/og-image.jpg", "{{HERO_IMG_ALT}}": esc(doc["h1"]),
+        "{{JSONLD_SERVICE}}": json.dumps(ld, indent=2, ensure_ascii=False),
+        "{{JSONLD_BREADCRUMB}}": json.dumps(crumb, indent=2, ensure_ascii=False),
+        "{{JSONLD_FAQ}}": json.dumps({"@context": "https://schema.org", "@type": "WebPage", "url": canonical}, indent=2),
+        "{{AREA_NAME}}": "Miami-Dade &amp; Broward" if lang == "en" else "Miami-Dade y Broward",
+        "{{SERVICE_NAME}}": c["here"], "{{CTA_HEADING}}": esc(doc["cta_heading"]),
+        "{{CTA_SUB}}": esc(doc["cta_sub"]), "{{FORM_OPTIONS_HTML}}": opts,
+        "{{FOOTER_SERVICES_HTML}}": "\n".join(
+            f'        <li><a href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a></li>' for o in SERVICE_ORDER),
+        "{{FOOTER_AREAS_HTML}}": f'        <li><a href="{areas_url(lang)}">{c["areas_link"]}</a></li>',
+    }
+    for k, v in repl.items():
+        out = out.replace(k, v)
+    left = re.findall(r"\{\{[A-Z_]+\}\}", out)
+    if left:
+        errors.append(f"about/{lang}: unreplaced {set(left)}")
+    return out
+
+
 def sitemap_entry(loc, en_url=None, es_url=None, lastmod=None):
     lines = [f"  <url>", f"    <loc>{loc}</loc>", f"    <lastmod>{lastmod or TODAY}</lastmod>"]
     if en_url and es_url:
@@ -748,6 +876,19 @@ def main():
             loc = DOMAIN + hub_url(sl, lang)
             entries.append(sitemap_entry(loc, DOMAIN + hub_url(sl, "en"), DOMAIN + hub_url(sl, "es"))
                            if pair else sitemap_entry(loc))
+
+    ab = {}
+    for lang, nm in (("en", "page-about.json"), ("es", "page-about.es.json")):
+        f2 = CONTENT / nm
+        if f2.exists():
+            ab[lang] = json.loads(f2.read_text())
+    for lang, doc in ab.items():
+        (ROOT / (about_url(lang).lstrip("/") + ".html")).write_text(
+            render_about(doc, lang, len(ab) == 2))
+        counts[lang] += 1
+        loc = DOMAIN + about_url(lang)
+        entries.append(sitemap_entry(loc, DOMAIN + about_url("en"), DOMAIN + about_url("es"))
+                       if len(ab) == 2 else sitemap_entry(loc))
 
     sync_homepage_chips(data)
     (ROOT / "areas.html").write_text(render_areas_index(data, "en"))

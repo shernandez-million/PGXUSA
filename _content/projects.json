@@ -1,0 +1,18 @@
+{
+  "_README": "Portfolio source. The /portfolio and /proyectos pages are ONLY built once this list has at least 3 projects — an empty or thin portfolio page hurts rankings more than having none. Fill one block per project and re-run: python3 _content/build.py",
+  "_TEMPLATE": {
+    "slug": "coral-gables-whole-home",
+    "area_slug": "coral-gables",
+    "service_slug": "home-remodeling",
+    "title_en": "A 1926 Merrick-era house, brought forward",
+    "title_es": "Una casa de la era Merrick de 1926, traída al presente",
+    "year": "2025",
+    "scope_en": "Full-gut renovation, kitchen relocated, two baths, impact windows throughout.",
+    "scope_es": "Renovación integral, cocina reubicada, dos baños, ventanas de impacto en toda la casa.",
+    "story_en": "Two or three sentences on what the problem was and what you did about it. Concrete beats adjectives.",
+    "story_es": "Dos o tres frases sobre cuál era el problema y qué hicieron. Lo concreto vale más que los adjetivos.",
+    "images": ["images/projects/coral-gables-whole-home-1.jpg"],
+    "permission": true
+  },
+  "projects": []
+}

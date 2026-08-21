@@ -93,6 +93,7 @@ REPL = [
     ('<p class="ft-h">Nearby areas</p>', '<p class="ft-h">Zonas cercanas</p>', 1),
     ('<li><a href="/areas">All service areas</a></li>', '<li><a href="/zonas">Todas las zonas</a></li>', 1),
     ('<p class="ft-h">Contact</p>', '<p class="ft-h">Contacto</p>', 1),
+    ('<li><a href="/about">About PGX</a></li>', '<li><a href="/nosotros">Sobre PGX</a></li>', 1),
     ('<li><a href="/#contact">Request an estimate</a></li>', '<li><a href="/es#contact">Solicitar un estimado</a></li>', 1),
     ('© 2026 PGX Builders Group LLC · Lic. CGC1539072 · Licensed &amp; insured',
      '© 2026 PGX Builders Group LLC · Lic. CGC1539072 · Licenciado y asegurado', 1),

@@ -1,0 +1,35 @@
+{
+  "slug": "about",
+  "slug_es": "nosotros",
+  "title": "Sobre PGX Builders Group — Contratista en Miami",
+  "meta_description": "Contratista general licenciado en el sur de la Florida, en Miami-Dade y Broward. Cómo definimos el alcance, supervisamos y cerramos permisos. Lic. CGC1539072.",
+  "h1": "El contratista que todavía contesta en el quinto mes",
+  "hero_sub": "PGX Builders Group es un contratista general licenciado y asegurado que trabaja en Miami-Dade y Broward: remodelaciones integrales, ampliaciones, cocinas, baños, exteriores y los permisos que hacen legal todo lo anterior.",
+  "local_heading": "De qué respondemos",
+  "intro_paragraphs": [
+    "Casi todas las remodelaciones se tuercen en el mismo punto. El número que se dijo en la mesa de la cocina no es el de la factura final, quien vendió la obra desaparece cuando empieza la demolición, y un permiso que nadie cerró aparece años después, justo cuando la casa está bajo contrato. Nada de eso es mala suerte: es lo que pasa cuando el alcance, la supervisión y el papeleo se tratan como detalles en vez de como el trabajo.",
+    "PGX se armó con la costumbre contraria. Un alcance detallado por escrito antes de firmar nada, para que un cambio sea una decisión suya y no una sorpresa que le toca absorber. Un superintendente con nombre y apellido, en obra cada día laboral, que contesta el teléfono. Productos con clasificación para la High-Velocity Hurricane Zone, fases inspeccionadas en orden, permisos abiertos como corresponde y cerrados al final. Y una garantía por escrito cuando le devolvemos las llaves.",
+    "Esa disciplina explica por qué los permisos aparecen aquí junto a los oficios y no en la letra chica. En Miami-Dade y Broward el papeleo no es un trámite administrativo: decide si la obra pasa inspección, si el avalúo se sostiene y si el cierre ocurre a tiempo. Nosotros lo presentamos, le damos seguimiento, asistimos a las inspecciones y lo cerramos, tanto en obra nuestra como en obra que otro dejó abierta.",
+    "Más de veinte años construyendo en el sur de la Florida y más de 150 remodelaciones y ampliaciones entregadas, todas con permisos e inspecciones. Trabajamos en inglés y en español, desde Coral Gables y Coconut Grove hasta la costa de Broward y las fincas del oeste. Un solo equipo responde desde el primer recorrido hasta el final de la garantía."
+  ],
+  "stats": [
+    {"n": "20", "em": "+", "l": "Años construyendo en el sur de la Florida"},
+    {"n": "150", "em": "+", "l": "Remodelaciones y ampliaciones entregadas"},
+    {"n": "100", "em": "%", "l": "Obra con permisos e inspecciones"},
+    {"n": "42", "em": "", "l": "Comunidades atendidas en dos condados"}
+  ],
+  "principles": [
+    {"i": "A", "h": "Alcance fijo, precios honestos", "p": "Un alcance detallado por escrito antes de empezar — para que el número que firma sea el número que paga, y los cambios sean decisiones, no sorpresas."},
+    {"i": "B", "h": "Un superintendente en obra, todos los días", "p": "Su proyecto lo dirige alguien con nombre y apellido, que contesta el teléfono y recorre la obra cada día laboral."},
+    {"i": "C", "h": "Según código y con garantía por escrito", "p": "Productos con clasificación HVHZ, fases inspeccionadas, permisos cerrados y una garantía por escrito al entregar las llaves."}
+  ],
+  "credentials_heading": "Licencia y cobertura",
+  "credentials": [
+    {"k": "Licencia", "v": "Florida Certified General Contractor · CGC1539072"},
+    {"k": "Seguro", "v": "Licenciado y asegurado"},
+    {"k": "Condados", "v": "Miami-Dade y Broward"},
+    {"k": "Idiomas", "v": "Español e inglés"}
+  ],
+  "cta_heading": "Empiece con un recorrido y un número real",
+  "cta_sub": "Cuéntenos sobre su proyecto. Le devolvemos la llamada en un día hábil — en español o en inglés."
+}

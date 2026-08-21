@@ -1,0 +1,35 @@
+{
+  "slug": "about",
+  "slug_es": "nosotros",
+  "title": "About PGX Builders Group — Miami General Contractor",
+  "meta_description": "A licensed South Florida general contractor building in Miami-Dade and Broward. How we scope, supervise and close out work. Lic. CGC1539072. Call (786) 273-2524.",
+  "h1": "The contractor you can still reach in month five",
+  "hero_sub": "PGX Builders Group is a licensed, insured general contractor working across Miami-Dade and Broward — whole-home remodels, additions, kitchens, baths, outdoor living and the permitting that makes all of it legal.",
+  "local_heading": "What we are accountable for",
+  "intro_paragraphs": [
+    "Most remodeling stories go wrong in the same place. The number quoted at the kitchen table is not the number on the final invoice, the person who sold the job disappears once demolition starts, and a permit nobody closed surfaces years later when the house is under contract. None of that is bad luck. It is what happens when scope, supervision and paperwork are treated as details instead of the job.",
+    "PGX was built around the opposite habit. A detailed written scope before anything is signed, so a change is a decision you make rather than a surprise you absorb. A superintendent whose name you know, on site every working day, who answers the phone. Products rated for the High-Velocity Hurricane Zone, phases inspected in order, permits opened properly and closed at the end. A written warranty when the keys come back.",
+    "That discipline is why permitting sits alongside the trades on this site rather than in the fine print. In Miami-Dade and Broward the paperwork is not an administrative afterthought — it decides whether a project passes inspection, whether an appraisal holds, and whether a sale closes on time. We file it, track it, attend the inspections and close it out, on our own work and on work somebody else left open.",
+    "Over twenty years in South Florida and more than 150 remodels and additions delivered, all of it permitted and inspected. We work in English and in Spanish, from Coral Gables and Coconut Grove through the Broward waterfront to the estate acreage out west. One team stays accountable from the first walk-through to the end of the warranty."
+  ],
+  "stats": [
+    {"n": "20", "em": "+", "l": "Years building in South Florida"},
+    {"n": "150", "em": "+", "l": "Remodels and additions delivered"},
+    {"n": "100", "em": "%", "l": "Permitted and inspected work"},
+    {"n": "42", "em": "", "l": "Communities served across two counties"}
+  ],
+  "principles": [
+    {"i": "A", "h": "Fixed scope, honest pricing", "p": "A detailed written scope before we start — so the number you sign is the number you pay, and changes are decisions, not surprises."},
+    {"i": "B", "h": "A superintendent on site, daily", "p": "Your project is run by someone whose name you know, who answers the phone, and who walks the site every working day."},
+    {"i": "C", "h": "Built to code, warrantied in writing", "p": "HVHZ-rated products, inspected phases, closed permits, and a written warranty when we hand back the keys."}
+  ],
+  "credentials_heading": "Licence and coverage",
+  "credentials": [
+    {"k": "Licence", "v": "Florida Certified General Contractor · CGC1539072"},
+    {"k": "Insurance", "v": "Licensed and insured"},
+    {"k": "Counties", "v": "Miami-Dade and Broward"},
+    {"k": "Languages", "v": "English and Spanish"}
+  ],
+  "cta_heading": "Start with a walk-through and a real number",
+  "cta_sub": "Tell us about the project. We call back within one business day — in English o en español."
+}

@@ -3641,4 +3641,18 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.pgxusa.com/permisos-y-cumplimiento"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pgxusa.com/permitting-compliance"/>
   </url>
+  <url>
+    <loc>https://www.pgxusa.com/about</loc>
+    <lastmod>2026-08-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.pgxusa.com/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.pgxusa.com/nosotros"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pgxusa.com/about"/>
+  </url>
+  <url>
+    <loc>https://www.pgxusa.com/nosotros</loc>
+    <lastmod>2026-08-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.pgxusa.com/about"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.pgxusa.com/nosotros"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.pgxusa.com/about"/>
+  </url>
 </urlset>
