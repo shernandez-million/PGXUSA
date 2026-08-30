@@ -474,6 +474,14 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
   .crumbs a{padding:10px 4px;margin:-10px -4px}
   .lang{padding:12px 14px;margin:-12px -14px}
 }
+
+/* ---------- supporting photography ---------- */
+.fig-wide{margin:clamp(34px,4vw,52px) 0 0;border-radius:3px;overflow:hidden;border:1px solid var(--line-soft)}
+.fig-wide img{display:block;width:100%;height:auto}
+.fig-pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:clamp(34px,4vw,52px) 0 0}
+.fig-pair figure{border-radius:3px;overflow:hidden;border:1px solid var(--line-soft)}
+.fig-pair img{display:block;width:100%;height:auto}
+@media(max-width:760px){.fig-pair{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -539,6 +547,10 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
       <p>PGX se armó con la costumbre contraria. Un alcance detallado por escrito antes de firmar nada, para que un cambio sea una decisión suya y no una sorpresa que le toca absorber. Un superintendente con nombre y apellido, en obra cada día laboral, que contesta el teléfono. Productos con clasificación para la High-Velocity Hurricane Zone, fases inspeccionadas en orden, permisos abiertos como corresponde y cerrados al final. Y una garantía por escrito cuando le devolvemos las llaves.</p>
       <p>Esa disciplina explica por qué los permisos aparecen aquí junto a los oficios y no en la letra chica. En Miami-Dade y Broward el papeleo no es un trámite administrativo: decide si la obra pasa inspección, si el avalúo se sostiene y si el cierre ocurre a tiempo. Nosotros lo presentamos, le damos seguimiento, asistimos a las inspecciones y lo cerramos, tanto en obra nuestra como en obra que otro dejó abierta.</p>
       <p>Más de veinte años construyendo en el sur de la Florida y más de 150 remodelaciones y ampliaciones entregadas, todas con permisos e inspecciones. Trabajamos en inglés y en español, desde Coral Gables y Coconut Grove hasta la costa de Broward y las fincas del oeste. Un solo equipo responde desde el primer recorrido hasta el final de la garantía.</p>
+    </div>
+    <div class="fig-pair rv rv-d1">
+      <figure><img src="images/detail/remodel-1.webp" srcset="images/detail/remodel-1-420.webp 420w, images/detail/remodel-1-640.webp 640w, images/detail/remodel-1-900.webp 900w" sizes="(max-width:760px) 92vw, 580px" loading="lazy" decoding="async" alt="Sala remodelada vista desde la zona de estar" width="1200" height="800"></figure>
+      <figure><img src="images/detail/outdoor-1.webp" srcset="images/detail/outdoor-1-420.webp 420w, images/detail/outdoor-1-640.webp 640w, images/detail/outdoor-1-900.webp 900w" sizes="(max-width:760px) 92vw, 580px" loading="lazy" decoding="async" alt="Cocina de verano bajo una terraza exterior cubierta" width="1200" height="800"></figure>
     </div>
     <p class="nb-label rv rv-d2">Qué hacemos</p>
     <div class="area-wrap rv rv-d2">

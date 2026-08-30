@@ -248,6 +248,46 @@ def lang_pair_urls(s_slug, a_slug, has_es):
     return en, es
 
 
+DETAIL_ALT = {
+    "en": {"remodel": ["Remodelled living space viewed from the seating area",
+                       "Open-plan living and kitchen after a full renovation"],
+           "kitchen": ["Marble backsplash and brass fittings in a renovated kitchen",
+                       "Stone island and seating in a remodelled kitchen"],
+           "bath": ["Frameless glass shower and marble detailing in a primary bath",
+                    "Double vanity and mirrors in a renovated primary bathroom"],
+           "addition": ["Covered terrace joining a modern rear addition",
+                        "Glass sliders and roofline of a new rear addition"],
+           "outdoor": ["Summer kitchen under a covered outdoor terrace",
+                       "Pool terrace and seating beside a South Florida home"],
+           "permit": ["Architectural floor plans laid out for a permit submittal",
+                      "Elevation drawings and plan set for a building permit"]},
+    "es": {"remodel": ["Sala remodelada vista desde la zona de estar",
+                       "Sala y cocina de planta abierta tras una renovación integral"],
+           "kitchen": ["Salpicadero de mármol y grifería de latón en una cocina renovada",
+                       "Isla de piedra y asientos en una cocina remodelada"],
+           "bath": ["Ducha de vidrio sin marco y detalles en mármol en un baño principal",
+                    "Vanities dobles y espejos en un baño principal renovado"],
+           "addition": ["Terraza cubierta unida a una ampliación trasera moderna",
+                        "Ventanales corredizos y techo de una ampliación nueva"],
+           "outdoor": ["Cocina de verano bajo una terraza exterior cubierta",
+                       "Terraza de piscina y asientos junto a una casa del sur de la Florida"],
+           "permit": ["Planos arquitectónicos preparados para un permiso",
+                      "Planos de elevación y juego de planos para un permiso de construcción"]},
+}
+
+
+def detail_tokens(stem, lang):
+    """Two supporting photographs per page — his standard is 2-4, never text-only."""
+    out = {}
+    for i in (1, 2):
+        out[f"{{{{DETAIL{i}}}}}"] = f"images/detail/{stem}-{i}.webp"
+        out[f"{{{{DETAIL{i}_SRCSET}}}}"] = ", ".join(
+            f"images/detail/{stem}-{i}-{w}.webp {w}w" for w in (420, 640, 900)
+        ) + f", images/detail/{stem}-{i}.webp 1200w"
+        out[f"{{{{DETAIL{i}_ALT}}}}"] = esc(DETAIL_ALT[lang][stem][i - 1])
+    return out
+
+
 def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
     svc, area, pg = SERVICES[s_slug], AREAS[a_slug], doc["pages"][s_slug]
     canonical = DOMAIN + url_for(s_slug, a_slug, lang)
@@ -340,6 +380,7 @@ def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
         "{{HERO_SUB}}": esc(pg["hero_sub"]),
         "{{HERO_IMAGE}}": svc["image"],
         "{{HERO_SRCSET}}": hero_srcset,
+        **detail_tokens(stem, lang),
         "{{HERO_IMG_ALT}}": esc(img_alt),
         "{{AREA_NAME}}": esc(area["name"]),
         "{{COUNTY}}": esc(county_name(area, lang)),
@@ -397,6 +438,8 @@ AREAS_PAGE_COPY = {
 
 def render_areas_index(data, lang):
     c = AREAS_PAGE_COPY[lang]
+    afig = esc(DETAIL_ALT[lang]["addition"][0])
+    afig2 = esc(DETAIL_ALT[lang]["kitchen"][1])
     county_label = {"Miami-Dade": {"en": "Miami-Dade County", "es": "Condado de Miami-Dade"},
                     "Broward": {"en": "Broward County", "es": "Condado de Broward"}}
     groups = {}
@@ -443,8 +486,10 @@ def render_areas_index(data, lang):
 </section>
 <section class="sec" style="padding-top:clamp(20px,3vw,40px)">
   <div class="wrap">
+    <figure class="fig-wide rv" style="margin-top:0"><!--AREAS_FIG--><img src="images/detail/addition-1.webp" srcset="images/detail/addition-1-420.webp 420w, images/detail/addition-1-640.webp 640w, images/detail/addition-1-900.webp 900w, images/detail/addition-1.webp 1200w" sizes="(max-width:1300px) 92vw, 1190px" loading="lazy" decoding="async" alt="{afig}" width="1200" height="800"></figure>
 {body}
-    <p class="area-note rv">{c["note"]}</p>
+    <figure class="fig-wide rv"><!--AREAS_FIG2--><img src="images/detail/kitchen-2.webp" srcset="images/detail/kitchen-2-420.webp 420w, images/detail/kitchen-2-640.webp 640w, images/detail/kitchen-2-900.webp 900w, images/detail/kitchen-2.webp 1200w" sizes="(max-width:1300px) 92vw, 1190px" loading="lazy" decoding="async" alt="{afig2}" width="1200" height="800"></figure>
+    <p class="area-note rv" style="margin-top:26px">{c["note"]}</p>
   </div>
 </section>
 </main>'''
@@ -636,6 +681,7 @@ def render_hub(s_slug, doc, lang, built, has_pair):
         "{{HERO_SUB}}": esc(doc["hero_sub"]),
         "{{HERO_IMAGE}}": svc["image"],
         "{{HERO_SRCSET}}": srcset,
+        **detail_tokens(stem, lang),
         "{{HERO_IMG_ALT}}": esc(img_alt),
         "{{AREA_NAME}}": c["scope_all"],
         "{{COUNTY}}": c["scope_all"],
@@ -691,6 +737,8 @@ def about_url(lang):
 
 def render_about(doc, lang, has_pair):
     c = ABOUT_COPY[lang]
+    alt1 = esc(DETAIL_ALT[lang]["remodel"][0])
+    alt2 = esc(DETAIL_ALT[lang]["outdoor"][0])
     canonical = DOMAIN + about_url(lang)
     stats = "\n".join(
         f'        <div class="stat"><div class="n">{esc(x["n"])}<em>{esc(x["em"])}</em></div>'
@@ -720,6 +768,10 @@ def render_about(doc, lang, has_pair):
     <div class="sec-head"><h2 class="disp h2 rv">{esc(doc["local_heading"])}<span class="dot">.</span></h2></div>
     <div class="prose rv rv-d1">
 {intro}
+    </div>
+    <div class="fig-pair rv rv-d1">
+      <figure><img src="images/detail/remodel-1.webp" srcset="images/detail/remodel-1-420.webp 420w, images/detail/remodel-1-640.webp 640w, images/detail/remodel-1-900.webp 900w" sizes="(max-width:760px) 92vw, 580px" loading="lazy" decoding="async" alt="{alt1}" width="1200" height="800"></figure>
+      <figure><img src="images/detail/outdoor-1.webp" srcset="images/detail/outdoor-1-420.webp 420w, images/detail/outdoor-1-640.webp 640w, images/detail/outdoor-1-900.webp 900w" sizes="(max-width:760px) 92vw, 580px" loading="lazy" decoding="async" alt="{alt2}" width="1200" height="800"></figure>
     </div>
     <p class="nb-label rv rv-d2">{c["svc_head"]}</p>
     <div class="area-wrap rv rv-d2">

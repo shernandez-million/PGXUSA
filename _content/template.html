@@ -397,6 +397,14 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
   .crumbs a{padding:10px 4px;margin:-10px -4px}
   .lang{padding:12px 14px;margin:-12px -14px}
 }
+
+/* ---------- supporting photography ---------- */
+.fig-wide{margin:clamp(34px,4vw,52px) 0 0;border-radius:3px;overflow:hidden;border:1px solid var(--line-soft)}
+.fig-wide img{display:block;width:100%;height:auto}
+.fig-pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:clamp(34px,4vw,52px) 0 0}
+.fig-pair figure{border-radius:3px;overflow:hidden;border:1px solid var(--line-soft)}
+.fig-pair img{display:block;width:100%;height:auto}
+@media(max-width:760px){.fig-pair{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
@@ -482,6 +490,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     <div class="prose rv rv-d1">
 {{INTRO_PARAGRAPHS_HTML}}
     </div>
+    <figure class="fig-wide rv rv-d1"><img src="{{DETAIL1}}" srcset="{{DETAIL1_SRCSET}}" sizes="(max-width:1300px) 92vw, 1190px" loading="lazy" decoding="async" alt="{{DETAIL1_ALT}}" width="1200" height="800"></figure>
     <p class="nb-label rv rv-d2">Where we work in {{AREA_NAME}}</p>
     <div class="area-wrap rv rv-d2">
 {{NEIGHBORHOOD_CHIPS_HTML}}
@@ -501,6 +510,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     <div class="scope-grid">
 {{SCOPE_CARDS_HTML}}
     </div>
+    <figure class="fig-wide rv rv-d1"><img src="{{DETAIL2}}" srcset="{{DETAIL2_SRCSET}}" sizes="(max-width:1300px) 92vw, 1190px" loading="lazy" decoding="async" alt="{{DETAIL2_ALT}}" width="1200" height="800"></figure>
   </div>
 </section>
 
