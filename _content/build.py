@@ -27,6 +27,11 @@ TODAY = "2026-08-19"
 SERVICES = {s["slug"]: s for s in PLAN["services"]}
 AREAS = {a["slug"]: a for a in PLAN["areas"]}
 SERVICE_ORDER = [s["slug"] for s in PLAN["services"]]
+# A property type (luxury condo, waterfront, historic) is NOT a service: it cuts across all
+# six of them. Putting it in PLAN["services"] would push it into the service nav and the
+# contact form on all 522 existing pages, so it gets its own page type instead.
+TYPES = {t["slug"]: t for t in PLAN.get("property_types", [])}
+TYPE_ORDER = [t["slug"] for t in PLAN.get("property_types", [])]
 
 FIELD_LIMITS = {
     "en": {"title": (40, 70), "meta_description": (120, 162)},
@@ -134,12 +139,23 @@ def load_content() -> dict:
                 data["hub"][lang][sl] = json.loads(p2.read_text())
             except json.JSONDecodeError as e:
                 errors.append(f"{nm}: invalid JSON — {e}")
+    data["type"] = {"en": {}, "es": {}}
+    for tl in TYPE_ORDER:
+        for lang, nm in (("en", f"type-{tl}.json"), ("es", f"type-{tl}.es.json")):
+            p3 = CONTENT / nm
+            if not p3.exists():
+                warnings.append(f"not yet written: {nm}")
+                continue
+            try:
+                data["type"][lang][tl] = json.loads(p3.read_text())
+            except json.JSONDecodeError as e:
+                errors.append(f"{nm}: invalid JSON — {e}")
     return data
 
 
 def validate(data: dict) -> None:
     for lang, docs in data.items():
-        if lang == "hub":
+        if lang in ("hub", "type"):
             continue
         seen = {"title": {}, "h1": {}, "meta_description": {}}
         limits = FIELD_LIMITS[lang]
@@ -322,6 +338,12 @@ def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
     rel_svc = "\n".join(
         f'          <a class="chip" href="{url_for(s, a_slug, lang)}">{esc(svc_name(s, lang))}</a>'
         for s in SERVICE_ORDER if s != s_slug)
+    # where a property type dominates this area, offer it alongside the services — a Brickell
+    # reader is far more likely to want the condominium page than another Brickell service
+    for tl in TYPE_ORDER:
+        if a_slug in TYPES[tl].get("areas", []):
+            rel_svc += (f'\n          <a class="chip" href="{type_url(tl, lang)}">'
+                        f'{esc(type_name(tl, lang))}</a>')
     # only link neighbours that actually have a rendered page in this language
     nbrs = [n for n in area["neighbors"] if built is None or n in built]
     rel_areas = "\n".join(
@@ -598,6 +620,16 @@ HUB_COPY = {
 }
 
 
+def collapse_scope_line(out: str) -> str:
+    """Hero meta reads "{{AREA_NAME}} · {{COUNTY}}".
+
+    On an area page that is "Brickell · Miami-Dade County". On a hub or a property-type page
+    both slots are the whole market, which rendered as "Miami-Dade & Broward · Miami-Dade &
+    Broward". Collapse the halves when they are identical.
+    """
+    return re.sub(r'(<span><i></i>)([^<]+) · \2(</span>)', r'\1\2\3', out)
+
+
 def hub_url(s_slug: str, lang: str) -> str:
     return f"/{svc_slug(s_slug, lang)}"
 
@@ -712,6 +744,7 @@ def render_hub(s_slug, doc, lang, built, has_pair):
                  f'<p class="area-note rv rv-d2">{esc(c["note"])}</p>', out, count=1, flags=re.S)
     out = out.replace(f'More PGX services in {c["scope_all"]}', c["others"])
     out = out.replace(f'{name} nearby', c["browse"])
+    out = collapse_scope_line(out)
     leftovers = re.findall(r"\{\{[A-Z_]+\}\}", out)
     if leftovers:
         errors.append(f"hub {s_slug}/{lang}: unreplaced {set(leftovers)}")
@@ -852,6 +885,152 @@ def render_about(doc, lang, has_pair):
     return out
 
 
+TYPE_COPY = {
+    "en": {"crumb_home": "Home", "here": "Property types", "scope": "Miami-Dade &amp; Broward",
+           "where": "Where these homes are",
+           "note": "The communities where we do this work most. Not listed? Call (786) 273-2524.",
+           "others": "How we work on them", "browse": "Browse every area"},
+    "es": {"crumb_home": "Inicio", "here": "Tipos de propiedad", "scope": "Miami-Dade y Broward",
+           "where": "Dónde están estas propiedades",
+           "note": "Las comunidades donde más hacemos este trabajo. ¿No aparece la suya? Llame al (786) 273-2524.",
+           "others": "Cómo trabajamos en ellas", "browse": "Ver todas las zonas"},
+}
+
+
+def type_slug(t_slug: str, lang: str) -> str:
+    return TYPES[t_slug]["slug_es"] if lang == "es" else t_slug
+
+
+def type_name(t_slug: str, lang: str) -> str:
+    return TYPES[t_slug]["name_es"] if lang == "es" else TYPES[t_slug]["name"]
+
+
+def type_url(t_slug: str, lang: str) -> str:
+    return f"/{type_slug(t_slug, lang)}"
+
+
+def render_collection(t_slug, doc, lang, built, has_pair):
+    """Property-type page: cuts across every service, for one kind of building."""
+    t = TYPES[t_slug]
+    c = TYPE_COPY[lang]
+    name = type_name(t_slug, lang)
+    canonical = DOMAIN + type_url(t_slug, lang)
+    stem = Path(t["image"]).stem
+    srcset = ", ".join(f"images/r/{stem}-{w}.webp {w}w" for w in (420, 640, 900, 1280))
+    img_alt = esc(doc.get("hero_img_alt") or f"{name} — {c['scope']}".replace("&amp;", "&"))
+
+    # only the areas where this property type actually dominates, grouped by county
+    mine = [AREAS[a] for a in t.get("areas", []) if a in AREAS and a in built]
+    groups = {}
+    for a in mine:
+        groups.setdefault(a.get("county", "Miami-Dade"), []).append(a)
+    blocks = []
+    for county, areas in groups.items():
+        label = (f"{county} County" if lang == "en"
+                 else ("Condado de Miami-Dade" if county == "Miami-Dade" else "Condado de Broward"))
+        chips = "\n".join(
+            f'      <a class="chip" href="{url_for("home-remodeling", a["slug"], lang)}">{esc(a["name"])}</a>'
+            for a in areas)
+        blocks.append(f'      <p class="nb-label" style="margin-top:22px">{esc(label)}</p>\n'
+                      f'      <div class="area-wrap">\n{chips}\n      </div>')
+    area_grid = "\n".join(blocks)
+
+    intro_html = "\n".join(f"      <p>{esc(p)}</p>" for p in doc["intro_paragraphs"])
+    scope_html = "\n".join(
+        '      <div class="pr-card rv"><span class="n">%02d</span><h3 class="disp">%s</h3><p>%s</p></div>'
+        % (i, esc(it["name"]), esc(it["desc"])) for i, it in enumerate(doc["scope_items"], 1))
+    faq_html = "\n".join(
+        f'      <details class="fq"{" open" if i == 0 else ""}><summary>{esc(f["q"])}</summary>'
+        f'<div class="fa">{esc(f["a"])}</div></details>' for i, f in enumerate(doc["faqs"]))
+    # the payoff of a cross-cutting page: it hands the reader off to every service
+    rel_svc = "\n".join(
+        f'          <a class="chip" href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a>'
+        for o in SERVICE_ORDER)
+    # ...and sideways to the other property types
+    rel_types = "\n".join(
+        f'          <a class="chip" href="{type_url(o, lang)}">{esc(type_name(o, lang))}</a>'
+        for o in TYPE_ORDER if o != t_slug)
+    rel_areas = (rel_types + "\n" if rel_types else "") + \
+        f'          <a class="chip" href="{areas_url(lang)}">{c["browse"]} →</a>'
+
+    opt_key = "form_option_es" if lang == "es" else "form_option"
+    form_opts = "\n".join(f'                <option>{esc(x[opt_key])}</option>' for x in PLAN["services"])
+    for extra in EXTRA_FORM_OPTIONS[lang]:
+        form_opts += f'\n                <option>{esc(extra)}</option>'
+
+    ld_service = {"@context": "https://schema.org", "@type": "Service",
+                  "@id": canonical + "#service", "serviceType": name, "url": canonical,
+                  "inLanguage": lang, "provider": PROVIDER,
+                  "isPartOf": {"@id": DOMAIN + "/#website"},
+                  "areaServed": [{"@type": "AdministrativeArea", "name": "Miami-Dade County, Florida"},
+                                 {"@type": "AdministrativeArea", "name": "Broward County, Florida"}]}
+    ld_crumb = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": c["crumb_home"], "item": DOMAIN + home_url(lang)},
+        {"@type": "ListItem", "position": 2, "name": name, "item": canonical}]}
+    ld_faq = {"@context": "https://schema.org", "@type": "FAQPage",
+              "mainEntity": [{"@type": "Question", "name": f["q"],
+                              "acceptedAnswer": {"@type": "Answer", "text": f["a"]}} for f in doc["faqs"]]}
+
+    alt = type_url(t_slug, "es" if lang == "en" else "en") if has_pair else home_url("es" if lang == "en" else "en")
+    out = TPL[lang]
+    repl = {
+        "{{TITLE}}": esc(doc["title"]),
+        "{{META_DESCRIPTION}}": esc(doc["meta_description"]),
+        "{{CANONICAL_URL}}": canonical,
+        "{{EN_ABS_URL}}": DOMAIN + type_url(t_slug, "en"),
+        "{{ES_ABS_URL}}": DOMAIN + type_url(t_slug, "es"),
+        "{{ALT_URL}}": alt,
+        "{{OG_LOCALE}}": OG_LOCALE[lang],
+        "{{OG_LOCALE_ALT}}": OG_LOCALE["es" if lang == "en" else "en"],
+        "{{OG_IMAGE_URL}}": f"{DOMAIN}/images/og/{stem}-og.jpg",
+        "{{JSONLD_SERVICE}}": json.dumps(ld_service, indent=2, ensure_ascii=False),
+        "{{JSONLD_BREADCRUMB}}": json.dumps(ld_crumb, indent=2, ensure_ascii=False),
+        "{{JSONLD_FAQ}}": json.dumps(ld_faq, indent=2, ensure_ascii=False),
+        "{{BREADCRUMB_HTML}}": (f'<a href="{home_url(lang)}">{c["crumb_home"]}</a>'
+                                f'<span class="sep">/</span><span>{esc(name)}</span>'),
+        "{{EYEBROW}}": esc(f'{name} · {c["scope"].replace("&amp;", "&")}'),
+        "{{H1}}": esc(doc["h1"].rstrip(".")),
+        "{{HERO_SUB}}": esc(doc["hero_sub"]),
+        "{{HERO_IMAGE}}": t["image"],
+        "{{HERO_SRCSET}}": srcset,
+        **detail_tokens(stem, lang),
+        "{{HERO_IMG_ALT}}": img_alt,
+        "{{AREA_NAME}}": c["scope"],
+        "{{COUNTY}}": c["scope"],
+        "{{SERVICE_NAME}}": esc(name),
+        "{{LOCAL_HEADING}}": esc(doc["local_heading"].rstrip(".")),
+        "{{INTRO_PARAGRAPHS_HTML}}": intro_html,
+        "{{NEIGHBORHOOD_CHIPS_HTML}}": area_grid,
+        "{{SCOPE_HEADING}}": esc(doc["scope_heading"].rstrip(".")),
+        "{{SCOPE_INTRO}}": esc(doc["scope_intro"]),
+        "{{SCOPE_CARDS_HTML}}": scope_html,
+        "{{FAQ_ITEMS_HTML}}": faq_html,
+        "{{RELATED_SERVICES_HTML}}": rel_svc,
+        "{{RELATED_AREAS_HTML}}": rel_areas,
+        "{{CTA_HEADING}}": esc(doc["cta_heading"]),
+        "{{CTA_SUB}}": esc(doc["cta_sub"]),
+        "{{FORM_OPTIONS_HTML}}": form_opts,
+        "{{FOOTER_SERVICES_HTML}}": "\n".join(
+            f'        <li><a href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a></li>' for o in SERVICE_ORDER),
+        "{{FOOTER_AREAS_HTML}}": "\n".join(
+            f'        <li><a href="{url_for("home-remodeling", a["slug"], lang)}">{esc(a["name"])}</a></li>'
+            for a in mine[:6]),
+    }
+    for k, v in repl.items():
+        out = out.replace(k, v)
+    # the per-area helper lines become property-type ones
+    out = out.replace(f'Where we work in {c["scope"]}', c["where"])
+    out = re.sub(r'<p class="area-note rv rv-d2">.*?</p>',
+                 f'<p class="area-note rv rv-d2">{esc(c["note"])}</p>', out, count=1, flags=re.S)
+    out = out.replace(f'More PGX services in {c["scope"]}', c["others"])
+    out = out.replace(f'{name} nearby', c["browse"])
+    out = collapse_scope_line(out)
+    leftovers = re.findall(r"\{\{[A-Z_]+\}\}", out)
+    if leftovers:
+        errors.append(f"type {t_slug}/{lang}: unreplaced {set(leftovers)}")
+    return out
+
+
 def sitemap_entry(loc, en_url=None, es_url=None, lastmod=None):
     lines = [f"  <url>", f"    <loc>{loc}</loc>", f"    <lastmod>{lastmod or TODAY}</lastmod>"]
     if en_url and es_url:
@@ -927,6 +1106,19 @@ def main():
             counts[lang] += 1
             loc = DOMAIN + hub_url(sl, lang)
             entries.append(sitemap_entry(loc, DOMAIN + hub_url(sl, "en"), DOMAIN + hub_url(sl, "es"))
+                           if pair else sitemap_entry(loc))
+
+    types = data.get("type", {"en": {}, "es": {}})
+    for tl in TYPE_ORDER:
+        pair = tl in types["en"] and tl in types["es"]
+        for lang in ("en", "es"):
+            if tl not in types[lang]:
+                continue
+            out = render_collection(tl, types[lang][tl], lang, set(data[lang]), pair)
+            (ROOT / f"{type_slug(tl, lang)}.html").write_text(out)
+            counts[lang] += 1
+            loc = DOMAIN + type_url(tl, lang)
+            entries.append(sitemap_entry(loc, DOMAIN + type_url(tl, "en"), DOMAIN + type_url(tl, "es"))
                            if pair else sitemap_entry(loc))
 
     ab = {}

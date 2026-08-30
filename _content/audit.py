@@ -18,8 +18,10 @@ from collections import defaultdict
 from pathlib import Path
 
 CONTENT = Path(__file__).resolve().parent
-SERVICES = ["home-remodeling", "kitchen-remodeling", "bathroom-remodeling",
-            "home-additions", "outdoor-living"]
+# read from the plan rather than restated here — this list went stale when
+# permitting-compliance shipped and silently failed all 42 areas
+SERVICES = [s["slug"] for s in json.loads(
+    (Path(__file__).resolve().parent / "site_plan.json").read_text())["services"]]
 HEADING_FIELDS = ["h1", "local_heading", "scope_heading", "cta_heading"]
 
 # ---------------------------------------------------------------- proper nouns
@@ -175,7 +177,10 @@ def load():
     docs = {"en": {}, "es": {}}
     for p in sorted(CONTENT.glob("*.json")):
         name = p.name
-        if name in ("site_plan.json",):
+        # only area packs have neighborhoods and a pages map; hubs, About and
+        # property-type packs are a different shape and are checked by build.py
+        if name in ("site_plan.json", "projects.json") or name.startswith(
+                ("hub-", "page-", "type-")):
             continue
         if name.endswith(".es.json"):
             lang, slug = "es", name[:-len(".es.json")]
@@ -227,7 +232,7 @@ def main():
             if not (8 <= len(nb) <= 14):
                 problems[f"4-structure-{lang}"].append(
                     f"{slug}: neighborhoods {len(nb)} (need 8-14)")
-            if len(pages) != 5 or set(pages) != set(SERVICES):
+            if set(pages) != set(SERVICES):
                 problems[f"4-structure-{lang}"].append(
                     f"{slug}: page keys {sorted(pages)}")
 

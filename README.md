@@ -11,4 +11,4 @@ Sitio web estático bilingüe de PGX Builders Group, preparado para publicarse e
 
 ## Publicación
 
-Vercel puede servir el repositorio directamente, sin comando de compilación ni directorio de salida. El dominio canónico configurado en el sitio es `https://www.pgxbuildersgroup.com`.
+Vercel puede servir el repositorio directamente, sin comando de compilación ni directorio de salida. El dominio canónico configurado en el sitio es `https://www.pgxusa.com`.

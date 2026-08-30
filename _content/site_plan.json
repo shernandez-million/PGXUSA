@@ -663,5 +663,32 @@
       "hints": "Town of Davie Building Division; a Western-themed town that protects equestrian character and rural zoning alongside newer gated communities; high-end enclaves include Long Lake Ranches, Forest Ridge, Harmony Lakes, Stonebrook Estates and the Griffin Road acreage corridor; large lots, guest houses, barns and pool/outdoor projects; septic and well service in the acreage areas.",
       "county": "Broward"
     }
+  ],
+  "property_types": [
+    {
+      "slug": "condominium-renovation",
+      "slug_es": "renovacion-de-condominios",
+      "name": "Condominium Renovation",
+      "name_es": "Renovación de Condominios",
+      "image": "images/remodel.webp",
+      "angle": "Renovating inside someone else's building is a different job from renovating a house: the slab, the declaration, the board and the building's calendar all constrain the work before design starts.",
+      "areas": [
+        "brickell",
+        "miami-beach",
+        "bal-harbour",
+        "surfside",
+        "bay-harbor-islands",
+        "sunny-isles-beach",
+        "aventura",
+        "key-biscayne",
+        "fisher-island",
+        "hallandale-beach",
+        "fort-lauderdale",
+        "coral-ridge",
+        "pompano-beach",
+        "lauderdale-by-the-sea",
+        "hillsboro-beach"
+      ]
+    }
   ]
 }
