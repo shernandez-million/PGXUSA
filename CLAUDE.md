@@ -107,7 +107,9 @@ python3 _content/make_og.py              # share images: site card + per-service
    list with expected hit counts and **fails loudly on drift** — that is
    deliberate. When it fails, update its list; never delete the count check.
    It has already caught two real desyncs (an `h4`→`p` change and a footer
-   domain change).
+   domain change). It also compares both templates after generating and refuses
+   to write when a sentence-length phrase survives untranslated — added after
+   new English form errors passed straight through onto 262 Spanish pages.
 2. **`index.html` and `es.html` are hand-maintained**, except the area chips
    between `<!-- AREAS:START -->` / `<!-- AREAS:END -->`, which `build.py`
    rewrites. Keep the markers.
@@ -208,6 +210,24 @@ precisely and hand him the exact fix; never touch it.
    `https://www.pgxusa.com`. This is his #1 trust-breaker. Poll until the
    deploy is confirmed live *before* auditing; Lighthouse has already been run
    against a stale deploy here and reported fixed things as broken.
+
+### The estimate form is a mailto, and that is a known ceiling
+The form on every page builds a `mailto:` and hands off to the visitor's mail
+app. It validates first (name, plus a phone or an email, plus a sane email
+format), announces errors through `role="alert"`, and always reveals the email
+address and WhatsApp link afterwards — because a machine with no mail client
+handles `mailto:` silently and the visitor would otherwise think nothing
+happened.
+
+It still depends on the visitor pressing Send in their own mail app, and nothing
+is recorded on PGX's side. Capturing every submission needs a form backend
+(a serverless function plus an email service, or a hosted form provider), which
+means an account and probably a subscription — **Andrés's call, not Claude's**.
+Until he decides, do not silently swap in a third-party endpoint: it would send
+prospect data to a service he never chose.
+
+`index.html` and `es.html` carry their own copy of this form. Any change to the
+template's form must be applied to those two by hand.
 
 ---
 
