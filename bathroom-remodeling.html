@@ -370,6 +370,10 @@ a{color:inherit}
 .ct-row a{text-decoration:none}
 .ct-row a:hover{text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px}
 .form-card{background:var(--white);border-radius:var(--r-card);padding:clamp(26px,3vw,40px);min-width:0}
+.f-error{margin-top:14px;font-size:14px;line-height:1.5;color:#8A3A32}
+.f-fallback{margin-top:14px;font-size:14px;line-height:1.5;color:var(--ink-2)}
+.f-fallback a{color:var(--brass-ink)}
+.f-field input[aria-invalid="true"],.f-field select[aria-invalid="true"]{border-color:#8A3A32}
 .f-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
 .f-field{display:flex;flex-direction:column;gap:7px;min-width:0}
 .f-field.full{grid-column:1/-1}
@@ -833,6 +837,8 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
             <button type="submit" class="btn btn-ink">Send request <span class="arr">→</span></button>
             <span class="f-note">Opens your email app — nothing is stored on this site.</span>
           </div>
+          <p id="fError" class="f-error" role="alert" hidden></p>
+          <p id="fFallback" class="f-fallback" hidden>If your email app did not open, write to <a href="mailto:connect@pgxusa.com">connect@pgxusa.com</a> or <a href="https://wa.me/17862732524">message us on WhatsApp</a>.</p>
         </form>
       </div>
     </div>
@@ -918,10 +924,23 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
   var _ef=document.getElementById('estimateForm');
   if(_ef)_ef.addEventListener('submit',function(e){
     e.preventDefault();
-    var g=function(id){return document.getElementById(id).value.trim()};
+    var f=function(id){return document.getElementById(id)};
+    var g=function(id){return f(id).value.trim()};
+    var err=f('fError'),fb=f('fFallback');
     var name=g('fName'),phone=g('fPhone'),email=g('fEmail'),type=g('fType'),msg=g('fMsg');
+    ['fName','fPhone','fEmail'].forEach(function(id){f(id).removeAttribute('aria-invalid')});
+    // the form carries novalidate, so nothing else checks these — an empty submit used to
+    // open an empty email and the lead was simply lost
+    var bad='',m='';
+    if(!name){bad='fName';m='Please add your name so we know who to ask for.'}
+    else if(!phone&&!email){bad='fPhone';m='Please add a phone number or an email so we can reply.'}
+    else if(email&&!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){bad='fEmail';m='That email address does not look right.'}
+    if(bad){f(bad).setAttribute('aria-invalid','true');err.textContent=m;err.hidden=false;fb.hidden=true;f(bad).focus();return}
+    err.hidden=true;
     var body='Name: '+name+'\nPhone: '+phone+'\nEmail: '+email+'\nProject type: '+type+'\nPage: Bathroom Remodeling — Miami-Dade &amp; Broward\n\n'+msg;
     location.href='mailto:connect@pgxusa.com?subject='+encodeURIComponent('Estimate request — '+type+' (Miami-Dade &amp; Broward)')+'&body='+encodeURIComponent(body);
+    // a machine with no mail client handles mailto silently, so always surface a way through
+    setTimeout(function(){fb.hidden=false},1200);
   });
 })();
 </script>

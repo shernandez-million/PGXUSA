@@ -4,10 +4,12 @@
 Every replacement must match exactly once (or the stated count) — errors otherwise,
 so template drift is caught instead of silently shipping half-translated pages.
 """
+import re
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 src = (HERE / "template.html").read_text()
+ORIGINAL = src        # kept for the post-generation "nothing left in English" check
 
 # (old, new, expected_count)
 REPL = [
@@ -87,6 +89,14 @@ REPL = [
      'placeholder="Dirección en {{AREA_NAME}}, qué desea cambiar, plazos aproximados…"', 1),
     ('Send request <span class="arr">→</span>', 'Enviar solicitud <span class="arr">→</span>', 1),
     ('Opens your email app — nothing is stored on this site.', 'Se abre su aplicación de correo — este sitio no guarda nada.', 1),
+    ('If your email app did not open, write to <a href="mailto:connect@pgxusa.com">connect@pgxusa.com</a> or <a href="https://wa.me/17862732524">message us on WhatsApp</a>.',
+     'Si no se abrió su aplicación de correo, escríbanos a <a href="mailto:connect@pgxusa.com">connect@pgxusa.com</a> o <a href="https://wa.me/17862732524">mándenos un WhatsApp</a>.', 1),
+    ("'Please add your name so we know who to ask for.'",
+     "'Por favor escriba su nombre, para saber por quién preguntar.'", 1),
+    ("'Please add a phone number or an email so we can reply.'",
+     "'Por favor deje un teléfono o un correo, para poder responderle.'", 1),
+    ("'That email address does not look right.'",
+     "'Ese correo electrónico no parece estar bien escrito.'", 1),
     ('General contractor · Remodeling, additions &amp; permitting across Miami-Dade and Broward.',
      'Contratista general · Remodelaciones, ampliaciones y permisos en Miami-Dade y Broward.', 1),
     ('<p class="ft-h">In {{AREA_NAME}}</p>', '<p class="ft-h">En {{AREA_NAME}}</p>', 1),
@@ -113,5 +123,28 @@ for old, new, n in REPL:
 if problems:
     raise SystemExit("template-es generation FAILED:\n  " + "\n  ".join(problems))
 
+# The list above fails loudly when an EXPECTED string goes missing, but it said nothing when
+# NEW English was added to template.html — that copy simply passed through, and Spanish pages
+# shipped English form errors. Any sentence-length phrase identical in both files is suspect.
+def _phrases(t):
+    out = set()
+    for m in re.finditer(r">([^<>{}]{25,})<", t):          # visible text nodes
+        v = " ".join(m.group(1).split())
+        if len(v.split()) >= 4:
+            out.add(v)
+    for m in re.finditer(r"'([^'\\\n]{25,})'", t):          # JS string literals
+        v = m.group(1).strip()
+        if len(v.split()) >= 4 and not v.startswith(("http", ".", "#")):
+            out.add(v)
+    return out
+
+
+leftover = sorted(_phrases(ORIGINAL) & _phrases(src))
+if leftover:
+    print("template-es generation FAILED — these phrases are still in English:")
+    for v in leftover:
+        print(f"  - {v[:120]}")
+    raise SystemExit("add each to REPL above, then re-run")
+
 (HERE / "template-es.html").write_text(src)
-print("template-es.html generated OK")
+print(f"template-es.html generated OK ({len(REPL)} replacements, no English left behind)")
