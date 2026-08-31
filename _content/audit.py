@@ -190,6 +190,59 @@ def load():
     return docs
 
 
+# ---------------------------------------------------------------- forbidden claims
+# Two classes of claim have already shipped to production and had to be corrected.
+# Both are cheap to detect and expensive to miss, so they are guarded on every run
+# rather than left to a one-off script nobody remembers to invoke.
+
+# 1. The BORA false contrast. BOTH counties have a Board of Rules and Appeals —
+#    Miami-Dade's under County Code ch. 8 sec. 8-4. Claiming otherwise reached 56
+#    strings across 37 files before an agent caught it.
+BORA_BOARD = re.compile(r'Board of Rules|Rules and Appeals|\bBORA\b|Reglas y Apelaciones', re.I)
+BORA_DENIAL = re.compile(
+    r'(unlike\s+Miami[- ]Dade'
+    r'|a\s+diferencia\s+de\s+Miami[- ]Dade'
+    r'|Miami[- ]Dade\s+(does\s+not|doesn.t|has\s+no|lacks)'
+    r'|(which|that)\s+Miami[- ]Dade\s+(does\s+not|doesn.t|has\s+no|lacks)'
+    r'|no\s+equivalent\s+in\s+Miami[- ]Dade'
+    r'|en\s+Miami[- ]Dade\s+no\s+(existe|hay|tiene)'
+    r'|Miami[- ]Dade\s+no\s+(tiene|cuenta\s+con|posee|dispone)'
+    r'|sin\s+equivalente\s+en\s+Miami[- ]Dade)', re.I)
+
+# 2. Numeric inspection thresholds. Florida rewrote these in 2022, 2023 and 2025,
+#    and a static page cannot track them — so they are stated qualitatively or not
+#    at all. Weston shipped "starts at 25 years" to inland owners it did not govern.
+# 2. Numeric inspection thresholds ASSERTED as the rule. Florida rewrote these in
+#    2022, 2023 and 2025, and a static page cannot track them, so the site states them
+#    qualitatively. Weston shipped "starts at 25 years" to inland owners it did not
+#    govern. Naming the programme the way owners actually say it ("the one everyone
+#    still calls the 40-year recertification") is fine and deliberately not matched —
+#    only a sentence that says the clock STARTS or REPEATS at a number is a defect.
+INSPECTION_NUMBERS = re.compile(
+    r'\b(begins?|starts?|recurs?|repeats?|applies)\s+(at|from)\s+\d{2}\s+years?\b'
+    r'|\bat\s+\d{2}\s+years\s+(and|then)\b'
+    r'|\bevery\s+(ten|10)\s+years\b'
+    r'|\b(empieza|arranca|comienza|inicia|aplica)\s+a\s+los\s+\d{2}\s+a\xf1os\b'
+    r'|\bdesde\s+los\s+\d{2}\s+a\xf1os\b'
+    r'|\bcada\s+(diez|10)\s+a\xf1os\b',
+    re.I)
+
+
+def check_forbidden_claims(docs, problems):
+    for lang, by_slug in docs.items():
+        for slug, doc in sorted(by_slug.items()):
+            blob = json.dumps(doc, ensure_ascii=False)
+            for sent in re.split(r'(?<=[.!?])\s+', blob):
+                if BORA_BOARD.search(sent) and BORA_DENIAL.search(sent):
+                    problems[f"0-forbidden-{lang}"].append(
+                        f"{slug}: BORA false contrast \u2014 {sent.strip()[:150]}")
+                m = INSPECTION_NUMBERS.search(sent)
+                if m:
+                    problems[f"0-forbidden-{lang}"].append(
+                        f"{slug}: inspection threshold stated numerically "
+                        f"({m.group(0)!r}) \u2014 {sent.strip()[:110]}")
+
+
 def main():
     docs = load()
 
@@ -215,6 +268,7 @@ def main():
                 add_proper_from(n)
 
     problems = defaultdict(list)
+    check_forbidden_claims(docs, problems)
 
     for lang in ("en", "es"):
         # ---- 2: scope name reuse across areas

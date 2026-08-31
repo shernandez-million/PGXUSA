@@ -97,8 +97,8 @@ would be wrong for most readers). Do not revive them without new evidence.
 python3 _content/build.py --check-only   # validate without writing
 python3 _content/build.py                # render everything + sitemap
 python3 _content/make_template_es.py     # regenerate the ES template
-python3 _content/audit.py                # links, schema, duplicate-title sweep
-python3 _content/make_og.py              # per-service social thumbnails (add --force to rebuild)
+python3 _content/audit.py                # duplicates, title case, and the forbidden-claim guard
+python3 _content/make_og.py              # share images: site card + per-service (--force rebuilds)
 ```
 
 ### Three rules that will bite you
@@ -113,6 +113,13 @@ python3 _content/make_og.py              # per-service social thumbnails (add --
    rewrites. Keep the markers.
 3. **`--force` renders despite validation errors. It is preview-only.**
    Never publish a `--force` build.
+
+### The audit guards the two claims that already shipped wrong
+`audit.py` fails on the BORA false contrast and on any sentence saying an
+inspection clock *starts* or *repeats* at a number. Naming the programme the way
+owners say it ("the one everyone still calls the 40-year recertification") is
+deliberately allowed — only asserted thresholds are defects. Both checks replaced
+one-off correction scripts that nobody would have remembered to run.
 
 ### Bilingual is atomic
 A page does not exist until its twin exists. Every EN page needs its ES page,
@@ -162,7 +169,13 @@ Tokens live in `:root`. Use the variables; never a raw hex.
   Supporting images are additional framings of the *same* room, drawn from
   different regions of the source photo — never another page's photo.
 - **A logo change propagates in the same pass**: site styling, favicon, icons,
-  manifest, and OG share images. (`make_favicons.py`, `make_brand_assets.py`.)
+  manifest, and OG share images — `make_favicons.py` for the icon set,
+  `make_og.py` for the share cards. Both rasterise `images/pgx-wordmark.svg`.
+  **Never draw the wordmark with a font.** The retired `make_brand_assets.py`
+  set it in system Didot, which is a different mark (different G spur, different
+  X terminals), and shipped it on the site-wide share card — the most-shared
+  image on the site — until 2026-08-30. That script is deleted; do not
+  reintroduce a font-drawn mark.
 
 ### Never size text containers in `ch`
 `ch` is the width of the font's `0` glyph, so a `ch` box changes size when the
@@ -215,10 +228,11 @@ and confirmed client permission — all of which only Andrés can supply.
   "contractor near me", so 522 pages cannot reach that traffic. Highest-return
   action available. When it exists, wire it into the schema `sameAs`.
 - **Sitemap resubmission** in Search Console: `https://www.pgxusa.com/sitemap.xml`.
-- **Real vector logo.** The current SVG is a bitmap trace — 364 `L` commands and
-  zero curves, refit by `smooth_logo.py` to remove the hand-drawn wobble. A true
-  vector master would end the problem. (Check: real vectors show `C` commands
-  with decimals; traces show `L` with whole numbers.)
+- **Real vector logo.** `images/pgx-wordmark.svg` originates from a bitmap trace
+  (364 straight `L` segments, no curves). `smooth_logo.py` refit it to 348 cubic
+  Béziers, keeping real corners sharp, so it no longer looks hand-drawn — but it
+  is still a trace of a raster, not a drawn master. A true vector original from
+  the designer would end the problem for good.
 - **Portfolio photos** and **About details** (founder, founding year, team,
   certifications). The About page was written without inventing a founder story
   precisely because these are missing.

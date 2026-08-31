@@ -732,9 +732,12 @@ def render_hub(s_slug, doc, lang, built, has_pair):
         "{{FORM_OPTIONS_HTML}}": form_opts,
         "{{FOOTER_SERVICES_HTML}}": "\n".join(
             f'        <li><a href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a></li>' for o in SERVICE_ORDER),
+        # plan order, not set order: `built` is a set, so iterating it directly made the
+        # footer links differ on every build (Python randomises string hashing per process).
+        # That churned all 12 hub pages on each render and buried real diffs in the noise.
         "{{FOOTER_AREAS_HTML}}": "\n".join(
-            f'        <li><a href="{url_for(s_slug, a, lang)}">{esc(AREAS[a]["name"])}</a></li>'
-            for a in list(built)[:6]),
+            f'        <li><a href="{url_for(s_slug, a["slug"], lang)}">{esc(a["name"])}</a></li>'
+            for a in [x for x in PLAN["areas"] if x["slug"] in built][:6]),
     }
     for k, v in repl.items():
         out = out.replace(k, v)
