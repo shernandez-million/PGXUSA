@@ -21,7 +21,7 @@
       "local_heading": "Cruzando el causeway cambian las reglas",
       "intro_paragraphs": [
         "El parque de viviendas de Key Biscayne cuenta la historia completa de la isla: casas de bloque de concreto construidas por los Mackle en los años 50 en el corazón del village, ranchos posteriores cerca de Fernwood Road y residencias frente al mar en Mashta Island, Harbor Point y Cape Florida. Casi todas se diseñaron para otra época de la vida isleña: cocinas cerradas, un solo baño modesto y un lavadero que apenas merecía el nombre. Como el terreno edificable del Key se agotó hace décadas, los dueños que quieren a su calle prefieren remodelar a fondo antes que mudarse: renovaciones totales, distribuciones nuevas, aperturas estructurales, actualización completa de electricidad y plomería, y ventanas de impacto en toda la casa.",
-        "Remodelar aquí pasa por el Building, Zoning and Planning Department del Village of Key Biscayne, una jurisdicción aparte de Miami-Dade con su propio registro de contratistas, revisión electrónica de planos e inspectores que conocen la isla lote por lote. Dos reglas definen cualquier proyecto grande. Primero, todo Miami-Dade está dentro de la High-Velocity Hurricane Zone, así que ventanas, puertas y techos requieren productos aprobados por el condado. Segundo, buena parte del Key está en zona de inundación de FEMA, donde la regla de mejora sustancial establece que una remodelación valorada en cerca de la mitad del valor de la estructura obliga a cumplir en pleno con las cotas de elevación contra inundaciones. Nosotros hacemos esa cuenta antes de que usted se comprometa, no después.",
+        "Remodelar aquí pasa por el Building, Zoning and Planning Department del Village of Key Biscayne, una jurisdicción aparte de Miami-Dade con su propio registro de contratistas, revisión electrónica de planos e inspectores que conocen la isla lote por lote. Dos reglas definen cualquier proyecto grande. Primero, todo Miami-Dade está dentro de la High-Velocity Hurricane Zone, así que ventanas, puertas y techos requieren productos aprobados por el condado. Segundo, buena parte del Key está en zona de inundación de FEMA, donde la regla de mejora sustancial establece que una remodelación valorada en cerca de la mitad del valor de la estructura obliga a cumplir por completo con las cotas de elevación contra inundaciones. Nosotros hacemos esa cuenta antes de que usted se comprometa, no después.",
         "Más de veinte años construyendo en el sur de la Florida y más de 150 remodelaciones y ampliaciones terminadas, todas con permisos e inspecciones, han hecho de PGX Builders Group una empresa difícil de sorprender. En Key Biscayne esa experiencia se traduce en un alcance fijo por escrito antes de la demolición, un supervisor en su obra todos los días y una protección de acabados que trata su terrazo y el driveway del vecino con el mismo respeto. Un solo equipo responsable lleva el proyecto del estimado a la garantía, y el papeleo que mantiene una remodelación en regla es problema nuestro, no suyo."
       ],
       "scope_heading": "Qué incluye una remodelación integral",
@@ -51,7 +51,7 @@
       "faqs": [
         {
           "q": "¿Necesito permiso para remodelar mi casa en Key Biscayne?",
-          "a": "Sí. El Village of Key Biscayne opera su propio Building, Zoning and Planning Department y exige que los contratistas se registren ante el Village antes de solicitar permisos. Cambios estructurales, electricidad, plomería, mecánica, reemplazo de ventanas: todo requiere permiso e inspección. La obra sin permisos tiene la costumbre de salir a la luz en el peor momento, casi siempre durante una venta o un reclamo al seguro. PGX se encarga del registro, las presentaciones y las inspecciones en cada proyecto."
+          "a": "Sí. El Village of Key Biscayne opera su propio Building, Zoning and Planning Department y exige que los contratistas se registren ante el Village antes de solicitar permisos. Cambios estructurales, electricidad, plomería, mecánica, reemplazo de ventanas: todo requiere permiso e inspección. La obra sin permisos tiene la costumbre de salir a la luz en el peor momento, casi siempre durante una venta o un reclamo al seguro. PGX se encarga del registro, la presentación de planos y las inspecciones en cada proyecto."
         },
         {
           "q": "¿Qué es la regla del 50% de FEMA y afecta mi remodelación?",
@@ -92,7 +92,7 @@
           "desc": "Cajas, puertas y paneles fabricados por encargo, en acabados elegidos para la humedad costera — no gabinetes de línea con sobreprecio y nombre nuevo."
         },
         {
-          "name": "Islas de cuarcita, plantilladas en obra",
+          "name": "Islas de cuarcita, con plantilla tomada en obra",
           "desc": "Láminas de cuarcita, mármol y porcelanato con plantillas tomadas en obra, e islas con espacio para sentar a toda la familia después de una mañana de playa."
         },
         {
@@ -152,12 +152,12 @@
           "desc": "Convertimos un dormitorio libre o un clóset sobredimensionado en un baño principal de verdad, con la obra estructural y de plomería con todos sus permisos."
         },
         {
-          "name": "Duchas que retienen el agua",
+          "name": "Duchas que no dejan pasar el agua",
           "desc": "Entradas sin bordillo, drenajes lineales y vidrio grueso montado sobre platos bien inclinados y probados contra fugas — los detalles que mantienen el agua donde debe estar."
         },
         {
-          "name": "Bañeras exentas con llenador de piso",
-          "desc": "Bañeras esculturales contra piedra o vidrio, con llenadores de piso posicionados con precisión desde la obra gruesa, para que nadie adivine dónde cae la válvula."
+          "name": "Bañeras independientes con grifería de piso",
+          "desc": "Bañeras esculturales contra piedra o vidrio, con la grifería de piso posicionada con precisión desde la obra gruesa, para que nadie adivine dónde cae la válvula."
         },
         {
           "name": "Piedra sobre impermeabilización completa",
@@ -171,7 +171,7 @@
       "faqs": [
         {
           "q": "¿Necesito permiso para remodelar un baño en Key Biscayne?",
-          "a": "Sí. Una remodelación de baño implica plomería y electricidad, que el Village of Key Biscayne somete a permisos e inspecciones sin importar el tamaño del cuarto. Su contratista, además, debe estar registrado ante el Village antes de solicitar. Agrega algo de trámite, y es la razón por la que un baño terminado por PGX viene con historial de inspecciones en vez de una pregunta abierta cuando usted refinancie o venda."
+          "a": "Sí. Una remodelación de baño implica plomería y electricidad, que el Village of Key Biscayne somete a permisos e inspecciones sin importar el tamaño del cuarto. Su contratista, además, debe estar registrado ante el Village antes de solicitar el permiso. Agrega algo de trámite, y es la razón por la que un baño terminado por PGX viene con historial de inspecciones en vez de una pregunta abierta cuando usted refinancie o venda."
         },
         {
           "q": "¿Pueden renovar un baño en una de las torres antiguas de condominio?",
@@ -187,11 +187,11 @@
         },
         {
           "q": "¿Cuánto cuesta una remodelación de baño de alta gama en el Key?",
-          "a": "Los baños concentran costo por pie cuadrado: piedra, vidrio, griferías e impermeabilización conviven en un espacio chico, y mover piezas sanitarias agrega alcance real de plomería. Los rangos varían mucho según el nivel de acabados, así que preferimos caminar su baño real y escribir un alcance fijo antes que recitar un número que no le sirve a nadie. Con PGX la cifra que usted aprueba viene detallada, las asignaciones las maneja usted y el precio no se mueve una vez firmado."
+          "a": "Los baños concentran costo por pie cuadrado: piedra, vidrio, griferías e impermeabilización conviven en un espacio chico, y mover piezas sanitarias agrega alcance real de plomería. Los rangos varían mucho según el nivel de acabados, así que preferimos recorrer su baño real y escribir un alcance fijo antes que recitar un número que no le sirve a nadie. Con PGX la cifra que usted aprueba viene detallada, las asignaciones las maneja usted y el precio no se mueve una vez firmado."
         }
       ],
       "cta_heading": "Empiece por el baño que evita",
-      "cta_sub": "Muéstrenos ese baño que no cambia desde que compró la casa. Visitas y estimados por escrito, en español o en inglés — (786) 273-2524."
+      "cta_sub": "Muéstrenos ese baño que no ha cambiado desde que compró la casa. Visitas y estimados por escrito, en español o en inglés — (786) 273-2524."
     },
     "home-additions": {
       "title": "Ampliaciones y segundos pisos en Key Biscayne | PGX Builders",
@@ -202,7 +202,7 @@
       "intro_paragraphs": [
         "Key Biscayne no se fabrica más. La isla terminó de construirse hace décadas, y por eso las familias a las que se les quedó chica una casa Mackle de tres cuartos cerca del Village Green rara vez encuentran una más grande a dos calles de distancia: construyen hacia arriba o hacia atrás. Las segundas plantas convierten huellas de los años 50 en casas familiares modernas; las extensiones traseras empujan cocinas y salas de estar hacia la piscina; los garajes convertidos se vuelven suites para los abuelos que llegan en noviembre y se van en mayo. En las calles frente al mar de Smugglers Cove y Mashta Island, las ampliaciones son más grandes y se apoyan más en la ingeniería.",
         "Una ampliación en el Key responde ante más revisores que la mayoría de los proyectos de Miami. El Building, Zoning and Planning Department del Village of Key Biscayne verifica retiros, cobertura del lote y altura antes de siquiera hablar de estructura. Como casi toda la isla está en zona de inundación de FEMA, los espacios habitables nuevos deben cumplir con la cota base de inundación, y la regla de mejora sustancial puede obligar a la casa existente a ponerse en regla si el valor del proyecto se acerca a la mitad del valor de la estructura. Sume la ingeniería de la High-Velocity Hurricane Zone — vigas de amarre, conexiones contra levantamiento, aberturas aprobadas — y la fase de diseño se gana el sueldo. Nosotros hacemos estos números en la primera reunión.",
-        "Una ampliación es primero obra estructural y después obra de acabados, y eso nos acomoda. PGX ha entregado más de 150 remodelaciones y ampliaciones en más de 20 años en el sur de la Florida, todas con permisos e inspecciones, y la lección aprendida a pulso es que una buena ampliación desaparece: la viga de amarre nueva carga como la vieja, la textura del estuco combina y el techo se ve original. Mantenemos un alcance fijo por escrito, un supervisor de obra diario y un plan para la familia que vive en la casa mientras la grúa está en el driveway. Sus vecinos de una calle tranquila de isla nos van a juzgar; para eso también planificamos."
+        "Una ampliación es primero obra estructural y después obra de acabados, y eso nos acomoda. PGX ha entregado más de 150 remodelaciones y ampliaciones en más de 20 años en el sur de la Florida, todas con permisos e inspecciones, y la lección aprendida a pulso es que una buena ampliación desaparece: la viga de amarre nueva carga como la vieja, la textura del estuco combina y el techo se ve original. Mantenemos un alcance fijo por escrito, un supervisor de obra presente todos los días y un plan para la familia que vive en la casa mientras la grúa está en el driveway. Sus vecinos de una calle tranquila de isla nos van a juzgar; para eso también planificamos."
       ],
       "scope_heading": "Cinco maneras de crecer en el Key",
       "scope_intro": "Toda ampliación empieza con la zonificación y los números de inundación, sigue con la ingeniería y termina en la arquitectura. Esto construimos cuando las cuentas dan.",
@@ -221,7 +221,7 @@
         },
         {
           "name": "Vigas de amarre y refuerzos",
-          "desc": "Reforzamos la estructura existente para cargar pesos nuevos y cumplir con la High-Velocity Hurricane Zone — el trabajo sin glamour que mantiene todo lo demás en pie."
+          "desc": "Reforzamos la estructura existente para soportar cargas nuevas y cumplir con la High-Velocity Hurricane Zone — el trabajo sin glamour que mantiene todo lo demás en pie."
         },
         {
           "name": "Zapatas para el suelo de la isla",
@@ -235,7 +235,7 @@
         },
         {
           "q": "¿Cómo afecta la regla de mejora sustancial de FEMA a una ampliación?",
-          "a": "El valor de su ampliación cuenta para el umbral de mejora sustancial de FEMA, que el Village hace cumplir. Si el total de mejoras se acerca a la mitad del valor de mercado de la estructura, todo el edificio puede quedar obligado a cumplir las cotas de elevación contra inundaciones vigentes — un cambio de alcance mayor. Diseñamos según la regla, no esquivándola: los números de inundación se hacen en la primera conversación de diseño, para que usted elija el tamaño del proyecto sabiendo exactamente qué activa."
+          "a": "El valor de su ampliación cuenta para el umbral de mejora sustancial de FEMA, que el Village hace cumplir. Si el total de mejoras se acerca a la mitad del valor de mercado de la estructura, todo el edificio puede quedar obligado a cumplir las cotas de elevación contra inundaciones vigentes — un cambio de alcance mayor. Diseñamos según la regla, no esquivándola: los números de inundación se hacen en la primera conversación de diseño, para que usted elija el tamaño del proyecto sabiendo exactamente qué obligaciones activa."
         },
         {
           "q": "¿La construcción nueva en la isla tiene que cumplir la cota base de inundación?",
@@ -260,9 +260,9 @@
       "hero_sub": "PGX construye terrazas, cocinas de verano, pérgolas y renovaciones exteriores completas en todo Key Biscayne — especificadas contra el salitre, calculadas para el código de huracanes y ejecutadas por un contratista general licenciado con cada permiso del Village en mano.",
       "local_heading": "Para el salitre, el sol y la tormenta de turno",
       "intro_paragraphs": [
-        "Nadie se muda a Key Biscayne por los interiores. La vida aquí transcurre afuera: hacia la piscina, el seawall, el muelle, la terraza con sombra donde se cena diez meses al año. Por eso los dueños del corazón del village están reemplazando los patios genéricos de constructora por verdaderos cuartos exteriores, y las casas frente al mar de Harbor Point a Cape Florida suman cocinas de verano, pérgolas y terrazas a escala de recepciones de verdad. El detalle es que el anfitrión es el ambiente: el salitre corroe la herrería estándar en una o dos temporadas, así que todo lo que especificamos — tornillería, estructura, electrodomésticos, acabados — se elige para una isla de barrera, no para un catálogo.",
+        "Nadie se muda a Key Biscayne por los interiores. La vida aquí transcurre afuera: hacia la piscina, el seawall, el muelle, la terraza con sombra donde se cena diez meses al año. Por eso los dueños del corazón del village están reemplazando los patios genéricos de constructora por verdaderos cuartos exteriores, y las casas frente al mar de Harbor Point a Cape Florida suman cocinas de verano, pérgolas y terrazas a escala de recepciones de verdad. El detalle es que el anfitrión es el ambiente: el salitre corroe los herrajes estándar en una o dos temporadas, así que todo lo que especificamos — tornillería, estructura, electrodomésticos, acabados — se elige para una isla de barrera, no para un catálogo.",
         "Un proyecto exterior sigue siendo un proyecto con permisos. El Building, Zoning and Planning Department del Village of Key Biscayne revisa estructuras, electricidad, plomería y líneas de gas igual que revisa la obra interior, y las reglas de zonificación sobre retiros y cobertura del lote también aplican en el patio. Todo lo que tenga techo o estructura — pérgolas, celosías, terrazas cubiertas — debe calcularse para la High-Velocity Hurricane Zone, con anclajes diseñados contra el levantamiento y no confiados al optimismo. En una isla baja, además, tratamos el drenaje como un tema de diseño: cotas y pendientes de terraza planificadas para que una marea extrema (king tide) o un aguacero de verano drene lejos de la casa, no hacia adentro.",
-        "PGX aborda los exteriores como un solo paquete coordinado, no como cinco oficios sueltos. Terrazas, estuco y pintura, aberturas de impacto, coordinación del techo nuevo y la cocina de verano avanzan con un solo cronograma, bajo un solo alcance por escrito y con un supervisor en obra todos los días, para que su driveway no sea un patio de acopio durante meses. Llevamos más de 20 años construyendo en el sur de la Florida, y en una isla chica donde todos se conocen, mantenemos las obras limpias, silenciosas y terminadas en el plazo que dejamos por escrito. Cuando sale el último palet, el patio debe verse como en los renders — menos la gente de los renders."
+        "PGX aborda los exteriores como un solo paquete coordinado, no como cinco oficios sueltos. Terrazas, estuco y pintura, aberturas de impacto, coordinación del techo nuevo y la cocina de verano avanzan con un solo cronograma, bajo un solo alcance por escrito y con un supervisor en obra todos los días, para que su driveway no sea un patio de acopio durante meses. Llevamos más de 20 años construyendo en el sur de la Florida, y en una isla chica donde todos se conocen, mantenemos las obras limpias, silenciosas y terminadas en el plazo que dejamos por escrito. Cuando sale el último pallet, el patio debe verse como en los renders — menos la gente de los renders."
       ],
       "scope_heading": "Obra exterior, un solo alcance responsable",
       "scope_intro": "De la terraza bajo sus pies al techo sobre la cocina de verano, esta es la obra exterior que construimos en el Key.",
@@ -281,7 +281,7 @@
         },
         {
           "name": "Caminería que mejora la llegada",
-          "desc": "Driveways, senderos y muros de jardín nuevos que elevan la llegada a la casa, coordinados con los permisos del Village y las normas de asociación de su calle."
+          "desc": "Driveways, senderos y muros de jardín nuevos que elevan la llegada a la casa, coordinados con los permisos del Village y las normas de la asociación de su calle."
         },
         {
           "name": "Todo el exterior, una sola secuencia",
@@ -295,7 +295,7 @@
         },
         {
           "q": "¿Qué materiales aguantan de verdad el salitre de aquí?",
-          "a": "Los de grado marino, elegidos sin sentimentalismos. Eso significa acero inoxidable 316 en herrajes y componentes de parrilla, aluminio anodizado o con pintura electrostática en lugar de acero crudo, porcelanato y piedra densa en las superficies, y acabados de calificación costera en todo lo pintado. La ferretería estándar de tienda grande puede empezar a corroerse en una sola temporada tan cerca del mar. Especificamos primero para el ambiente y después para el catálogo, y le decimos qué elecciones cambian durabilidad por estética antes de que usted las tome."
+          "a": "Los de grado marino, elegidos sin sentimentalismos. Eso significa acero inoxidable 316 en herrajes y componentes de parrilla, aluminio anodizado o con pintura electrostática en lugar de acero crudo, porcelanato y piedra densa en las superficies, y acabados aptos para ambiente costero en todo lo pintado. La ferretería estándar de tienda grande puede empezar a corroerse en una sola temporada tan cerca del mar. Especificamos primero para el ambiente y después para el catálogo, y le decimos qué elecciones cambian durabilidad por estética antes de que usted las tome."
         },
         {
           "q": "¿Pueden construir una terraza o cocina exterior cerca de mi seawall?",
@@ -307,11 +307,11 @@
         },
         {
           "q": "¿Cuánto cuesta un proyecto completo de exteriores?",
-          "a": "El alcance pesa más que los pies cuadrados: una terraza de adoquines es un presupuesto, y un cuarto exterior techado con cocina de verano, gas y sombra calculada por ingeniería es otro completamente distinto. Los materiales de grado marino cuestan más al inicio y lo devuelven no disolviéndose. Cotizamos todo el exterior como un solo alcance por escrito — terraza, cocina, estructuras, iluminación — para que usted apruebe un solo número coordinado en lugar de las sorpresas de cinco contratistas."
+          "a": "El alcance pesa más que los pies cuadrados: una terraza de adoquines es un presupuesto, y un cuarto exterior techado con cocina de verano, gas y sombra calculada por ingeniería es otro completamente distinto. Los materiales de grado marino cuestan más al inicio y lo devuelven porque no se disuelven. Cotizamos todo el exterior como un solo alcance por escrito — terraza, cocina, estructuras, iluminación — para que usted apruebe un solo número coordinado en lugar de las sorpresas de cinco contratistas."
         }
       ],
       "cta_heading": "Convierta el patio en la sala principal",
-      "cta_sub": "Camine el patio con nosotros y cuéntenos cómo lo usa de verdad. Estimados por escrito, en español o en inglés — llame al (786) 273-2524."
+      "cta_sub": "Recorra el patio con nosotros y cuéntenos cómo lo usa de verdad. Estimados por escrito, en español o en inglés — llame al (786) 273-2524."
     },
     "permitting-compliance": {
       "title": "Permisos del Village of Key Biscayne | PGX Builders",
@@ -341,7 +341,7 @@
         },
         {
           "name": "Inspecciones en el orden correcto",
-          "desc": "Programamos las inspecciones por etapas, con la obra realmente lista, para que el siguiente gremio no quede esperando en la isla una reinspección."
+          "desc": "Programamos las inspecciones por etapas, con la obra realmente lista, para que el siguiente oficio no quede esperando en la isla una reinspección."
         },
         {
           "name": "Reparaciones de inspección milestone",
