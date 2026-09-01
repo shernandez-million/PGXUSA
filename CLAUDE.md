@@ -247,7 +247,13 @@ precisely and hand him the exact fix; never touch it.
 3. Mobile verified at **390pt and 430pt** (iPhone Pro / Pro Max) by actually
    scrolling — no horizontal scroll, ever.
 4. Lighthouse mobile: performance ≥95, a11y/best-practices/SEO 100.
-5. **Verified on the live URL the way he will load it** — fresh, at
+5. **Do not bulk-crawl production with curl.** Sweeping all 524 URLs in parallel trips
+   Vercel's bot mitigation: every request then returns `403` with
+   `x-vercel-mitigated: challenge` and a "Vercel Security Checkpoint" body, which looks
+   exactly like a site-wide outage and is not one. A real browser solves the JS challenge
+   and loads normally. Verify deploys through the browser tools, or with a handful of
+   spaced single requests — never a parallel sweep.
+6. **Verified on the live URL the way he will load it** — fresh, at
    `https://www.pgxusa.com`. This is his #1 trust-breaker. Poll until the
    deploy is confirmed live *before* auditing; Lighthouse has already been run
    against a stale deploy here and reported fixed things as broken.
