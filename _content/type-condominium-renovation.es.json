@@ -5,16 +5,16 @@
   "hero_sub": "Remodelación completa de unidades en condominios de Miami-Dade y Broward, planificada desde su declaración y los as-builts, coordinada con las ventanas de ascensor y los horarios del edificio, permisada e inspeccionada hasta el cierre. Contratista general con licencia y seguro, Lic. CGC1539072.",
   "local_heading": "El edificio es el segundo cliente",
   "intro_paragraphs": [
-    "En el segmento alto del sur de la Florida, remodelar un condominio casi nunca es un cambio cosmético. Es una unidad llevada a losa desnuda y reconstruida: nueva distribución, nueva carpintería, nuevas instalaciones mecánicas, eléctricas y de plomería, pisos y puertas nuevos, cielos rasos replanteados alrededor de una estructura que no se mueve. Los dueños son personas que compraron la vista, la planta y la dirección, y después decidieron que el interior tenía el gusto de otra persona. Algunos viven en la unidad todo el año, otros dividen su tiempo entre Miami y otro país, y muchos compran y remodelan antes de mudarse.",
-    "Lo que cambia es todo lo que está fuera de la unidad. Muchas losas de torre son postensadas, así que no se perfora ni se ancla nada hasta que la losa se escanea y, donde el edificio lo exige, el ingeniero de registro lo aprueba; coordinamos el escaneo y la firma del ingeniero, no los hacemos. Un aparato sanitario muchas veces no se puede mover por la pendiente del desagüe contra el espesor de la losa, y el espacio debajo suele quedar fuera de su unidad: las opciones honestas son levantar el piso o dejarlo donde está. La plomería que sirve a más de una unidad suele ser elemento común, y dónde termina su unidad lo define la declaración registrada.",
-    "Cotizamos desde documentos antes de cotizar desde planos: la declaración, las house rules, los as-builts y el paquete de renovación de la asociación. Armamos lo que ese paquete pida —planos firmados y sellados, certificados de seguro que nombren a la asociación, registro del contratista y un cronograma de trabajo— para que se lea completo en la primera entrega. La decisión sigue siendo de la junta. Conectarse a un stack existente normalmente implica bajar el riser de toda la línea, algo que programa el edificio y a menudo fuera del horario normal. De ahí en adelante: alcance escrito y fijo, un supervisor en obra todos los días, protección de pasillos y lobby, inspecciones aprobadas y permits cerrados.",
+    "En el segmento alto del sur de la Florida, remodelar un condominio casi nunca es un cambio cosmético. Es una unidad llevada a losa desnuda y reconstruida: nueva distribución, nueva carpintería, nuevas instalaciones mecánicas, eléctricas y de plomería, pisos y puertas nuevos, cielos rasos bajados y replanteados en función de una estructura que no se mueve. Los dueños son personas que compraron la vista, la planta y la dirección, y después decidieron que el interior tenía el gusto de otra persona. Algunos viven en la unidad todo el año, otros dividen el año entre Miami y otro lugar, y muchos compran y remodelan antes de mudarse.",
+    "Lo que cambia es todo lo que está fuera de la unidad. Muchas losas de torre son postensadas, así que no se perfora ni se ancla nada hasta que la losa se escanea y, donde el edificio lo exige, el ingeniero de registro lo aprueba; coordinamos el escaneo y la firma del ingeniero, no los hacemos. Un aparato sanitario muchas veces no se puede mover por la relación entre la pendiente del desagüe y el espesor de la losa, y el espacio debajo suele quedar fuera de su unidad: las opciones honestas son levantar el piso o dejar el aparato donde está. La plomería que sirve a más de una unidad suele ser elemento común, y dónde termina su unidad lo define la declaración registrada.",
+    "Definimos el alcance desde los documentos antes que desde los planos: la declaración, las house rules, los as-builts y el paquete de renovación de la asociación. Armamos lo que ese paquete pida —planos firmados y sellados, certificados de seguro que nombren a la asociación, registro del contratista y un cronograma de trabajo— para que se lea completo en la primera entrega. La decisión sigue siendo de la junta. Conectarse a un stack existente normalmente implica bajar el riser de toda la línea, algo que programa el edificio, a menudo fuera del horario normal. De ahí en adelante: alcance escrito y fijo, un supervisor en obra todos los días, protección de pasillos y lobby, inspecciones aprobadas y permits cerrados.",
     "El trabajo se concentra donde están las torres. En Miami-Dade eso significa Brickell, Miami Beach, Bal Harbour, Surfside, Bay Harbor Islands, Sunny Isles Beach, Aventura, Key Biscayne y Fisher Island; en Broward, Hallandale Beach, Fort Lauderdale, Coral Ridge, Pompano Beach, Lauderdale-by-the-Sea y Hillsboro Beach. Cada edificio escribe sus propias reglas, así que la visita a la unidad dice más que el vecindario. Para el detalle local —la autoridad que emite los permits, el tipo de construcción y cómo están hechas las torres de esa zona— lea la página de su área y después la página del servicio que necesita: remodelación de cocinas, remodelación de baños, remodelación integral, espacios exteriores o permits y cumplimiento."
   ],
   "scope_heading": "Lo que hacemos dentro de la unidad",
-  "scope_intro": "Cada proyecto arranca con un alcance escrito y fijo, construido desde los documentos de su edificio y no desde una plantilla. Estas son las piezas que se repiten en obra de altura.",
+  "scope_intro": "Cada proyecto arranca con un alcance escrito y fijo, construido desde los documentos de su edificio y no desde una plantilla. Estas son las piezas que se repiten en obra dentro de torres.",
   "scope_items": [
     {
-      "name": "Demolición consciente de la losa",
+      "name": "Demolición pensada desde la losa",
       "desc": "Demolición planificada según lo que permite la losa. Donde se propone perforar o anclar, primero se escanea la losa y, si el edificio lo exige, firma el ingeniero de registro."
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Áreas húmedas y risers",
-      "desc": "Cocinas y baños reconstruidos contra la pendiente real del desagüe, con las conexiones al riser programadas por el edificio para toda la línea, comúnmente fuera del horario normal."
+      "desc": "Cocinas y baños reconstruidos en función de la pendiente real del desagüe, con las conexiones al riser programadas por el edificio para toda la línea, comúnmente fuera del horario normal."
     },
     {
       "name": "Pisos y control acústico",
@@ -35,7 +35,7 @@
     },
     {
       "name": "Logística y protección del edificio",
-      "desc": "Ventanas de reserva de ascensor, escombros que salen en carrito donde el edificio no permite dumpster, protección de pasillos y lobby, y horarios de trabajo respetados sin que la administración tenga que recordárnoslo."
+      "desc": "Ventanas de reserva de ascensor, escombros que salen en carrito donde el edificio no tiene acceso para dumpster, protección de pasillos y lobby, y horarios de trabajo respetados sin que la administración tenga que recordárnoslo."
     }
   ],
   "faqs": [
@@ -49,7 +49,7 @@
     },
     {
       "q": "¿Necesito permit y aprobación de la junta?",
-      "a": "Normalmente los dos, y son vías separadas. Que haga falta permit depende del alcance y del building department, y en edificios antiguos pueden exigirse estudios previos a la demolición antes de que liberen los permits; ambas cosas las establecemos en la visita, no después de programar la demolición. Casi toda obra dentro de la unidad necesita el consentimiento previo y por escrito de la junta, y la asociación puede condicionarlo a métodos de reparación, calificaciones del contratista o el contrato que se use. Los tiempos de aprobación los fija su declaración y el calendario de su junta, no la ley."
+      "a": "Normalmente los dos, y son vías separadas. Que haga falta permit depende del alcance y del building department, y en edificios antiguos pueden exigirse estudios previos a la demolición antes de que liberen los permits; ambas cosas las establecemos en la visita, no después de programar la demolición. Casi toda obra dentro de la unidad necesita el consentimiento previo y por escrito de la junta, y la asociación puede condicionarlo a métodos de reparación, credenciales del contratista o el contrato que se use. Los tiempos de aprobación los fija su declaración y el calendario de su junta, no la ley."
     },
     {
       "q": "¿Qué puede detener la obra una vez empezada?",
@@ -61,7 +61,7 @@
     },
     {
       "q": "¿Puedo mover la cocina o agregar un baño?",
-      "a": "A veces, y la respuesta no viene del diseño sino de dos lugares. Una línea que sirve a más de una unidad suele ser elemento común, y la declaración registrada define dónde termina su unidad, así que reubicar es una pregunta de documentos, respondida desde la declaración y los as-builts. El segundo límite es físico: la pendiente del desagüe contra el espesor de la losa, porque el espacio debajo suele quedar fuera de su unidad. Algunas declaraciones además restringen dónde pueden quedar las áreas húmedas respecto a esa unidad. Revisamos todo eso antes de dibujar un plano."
+      "a": "A veces, y la respuesta no viene del diseño sino de dos lugares. Una línea que sirve a más de una unidad suele ser elemento común, y la declaración registrada define dónde termina su unidad, así que reubicar es una cuestión de documentos, respondida desde la declaración y los as-builts. El segundo límite es físico: la pendiente del desagüe frente al espesor de la losa, porque el espacio debajo suele quedar fuera de su unidad. Algunas declaraciones además restringen dónde pueden quedar las áreas húmedas respecto a la unidad de abajo. Revisamos todo eso antes de dibujar un plano."
     }
   ],
   "cta_heading": "Empecemos por los documentos del edificio",
