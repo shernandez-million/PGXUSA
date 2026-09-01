@@ -53,7 +53,7 @@
       "faqs": [
         {
           "q": "¿Mi contratista tiene que estar registrado en la Ciudad de Lighthouse Point?",
-          "a": "Sí. La ciudad exige que el contratista se registre ante el Building and Zoning Department antes de poder sacar un permiso, y eso significa licencia estatal, cobertura de compensación laboral o su exención, y un certificado de responsabilidad civil general a nombre de la City of Lighthouse Point en el expediente. Es un filtro administrativo pequeño que, sin hacer ruido, deja fuera muchísimos problemas. Nosotros nos encargamos de nuestro registro y de las solicitudes de permiso, para que usted no ande persiguiendo papeleo de su propia remodelación."
+          "a": "Sí. La ciudad exige que el contratista se registre ante el Building and Zoning Department antes de poder sacar un permiso, y eso significa licencia estatal, cobertura de compensación laboral o su exención, y un certificado de responsabilidad civil general a nombre de la City of Lighthouse Point y archivado en el expediente. Es un filtro administrativo pequeño que, sin hacer ruido, deja fuera muchísimos problemas. Nosotros nos encargamos de nuestro registro y de las solicitudes de permiso, para que usted no ande persiguiendo papeleo de su propia remodelación."
         },
         {
           "q": "¿El Board of Rules and Appeals del condado interviene en un permiso de la ciudad?",
@@ -69,7 +69,7 @@
         },
         {
           "q": "¿Cuánto cuesta una remodelación integral en Lighthouse Point?",
-          "a": "El rango es amplio, y quien le dé una cifra sin haber caminado la casa está adivinando. Un refrescamiento de acabados y cocina es un presupuesto; una renovación total con servicio eléctrico nuevo, instalaciones nuevas, aberturas estructurales y vidrio de impacto en toda la fachada hacia el agua es otro completamente distinto. Lo que sí comprometemos es un alcance fijo por escrito con partidas reales, en lugar de un número gancho que crece a punta de órdenes de cambio. PGX es un contratista de alta gama y rara vez es la oferta más baja sobre la mesa."
+          "a": "El rango es amplio, y quien le dé una cifra sin haber caminado la casa está adivinando. Una renovación de acabados y cocina es un presupuesto; una renovación total con servicio eléctrico nuevo, instalaciones nuevas, aberturas estructurales y vidrio de impacto en toda la fachada hacia el agua es otro completamente distinto. Lo que sí comprometemos es un alcance fijo por escrito con partidas reales, en lugar de un número gancho que crece a punta de órdenes de cambio. PGX es un contratista de alta gama y rara vez es la oferta más baja sobre la mesa."
         }
       ],
       "cta_heading": "Empecemos por el muro de contención",
@@ -121,7 +121,7 @@
         },
         {
           "q": "¿Cuánto pasa entre firmar y la primera cena en la cocina nueva?",
-          "a": "Los gabinetes marcan el reloj. Los paquetes a medida tardan meses en fabricarse, así que los ordenamos temprano y retenemos la demolición hasta que el cronograma lo permite, en vez de dejarlo cocinando en el garaje mientras un taller se pone al día. La obra en sitio de una cocina completa suele tomar un par de meses, más si hay aberturas estructurales, mejora del servicio eléctrico o una línea de gas reubicada. Piense en temporadas, no en fines de semana, y planifique las fiestas alrededor de eso."
+          "a": "Los gabinetes marcan el reloj. Los paquetes a medida tardan meses en fabricarse, así que los ordenamos temprano y no demolemos hasta que el cronograma lo permita, en vez de dejarlo cocinando en el garaje mientras un taller se pone al día. La obra en sitio de una cocina completa suele tomar un par de meses, más si hay aberturas estructurales, mejora del servicio eléctrico o una línea de gas reubicada. Piense en temporadas, no en fines de semana, y planifique las fiestas alrededor de eso."
         },
         {
           "q": "Estamos sobre un canal. ¿Eso cambia algo en la cocina?",
@@ -155,7 +155,7 @@
         },
         {
           "name": "Un plato probado con agua",
-          "desc": "Membrana de impermeabilización instalada según especificación, y luego llena y dejada toda la noche para comprobarlo, porque la loseta de encima no se levanta barato."
+          "desc": "Membrana de impermeabilización instalada según especificación, que después se llena y se deja toda la noche para comprobarla, porque la loseta de encima no se levanta barato."
         },
         {
           "name": "Vidrio sobre refuerzos reales",
@@ -253,7 +253,7 @@
         }
       ],
       "cta_heading": "Midamos el patio con usted",
-      "cta_sub": "Traiga el levantamiento, la lista de deseos y las medidas del bote si importan. Recibe una lectura franca de factibilidad y números honestos, en español o en inglés."
+      "cta_sub": "Traiga el levantamiento, la lista de deseos y las medidas del bote si importan. Usted recibe una lectura franca de factibilidad y números honestos, en español o en inglés."
     },
     "outdoor-living": {
       "title": "Terrazas y cocinas de verano en Lighthouse Point | PGX",
@@ -297,7 +297,7 @@
         },
         {
           "q": "¿Una cocina de verano o una pérgola de verdad necesita permiso?",
-          "a": "Las dos, sí. Patios, decks, cerramientos y estructuras accesorias son obra permisada en Lighthouse Point, y los tendidos de gas, agua y electricidad llevan sus propias solicitudes por oficio con sus inspecciones. Construir sin permiso le gana una orden de suspensión de obra y una multa del doble de la tarifa original. Es más trámite del que una parrilla techada parece merecer, y también es la razón por la que lo terminado avalúa y asegura como una mejora y no como un pasivo."
+          "a": "Las dos, sí. Patios, decks, cerramientos y estructuras accesorias son obra permisada en Lighthouse Point, y los tendidos de gas, agua y electricidad llevan sus propias solicitudes por oficio con sus inspecciones. Construir sin permiso le gana una orden de suspensión de obra y una multa del doble de la tarifa original. Es más trámite del que una parrilla techada parece merecer, y también es la razón por la que lo terminado se avalúa y se asegura como una mejora y no como un pasivo."
         },
         {
           "q": "¿Cómo evito que una cocina exterior se corroa junto a un canal?",
@@ -313,7 +313,7 @@
         }
       ],
       "cta_heading": "Muéstrenos el lado del agua",
-      "cta_sub": "Recorra el patio con nosotros y cuéntenos cómo recibe de verdad ahí afuera. De vuelta le llega un alcance fijo por escrito, en español o en inglés."
+      "cta_sub": "Recorra el patio con nosotros y cuéntenos cómo recibe visitas de verdad ahí afuera. Después le entregamos un alcance fijo por escrito, en español o en inglés."
     },
     "permitting-compliance": {
       "title": "Permisos al día en Lighthouse Point, FL | PGX Builders",
@@ -327,7 +327,7 @@
         "El permiso sale bajo nuestra licencia, CGC1539072. PGX Builders Group es un contratista general y no un gestor de trámites, así que la responsabilidad viene junto con la firma. Leemos el historial de la dirección antes de prometer nada, contratamos al ingeniero, arquitecto o topógrafo que un expediente completo realmente exige, resolvemos los comentarios de revisión en una sola ronda en vez de arrastrar el trámite por tres, y estamos en obra cuando llega el inspector. Van más de 20 años de obra en el sur de la Florida y más de 150 remodelaciones y ampliaciones, todas con permisos e inspecciones. No damos una obra por terminada porque se acabó la lista de pendientes. La damos por terminada cuando el expediente de su dirección queda limpio."
       ],
       "scope_heading": "Dejar el expediente limpio",
-      "scope_intro": "Presentado antes de la remodelación o destapado años después de la obra de otro, estos cinco frentes deciden si una dirección de Lighthouse Point aguanta una búsqueda de título.",
+      "scope_intro": "Trátese de un expediente presentado antes de la remodelación o destapado años después de la obra de otro, estos cinco frentes deciden si una dirección de Lighthouse Point aguanta una búsqueda de título.",
       "scope_items": [
         {
           "name": "Permisos que quedaron abiertos",

@@ -213,6 +213,11 @@ BORA_DENIAL = re.compile(
     r'|no\s+equivalent\s+in\s+Miami[- ]Dade'
     r'|en\s+Miami[- ]Dade\s+no\s+(existe|hay|tiene)'
     r'|Miami[- ]Dade\s+no\s+(tiene|cuenta\s+con|posee|dispone)'
+    # elided verb — "que Broward tiene y Miami-Dade no." shipped past the first version
+    # of this guard because the verb is dropped after the negation
+    r'|\bBroward\s+(tiene|cuenta\s+con|posee)\b[^.]{0,40}\bMiami[- ]Dade\s+no\b'
+    r'|\bMiami[- ]Dade\s+no\s*[.,]'
+    r'|which\s+Miami[- ]Dade\s+does\s+not\b'
     r'|sin\s+equivalente\s+en\s+Miami[- ]Dade)', re.I)
 
 # 2. Numeric inspection thresholds. Florida rewrote these in 2022, 2023 and 2025,
@@ -234,12 +239,22 @@ INSPECTION_NUMBERS = re.compile(
     re.I)
 
 
+# Saying one county's building department has no role across the county line is a true
+# geographic fact, not the invented institutional contrast this guard exists to catch.
+BORA_JURISDICTIONAL = re.compile(
+    r'l[ií]nea del condado|county line|jurisdicci[oó]n|injerencia|de este lado|this side of',
+    re.I)
+
+
 def check_forbidden_claims(docs, problems):
     for lang, by_slug in docs.items():
         for slug, doc in sorted(by_slug.items()):
             blob = json.dumps(doc, ensure_ascii=False)
             for sent in re.split(r'(?<=[.!?])\s+', blob):
-                if BORA_BOARD.search(sent) and BORA_DENIAL.search(sent):
+                # The denial is the defect on its own. Requiring the board to be NAMED let
+                # "el organismo de código a nivel de condado que Broward tiene y Miami-Dade
+                # no" ship — it describes the board without ever naming it.
+                if BORA_DENIAL.search(sent) and not BORA_JURISDICTIONAL.search(sent):
                     problems[f"0-forbidden-{lang}"].append(
                         f"{slug}: BORA false contrast \u2014 {sent.strip()[:150]}")
                 m = INSPECTION_NUMBERS.search(sent)
