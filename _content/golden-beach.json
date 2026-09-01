@@ -341,7 +341,7 @@
         },
         {
           "name": "Inspections called when ready",
-          "desc": "Each phase requested only when the work will pass, so an inspector's first visit is also the last one and the permit never goes dormant."
+          "desc": "Each phase requested only when the work is genuinely ready, so an inspector's first visit is also the last one and the permit never goes dormant."
         },
         {
           "name": "Legalizing what was never filed",

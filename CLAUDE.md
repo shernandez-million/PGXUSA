@@ -47,6 +47,28 @@ qualitatively, never with numbers or dates.
 > unverified "fact" in a briefing multiplies by the number of pages. Verify
 > against a primary source before it enters a prompt, not after.
 
+### Never guarantee a decision PGX does not make
+Copy may promise what PGX **does** — files complete drawings, prepares for and attends
+inspections, builds a package meant to clear review without a second round. It may not
+promise what an inspector, a board or a building department will **decide**. "Inspections
+that pass first", "drawings the city will approve", "finishes your association will
+approve" were all live; they guarantee a third party's judgement PGX has no control over,
+and one failed inspection makes the page a liar. Softened 2026-09-01 across 10 packs and
+the shared template (520 pages carried "inspections passed on the first visit").
+
+### Dated claims that must be re-verified, not trusted
+Two live claims depend on law that can move. Re-check before relying on them:
+- **HB 803** (signed 2026-05-07, effective 2026-07-01): exempts qualifying single-family
+  work under $7,500 from permit, carving out electrical, plumbing, mechanical, gas and
+  structural work and anything in a flood hazard area, and forbidding splitting a project
+  to fit under it. Verified accurate 2026-09-01. It reaches **single-family dwellings
+  only** — which is why Aventura's condo pages still state the city's own $500 threshold
+  and now say explicitly that the state exemption does not reach condominium units.
+- **Aventura's $500 permit threshold** — a municipal figure, unverified against the city
+  code, correct in context but the kind of number that moves.
+No page may state a permit **review time in days**. Miami Shores carried "15 business
+days" until 2026-09-01; it now says the Village publishes a target turnaround.
+
 ### Building-inspection claims carry no numbers
 Milestone inspections, structural integrity reserve studies and county
 recertification are **described qualitatively, never with numbers**. No trigger
