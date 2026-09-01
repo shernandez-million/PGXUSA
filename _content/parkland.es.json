@@ -33,11 +33,11 @@
       "scope_items": [
         {
           "name": "Adiós a los salones formales",
-          "desc": "Quitar las paredes que aíslan una sala que nadie usa de la cocina donde todo el mundo se para, con vigas de ingeniería y la carga bajada correctamente hasta la zapata."
+          "desc": "Quitar las paredes que aíslan una sala que nadie usa de la cocina donde todo el mundo termina parado, con vigas de ingeniería y la carga bajada correctamente hasta la zapata."
         },
         {
           "name": "Cielos, plafones y luz",
-          "desc": "Demoler los cajones de plafón y su ronda de luces empotradas, y reconstruir cielos planos con iluminación por capas y las instalaciones redirigidas en lugar de encajonadas."
+          "desc": "Demoler los cajones de plafón y su anillo de luces empotradas, y reconstruir cielos planos con iluminación por capas y las instalaciones redirigidas en lugar de encajonadas."
         },
         {
           "name": "Vidrio de impacto, por fin",
@@ -63,7 +63,7 @@
         },
         {
           "q": "¿Cuánto tarda remodelar la casa completa, de la primera llamada al regreso?",
-          "a": "El diseño y la ingeniería suelen ocupar un par de meses. La revisión arquitectónica suma semanas según cuándo vuelva a reunirse el comité, y la revisión de planos de la ciudad suma más encima. La construcción de un vaciado interior completo comúnmente corre varios meses, y más cuando se mueve estructura. Dicho con franqueza: piense en temporadas y no en semanas. Entregamos un cronograma por escrito junto con el estimado y después supervisamos a diario para defenderlo, en vez de explicarlo después."
+          "a": "El diseño y la ingeniería suelen ocupar un par de meses. La revisión arquitectónica suma semanas según cuándo vuelva a reunirse el comité, y la revisión de planos de la ciudad suma más encima. La construcción de un vaciado interior completo comúnmente toma varios meses, y más cuando se mueve estructura. Dicho con franqueza: piense en temporadas y no en semanas. Entregamos un cronograma por escrito junto con el estimado y después supervisamos a diario para defenderlo, en vez de explicarlo después."
         },
         {
           "q": "¿Cuánto debería costar una remodelación de alta gama en Parkland?",
@@ -123,7 +123,7 @@
         },
         {
           "q": "¿Cuántos meses debo reservar para una cocina a la medida?",
-          "a": "El ritmo lo marca la fabricación, no la demolición. Un paquete verdaderamente a la medida se mide, se dibuja, se construye y se acaba a lo largo de meses, así que el pedido entra al inicio del proyecto y la demolición espera a que la fecha de entrega sea real. La obra en sitio corre después alrededor de dos meses con una distribución limpia, y más cuando cae una pared o se reubica plomería. La piedra se plantilla después de instalar los gabinetes, y eso abre una ventana que nadie debería intentar comprimir."
+          "a": "El ritmo lo marca la fabricación, no la demolición. Un paquete verdaderamente a la medida se mide, se dibuja, se construye y se acaba a lo largo de meses, así que el pedido entra al inicio del proyecto y la demolición espera a que la fecha de entrega sea real. La obra en sitio toma después unos dos meses con una distribución limpia, y se alarga cuando cae una pared o se reubica plomería. La piedra se plantilla después de instalar los gabinetes, y eso abre una ventana que nadie debería intentar comprimir."
         },
         {
           "q": "¿Se puede poner una isla de verdad en una casa que vino con península?",
@@ -149,7 +149,7 @@
         "Este es un edificio pequeño con tolerancias que no perdonan, y así lo tratamos. Los platos de ducha se inundan y se dejan toda la noche antes de que alguien abra una caja de loseta, cada pendiente se verifica con nivel y no a ojo, y los baños que quedan sobre área habitable reciben detallado de plato, aislamiento de tuberías y refuerzos que respetan el cielo raso de abajo. La piedra en plancha va a instaladores que han hecho suficiente como para confiarles la última pieza. El alcance queda fijo por escrito, hay un supervisor todos los días laborables, y todo lo que está entre su puerta de entrada y la obra se cubre primero. Licenciados y asegurados, Lic. CGC1539072."
       ],
       "scope_heading": "De la demolición a la boquilla final",
-      "scope_intro": "Sea un refresco del medio baño o la reconstrucción completa de la suite principal, el alcance se cierra por escrito antes de ordenar nada. Estos son los elementos habituales.",
+      "scope_intro": "Sea una renovación ligera del medio baño o la reconstrucción completa de la suite principal, el alcance se cierra por escrito antes de ordenar nada. Estos son los elementos habituales.",
       "scope_items": [
         {
           "name": "La tina de esquina, jubilada",
@@ -179,7 +179,7 @@
         },
         {
           "q": "¿Puedo agregar un baño si la casa está con séptico?",
-          "a": "A veces, pero eso lo decide el sistema séptico y no el plano. Agregar aparatos sanitarios o dormitorios aumenta la carga que un sistema en sitio tiene que soportar, y eso se tramita aparte de su permiso municipal de construcción, ante el Florida Department of Health in Broward County, que sigue manejando localmente los permisos de aguas negras en sitio. Puede que el campo de drenaje haya que ampliarlo o reemplazarlo, y su huella más los retiros exigidos definen dónde puede ir la obra nueva. En lotes de finca hacemos evaluar el sistema antes de cerrar los planos."
+          "a": "A veces, pero eso lo decide el sistema séptico y no el plano. Agregar aparatos sanitarios o dormitorios aumenta la carga que un sistema en sitio tiene que soportar, y eso se tramita aparte de su permiso municipal de construcción, ante el Florida Department of Health in Broward County, que sigue manejando localmente los permisos de aguas negras en sitio. Puede que haya que ampliar o reemplazar el campo de drenaje, y su huella más los retiros exigidos definen dónde puede ir la obra nueva. En lotes de finca hacemos evaluar el sistema antes de cerrar los planos."
         },
         {
           "q": "¿Qué partes de una renovación de baño necesitan permiso?",
@@ -235,7 +235,7 @@
       "faqs": [
         {
           "q": "¿Qué limita el tamaño de una ampliación en mi lote?",
-          "a": "La zonificación, mucho antes de que la estructura entre en la conversación. Las regulaciones de desarrollo del suelo de Parkland gobiernan retiros, ocupación máxima del lote y altura según su distrito, y las servidumbres inscritas recortan el resto. Los lotes frente a lago o canal en las comunidades planificadas normalmente cargan servidumbres de drenaje o mantenimiento en el fondo, y dentro de ellas no se construye nada. Pedimos primero el levantamiento y los números de zonificación, para que el diseño arranque dentro de la envolvente que existe de verdad y no del que usted esperaba."
+          "a": "La zonificación, mucho antes de que la estructura entre en la conversación. Las regulaciones de desarrollo del suelo de Parkland gobiernan retiros, ocupación máxima del lote y altura según su distrito, y las servidumbres inscritas recortan el resto. Los lotes frente a lago o canal en las comunidades planificadas normalmente cargan servidumbres de drenaje o mantenimiento en el fondo, y dentro de ellas no se construye nada. Pedimos primero el levantamiento y los números de zonificación, para que el diseño arranque dentro de la envolvente que existe de verdad y no dentro de la que usted esperaba."
         },
         {
           "q": "¿Cómo funciona la revisión arquitectónica de la HOA en una ampliación?",
@@ -307,7 +307,7 @@
         },
         {
           "q": "¿Una cocina exterior de verdad sobrevive aquí afuera?",
-          "a": "La correcta, sí. El calor, la humedad, la lluvia de los rociadores y, en lotes con pozo, el riego cargado de minerales son duros con todo lo que se queda a la intemperie. Especificamos acero inoxidable de grado marino o con recubrimiento en polvo, piedra densa que se sella con calendario, cajas de gabinete calificadas para intemperie y herrajes elegidos para esa exposición. La gabinetería de exterior de las grandes cadenas fotografía bien dos temporadas y después se rinde. Cómprela bien la primera vez y en diez años la terraza sigue pareciendo parte de la casa."
+          "a": "La correcta, sí. El calor, la humedad, la lluvia de los rociadores y, en lotes con pozo, el riego cargado de minerales son duros con todo lo que se queda a la intemperie. Especificamos acero inoxidable de grado marino o con recubrimiento en polvo, piedra densa que se sella con calendario, cajas de gabinete calificadas para intemperie y herrajes elegidos para esa exposición. La gabinetería de exterior de las grandes cadenas se ve bien en fotos dos temporadas y después se rinde. Cómprela bien la primera vez y en diez años la terraza sigue pareciendo parte de la casa."
         },
         {
           "q": "¿Qué tanto estorba un proyecto de patio en el día a día?",
@@ -337,7 +337,7 @@
         },
         {
           "name": "Obra jamás presentada",
-          "desc": "Conversiones de garaje, terrazas con malla rehechas tras una tormenta, cocinas de verano y construcciones de finca devueltas al expediente con planos as-built, ingeniería donde hay estructura e inspección de verdad."
+          "desc": "Conversiones de garaje, terrazas con malla rehechas tras una tormenta, cocinas de verano y construcciones de finca incorporadas al expediente con planos as-built, ingeniería donde hay estructura e inspección de verdad."
         },
         {
           "name": "Productos aprobados, anclajes correctos",

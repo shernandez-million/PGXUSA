@@ -27,6 +27,9 @@ HEADING_FIELDS = ["h1", "local_heading", "scope_heading", "cta_heading"]
 # ---------------------------------------------------------------- proper nouns
 
 # Words that legitimately carry a capital anywhere in a sentence-case headline.
+# The last three lines are named places and offices the checker kept flagging:
+#   the North and South Forks of the New River (Wilton Manors), Miami-Dade's
+#   Product Control section, and "la Venecia de Am\u00e9rica" (Fort Lauderdale).
 BASE_PROPER = """
 PGX Builders Group LLC Miami Beach Miami-Dade Dade Broward Florida FL South North
 East West Coral Gables Aventura Brickell Doral Surfside Pinecrest Sunny Isles
@@ -49,6 +52,9 @@ Taj Mahal Dekton Neolith Cambria Silestone Caesarstone
 Google Instagram Houzz
 Indian Creek Government Cut Venice America Beautiful Pleasant Living Parks
 Snapper Creek Cutler Matheson Hammock Crandon Rickenbacker Causeway
+Fork Forks
+Product Control
+Venecia América América
 """
 PROPER = set()
 for _w in BASE_PROPER.split():
@@ -273,6 +279,7 @@ def main():
     for lang in ("en", "es"):
         # ---- 2: scope name reuse across areas
         name_areas = defaultdict(set)
+        name_descs = defaultdict(list)
         # ---- 3: duplicates
         seen = {"title": defaultdict(list), "h1": defaultdict(list),
                 "meta_description": defaultdict(list)}
@@ -319,6 +326,7 @@ def main():
                     nm = it.get("name", "").strip()
                     if nm:
                         name_areas[nm].add(slug)
+                        name_descs[nm].append((slug, it.get("desc", "").strip()))
 
                 # ---- 3
                 for field in seen:
@@ -345,10 +353,28 @@ def main():
                         if tut:
                             problems["5-tuteo-es"].append(f"{tag}.{field}: {val!r} {tut}")
 
+        # A repeated scope-card LABEL is not itself a defect: "Vidrio de impacto HVHZ" is
+        # simply what the product is called, and inventing synonyms to dodge a checker makes
+        # the writing worse. What matters is whether the DESCRIPTION under it is also the
+        # same — that is real templating. Flag only when both repeat.
+        def _overlap(a, b):
+            wa = set(re.findall(r"[\wáéíóúüñ]+", a.lower()))
+            wb = set(re.findall(r"[\wáéíóúüñ]+", b.lower()))
+            if not wa or not wb:
+                return 0.0
+            return len(wa & wb) / len(wa | wb)
+
         for nm, areas in sorted(name_areas.items()):
-            if len(areas) >= 4:
+            if len(areas) < 4:
+                continue
+            pairs = name_descs[nm]
+            twins = [(x[0], y[0], round(_overlap(x[1], y[1]), 2))
+                     for i, x in enumerate(pairs) for y in pairs[i + 1:]
+                     if _overlap(x[1], y[1]) >= 0.60]
+            if twins:
                 problems[f"2-scopereuse-{lang}"].append(
-                    f"{nm!r} in {len(areas)} areas: {sorted(areas)}")
+                    f"{nm!r} in {len(areas)} areas WITH near-identical descriptions: "
+                    + ", ".join(f"{a}~{b} ({r})" for a, b, r in twins[:4]))
 
         for field, bucket in seen.items():
             for v, tags in sorted(bucket.items()):
