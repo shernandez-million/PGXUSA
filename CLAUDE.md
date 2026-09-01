@@ -123,6 +123,25 @@ owners say it ("the one everyone still calls the 40-year recertification") is
 deliberately allowed — only asserted thresholds are defects. Both checks replaced
 one-off correction scripts that nobody would have remembered to run.
 
+### The Spanish was transcreated, then audited line by line
+All 42 area packs were read by a native Miami reader against their English twins
+in 2026-08, every proposal re-read by a second reviewer with authority to reject:
+**640 corrections** applied. The defects were not stylistic — they were calques
+that changed meaning ("subsuelo acústico" for underlayment, "pista de despegue"
+for lead time, "marcapasos" for a schedule driver, "salir a flote" for surfacing
+at resale, which means roughly the opposite), plus two invented facts: a street
+number Davie's English never claims, and a written-warranty promise in Wilton
+Manors that the English does not make.
+
+Two lessons worth keeping:
+- **A reviewer sees one pack and its twin, so it cannot know site policy.** One
+  proposed deleting "habitables" from the milestone threshold because the English
+  says plainly "three or more stories". The Spanish was right and the English
+  lagged. `apply_es_fixes.py` vetoes that class of change regardless of what a
+  reviewer proposes.
+- **Regexes miss what reading catches.** A scan for peninsular vocabulary came
+  back clean; the readers then found "manitas". Both passes are worth running.
+
 ### Bilingual is atomic
 A page does not exist until its twin exists. Every EN page needs its ES page,
 reciprocal `hreflang` (plus `x-default`), and both sitemap entries with
