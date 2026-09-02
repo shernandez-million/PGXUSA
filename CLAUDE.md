@@ -220,6 +220,26 @@ Tokens live in `:root`. Use the variables; never a raw hex.
   image on the site — until 2026-08-30. That script is deleted; do not
   reintroduce a font-drawn mark.
 
+### Performance is at its floor — do not chase the LCP numbers
+Investigated 2026-09-02 and found nothing worth shipping. Recorded so it is not
+re-run:
+- **The "area pages are slower than hubs" gap is measurement noise.** It looked
+  like LCP 2.5s vs 1.5s. Both classes render from the same template, preload the
+  same hero (`images/kitchen.webp`, same srcset), carry the same three preloads
+  and three images — and the hub is the *heavier* page (59KB vs 54KB HTML, 3,671
+  vs 3,040 words). Fetching each page class four times gave medians within 20ms of
+  each other, and three consecutive Lighthouse runs on the *same* area page
+  returned perf 98–99 / LCP 2.1–2.3s where an earlier run had said 96–97 /
+  2.5–2.7s. Always re-measure before believing a gap between two single runs.
+- **Do not "optimize" the wordmark SVGs.** Trimming coordinates from two decimals
+  to one saves 15% raw / 21% gzipped — about 1.4KB per file — on two requests that
+  do not gate LCP. But `pgx-wordmark-outline.svg` is a 1.4-unit hairline stroke
+  whose centreline *is* those coordinates; rendered at the footer mark's ~1120px
+  it moves antialiasing on up to 79% of its stroke pixels. Negligible gain,
+  unprovable visual equivalence, on a brand asset. Tried and reverted.
+- Do not add a preload for the nav wordmark either: it would compete for bandwidth
+  with the hero preload, which is the actual LCP element.
+
 ### Keyboard access is part of done, and Lighthouse does not measure it
 Lighthouse scores accessibility 100 on every page and still missed all three of
 these, found by driving the pages by keyboard in 2026-09:
