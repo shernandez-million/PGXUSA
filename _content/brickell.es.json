@@ -340,8 +340,8 @@
           "desc": "Solicitudes completas por el portal iBuild de la ciudad, con planos y cálculos desde la primera entrega, presentadas al mismo tiempo que el paquete de renovación que pide su junta."
         },
         {
-          "name": "Aprobaciones de producto HVHZ",
-          "desc": "Vidrio de impacto, puertas y techos especificados con aprobaciones vigentes de Miami-Dade e instalados con el anclaje documentado, porque el inspector compara el papeleo con la abertura instalada."
+          "name": "Aprobaciones HVHZ para obra en torre",
+          "desc": "Vidrio de impacto, puertas y techos especificados con aprobaciones vigentes de Product Control de Miami-Dade e instalados con el anclaje documentado, programados dentro de la ventana de trabajo que permite el edificio, porque el inspector compara el papeleo con la abertura instalada."
         },
         {
           "name": "Inspecciones en el orden correcto",

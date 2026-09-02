@@ -100,7 +100,7 @@
         },
         {
           "name": "Islas plantilladas en sitio",
-          "desc": "Mármol, cuarcita o porcelánico plantillados en sitio, con la estructura de la isla calculada para el peso y cualquier voladizo de asientos soportado en acero de verdad."
+          "desc": "La piedra se plantilla en sitio una vez montados los gabinetes, con la estructura de la isla calculada para el peso de la plancha que usted elija y el voladizo de asientos apoyado en escuadras de acero, no en el sustrato."
         },
         {
           "name": "Electrodomésticos reubicados y ventilados",
@@ -227,8 +227,8 @@
           "desc": "Suites de huéspedes y para familiares integradas a la única vivienda permitida, con baño y sala privados, porque en estos lotes no se admiten casitas independientes."
         },
         {
-          "name": "Estructura debajo de lo nuevo",
-          "desc": "Recalces, zapatas nuevas, dados de columna y mejoras de vigas de amarre: la mitad del presupuesto que nadie fotografía y la que decide si la obra dura."
+          "name": "La estructura debajo de los cuartos nuevos",
+          "desc": "Recalces, zapatas, dados de columna y refuerzo de vigas de amarre dimensionados para un lote de isla de barrera y para la exposición salina: la mitad del presupuesto que nadie fotografía y la que decide si dura."
         }
       ],
       "faqs": [

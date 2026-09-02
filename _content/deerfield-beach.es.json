@@ -340,7 +340,7 @@
         },
         {
           "name": "Aprobaciones de techo y vidrio",
-          "desc": "Ventanas de impacto, puertas, portones de garaje y ensamblajes de techo con aprobación válida en la High-Velocity Hurricane Zone, con anclajes y presiones de diseño dentro del juego de planos."
+          "desc": "Vidrio de impacto, puertas y techos con aprobaciones que el Building Division acepta, con los detalles de anclaje y las tablas de presión dibujados en el juego de planos y no prometidos en la inspección."
         },
         {
           "name": "Inspecciones en secuencia",

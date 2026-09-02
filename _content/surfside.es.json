@@ -331,7 +331,7 @@
       "scope_items": [
         {
           "name": "Permisos abiertos, cerrados",
-          "desc": "Sacamos el historial de la propiedad, definimos qué cubre realmente cada permiso abierto y lo llevamos a reinspección, revisión o un permiso nuevo hasta que el expediente quede cerrado."
+          "desc": "Pedimos el historial completo de la dirección en el Town of Surfside, aclaramos qué cubre de verdad cada permiso abierto y lo llevamos a reinspección, a revisión o a un permiso nuevo hasta que el expediente lea cerrado antes del closing."
         },
         {
           "name": "Solicitudes y revisión de planos",
@@ -342,8 +342,8 @@
           "desc": "Ventanas, puertas y techos especificados con aprobaciones vigentes de Miami-Dade e instalados según el método documentado, porque el inspector lee el papel contra la pared."
         },
         {
-          "name": "Inspecciones en el orden correcto",
-          "desc": "Cimentación, instalaciones en bruto, estructura e inspección final, agendadas en la secuencia correcta y atendidas por el supervisor que construyó la obra, no por un número de teléfono."
+          "name": "Inspecciones recorridas con el town",
+          "desc": "Cimentación, rough, estructura y final pedidas en orden y recorridas con el inspector del Town of Surfside por el supervisor que hizo la obra, y no por un número de teléfono en un formulario."
         },
         {
           "name": "Reparaciones milestone con permiso",

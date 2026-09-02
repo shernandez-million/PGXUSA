@@ -331,7 +331,7 @@
       "scope_items": [
         {
           "name": "Open permits closed out",
-          "desc": "We pull the property record, establish what each open permit actually covers, and take it through re-inspection, revision, or a replacement permit until the file reads closed."
+          "desc": "We pull the full address history from the Town of Surfside, establish what each open permit actually covers, and take it through re-inspection, revision or a replacement permit until the file reads closed before closing."
         },
         {
           "name": "Applications and plan review",
@@ -342,8 +342,8 @@
           "desc": "Windows, doors, and roofing specified with current Miami-Dade approvals and installed to the documented method, because the inspector reads the paperwork against the wall."
         },
         {
-          "name": "Inspections met in order",
-          "desc": "Foundation, rough-in, framing, and final inspections booked in the right sequence and attended by the supervisor who built the work, not by a phone number."
+          "name": "Inspections walked with the town",
+          "desc": "Foundation, rough-in, framing and final booked in sequence and walked with the Town of Surfside inspector by the supervisor who built the work, not by a phone number on a form."
         },
         {
           "name": "Milestone repairs, permitted properly",

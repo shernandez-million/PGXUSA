@@ -246,6 +246,66 @@ BORA_JURISDICTIONAL = re.compile(
     re.I)
 
 
+# ---------------------------------------------------------------- cross-area duplication
+# A programmatic site lives or dies on whether its pages are actually different. The old
+# check looked only at intro_paragraphs; templated scope cards and FAQ answers were
+# duplicating across areas unseen — one Spanish scope card was word-for-word identical in
+# two areas. Compared via 8-word shingles, inverted-index candidate generation so this
+# stays fast over ~8,000 blocks instead of 8M pairwise comparisons.
+DUP_THRESHOLD = 0.50
+
+
+def _shingles(text, n=8):
+    w = re.findall(r"[a-z\xe1\xe9\xed\xf3\xfa\xfc\xf1']+", text.lower())
+    return {tuple(w[i:i + n]) for i in range(max(0, len(w) - n + 1))}
+
+
+def _blocks(doc):
+    for svc, pg in doc.get("pages", {}).items():
+        for k in ("hero_sub", "local_heading", "scope_intro", "cta_sub"):
+            if pg.get(k):
+                yield svc, k, pg[k]
+        for i, v in enumerate(pg.get("intro_paragraphs", [])):
+            yield svc, f"intro[{i}]", v
+        for i, v in enumerate(pg.get("scope_items", [])):
+            yield svc, f"scope[{i}]", v.get("desc", "")
+        for i, v in enumerate(pg.get("faqs", [])):
+            yield svc, f"faq[{i}]", v.get("a", "")
+
+
+def check_cross_area_duplication(docs, problems):
+    for lang, by_slug in docs.items():
+        items, index = [], defaultdict(list)
+        for slug, doc in sorted(by_slug.items()):
+            for svc, field, text in _blocks(doc):
+                if len(text.split()) < 20:
+                    continue
+                g = _shingles(text)
+                if not g:
+                    continue
+                idx = len(items)
+                items.append((slug, svc, field, g))
+                for sh in g:
+                    index[sh].append(idx)
+
+        checked = set()
+        for shared in index.values():
+            if len(shared) < 2 or len(shared) > 40:      # a run in 40 places is boilerplate, not a pair
+                continue
+            for i in shared:
+                for j in shared:
+                    if j <= i or (i, j) in checked:
+                        continue
+                    checked.add((i, j))
+                    a, b = items[i], items[j]
+                    if a[0] == b[0]:
+                        continue
+                    inter = len(a[3] & b[3])
+                    jac = inter / len(a[3] | b[3])
+                    if jac >= DUP_THRESHOLD:
+                        problems[f"0-duplicate-{lang}"].append(
+                            f"{a[0]}/{a[1]}/{a[2]} ~ {b[0]}/{b[1]}/{b[2]} (J={jac:.2f})")
+
 def check_forbidden_claims(docs, problems):
     for lang, by_slug in docs.items():
         for slug, doc in sorted(by_slug.items()):
@@ -290,6 +350,7 @@ def main():
 
     problems = defaultdict(list)
     check_forbidden_claims(docs, problems)
+    check_cross_area_duplication(docs, problems)
 
     for lang in ("en", "es"):
         # ---- 2: scope name reuse across areas
