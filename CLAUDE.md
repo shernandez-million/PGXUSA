@@ -303,3 +303,20 @@ and confirmed client permission — all of which only Andrés can supply.
 - **Portfolio photos** and **About details** (founder, founding year, team,
   certifications). The About page was written without inventing a founder story
   precisely because these are missing.
+
+---
+
+## 7. The expert team
+
+The repo has a persisted expert roster in `.claude/agents/` — eight agents,
+each one the owner of a section of this constitution (claims, brand, SEO,
+Spanish, pipeline, performance, QA, positioning). **TEAM.md** mirrors the
+directory 1:1 and says who reviews what and who vetoes what; consult the
+relevant agents before touching their domain — a change that skips its owner
+is how the incidents in this file happened in the first place.
+
+Constituted 2026-09-01 by APEX on Andrés's direct order to apply APEX to every
+running project (Método Muñoz §2 — the team is constituted before building and
+persists across requirements). Universal experts (prompting, orchestration,
+the critics' jury) are account-level and convened per pass, not duplicated
+here.
