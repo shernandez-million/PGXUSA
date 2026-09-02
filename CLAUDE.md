@@ -254,6 +254,15 @@ these, found by driving the pages by keyboard in 2026-09:
 - **Icon-only and abbreviation links need a name.** The language toggle read as a
   bare "ES" / "EN" to a screen reader until it got an `aria-label`.
 
+The same trap bit twice more. Verified 2026-09-02 that the **mobile menu works**:
+`aria-expanded` flips, `body.menu-open` is set, the closed menu is
+`visibility:hidden` so its seven links are correctly out of the tab order, and a
+probe element with the same class in the same open body computes
+`visibility:visible; opacity:1`. It only *reads* hidden because a backgrounded
+page does not run its 0.4s transition, so animated properties stay at their start
+values. **Probe the cascade with a fresh element before concluding an animated
+component is broken.**
+
 Caution when testing focus: if the browser pane is backgrounded,
 `document.hasFocus()` is false and `:focus` styles legitimately do not paint. That
 looks exactly like a missing focus indicator and is not one — check
