@@ -220,6 +220,25 @@ Tokens live in `:root`. Use the variables; never a raw hex.
   image on the site — until 2026-08-30. That script is deleted; do not
   reintroduce a font-drawn mark.
 
+### Keyboard access is part of done, and Lighthouse does not measure it
+Lighthouse scores accessibility 100 on every page and still missed all three of
+these, found by driving the pages by keyboard in 2026-09:
+- **Every page carries a skip link** as its first focusable element, off-screen
+  until focused, targeting `<main id="top">`. Without it a keyboard user tabs the
+  whole header on all 524 pages.
+- **`:focus-visible` must survive.** The site's ring is `2px solid var(--brass)`.
+  A component rule that sets `outline:none` on plain `:focus` strips it for
+  keyboard users too — that is what happened to the form fields, which were left
+  with only a 1px border tint. Component styling goes on `:focus`; the ring is
+  restored on `:focus-visible`.
+- **Icon-only and abbreviation links need a name.** The language toggle read as a
+  bare "ES" / "EN" to a screen reader until it got an `aria-label`.
+
+Caution when testing focus: if the browser pane is backgrounded,
+`document.hasFocus()` is false and `:focus` styles legitimately do not paint. That
+looks exactly like a missing focus indicator and is not one — check
+`document.hasFocus()` before believing it.
+
 ### Never size text containers in `ch`
 `ch` is the width of the font's `0` glyph, so a `ch` box changes size when the
 webfont swaps in. Marcellus's `0` is **24% wider than Georgia's**, so every
