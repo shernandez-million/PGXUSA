@@ -211,6 +211,8 @@ body{
   -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
 }
 ::selection{background:var(--brass);color:var(--white)}
+.skip{position:absolute;left:-9999px;top:0;z-index:200;background:var(--bg);color:var(--ink);padding:12px 18px;border-radius:3px;font-size:14px;text-decoration:none}
+.skip:focus{left:12px;top:12px}
 :focus-visible{outline:2px solid var(--brass);outline-offset:3px;border-radius:4px}
 img{display:block;max-width:100%}
 a{color:inherit}
@@ -385,6 +387,9 @@ a{color:inherit}
 .f-field select{text-overflow:ellipsis;white-space:nowrap;overflow:hidden;padding-right:44px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%230B0C0E' stroke-width='2' fill='none'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 16px center}
 .f-field textarea{min-height:120px;resize:vertical}
 .f-field input:focus,.f-field select:focus,.f-field textarea:focus{outline:none;border-color:var(--brass)}
+/* the rule above drops the site's focus ring for keyboard users too; put a real
+   indicator back for them — a 1px border tint alone is too thin to find */
+.f-field input:focus-visible,.f-field select:focus-visible,.f-field textarea:focus-visible{outline:2px solid var(--brass);outline-offset:2px}
 .f-foot{display:flex;flex-wrap:wrap;align-items:center;gap:18px;margin-top:22px}
 .f-note{font-size:13px;color:var(--ink-2)}
 .foot{background:var(--d-bg);color:var(--d-ink);padding:clamp(64px,8vw,100px) 0 0;overflow:hidden}
@@ -543,6 +548,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
 </style>
 </head>
 <body>
+<a class="skip" href="#top">Ir al contenido</a>
 
 <!-- NAV -->
 <header class="nav" id="nav">
@@ -560,7 +566,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
       </ul>
     </nav>
     <div class="nav-cta">
-      <a class="lang" href="/permitting-compliance-lauderdale-by-the-sea" lang="en" hreflang="en">EN</a>
+      <a class="lang" href="/permitting-compliance-lauderdale-by-the-sea" lang="en" hreflang="en" aria-label="View this page in English">EN</a>
       <a class="btn btn-solid" href="#contact">Pedir un estimado</a>
       <button class="burger" id="burger" aria-label="Menú" aria-expanded="false" aria-controls="mmenu">
         <span></span><span></span><span></span>
