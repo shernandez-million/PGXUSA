@@ -305,6 +305,25 @@ directory. `_content/` is excluded via `.vercelignore` and disallowed in
 `robots.txt`. **Andrés handles DNS and the registrar himself** — diagnose DNS
 precisely and hand him the exact fix; never touch it.
 
+### Messages to Andrés are a card, not a narrative
+Standing order 2026-09-03: he does not read the running commentary — "no me da
+valor agregado… los canales quedan overwhelmed". Everything sent to him is only
+this, in plain language:
+
+```
+📌 PGX — <what is being done, one line>
+Etapa: análisis | plan | ejecución | revisión | deploy | QA
+Agentes: <n> trabajando
+Progreso: <n>% · Faltan: ~<h> h
+⚠️ Pendientes: <exact instruction each, or "ninguno">
+🌐 Subido: <URL> · 💻 Local: <URL or apagado>
+```
+
+Findings, decisions and reasoning go **here, in this file**, or into the batch
+report — not into his chat. The only things that may break the format are a real
+stopper and a question only he can answer. Percentage is measured against the
+meta-prompt checklist; hours are honest estimates, corrected on each card.
+
 ### The two links that close every message
 Standing order 2026-09-03: every message to Andrés ends with these two lines,
 after the ⚠️ block, so he can click without hunting back through the thread.
