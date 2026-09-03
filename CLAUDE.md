@@ -310,13 +310,16 @@ Standing order 2026-09-03: every message to Andrés ends with these two lines,
 after the ⚠️ block, so he can click without hunting back through the thread.
 
 ```
-🌐 Producción: https://www.pgxusa.com
+🌐 Subido: https://www.pgxusa.com
 💻 Local: http://localhost:8080   ← only when a preview is actually running
 ```
 
-`https://www.pgxusa.com` is the canonical entry — the apex redirects to it with a
-308, and it is the URL he opens. Never paste a link that is not live, and never
-invent one. When no preview is running — the normal state, since dev servers live
+The first link is where the work you just built is deployed. **In this repo that
+is the production domain**, because the publish policy is straight to `main` and
+Vercel serves `main` at `https://www.pgxusa.com` with no build step — there is no
+staging or preview-branch deploy to point at instead. The apex redirects there
+with a 308, and it is the URL he opens. Never paste a link that is not live, and
+never invent one. When no preview is running — the normal state, since dev servers live
 only while he is watching — the second line reads
 `💻 Local: apagado — di «preview» y lo levanto` instead. The local port is 8080
 (`python3 _content/serve.py 8080`, or the `pgx` entry in `.claude/launch.json`).
