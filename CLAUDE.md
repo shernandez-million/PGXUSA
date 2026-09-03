@@ -287,12 +287,18 @@ page whose language twin is missing.
 **This repository is not Andrés's own account.** The remote is
 `github.com/shernandez-million/PGXUSA`. Anything committed here is visible to
 whoever holds access to that account, and git history keeps it after a delete.
-Never commit the personal corpus about Andrés (`working-with-andres` and the like)
-into this repo — it is internal Claude material about him, not project
-documentation, and it names business details across all five of his companies.
-Adopted as fleet policy 2026-09-02 after it was proposed here. Project context for
-a cloud session belongs in this file, which is project material and already
-carries it.
+**No house skill is committed here** — not `working-with-andres`, and not
+`apex` / `flagship` / `metaprompt` / `prompt-architect` either. Fleet rule ratified
+2026-09-02 after the question was raised from this repo: house skills reach cloud
+sessions through the owner's own private `apex-casa` repo, never through a project
+or third-party one. `working-with-andres` is internal Claude material about Andrés
+personally and never goes anywhere. `flagship` additionally would not even work
+here: 32 absolute paths and 23 references to files outside any repo, so it fails on
+first read in a sandbox.
+
+What a cloud session needs from PGX is already in the repo and travels fine: this
+file, and the eight project agents in `.claude/agents/`. Those are repo-owned and
+stay.
 
 Deploy is Vercel serving the repo directly — no build command, no output
 directory. `_content/` is excluded via `.vercelignore` and disallowed in
