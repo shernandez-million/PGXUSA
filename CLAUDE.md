@@ -284,6 +284,16 @@ with font metrics. **CLS 0.001.** Do not reintroduce `ch`.
 project.** Never publish a `--force` build, a build with validation errors, or a
 page whose language twin is missing.
 
+**This repository is not Andrés's own account.** The remote is
+`github.com/shernandez-million/PGXUSA`. Anything committed here is visible to
+whoever holds access to that account, and git history keeps it after a delete.
+Never commit the personal corpus about Andrés (`working-with-andres` and the like)
+into this repo — it is internal Claude material about him, not project
+documentation, and it names business details across all five of his companies.
+Adopted as fleet policy 2026-09-02 after it was proposed here. Project context for
+a cloud session belongs in this file, which is project material and already
+carries it.
+
 Deploy is Vercel serving the repo directly — no build command, no output
 directory. `_content/` is excluded via `.vercelignore` and disallowed in
 `robots.txt`. **Andrés handles DNS and the registrar himself** — diagnose DNS
