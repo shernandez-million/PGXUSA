@@ -305,6 +305,24 @@ directory. `_content/` is excluded via `.vercelignore` and disallowed in
 `robots.txt`. **Andrés handles DNS and the registrar himself** — diagnose DNS
 precisely and hand him the exact fix; never touch it.
 
+### Launching a large agent sweep
+When a pass needs many subagents on the same brief — the Spanish audit ran 100 —
+put the shared brief first, **byte-identical** in every prompt, and launch the
+instances inside the same few minutes. The identical prefix is then a cache read
+instead of a cache write on every start after the first. Keep the structured
+return small. (D-020 PGX-03, 2026-09-03.)
+
+### §3 is the canonical home of the brand values — do not turn it into a pointer
+An optimisation pass proposed replacing §3 with a pointer to
+`~/.claude/skills/flagship/LEY.md` and `proyectos/pgx.md`, to save context. It was
+checked and rejected 2026-09-03: none of the exact tokens (`#9A7B4F`, `#F2F1EE`,
+`#1A1A18`, `#E8E4DA`, `#7A5F3A`, `#C9A86C`, `#6B6862`) appear in either
+destination, nor does the `ch` ban as a rule. And `pgx.md` §3 is itself titled
+"Marca (punteros; los valores se leen en el repo, nunca se retipean)" — the
+Flagship dossier deliberately points *here*. Pointing back would be circular and
+the values would live nowhere. If that direction is ever reversed, write the
+values into LEY.md first.
+
 ### Messages to Andrés are a card, not a narrative
 Standing order 2026-09-03: he does not read running commentary — "no me da valor
 agregado… los canales quedan overwhelmed". Every message to him is this template
