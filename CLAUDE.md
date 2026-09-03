@@ -315,9 +315,14 @@ this, in plain language:
 Etapa: análisis | plan | ejecución | revisión | deploy | QA
 Agentes: <n> trabajando
 Progreso: <n>% · Faltan: ~<h> h
-⚠️ Pendientes: <exact instruction each, or "ninguno">
+⚠️ Tus pendientes: <exact instruction + link each, or "ninguno">
 🌐 Subido: <URL> · 💻 Local: <URL or apagado>
 ```
+
+The pendientes line answers exactly one question — "what do I need to do?" — so it
+carries **only actions that are his**, each with its exact instruction and link.
+Claude's own to-do list never appears there; if Claude is blocked, that is a
+stopper, which is a separate exception.
 
 Findings, decisions and reasoning go **here, in this file**, or into the batch
 report — not into his chat. The only things that may break the format are a real
