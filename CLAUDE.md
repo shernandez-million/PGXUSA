@@ -306,26 +306,30 @@ directory. `_content/` is excluded via `.vercelignore` and disallowed in
 precisely and hand him the exact fix; never touch it.
 
 ### Messages to Andrés are a card, not a narrative
-Standing order 2026-09-03: he does not read the running commentary — "no me da
-valor agregado… los canales quedan overwhelmed". Everything sent to him is only
-this, in plain language:
+Standing order 2026-09-03: he does not read running commentary — "no me da valor
+agregado… los canales quedan overwhelmed". Every message to him is this template
+verbatim, properly formatted, identical across all chats, with nothing before or
+after it:
 
-```
-📌 PGX — <what is being done, one line>
-Etapa: análisis | plan | ejecución | revisión | deploy | QA
-Agentes: <n> trabajando
-Progreso: <n>% · Faltan: ~<h> h
-⚠️ Tus pendientes: <exact instruction + link each, or "ninguno">
-🌐 Subido: <URL> · 💻 Local: <URL or apagado>
-```
+    📌 **<Proyecto>** — <qué se está haciendo, una línea>
 
-The pendientes line answers exactly one question — "what do I need to do?" — so it
+    | Etapa | Agentes | Progreso | Faltan |
+    |---|---|---|---|
+    | <análisis/plan/ejecución/revisión/deploy/QA> | <n> | <n> % | ~<h> h |
+
+    **⚠️ Tus pendientes**
+    1. <solo acciones SUYAS, con instrucción exacta y link>
+    (o `ninguno`)
+
+    **🌐 Subido** · <URL>
+    **💻 Local** · <URL | apagado — di «preview»>
+
+The pendientes list answers exactly one question — "what do I need to do?" — so it
 carries **only actions that are his**, each with its exact instruction and link.
-Claude's own to-do list never appears there; if Claude is blocked, that is a
-stopper, which is a separate exception.
+Claude's own to-do list never appears there.
 
 Findings, decisions and reasoning go **here, in this file**, or into the batch
-report — not into his chat. The only things that may break the format are a real
+report — never into his chat. The only things that may break the format are a real
 stopper and a question only he can answer. Percentage is measured against the
 meta-prompt checklist; hours are honest estimates, corrected on each card.
 
