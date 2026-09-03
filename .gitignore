@@ -1,2 +1,6 @@
 .DS_Store
 .vercel
+
+# git worktrees other sessions create inside this checkout — never commit these;
+# `git add -A` will otherwise sweep one in as an embedded repo (happened 2026-09-03)
+.worktrees/
