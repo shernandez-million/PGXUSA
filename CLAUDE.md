@@ -305,6 +305,22 @@ directory. `_content/` is excluded via `.vercelignore` and disallowed in
 `robots.txt`. **Andrés handles DNS and the registrar himself** — diagnose DNS
 precisely and hand him the exact fix; never touch it.
 
+### The two links that close every message
+Standing order 2026-09-03: every message to Andrés ends with these two lines,
+after the ⚠️ block, so he can click without hunting back through the thread.
+
+```
+🌐 Producción: https://www.pgxusa.com
+💻 Local: http://localhost:8080   ← only when a preview is actually running
+```
+
+`https://www.pgxusa.com` is the canonical entry — the apex redirects to it with a
+308, and it is the URL he opens. Never paste a link that is not live, and never
+invent one. When no preview is running — the normal state, since dev servers live
+only while he is watching — the second line reads
+`💻 Local: apagado — di «preview» y lo levanto` instead. The local port is 8080
+(`python3 _content/serve.py 8080`, or the `pgx` entry in `.claude/launch.json`).
+
 ### Definition of done
 1. `build.py --check-only` clean, `audit.py` clean.
 2. Language twin, hreflang pair, and sitemap alternates all exist.
