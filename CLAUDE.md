@@ -305,6 +305,20 @@ directory. `_content/` is excluded via `.vercelignore` and disallowed in
 `robots.txt`. **Andrés handles DNS and the registrar himself** — diagnose DNS
 precisely and hand him the exact fix; never touch it.
 
+### Schema: what is deliberately absent
+Checked against Google's LocalBusiness rich-result fields 2026-09-03. Both required
+fields (`name`, `address`) and every applicable recommended one are present. Four
+are absent **on purpose** — do not "fix" them:
+- `aggregateRating` — there are no reviews. Inventing one is fabrication.
+- `geo` — this is a service-area business with no public address; Google wants
+  `areaServed` for that shape, and it is present. `streetAddress` and `postalCode`
+  are omitted for the same reason, which is supported, not a defect.
+- `sameAs` — nothing to point at until the Google Business Profile exists. Wire it
+  in the moment it does.
+- `priceRange` — Google recommends it and `"$$$$"` would fit the positioning
+  exactly, but declaring a price tier publicly is Andrés's call, not Claude's.
+  Ask when his current list is clear; it is one line to add.
+
 ### Launching a large agent sweep
 When a pass needs many subagents on the same brief — the Spanish audit ran 100 —
 put the shared brief first, **byte-identical** in every prompt, and launch the
