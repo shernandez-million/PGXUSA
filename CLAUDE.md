@@ -263,6 +263,13 @@ page does not run its 0.4s transition, so animated properties stay at their star
 values. **Probe the cascade with a fresh element before concluding an animated
 component is broken.**
 
+A third instance, 2026-09-04: `curl` without `--compressed` returned the sitemap's
+241 KB undecoded, so `grep -c '<loc>'` counted **0** where the real answer is 524.
+It looked exactly like a wiped sitemap on a live site. Three false alarms now, all
+the same shape — **check the instrument before believing the defect**: a
+backgrounded pane for `:focus`, a paused transition for an animated component, an
+undecoded response for a text count.
+
 Caution when testing focus: if the browser pane is backgrounded,
 `document.hasFocus()` is false and `:focus` styles legitimately do not paint. That
 looks exactly like a missing focus indicator and is not one — check
