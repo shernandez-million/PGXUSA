@@ -121,7 +121,18 @@ python3 _content/build.py                # render everything + sitemap
 python3 _content/make_template_es.py     # regenerate the ES template
 python3 _content/audit.py                # duplicates, title case, and the forbidden-claim guard
 python3 _content/make_og.py              # share images: site card + per-service (--force rebuilds)
+python3 _content/verify_assets.py        # asset register: unregistered media, hashes, derivation
+
+APEX_SESSION=<session-id> python3 _content/serve.py 8080   # local preview
 ```
+
+Long-running processes carry `APEX_SESSION` so other sessions can tell whose they
+are — `serve.py` prints its pid and owner on startup and warns when the label is
+missing. Read a process's owner with
+`ps -E -p <PID> -o command= | grep -o 'APEX_SESSION=[^ ]*'`. An **unlabelled**
+process is UNKNOWN, not orphaned: leave it running, move to another port. Nobody
+kills what they did not start. (`lsof -iTCP -sTCP:LISTEN` returns nothing here
+under the sandbox even with live listeners — use `pgrep -f` plus a `curl` probe.)
 
 ### Three rules that will bite you
 1. **`template-es.html` is generated.** Editing `template.html` silently
