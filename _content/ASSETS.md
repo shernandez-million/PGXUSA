@@ -18,15 +18,15 @@ catch — a downloaded photograph quietly added to `images/`.
 
 ## 1. The seven base images — AI renderings, generator unattested
 
-| File | SHA-256 | Entered the repo |
-|---|---|---|
-| `images/hero.webp` | `4c78d38aee794cdde4ca91673006cd5b…` | 5e2b581 2026-08-04 shernandez-million |
-| `images/kitchen.webp` | `ee82db3a163f0bfe3a6d593c7ffbec85…` | 5e2b581 2026-08-04 shernandez-million |
-| `images/bath.webp` | `01859d06f4f1822c144d55678b2ff2d4…` | 5e2b581 2026-08-04 shernandez-million |
-| `images/addition.webp` | `aa34ea0d416d55a66fd164a9a65c7144…` | 5e2b581 2026-08-04 shernandez-million |
-| `images/outdoor.webp` | `8f8e6d713bb95d0f33adf298440dcfab…` | 5e2b581 2026-08-04 shernandez-million |
-| `images/permit.webp` | `ff677354cccc38a9cf696edb98825601…` | 5e2b581 2026-08-04 shernandez-million |
-| `images/remodel.webp` | `5986c81c1738acaa2379b3f40fb83ca1…` | 5e2b581 2026-08-04 shernandez-million |
+| File | SHA-256 | Entered the repo | Origin |
+|---|---|---|---|
+| `images/hero.webp` | `4c78d38aee794cdde4ca91673006cd5b…` | 5e2b581 2026-08-04 shernandez-million | AI rendering · third-party deliverable 2026-07-16 (PGX Site v3.0 Build 21) · no third-party licence · disclosed |
+| `images/kitchen.webp` | `ee82db3a163f0bfe3a6d593c7ffbec85…` | 5e2b581 2026-08-04 shernandez-million | AI rendering · third-party deliverable 2026-07-16 (PGX Site v3.0 Build 21) · no third-party licence · disclosed |
+| `images/bath.webp` | `01859d06f4f1822c144d55678b2ff2d4…` | 5e2b581 2026-08-04 shernandez-million | AI rendering · third-party deliverable 2026-07-16 (PGX Site v3.0 Build 21) · no third-party licence · disclosed |
+| `images/addition.webp` | `aa34ea0d416d55a66fd164a9a65c7144…` | 5e2b581 2026-08-04 shernandez-million | AI rendering · third-party deliverable 2026-07-16 (PGX Site v3.0 Build 21) · no third-party licence · disclosed |
+| `images/outdoor.webp` | `8f8e6d713bb95d0f33adf298440dcfab…` | 5e2b581 2026-08-04 shernandez-million | AI rendering · third-party deliverable 2026-07-16 (PGX Site v3.0 Build 21) · no third-party licence · disclosed |
+| `images/permit.webp` | `ff677354cccc38a9cf696edb98825601…` | 5e2b581 2026-08-04 shernandez-million | AI rendering · third-party deliverable 2026-07-16 (PGX Site v3.0 Build 21) · no third-party licence · disclosed |
+| `images/remodel.webp` | `5986c81c1738acaa2379b3f40fb83ca1…` | 5e2b581 2026-08-04 shernandez-million | AI rendering · third-party deliverable 2026-07-16 (PGX Site v3.0 Build 21) · no third-party licence · disclosed |
 
 They arrived in the repository's first commit with the site itself, and the same
 seven files — byte-identical — sit in `~/Downloads/pgx-website/` (2026-07-16),
@@ -58,6 +58,27 @@ own these either — anyone may reuse them.
 Until Andrés says who built the July package and on what terms, treat them as
 unlicensed: do not reuse them in another product, and never present them as
 photographs of PGX's work.
+
+### Where the disclosure lives
+
+`alt` text alone is a disclosure sighted visitors never read. Since 2026-09-06
+the footer of all 524 pages carries it in the legal line — *"Images are
+architectural renderings"* / *"Las imágenes son renders arquitectónicos"* — next
+to the licence number, which is where a reader looks for exactly this kind of
+statement. The per-image `alt` disclosure stays for screen readers and crawlers.
+
+If a gallery, case study or before/after ever ships, the label goes **on the
+image**, not in the footer: that is the surface where a picture reads as proof of
+a specific job, and a footnote is not enough there.
+
+### Replacing them
+
+The exit is photographs of real PGX projects with the client's written
+permission — the same asset that unblocks the portfolio (CLAUDE.md §5). There is
+no date on this and inventing one would be false: it depends on Andrés supplying
+photographs, and it is item 1 on his card. What is scheduled is the re-check —
+`verify_assets.py` runs with every build, and any replacement must land its own
+registration here before it ships.
 
 ### Superseded originals, kept for reference
 
