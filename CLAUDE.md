@@ -265,10 +265,15 @@ component is broken.**
 
 A third instance, 2026-09-04: `curl` without `--compressed` returned the sitemap's
 241 KB undecoded, so `grep -c '<loc>'` counted **0** where the real answer is 524.
-It looked exactly like a wiped sitemap on a live site. Three false alarms now, all
-the same shape — **check the instrument before believing the defect**: a
-backgrounded pane for `:focus`, a paused transition for an animated component, an
-undecoded response for a text count.
+It looked exactly like a wiped sitemap on a live site. A fourth, 2026-09-06: a footer screenshot came back a
+blank cream rectangle. The DOM said otherwise — footer painted, dark background,
+legal line visible at y=642 — and the next call returned the reason outright:
+*"The Browser pane is currently hidden. The page is not rendered while it is not
+displayed."* Four false alarms now, all the same shape — **check the instrument
+before believing the defect**: a backgrounded pane for `:focus`, a paused
+transition for an animated component, an undecoded response for a text count, an
+unrendered pane for a screenshot. When the pane is hidden, measure the DOM with
+`javascript_tool` or `read_page`; a screenshot is not evidence.
 
 Caution when testing focus: if the browser pane is backgrounded,
 `document.hasFocus()` is false and `:focus` styles legitimately do not paint. That
@@ -425,6 +430,20 @@ prospect data to a service he never chose.
 
 `index.html` and `es.html` carry their own copy of this form. Any change to the
 template's form must be applied to those two by hand.
+
+---
+
+### Every image on the site is a disclosed AI rendering
+
+`_content/ASSETS.md` is the asset register: what each file is, its SHA-256, and
+how far its origin is actually attested. Read it before adding, replacing or
+reusing any image — it is the law for assets, and this is only the pointer.
+
+The short version: the seven base images are AI renderings that arrived inside a
+third-party deliverable, they carry no third-party licence and PGX does not own
+them either, and the site says so — in every `alt` and in the footer's legal line
+on all 524 pages. `python3 _content/verify_assets.py` fails the moment a media
+file exists that the register does not list. Do not add one without its entry.
 
 ---
 
