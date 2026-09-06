@@ -16,7 +16,7 @@ catch — a downloaded photograph quietly added to `images/`.
 
 ---
 
-## 1. The seven base images — origin NOT attested
+## 1. The seven base images — AI renderings, generator unattested
 
 | File | SHA-256 | Entered the repo |
 |---|---|---|
@@ -28,25 +28,36 @@ catch — a downloaded photograph quietly added to `images/`.
 | `images/permit.webp` | `ff677354cccc38a9cf696edb98825601…` | 5e2b581 2026-08-04 shernandez-million |
 | `images/remodel.webp` | `5986c81c1738acaa2379b3f40fb83ca1…` | 5e2b581 2026-08-04 shernandez-million |
 
-They arrived in the repository's first commit, with the site itself, from the
-account that originally published it. **Nothing in this repository establishes
-who made them or under what license.** No agent working here downloaded them:
-the build scripts contain no fetch of any kind, and no page references any
-external host (§5). Six of the seven are exactly 1600×1066 — the uniformity of a
-batch download, not of a photographer's delivery.
+They arrived in the repository's first commit with the site itself, and the same
+seven files — byte-identical — sit in `~/Downloads/pgx-website/` (2026-07-16),
+a finished website package headed *"PGX Site v3.0 — Build 21"* whose README calls
+them "Website photos" and states no license. So they were **delivered to PGX
+inside someone's work product**, not fetched by anything in this repository: the
+build scripts contain no fetch of any kind, and no page references any external
+host (§5).
 
-Two consequences, both already in force:
+**They are AI-generated renderings, not photographs.** Examined at native
+resolution on 2026-09-06: in `permit.webp` the blueprint's lettering is gibberish
+glyph-clusters that never resolve into words, dimension strings are meaningless,
+and wall lines terminate in mid-space or double back on themselves. In
+`kitchen.webp` cabinet pulls float unattached to their doors, the mullion grid
+differs between adjacent doors of the same run, and shelf lines do not align
+across it. No photograph and no drafted plan fails this way; generative models
+fail exactly this way. The uniform 1600×1066 across six of the seven fits a batch
+generation, and the alt text has described them as renderings since the first
+build.
 
-- **Nothing claims they are PGX's work.** All 524 pages describe their images in
-  the alt text as an *architectural rendering* / *render arquitectónico*. Until
-  2026-09-06 only the hero carried that disclosure and the two supporting images
-  did not, so a reader could have taken those for photographs of finished jobs;
-  `RENDER_NOTE` in `build.py` now appends it to every image on the site.
-- **The portfolio stays unpublished** (CLAUDE.md §5). Photographs of real
-  projects, with the client's permission, are the only thing that closes this.
+That changes the risk. The rule P-11 answers is verbatim third-party editorial
+photography — someone's copyrighted picture of someone's real building. Synthetic
+imagery carries no photographer's rights to infringe. What stays unknown is which
+generator produced them and under whose terms, and that is the vendor's answer to
+give, not this repository's. Note the other edge of the same fact: purely
+AI-generated images are generally not copyrightable in the US, so PGX does not
+own these either — anyone may reuse them.
 
-Until Andrés attests their origin, treat them as unlicensed: do not reuse them
-in another product, and never present them as photographs.
+Until Andrés says who built the July package and on what terms, treat them as
+unlicensed: do not reuse them in another product, and never present them as
+photographs of PGX's work.
 
 ### Superseded originals, kept for reference
 
