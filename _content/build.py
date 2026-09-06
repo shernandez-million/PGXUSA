@@ -44,6 +44,11 @@ OG_LOCALE = {"en": "en_US", "es": "es_US"}
 # alt text is built per page so the same stock rendering isn't described identically on 200 pages
 ALT_TMPL = {"en": "{base} — {service} in {area}, Florida. Architectural rendering.",
             "es": "{base} — {service} en {area}, Florida. Render arquitectónico."}
+# the hero said "architectural rendering" from the start; the two supporting images did
+# not, so a reader could take them for photographs of finished PGX work. Same disclosure
+# on every image on the page — the portfolio is deliberately unpublished (§5) precisely
+# because there are no photographs of real projects yet.
+RENDER_NOTE = {"en": " — architectural rendering", "es": " — render arquitectónico"}
 ALT_BASE_ES = {
     "home-remodeling": "Sala remodelada de planta abierta",
     "kitchen-remodeling": "Cocina renovada con isla de mármol y gabinetes a medida",
@@ -300,8 +305,12 @@ def detail_tokens(stem, lang):
         out[f"{{{{DETAIL{i}_SRCSET}}}}"] = ", ".join(
             f"images/detail/{stem}-{i}-{w}.webp {w}w" for w in (420, 640, 900)
         ) + f", images/detail/{stem}-{i}.webp 1200w"
-        out[f"{{{{DETAIL{i}_ALT}}}}"] = esc(DETAIL_ALT[lang][stem][i - 1])
+        out[f"{{{{DETAIL{i}_ALT}}}}"] = esc(detail_alt(lang, stem, i - 1))
     return out
+
+
+def detail_alt(lang, stem, i):
+    return DETAIL_ALT[lang][stem][i] + RENDER_NOTE[lang]
 
 
 def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
@@ -460,8 +469,8 @@ AREAS_PAGE_COPY = {
 
 def render_areas_index(data, lang):
     c = AREAS_PAGE_COPY[lang]
-    afig = esc(DETAIL_ALT[lang]["addition"][0])
-    afig2 = esc(DETAIL_ALT[lang]["kitchen"][1])
+    afig = esc(detail_alt(lang, "addition", 0))
+    afig2 = esc(detail_alt(lang, "kitchen", 1))
     county_label = {"Miami-Dade": {"en": "Miami-Dade County", "es": "Condado de Miami-Dade"},
                     "Broward": {"en": "Broward County", "es": "Condado de Broward"}}
     groups = {}
@@ -773,8 +782,8 @@ def about_url(lang):
 
 def render_about(doc, lang, has_pair):
     c = ABOUT_COPY[lang]
-    alt1 = esc(DETAIL_ALT[lang]["remodel"][0])
-    alt2 = esc(DETAIL_ALT[lang]["outdoor"][0])
+    alt1 = esc(detail_alt(lang, "remodel", 0))
+    alt2 = esc(detail_alt(lang, "outdoor", 0))
     canonical = DOMAIN + about_url(lang)
     stats = "\n".join(
         f'        <div class="stat"><div class="n">{esc(x["n"])}<em>{esc(x["em"])}</em></div>'
@@ -920,7 +929,10 @@ def render_collection(t_slug, doc, lang, built, has_pair):
     canonical = DOMAIN + type_url(t_slug, lang)
     stem = Path(t["image"]).stem
     srcset = ", ".join(f"images/r/{stem}-{w}.webp {w}w" for w in (420, 640, 900, 1280))
-    img_alt = esc(doc.get("hero_img_alt") or f"{name} — {c['scope']}".replace("&amp;", "&"))
+    # this alt already carries an em dash, so the note lands as a sentence, as in ALT_TMPL
+    img_alt = esc(doc.get("hero_img_alt")
+                  or f"{name} — {c['scope']}".replace("&amp;", "&")
+                  + ". " + RENDER_NOTE[lang].lstrip(" —").capitalize() + ".")
 
     # only the areas where this property type actually dominates, grouped by county
     mine = [AREAS[a] for a in t.get("areas", []) if a in AREAS and a in built]
