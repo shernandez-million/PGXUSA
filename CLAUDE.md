@@ -126,13 +126,18 @@ python3 _content/verify_assets.py        # asset register: unregistered media, h
 APEX_SESSION=<session-id> python3 _content/serve.py 8080   # local preview
 ```
 
-Long-running processes carry `APEX_SESSION` so other sessions can tell whose they
-are — `serve.py` prints its pid and owner on startup and warns when the label is
-missing. Read a process's owner with
-`ps -E -p <PID> -o command= | grep -o 'APEX_SESSION=[^ ]*'`. An **unlabelled**
-process is UNKNOWN, not orphaned: leave it running, move to another port. Nobody
-kills what they did not start. (`lsof -iTCP -sTCP:LISTEN` returns nothing here
-under the sandbox even with live listeners — use `pgrep -f` plus a `curl` probe.)
+Long-running processes say who owns them, so nobody has to guess. `serve.py`
+registers its own pid on startup — `semaforo.sh --reclamar` writes the row in
+`~/.claude/estado/semaforo/reclamados.tsv`, and that file is the answer to "whose
+is this?". It also exports `APEX_SESSION` and prints pid and owner, but treat the
+environment as a **backup only**: `ps -E` is blind from inside a sandboxed
+session, so another session cannot read the label even when it is correctly set.
+That, not a race at startup, is why a correctly-labelled server can read as
+unowned. An **unclaimed** process is UNKNOWN, never orphaned: leave it running
+and move to another port. Nobody kills what they did not start.
+
+`lsof -iTCP -sTCP:LISTEN` also returns nothing here under the sandbox even with
+live listeners — inventory ports with `pgrep -f` plus a `curl` probe.
 
 ### Three rules that will bite you
 1. **`template-es.html` is generated.** Editing `template.html` silently
