@@ -438,11 +438,26 @@ handles `mailto:` silently and the visitor would otherwise think nothing
 happened.
 
 It still depends on the visitor pressing Send in their own mail app, and nothing
-is recorded on PGX's side. Capturing every submission needs a form backend
-(a serverless function plus an email service, or a hosted form provider), which
-means an account and probably a subscription — **Andrés's call, not Claude's**.
-Until he decides, do not silently swap in a third-party endpoint: it would send
-prospect data to a service he never chose.
+is recorded on PGX's side. Capturing every submission needs a form backend, which
+means an account and a subscription — **Andrés's call, not Claude's**.
+
+He made it on 2026-09-07 ("formulario servicio"), so the plumbing shipped: the
+form POSTs the lead as `FormData` to `business.form_endpoint` from
+`site_plan.json`, adding the page name and URL so a lead off
+`kitchen-remodeling-brickell` is distinguishable from one off the homepage. The
+note under the button and the success line come from `FORM_COPY` in `build.py`
+and switch with it, in both languages.
+
+**`form_endpoint` is empty, and that is the correct state until he names the
+provider.** Empty means the mailto path runs, byte for byte as before. Never fill
+it with a service Claude picked — that ships prospect data to a company he never
+chose, and he is the one who signs up and pays. Creating the account is his; the
+only thing left is pasting the URL into the plan.
+
+The mailto also stays as the failure path when a POST fails. Do not remove it:
+a form that fails silently loses the customer, which is the whole point of the
+change. Verified against a local stub — success posts every field and shows the
+success line; a dead endpoint shows no success and reveals the fallback panel.
 
 `index.html` and `es.html` carry their own copy of this form. Any change to the
 template's form must be applied to those two by hand.
