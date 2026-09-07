@@ -372,6 +372,7 @@ a{color:inherit}
 .f-error{margin-top:14px;font-size:14px;line-height:1.5;color:#8A3A32}
 .f-fallback{margin-top:14px;font-size:14px;line-height:1.5;color:var(--ink-2)}
 .f-fallback a{color:var(--brass-ink)}
+.f-ok{margin-top:14px;font-size:14px;line-height:1.5;color:var(--ink)}
 .f-field input[aria-invalid="true"],.f-field select[aria-invalid="true"]{border-color:#8A3A32}
 .f-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
 .f-field{display:flex;flex-direction:column;gap:7px;min-width:0}
@@ -808,6 +809,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
             <span class="f-note">Opens your email app — nothing is stored on this site.</span>
           </div>
           <p id="fError" class="f-error" role="alert" hidden></p>
+          <p id="fOk" class="f-ok" role="status" hidden>Thank you — we have your request. We&#x27;ll call you back as soon as we can.</p>
           <p id="fFallback" class="f-fallback" hidden>If your email app did not open, write to <a href="mailto:connect@pgxusa.com">connect@pgxusa.com</a> or <a href="https://wa.me/17862732524">message us on WhatsApp</a>.</p>
         </form>
       </div>
@@ -907,10 +909,29 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     else if(email&&!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){bad='fEmail';m='That email address does not look right.'}
     if(bad){f(bad).setAttribute('aria-invalid','true');err.textContent=m;err.hidden=false;fb.hidden=true;f(bad).focus();return}
     err.hidden=true;
-    var body='Name: '+name+'\nPhone: '+phone+'\nEmail: '+email+'\nProject type: '+type+'\nPage: Bathroom Remodeling — Deerfield Beach\n\n'+msg;
-    location.href='mailto:connect@pgxusa.com?subject='+encodeURIComponent('Estimate request — '+type+' (Deerfield Beach)')+'&body='+encodeURIComponent(body);
-    // a machine with no mail client handles mailto silently, so always surface a way through
-    setTimeout(function(){fb.hidden=false},1200);
+    var ok=f('fOk');ok.hidden=true;
+    var byMail=function(){
+      var body='Name: '+name+'\nPhone: '+phone+'\nEmail: '+email+'\nProject type: '+type+'\nPage: Bathroom Remodeling — Deerfield Beach\n\n'+msg;
+      location.href='mailto:connect@pgxusa.com?subject='+encodeURIComponent('Estimate request — '+type+' (Deerfield Beach)')+'&body='+encodeURIComponent(body);
+      // a machine with no mail client handles mailto silently, so always surface a way through
+      setTimeout(function(){fb.hidden=false},1200);
+    };
+    // With a capture endpoint configured the lead posts straight to it and nothing
+    // depends on the visitor's mail app. Empty endpoint = the mailto behaviour above,
+    // unchanged: no prospect data leaves the page until Andrés names the service.
+    // The mailto also stays as the failure path — a form that fails silently loses
+    // the customer, which is the whole problem this is meant to fix.
+    var EP='';
+    if(!EP||!window.fetch||!window.FormData){byMail();return}
+    var btn=_ef.querySelector('button[type="submit"]');
+    if(btn)btn.disabled=true;
+    var fd=new FormData(_ef);
+    fd.append('page','Bathroom Remodeling — Deerfield Beach');
+    fd.append('url',location.href);
+    fetch(EP,{method:'POST',body:fd,headers:{'Accept':'application/json'}}).then(function(r){
+      if(!r.ok)throw new Error(r.status);
+      _ef.reset();fb.hidden=true;ok.hidden=false;
+    })['catch'](function(){byMail()}).then(function(){if(btn)btn.disabled=false});
   });
 })();
 </script>

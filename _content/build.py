@@ -49,6 +49,27 @@ ALT_TMPL = {"en": "{base} — {service} in {area}, Florida. Architectural render
 # on every image on the page — the portfolio is deliberately unpublished (§5) precisely
 # because there are no photographs of real projects yet.
 RENDER_NOTE = {"en": " — architectural rendering", "es": " — render arquitectónico"}
+
+# The estimate form posts to a capture service when one is configured, and falls back
+# to the mailto otherwise. `form_endpoint` lives in site_plan.json and is EMPTY until
+# Andrés names the provider — an endpoint chosen by Claude would send prospect data to
+# a service he never picked (CLAUDE.md §4). Setting it is a one-line change here.
+FORM_COPY = {
+    "en": {"mail": "Opens your email app — nothing is stored on this site.",
+           "post": "Goes straight to PGX — no email app needed.",
+           "ok": "Thank you — we have your request. We'll call you back as soon as we can."},
+    "es": {"mail": "Se abre su aplicación de correo — este sitio no guarda nada.",
+           "post": "Llega directo a PGX — no necesita aplicación de correo.",
+           "ok": "Gracias — recibimos su solicitud. Le devolvemos la llamada lo antes posible."},
+}
+
+
+def form_repl(lang):
+    ep = PLAN["business"].get("form_endpoint", "").strip()
+    c = FORM_COPY[lang]
+    return {"{{FORM_ENDPOINT}}": esc(ep),
+            "{{FORM_NOTE}}": esc(c["post"] if ep else c["mail"]),
+            "{{FORM_OK}}": esc(c["ok"])}
 ALT_BASE_ES = {
     "home-remodeling": "Sala remodelada de planta abierta",
     "kitchen-remodeling": "Cocina renovada con isla de mármol y gabinetes a medida",
@@ -431,6 +452,7 @@ def render_page(a_slug, s_slug, doc, lang, has_pair, built=None):
         "{{FOOTER_SERVICES_HTML}}": ft_svcs,
         "{{FOOTER_AREAS_HTML}}": ft_areas,
     }
+    repl.update(form_repl(lang))
     for k, v in repl.items():
         out = out.replace(k, v)
     leftovers = re.findall(r"\{\{[A-Z_]+\}\}", out)
@@ -566,6 +588,7 @@ def render_areas_index(data, lang):
         "{{CTA_HEADING}}": esc(c["cta_heading"]),
         "{{CTA_SUB}}": esc(c["cta_sub"]),
     }
+    repl.update(form_repl(lang))
     for k, v in repl.items():
         out = out.replace(k, v)
     out = out.replace("{{FOOTER_SERVICES_HTML}}",
@@ -748,6 +771,7 @@ def render_hub(s_slug, doc, lang, built, has_pair):
             f'        <li><a href="{url_for(s_slug, a["slug"], lang)}">{esc(a["name"])}</a></li>'
             for a in [x for x in PLAN["areas"] if x["slug"] in built][:6]),
     }
+    repl.update(form_repl(lang))
     for k, v in repl.items():
         out = out.replace(k, v)
     # the hub replaces the per-area helper line with a service-wide one
@@ -889,6 +913,7 @@ def render_about(doc, lang, has_pair):
             f'        <li><a href="{hub_url(o, lang)}">{esc(svc_name(o, lang))}</a></li>' for o in SERVICE_ORDER),
         "{{FOOTER_AREAS_HTML}}": f'        <li><a href="{areas_url(lang)}">{c["areas_link"]}</a></li>',
     }
+    repl.update(form_repl(lang))
     for k, v in repl.items():
         out = out.replace(k, v)
     left = re.findall(r"\{\{[A-Z_]+\}\}", out)
@@ -1031,6 +1056,7 @@ def render_collection(t_slug, doc, lang, built, has_pair):
             f'        <li><a href="{url_for("home-remodeling", a["slug"], lang)}">{esc(a["name"])}</a></li>'
             for a in mine[:6]),
     }
+    repl.update(form_repl(lang))
     for k, v in repl.items():
         out = out.replace(k, v)
     # the per-area helper lines become property-type ones

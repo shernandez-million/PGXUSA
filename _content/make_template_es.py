@@ -90,7 +90,9 @@ REPL = [
     ('placeholder="Address in {{AREA_NAME}}, what you want to change, rough timeline…"',
      'placeholder="Dirección en {{AREA_NAME}}, qué desea cambiar, plazos aproximados…"', 1),
     ('Send request <span class="arr">→</span>', 'Enviar solicitud <span class="arr">→</span>', 1),
-    ('Opens your email app — nothing is stored on this site.', 'Se abre su aplicación de correo — este sitio no guarda nada.', 1),
+    # the form note and the success line are now {{FORM_NOTE}} / {{FORM_OK}}: they depend
+    # on whether a capture endpoint is configured, so build.py picks the language copy
+    # from FORM_COPY instead of this list swapping a fixed sentence
     ('If your email app did not open, write to <a href="mailto:connect@pgxusa.com">connect@pgxusa.com</a> or <a href="https://wa.me/17862732524">message us on WhatsApp</a>.',
      'Si no se abrió su aplicación de correo, escríbanos a <a href="mailto:connect@pgxusa.com">connect@pgxusa.com</a> o <a href="https://wa.me/17862732524">mándenos un WhatsApp</a>.', 1),
     ("'Please add your name so we know who to ask for.'",
