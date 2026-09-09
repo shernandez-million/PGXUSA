@@ -7,9 +7,17 @@ path (not a font imitation); larger sizes carry the full wordmark.
 """
 import re
 import subprocess
+import sys
 from pathlib import Path
 
-from PIL import Image
+try:
+    from PIL import Image
+except ModuleNotFoundError:  # which python3 is on PATH decides this, and it has changed
+    sys.exit("Pillow is missing from this interpreter (%s).\n"
+             "Pillow lives in /usr/bin/python3 on this machine, so run:\n"
+             "    /usr/bin/python3 _content/make_favicons.py\n"
+             "Do not pip --break-system-packages into the Homebrew interpreter to fix it."
+             % sys.executable)
 
 ROOT = Path(__file__).resolve().parent.parent
 INK, BG = "#1A1A18", "#F2F1EE"

@@ -631,6 +631,33 @@ def sync_homepage_chips(data):
             page.write_text(new)
 
 
+def sync_homepage_form(_data=None):
+    """Push the capture endpoint and its note onto both homepages.
+
+    The homepages carry their own copy of the form (CLAUDE.md §4), so without this
+    they would keep `var EP=''` while the other 522 pages post to the service —
+    the two highest-traffic pages silently staying on the mailto. Same reasoning as
+    the chips above: hand-maintained copies drift, so the build owns the line.
+    """
+    ep = PLAN["business"].get("form_endpoint", "").strip()
+    for lang, page in (("en", ROOT / "index.html"), ("es", ROOT / "es.html")):
+        if not page.exists():
+            continue
+        src = page.read_text()
+        note = FORM_COPY[lang]["post" if ep else "mail"]
+        new, n_ep = re.subn(r"var EP='[^']*';", "var EP='" + esc(ep) + "';", src)
+        new, n_note = re.subn(r'(<span class="f-note">)[^<]*(</span>)',
+                              lambda m: m.group(1) + esc(note) + m.group(2), new)
+        # loud on drift, like make_template_es.py: a silent miss here is a form that
+        # looks wired and is not
+        if n_ep != 1 or n_note != 1:
+            errors.append(f"{page.name}: form sync expected 1 endpoint + 1 note, "
+                          f"found {n_ep} + {n_note} — the hand-maintained form drifted")
+            continue
+        if new != src:
+            page.write_text(new)
+
+
 def content_mtime(a_slug: str, lang: str) -> str:
     """lastmod should reflect when the page's copy actually changed."""
     import datetime
@@ -1176,6 +1203,7 @@ def main():
                        if len(ab) == 2 else sitemap_entry(loc))
 
     sync_homepage_chips(data)
+    sync_homepage_form()
     (ROOT / "areas.html").write_text(render_areas_index(data, "en"))
     if data["es"]:
         (ROOT / "zonas.html").write_text(render_areas_index(data, "es"))

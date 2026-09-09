@@ -126,6 +126,16 @@ python3 _content/verify_assets.py        # asset register: unregistered media, h
 APEX_SESSION=<session-id> python3 _content/serve.py 8080   # local preview
 ```
 
+**The image scripts need a specific interpreter.** `make_og.py`,
+`make_favicons.py` and the derivation half of `verify_assets.py` import Pillow,
+which on this machine lives in `/usr/bin/python3` (3.9) — not in the Homebrew
+`python3` (3.14) that now comes first on `PATH`. Run those three as
+`/usr/bin/python3 …`; they say so themselves if you forget. Do not
+`pip --break-system-packages` into the Homebrew interpreter to "fix" it.
+The build and audit do not need Pillow, and their output is byte-identical under
+both interpreters (checked 2026-09-09, same hash across 3.9, 3.14 and a repeat
+run) — so a `PATH` change cannot silently alter what ships.
+
 Long-running processes say who owns them, so nobody has to guess. `serve.py`
 registers its own pid on startup — `semaforo.sh --reclamar` writes the row in
 `~/.claude/estado/semaforo/reclamados.tsv`, and that file is the answer to "whose
