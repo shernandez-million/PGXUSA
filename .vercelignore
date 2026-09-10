@@ -1,1 +1,15 @@
+# Build sources — the packs, templates and scripts that render the site
 _content
+
+# Internal repository documents. These are working material, not pages: the
+# constitution quotes Andrés directly on positioning, records the claims that may
+# never appear in copy, and names the incidents behind each rule. Vercel serves the
+# repo as-is, so until 2026-09-10 https://www.pgxusa.com/CLAUDE.md returned all of
+# it with a 200. Anything added here that is documentation, not a page, belongs in
+# this list.
+CLAUDE.md
+TEAM.md
+README.md
+
+# fonts/LICENSE.md is deliberately NOT excluded — the OFL asks that the licence
+# travel with the fonts, so it is correct for it to be reachable.
