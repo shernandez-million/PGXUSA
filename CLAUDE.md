@@ -343,6 +343,16 @@ directory. `_content/` is excluded via `.vercelignore` and disallowed in
 `robots.txt`. **Andrés handles DNS and the registrar himself** — diagnose DNS
 precisely and hand him the exact fix; never touch it.
 
+**Serving the repo directly means every file is a URL until you say otherwise.**
+`https://www.pgxusa.com/CLAUDE.md` returned this document with a 200 until
+2026-09-10 — the positioning quotes, the forbidden-claims list, the BORA
+incident, the note that the images are AI renderings. `.vercelignore` now
+excludes `CLAUDE.md`, `TEAM.md` and `README.md`. **Any repo document added later
+belongs in that list**; dot-directories like `.claude/` are not served, and
+`fonts/LICENSE.md` stays served on purpose because the OFL asks the licence to
+travel with the fonts. When adding a file to the repo root, ask first whether it
+should be a public URL.
+
 ### Schema: what is deliberately absent
 Checked against Google's LocalBusiness rich-result fields 2026-09-03. Both required
 fields (`name`, `address`) and every applicable recommended one are present. Four
