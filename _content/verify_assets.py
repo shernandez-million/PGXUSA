@@ -102,8 +102,20 @@ def main():
     sys.exit(1 if problems else 0)
 
 
+# A rival base must beat the expected one by this much before the crop is called
+# wrong. Measured 2026-09-10: a true match beats its runner-up by 12-26%, while
+# remodel-2 scored permit 43.4 against remodel 44.1 — a 1.6% coin flip that this
+# check reported as a WRONG SOURCE. It was not: remodel-2 is plainly the top-left
+# of remodel.webp (same fireplace, sectional and coffee table). The two are both
+# beige interiors with a sofa, a dark table and a tablet showing a line drawing,
+# so they tie at coarse structure; raising the probe to 64 or 96px does not
+# separate them (ratio stays ~0.984). The margin is what separates a real
+# mismatch from two renders that merely look alike.
+MATCH_MARGIN = 0.92
+
+
 def deep_crop_check(Image, base, arr, diff):
-    """Each detail crop must match its OWN base better than any other service's."""
+    """Each detail crop must match its OWN base, or lose to a rival by a clear margin."""
     out = []
     for p in sorted((ROOT / "images/detail").glob("*.webp")):
         stem = p.stem.split("-")[0]
@@ -111,8 +123,9 @@ def deep_crop_check(Image, base, arr, diff):
         ar = ci.width / ci.height
         probe = arr(ci.resize((48, max(1, round(48 / ar))), Image.LANCZOS))
         ph = max(1, round(48 / ar))
-        best, who = 1e9, None
+        scores = {}
         for name, bi in base.items():
+            best = 1e9
             for scale in (1.0, 0.8, 0.65, 0.5, 0.4, 0.3):
                 cw = round(bi.width * scale); ch = round(cw / ar)
                 if ch > bi.height or cw < 32:
@@ -123,10 +136,16 @@ def deep_crop_check(Image, base, arr, diff):
                         d = diff(arr(bi.crop((x, y, x + cw, y + ch))
                                      .resize((48, ph), Image.LANCZOS)), probe)
                         if d < best:
-                            best, who = d, name
-        if who != stem:
+                            best = d
+            scores[name] = best
+        if stem not in scores:
+            out.append(f"ORPHAN        images/detail/{p.name} — no base named {stem}")
+            continue
+        who = min(scores, key=scores.get)
+        if who != stem and scores[who] < scores[stem] * MATCH_MARGIN:
             out.append(f"WRONG SOURCE  images/detail/{p.name} — matches "
-                       f"images/{who}.webp, not images/{stem}.webp")
+                       f"images/{who}.webp ({scores[who]:.1f}) rather than "
+                       f"images/{stem}.webp ({scores[stem]:.1f})")
     return out
 
 

@@ -7,8 +7,18 @@ agent downloads media from a publisher's site or copies its text.
 This is the register for pgxusa.com — what each asset is, its SHA-256, and how
 far its origin can actually be attested, **including where it cannot**.
 
-    python3 _content/verify_assets.py          # registration + hashes + width variants
-    python3 _content/verify_assets.py --deep   # also re-matches every crop to its base (~10 min)
+    /usr/bin/python3 _content/verify_assets.py          # registration + hashes + width variants
+    /usr/bin/python3 _content/verify_assets.py --deep   # also re-matches every crop to its base (~7 min)
+
+Use `/usr/bin/python3`: Pillow is not in the Homebrew interpreter that now comes
+first on `PATH`, and without it the derivation half silently reports as skipped.
+
+The deep pass judges by **margin**, not by rank. Two of these renders are both
+beige interiors with a sofa, a dark table and a tablet showing a line drawing, so
+they tie at coarse structure — `remodel-2` scores `permit` 43.4 against `remodel`
+44.1 and is still, plainly, a crop of `remodel`. A crop that really came from the
+wrong base loses by a mile (9.0 against 28.8, measured with a planted one), so
+only a rival that wins by ≥8% is reported.
 
 The check that matters is the first one: it fails on any media file the site
 carries that this register does not list. That is the shape the rule exists to
@@ -97,7 +107,7 @@ Generated from §1 and §3; they inherit that provenance.
 | Family | Verified as |
 |---|---|
 | `images/r/*.webp` (28) | width variants — each differs from a LANCZOS downscale of the base it names by ≤ 8/255 |
-| `images/detail/*.webp` (48) | two crop regions per base, four widths each. A crop search across all seven bases returns *its own* base as the best match for all 48, so no page shows another service's image |
+| `images/detail/*.webp` (48) | two crop regions per base, four widths each. A crop search across all seven bases clears all 48: none is beaten by a rival base by any meaningful margin, so no page shows another service's image |
 | `images/og/*.jpg` (6) | share cards built by `make_og.py` from the base of the same name plus the wordmark plate |
 
 ## 3. Brand marks — PGX's own
