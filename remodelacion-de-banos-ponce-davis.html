@@ -917,7 +917,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     // unchanged: no prospect data leaves the page until Andrés names the service.
     // The mailto also stays as the failure path — a form that fails silently loses
     // the customer, which is the whole problem this is meant to fix.
-    var EP='';
+    var EP="";
     if(!EP||!window.fetch||!window.FormData){byMail();return}
     var btn=_ef.querySelector('button[type="submit"]');
     if(btn)btn.disabled=true;

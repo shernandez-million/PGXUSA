@@ -67,7 +67,7 @@ FORM_COPY = {
 def form_repl(lang):
     ep = PLAN["business"].get("form_endpoint", "").strip()
     c = FORM_COPY[lang]
-    return {"{{FORM_ENDPOINT}}": esc(ep),
+    return {"{{FORM_ENDPOINT}}": js_str(ep),   # lands inside <script>: JS quoting, not HTML
             "{{FORM_NOTE}}": esc(c["post"] if ep else c["mail"]),
             "{{FORM_OK}}": esc(c["ok"])}
 ALT_BASE_ES = {
@@ -105,6 +105,18 @@ warnings: list[str] = []
 
 def esc(s: str) -> str:
     return html.escape(s, quote=True)
+
+
+def js_str(s: str) -> str:
+    """A quoted JS string literal, for values that land inside <script>.
+
+    `esc()` is for HTML text; entities are NOT decoded inside a script element, so
+    HTML-escaping a URL there corrupts it: an endpoint with a query string became
+    `?form=abc&amp;key=123` and would have posted every lead to a URL that does not
+    exist. json.dumps gives correct JS quoting; `</` is broken up so a value can
+    never close the script tag early.
+    """
+    return json.dumps(s).replace("</", "<\\/")
 
 
 def svc_slug(s_slug: str, lang: str) -> str:
@@ -645,7 +657,12 @@ def sync_homepage_form(_data=None):
             continue
         src = page.read_text()
         note = FORM_COPY[lang]["post" if ep else "mail"]
-        new, n_ep = re.subn(r"var EP='[^']*';", "var EP='" + esc(ep) + "';", src)
+        lit = "var EP=" + js_str(ep) + ";"
+        # the value is a JS literal, so the pattern has to span escapes: a plain
+        # [^"]* stops dead at the \" inside var EP="…\"quoted\"…" and the homepages
+        # then keep whatever they had. Caught by this function's own drift error.
+        new, n_ep = re.subn(r"var EP=(?:'(?:[^'\\]|\\.)*'|\"(?:[^\"\\]|\\.)*\");",
+                            lambda m: lit, src)
         new, n_note = re.subn(r'(<span class="f-note">)[^<]*(</span>)',
                               lambda m: m.group(1) + esc(note) + m.group(2), new)
         # loud on drift, like make_template_es.py: a silent miss here is a form that

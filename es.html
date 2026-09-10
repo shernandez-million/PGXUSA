@@ -966,7 +966,7 @@ body:has(.hero-media) .nav:not(.on) .btn-solid{background:var(--bg);color:var(--
     // mirrors the template's form (CLAUDE.md §4: this copy is hand-maintained).
     // Empty endpoint = mailto, unchanged — nothing leaves the page until Andrés
     // names the capture service. Set it in _content/site_plan.json.
-    var EP='';
+    var EP="";
     if(!EP||!window.fetch||!window.FormData){byMail();return}
     var btn=_ef.querySelector('button[type="submit"]');
     if(btn)btn.disabled=true;
