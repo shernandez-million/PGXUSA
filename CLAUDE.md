@@ -510,6 +510,13 @@ and confirmed client permission — all of which only Andrés can supply.
 
 ## 6. Open items only Andrés can close
 
+> **Retired from his pending list on 2026-09-11, by his own order: «Remueve todo
+> lo de PGX de la lista».** The facts below are still true, but none of them goes
+> back on his list, into a card or onto the ❓ Questions board unless he asks for
+> it. Do not create accounts or profiles in his name to close them either. Work
+> that does not depend on him continues; the estimate form keeps arriving by
+> email, which is not broken.
+
 - **Google Business Profile does not exist.** The business has essentially no
   web footprint outside this site. The map pack outranks organic results for
   "contractor near me", so 522 pages cannot reach that traffic. Highest-return
